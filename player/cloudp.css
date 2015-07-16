@@ -1,0 +1,21 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+#youtube {
+	position:absolute;
+	display: block;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+}
+#movie {
+	display: none;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	z-index: 9;
+}

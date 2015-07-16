@@ -1,0 +1,116 @@
+#vtitles{
+font-size: 12px;
+font-weight: bold;
+}
+#fontaww{
+font-size: 40px;
+}
+.movieicon{
+float: left;
+margin-left: 2.5em;
+display:inline;
+}
+.fa-play:hover {
+color:#4099FF;
+}
+.fa-play {
+color: white;
+font-size: 50px;
+}
+.playbutton {
+position: relative;
+display: inline-block;
+}
+.playbutton a {
+display: block;
+}
+.playbutton .fa-play {
+position: absolute;
+height: 50px;
+width: 50px;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+margin: auto;
+}
+.trailericon{
+float: right;
+margin-right: 2.5em;
+display:inline;
+}
+#movietrailerlinks{
+margin: 0 auto;
+display: block;
+}
+.movietrailerlinks{
+margin: 0 auto;
+display: block;
+}
+.gifssss{
+width:282px;
+height:150px;
+max-width: 100%;
+max-height: 100%;
+}
+#tiles li:hover .gifs {
+opacity: 0.8;
+}
+#tiles li .gifs{
+display: block;
+}
+#tiles li .gifs {
+border-top-left-radius: 0.2em;
+border-top-right-radius: 0.2em;
+}
+.genres{
+font-weight: bold;
+color: #e52d27;
+font-size: 12px;
+}
+.stars{
+font-weight: bold;
+color: #e52d27;
+font-size: 12px;
+}
+.quality{
+font-weight: bold;
+color: #e52d27;
+font-size: 12px;
+}
+.artist{
+font-weight: bold;
+color: #e52d27;
+font-size: 12px;
+}
+.year{
+font-weight: bold;
+color: #e52d27;
+font-size: 12px;
+}
+.movie-title{
+color: #cccccc;
+}
+.movie-title:hover{
+color: #4099FF;
+}
+.trailer-title:hover {
+color: #e52d27;
+}
+.trailer-title{
+color: #cccccc;
+}
+.fa-play-circle-o:hover {
+color:#4099FF;
+}
+.fa-play-circle-o{
+color: #cccccc;
+font-size: 50px;
+}
+.fa-youtube-play:hover {
+color: #e52d27;
+}
+.fa-youtube-play{
+color: #cccccc;
+font-size: 50px;
+}

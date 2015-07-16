@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html data-cast-api-enabled="true">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex">
+<title>cCloud TV BETA V0.2.5</title>
+<link rel="icon"type="image/png"href="http://i.imgur.com/yX8CKx3.png">
+<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+<link rel="stylesheet" href="/stuff/style/clouddvrtest2.css" media="screen" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Syncopate' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+<script src="/stuff/script/cloud.js"></script>
+<script src="/stuff/script/cloud2.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+<link href="/player/video-js.css" rel="stylesheet" type="text/css">
+<link href="/player/videojs.chromecast.css" rel="stylesheet" type="text/css">
+<link href="/player/chat.css" media="screen" rel="stylesheet">
+<link href="/player/pause.css" rel="stylesheet">
+<link href="/player/fb.css" rel="stylesheet">
+<link href="/player/home.css" rel="stylesheet">
+<link href="/player/watch.css" rel="stylesheet">
+<link href="/player/theater.css" media="screen" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/player/skin.css" rel="stylesheet">
+<script src="/player/redirect.js"></script>
+<script src="/player/proxy.js"></script>
+<script src="/player/protect.js"></script>
+<script src="/player/googleapi.js"></script>
+<script src="/player/post.js"></script>
+<script src="/player/drive.js"></script>
+<script src="/player/youtube.js"></script>
+<script src="/player/googlevideos.js"></script>
+<script src="/player/postvideos.js"></script>
+<script src="/player/cards.js"></script>
+<script src="/player/movies.js"></script>
+<script src="/player/db.js"></script>
+<script src="/player/files.js"></script>
+<script src="/player/mp4.js"></script>
+<script src="/player/flash.js"></script>
+<script src="/player/sync.js"></script>
+<script src="/player/redirector.js"></script>
+<script src="/player/generator.js"></script>
+<script src="/player/iframe.js"></script>
+<script src="/player/embed.js"></script>
+<script src="/player/plugins.js"></script>
+<script src="/player/servers.js"></script>
+<script src="/player/jstorage.js"></script>
+<script src="/player/json.js"></script>
+<script src="/player/mvid.js"></script>
+<script src="/player/crawler.js"></script>
+<script src="/player/player.js"></script>
+<script src="/player/watch.js"></script>
+<script src="/player/ga.js"></script>
+<script src="/player/uv.js"></script>
+<script src="/player/fb.js"></script>
+<script src="/player/page.js"></script>
+<script src="/player/chat.js"></script>
+<script src="/player/loader.js"></script>
+<script src="/player/jq.js"></script>
+<script src="/player/home.js"></script>
+<script src="/player/responsive.js"></script>
+<script src="/player/xbox.js"></script>
+<script src="/player/playstation.js"></script>
+<script src="/player/wii.js"></script>
+<script src="/player/roku.js"></script>
+<script src="/player/appletv.js"></script>
+<script src="/player/googletv.js"></script>
+<script src="/player/amazontv.js"></script>
+<script src="/player/browser.js"></script>
+<script src="/player/desktop.js"></script>
+<script src="/player/mobile.js"></script>
+<script src="/player/html5.js"></script>
+<script src="/player/nojs.js"></script>
+<script src="/player/js.js"></script>
+<script src="/player/app.js"></script>
+<script src="/player/web.js"></script>
+<script src="/player/permissions.js"></script>
+<script src="/player/access.js"></script>
+<script src="/player/users.js"></script>
+<script src="/player/guest.js"></script>
+<script src="/player/admin.js"></script>
+<script src="/player/donate.js"></script>
+<script src="/player/social.js"></script>
+<script src="/player/stream.js"></script>
+<style>
+.vjs-error .vjs-error-display:before {
+content: ':(';
+color: white;
+}
+.vjs-error-display div {
+color: white;
+}
+</style>
+<style>
+.vjs-error .vjs-error-display:before {
+content: ':(';
+color: white;
+}
+.vjs-error-display div {
+color: white;
+}
+</style>
+</head>
+
+<body>
+ <div class="table-title">
+ 
+   <video id="ccloudplayer" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="100%" height="420px"
+        poster="http://s29.postimg.org/vc9ldoqnb/ccloud_moviess.png"
+        data-setup="{}">
+         <source src="http://x.co/otach01" type="application/x-mpegurl" />
+    </video>
+
+<table class="table-fill">
+<thead>
+<tr>
+<th class="text-left">Channels</th>
+<th class="text-left"><input type='search' id='search' placeholder='Search' autofocus>
+</th>
+</tr>
+</thead>
+ 
+<table class="list" >
+  <tbody  class="table-hover">
+  <tr>
+<td class="text-center"><a  href="/tv">00</td>
+<td class="text-left"><a  href="/tv">Guide</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/01">01</td>
+<td class="text-left"><a  href="/ch/m/01">Surprise me CH01</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/02">02</td>
+<td class="text-left"><a  href="/ch/m/02">Surprise me CH02</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/03">03</td>
+<td class="text-left"><a  href="/ch/m/03">Surprise me CH03</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/04">04</td>
+<td class="text-left"><a  href="/ch/m/04">Surprise me CH04</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/05">05</td>
+<td class="text-left"><a  href="/ch/m/05">Surprise me CH05</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/06">06</td>
+<td class="text-left"><a  href="/ch/m/06">Surprise me CH06</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/07">07</td>
+<td class="text-left"><a  href="/ch/m/07">Surprise me CH07</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/08">08</td>
+<td class="text-left"><a  href="/ch/m/08">Surprise me CH08</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/09">09</td>
+<td class="text-left"><a  href="/ch/m/09">Surprise me CH09</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/10">10</td>
+<td class="text-left"><a  href="/ch/m/10">Surprise me CH10</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/11">11</td>
+<td class="text-left"><a  href="/ch/m/11">Surprise me CH11</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/12">12</td>
+<td class="text-left"><a  href="/ch/m/12">Surprise me CH12</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/13">13</td>
+<td class="text-left"><a  href="/ch/m/13">Surprise me CH13</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/14">14</td>
+<td class="text-left"><a  href="/ch/m/14">Surprise me CH14</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/15">15</td>
+<td class="text-left"><a  href="/ch/m/15">Surprise me CH15</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/16">16</td>
+<td class="text-left"><a  href="/ch/m/16">Surprise me CH16</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/17">17</td>
+<td class="text-left"><a  href="/ch/m/17">Surprise me CH17</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/18">18</td>
+<td class="text-left"><a  href="/ch/m/18">Surprise me CH18</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/19">19</td>
+<td class="text-left"><a  href="/ch/m/19">Surprise me CH19</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/20">20</td>
+<td class="text-left"><a  href="/ch/m/20">Surprise me CH20</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/21">21</td>
+<td class="text-left"><a  href="/ch/m/21">Surprise me CH21</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/22">22</td>
+<td class="text-left"><a  href="/ch/m/22">Surprise me CH22</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/23">23</td>
+<td class="text-left"><a  href="/ch/m/23">Surprise me CH23</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/24">24</td>
+<td class="text-left"><a  href="/ch/m/24">Surprise me CH42</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/25">25</td>
+<td class="text-left"><a  href="/ch/m/25">Surprise me CH25</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/26">26</td>
+<td class="text-left"><a  href="/ch/m/26">Family guy 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/27">27</td>
+<td class="text-left"><a  href="/ch/m/27">South Park 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/28">28</td>
+<td class="text-left"><a  href="/ch/m/28">Action Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/29">29</td>
+<td class="text-left"><a  href="/ch/m/29">Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/30">30</td>
+<td class="text-left"><a  href="/ch/m/30">The Big Bang Theory 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/31">31</td>
+<td class="text-left"><a  href="/ch/m/31">Top Gear 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/32">32</td>
+<td class="text-left"><a  href="/ch/m/32">Simpsons 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/33">33</td>
+<td class="text-left"><a  href="/ch/m/33">Ancient Aliens 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/34">34</td>
+<td class="text-left"><a  href="/ch/m/34">TV Shows 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/35">35</td>
+<td class="text-left"><a  href="/ch/m/35">The Big Bang Theory 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/36">36</td>
+<td class="text-left"><a  href="/ch/m/36">New Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/37">37</td>
+<td class="text-left"><a  href="/ch/m/37">The Simpsons 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/38">38</td>
+<td class="text-left"><a  href="/ch/m/38">Sci-fi Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/39">39</td>
+<td class="text-left"><a  href="/ch/m/39">Just Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/40">40</td>
+<td class="text-left"><a  href="/ch/m/40">Star Trek TNG 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/41">41</td>
+<td class="text-left"><a  href="/ch/m/41">Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/42">42</td>
+<td class="text-left"><a  href="/ch/m/42">Home Improvement 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/42">42</td>
+<td class="text-left"><a  href="/ch/m/42">Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/43">43</td>
+<td class="text-left"><a  href="/ch/m/43">Random Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/44">44</td>
+<td class="text-left"><a  href="/ch/m/44">Stargate 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/45">45</td>
+<td class="text-left"><a  href="/ch/m/45">Archer 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/46">46</td>
+<td class="text-left"><a  href="/ch/m/46">House 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/47">47</td>
+<td class="text-left"><a  href="/ch/m/47">Secret Agent Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/48">48</td>
+<td class="text-left"><a  href="/ch/m/48">The Sopranos 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/49">49</td>
+<td class="text-left"><a  href="/ch/m/49">Star Trek Voyager 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/50">50</td>
+<td class="text-left"><a  href="/ch/m/50">Movie World 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/15">51</td>
+<td class="text-left"><a  href="/ch/m/51">Babylon 5 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/52">52</td>
+<td class="text-left"><a  href="/ch/m/52">Spongebob 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/53">53</td>
+<td class="text-left"><a  href="/ch/m/53">Animated Shows 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/54">54</td>
+<td class="text-left"><a  href="/ch/m/54">Classic War Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/55">55</td>
+<td class="text-left"><a  href="/ch/m/55">Animated Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/56">56</td>
+<td class="text-left"><a  href="/ch/m/56">King Of Hills 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/57">57</td>
+<td class="text-left"><a  href="/ch/m/57">Disney Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/58">58</td>
+<td class="text-left"><a  href="/ch/m/58">Awesome Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/59">59</td>
+<td class="text-left"><a  href="/ch/m/59">Good Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/60">60</td>
+<td class="text-left"><a  href="/ch/m/60">Music 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/61">61</td>
+<td class="text-left"><a  href="/ch/m/61">Supernatural 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/62">62</td>
+<td class="text-left"><a  href="/ch/m/62">All In The Family 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/62">62</td>
+<td class="text-left"><a  href="/ch/m/62">Forensic Files 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/63">63</td>
+<td class="text-left"><a  href="/ch/m/63">YT Action Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/64">64</td>
+<td class="text-left"><a  href="/ch/m/64">YT Comedy Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/65">65</td>
+<td class="text-left"><a  href="/ch/m/65">YT Sci-fi Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/66">66</td>
+<td class="text-left"><a  href="/ch/m/66">YT Horror Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/67">67</td>
+<td class="text-left"><a  href="/ch/m/67">YT Action/Adventure Movies 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/68">68</td>
+<td class="text-left"><a  href="/ch/m/68">YT The Big Bang Theory 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/69">69</td>
+<td class="text-left"><a  href="/ch/m/69">YT Adventure Time 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/70">70</td>
+<td class="text-left"><a  href="/ch/70">YT Ancient Aliens 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/71">71</td>
+<td class="text-left"><a  href="/ch/71">YT Dora the Explorer 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/72">72</td>
+<td class="text-left"><a  href="/ch/72">YT How It's Made 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/73">73</td>
+<td class="text-left"><a  href="/ch/73">YT Peppa Pig 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/74">74</td>
+<td class="text-left"><a  href="/ch/74">YT The Twilight Zone 24/7</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/75">75</td>
+<td class="text-left"><a  href="/ch/75">YT Trailer Park Boys 24/7</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tbody>
+</table>
+
+
+
+
+
+<div id="cchathead">
+<a id="chat-head" href="/chat" target="_blank">
+<i>1</i>
+</a>
+</div>
+
+
+
+
+<script>
+var $rows = $('.list tr');
+$('#search').keyup(function() {
+  var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+
+  $rows.show().filter(function() {
+    var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+    return !~text.indexOf(val);
+  }).hide();
+});	
+</script>
+
+
+ <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      videojs("ccloudplayer", {
+        plugins: {
+          chromecast: {
+            appId: undefined,
+            metadata: {
+              title: "cCloud TV",
+              subtitle: "Casting :)"
+            }
+          }
+        }
+      });
+    });
+    </script>
+    <script src="/player/cast_sender.js"></script>
+    <script src="/player/video.dev.js"></script>
+    <script src="/player/videojs.chromecast.js"></script>
+
+ </body>
+  </html>

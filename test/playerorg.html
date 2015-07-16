@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/4.12/video.js"></script>
+
+ 
+</head>
+<body>
+
+  <video id="ccloudplayer" class="video-js vjs-default-skin" controls autoplay preload="none" width="640" height="264" 
+      poster="http://video-js.zencoder.com/oceans-clip.png"
+      data-setup=''>
+
+
+ <source src="http://video-js.zencoder.com/oceans-clip.mp4" type='video/mp4' /> 
+
+  </video>
+
+
+
+<input id="userInput" value="" size="80"> <button onclick="userSubmit()">Stream</button><br>
+<p>
+
+
+<script type="text/javascript">
+
+function userSubmit() {
+   loadStream(document.getElementById('userInput').value);
+}
+function loadStream(url) {
+var $vid_obj = _V_("ccloudplayer");
+    $vid_obj.src(url);
+    $vid_obj.on('loadstart',function(){
+        $vid_obj.play();
+    });
+}
+
+</script>
+
+</body>
+</html>

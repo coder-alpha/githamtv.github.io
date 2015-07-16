@@ -1,0 +1,24 @@
+@media only screen and (max-width:1150px){ 
+    #watchmorefull{
+        display: none !important;
+            }
+}
+@media only screen and (min-width:1150px){ 
+    #watchmorehead{
+        display: none !important;
+    }
+}
+.watchmorefull{
+position: fixed;
+left: 0px;
+bottom: 0px;
+margin:0 0.5em;
+display: none;
+}
+.watchmorehead{
+position: fixed;
+left: -20px;
+top: 255px;
+margin:0 0.5em;
+z-index:100;
+}

@@ -1,0 +1,80 @@
+<html>
+<head>
+<meta charset="UTF-8">
+
+<meta name="googlebot" content="noindex" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>cCloud</title>
+<link rel="icon"
+type="image/png"
+href="http://i.imgur.com/yX8CKx3.png">
+<style>
+body, html{
+width: 100% ;
+height: 100% ;
+margin: 0px ;
+padding:0;
+overflow:hidden;}
+
+</style>
+</head>
+<body onload="load()" style="background-color:black">
+<script type="text/javascript">
+var playlisturl = "http://gdata.youtube.com/feeds/api/playlists/PLAA9E622BC2614112?v=2";
+var playlisturls = ["http://gdata.youtube.com/feeds/api/playlists/PLAA9E622BC2614112?v=2"];
+var pause_playlist_text = "Pause playlist (loop current video)";
+var embed = true;
+var autoplay = true;
+var vwidth = window.innerHeight;
+var vheight = window.innerWidth; 
+</script>
+
+<script type="text/javascript" src="http://ccloud.us/player/random.js"></script>
+<script type="text/javascript" src="http://ccloud.us/player/playlist.js"></script>
+<div id="control_buttons" style="display:none;height:0px">
+  <button style="display:none" id="nextbutton" onclick="next()">Play next</button>&nbsp;<span style="display:none" id="videosleft"></span>&nbsp;&nbsp;&nbsp;<button  style="display:none" id="previousbutton" onclick="previous()">Play previous</button>&nbsp;&nbsp;&nbsp;
+  <button style="display:none" id="pauseplaylist" onclick="pause_playlist()">Pause playlist (loop current video)</button>  <button style="display:none" onclick="reshuffle()">Reshuffle</button>
+</div>
+
+<script type="text/javascript">
+document.getElementById('pauseplaylist').style.display = "none"
+</script>
+
+<div style="display:none" id="video">
+  <p>Loading playlist...</p>
+</div>
+
+<div class="videowrapper" style="width: 100% ;
+height: 100%;"
+>
+  <div style="width: 100% ;
+height: 100% ;
+margin: 0px ;" id="myytplayer"></div>
+</div>
+
+<script type="text/javascript">
+
+var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+var ytplayer;
+function onYouTubeIframeAPIReady()
+{
+  ytplayer = new YT.Player('myytplayer', {
+    height: vheight,
+    width: vwidth,
+    videoId: 'DEMMydPFbGU',
+    playerVars: { 'autoplay': 1,'rel': 0 },
+    events: {
+      'onReady': onYouTubePlayerReady,
+      'onStateChange': onytplayerStateChange,
+      'onError': onytplayerError
+    }
+  });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+/* CHATHEADMODAL */
+.chatheadmodal__content--prep {
+  speak: none;
+  display: none;
+}
+
+.chatheadmodal-overlay {
+  display: none;
+  position: fixed;
+  z-index: 9998;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: black;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.chatheadmodal {
+  display: none;
+  position: absolute;
+  z-index: 9999;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  height: 90%;
+  max-height: 500px;
+  padding: 40px 20px 40px 40px;
+  background: #fff;
+}
+
+.chatheadmodal__content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+
+
+@media (min-width: 800px) {
+  .chatheadmodal {
+    left: 50%;
+    width: 750px;
+    margin-left: -375px;
+    padding: 40px;
+  }
+}
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Georgia', sans-serif;
+}
+
+.learn-more {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 15px;
+  font-size: 24px;
+  color: #fff;
+  background: #84f;
+}
+
+.content h2 {
+  text-align: center;
+}
+.content p {
+  color: #84f;
+}
+      .chatheadchatheadmodal-close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+
+    width: 28px;
+    height: 28px;
+
+    text-decoration: none;
+
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid #3e5368;
+    -webkit-transition: background 0.2s linear;
+    -moz-transition: background 0.2s linear;
+    -o-transition: background 0.2s linear;
+    transition: background 0.2s linear;
+}
+
+.chatheadchatheadmodal-close:after {
+    display: block;
+    font-size: 28px;
+    font-family: Arial, 'Helvetica CY', 'Nimbus Sans L', sans-serif !important;
+
+    content: "x";   
+    text-align:center;
+    line-height: 19px;
+    cursor: pointer;
+    text-decoration: none;
+
+    color: #3e5368;
+
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+.chatheadchatheadmodal-close:hover, .chatheadchatheadmodal-close:active {
+    background: #3e5368;
+}
+
+.chatheadchatheadmodal-close:hover.chatheadchatheadmodal-close:after, .chatheadchatheadmodal-close:active.chatheadchatheadmodal-close:after {
+    color: #f4f4f4;
+}

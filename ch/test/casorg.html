@@ -1,0 +1,26 @@
+
+<html data-cast-api-enabled="true">
+<head >
+<script src="http://vjs.zencdn.net/4.11/video.js"></script>
+
+    <link href="http://vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
+    <meta charset="utf-8"/>
+    <title>videojs-chromeCast DEMO</title>
+    <link rel="stylesheet" href="/player/chromecast.css" type="text/css"/>
+    <script type="text/javascript" src="/player/device.js"></script>
+    <script src="/player/combined.video.js"></script>
+    <script src="/player/chromecast.js"></script>
+</head>
+
+<body>
+<video id="video" controls preload="none" class="video-js vjs-default-skin" width="640" height="360" poster="http://www.videojs.com/img/poster.jpg">
+    <source src="http://moviedoom.net/videos/AmericanS.mp4" type="video/mp4">
+</video>
+
+<script>
+    videojs('video', {'plugins': {'chromecast': {}}, 'techOrder' : ['Html5', 'ChromecastTech']});
+    //videojs('video', {'plugins': {'chromecast': {appId: 'cCloud'}}, 'techOrder' : ['Html5', 'ChromecastTech']});
+</script>
+
+</body>
+</html>

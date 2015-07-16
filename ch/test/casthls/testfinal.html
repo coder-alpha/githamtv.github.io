@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html data-cast-api-enabled="true">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex">
+<title>cCloud TV BETA V0.2.5</title>
+<link rel="icon"type="image/png"href="http://i.imgur.com/yX8CKx3.png">
+<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+<link rel="stylesheet" href="/stuff/style/clouddvrtest2.css" media="screen" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Syncopate' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+<script src="/stuff/script/cloud.js"></script>
+<script src="/stuff/script/cloud2.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/4.12/video.js"></script>
+<link href="/player/video-js.css" rel="stylesheet" type="text/css">
+<link href="/player/videojs.chromecast.css" rel="stylesheet" type="text/css">
+<link href="/player/chat.css" media="screen" rel="stylesheet">
+<link href="/player/pause.css" rel="stylesheet">
+<link href="/player/fb.css" rel="stylesheet">
+<link href="/player/home.css" rel="stylesheet">
+<link href="/player/watch.css" rel="stylesheet">
+<link href="/player/theater.css" media="screen" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/player/skin.css" rel="stylesheet">
+<script src="/player/redirect.js"></script>
+<script src="/player/proxy.js"></script>
+<script src="/player/protect.js"></script>
+<script src="/player/googleapi.js"></script>
+<script src="/player/post.js"></script>
+<script src="/player/drive.js"></script>
+<script src="/player/youtube.js"></script>
+<script src="/player/googlevideos.js"></script>
+<script src="/player/postvideos.js"></script>
+<script src="/player/cards.js"></script>
+<script src="/player/movies.js"></script>
+<script src="/player/db.js"></script>
+<script src="/player/files.js"></script>
+<script src="/player/mp4.js"></script>
+<script src="/player/flash.js"></script>
+<script src="/player/sync.js"></script>
+<script src="/player/redirector.js"></script>
+<script src="/player/generator.js"></script>
+<script src="/player/iframe.js"></script>
+<script src="/player/embed.js"></script>
+<script src="/player/plugins.js"></script>
+<script src="/player/servers.js"></script>
+<script src="/player/jstorage.js"></script>
+<script src="/player/json.js"></script>
+<script src="/player/mvid.js"></script>
+<script src="/player/crawler.js"></script>
+<script src="/player/player.js"></script>
+<script src="/player/watch.js"></script>
+<script src="/player/ga.js"></script>
+<script src="/player/uv.js"></script>
+<script src="/player/fb.js"></script>
+<script src="/player/page.js"></script>
+<script src="/player/chat.js"></script>
+<script src="/player/loader.js"></script>
+<script src="/player/jq.js"></script>
+<script src="/player/home.js"></script>
+<script src="/player/responsive.js"></script>
+<script src="/player/xbox.js"></script>
+<script src="/player/playstation.js"></script>
+<script src="/player/wii.js"></script>
+<script src="/player/roku.js"></script>
+<script src="/player/appletv.js"></script>
+<script src="/player/googletv.js"></script>
+<script src="/player/amazontv.js"></script>
+<script src="/player/browser.js"></script>
+<script src="/player/desktop.js"></script>
+<script src="/player/mobile.js"></script>
+<script src="/player/html5.js"></script>
+<script src="/player/nojs.js"></script>
+<script src="/player/js.js"></script>
+<script src="/player/app.js"></script>
+<script src="/player/web.js"></script>
+<script src="/player/permissions.js"></script>
+<script src="/player/access.js"></script>
+<script src="/player/users.js"></script>
+<script src="/player/guest.js"></script>
+<script src="/player/admin.js"></script>
+<script src="/player/donate.js"></script>
+<script src="/player/social.js"></script>
+<script src="/player/stream.js"></script>
+<style>
+.vjs-error .vjs-error-display:before {
+content: ':(';
+color: white;
+}
+.vjs-error-display div {
+color: white;
+}
+</style>
+<style>
+.vjs-error .vjs-error-display:before {
+content: ':(';
+color: white;
+}
+.vjs-error-display div {
+color: white;
+}
+</style>
+</head>
+
+<body>
+ <div class="table-title">
+ <script>
+  videojs.options.flash.swf = "/player/video-js.swf"
+</script>
+   <video id="ccloudplayer" class="video-js vjs-default-skin vjs-big-play-centered" controls autoplay preload="auto" width="100%" height="420px"
+        poster="http://s29.postimg.org/vc9ldoqnb/ccloud_moviess.png"
+        data-setup='{"techOrder": ["flash"]}'>
+          <source id="ch01" src="" type='video/mp4'/>
+    </video>
+
+<table class="table-fill">
+<thead>
+<tr>
+<th class="text-left">Channels</th>
+<th class="text-left"><input type='search' id='search' placeholder='Search' autofocus>
+</th>
+</tr>
+</thead>
+ 
+<table class="list" >
+  <tbody  class="table-hover">
+  <tr>
+<td class="text-center"><a  href="/ch/f/tv">00</td>
+<td class="text-left"><a  href="/ch/f/tv">Guide</td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/01">01</a></td>
+<td class="text-left"><a id="otach01"  href="/ch/m/01">OTA Surprise me CH01</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/02">02</a></td>
+<td class="text-left"><a id="otach02"  href="/ch/m/02">OTA Surprise me CH02</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/03">03</a></td>
+<td class="text-left"><a id="otach03"  href="/ch/m/03">OTA Surprise me CH03</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/04">04</a></td>
+<td class="text-left"><a  id="otach04"  href="/ch/m/04">OTA Surprise me CH04</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/05">05</a></td>
+<td class="text-left"><a id="otach05"  href="/ch/m/05">OTA Surprise me CH05</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/06">06</a></td>
+<td class="text-left"><a  id="otach06" href="/ch/m/06">OTA Surprise me CH06</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/07">07</a></td>
+<td class="text-left"><a  id="otach07" href="/ch/m/07">OTA Surprise me CH07</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/08">08</a></td>
+<td class="text-left"><a id="otach08"  href="/ch/m/08">OTA Surprise me CH08</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/09">09</a></td>
+<td class="text-left"><a id="otach09"  href="/ch/m/09">OTA Surprise me CH09</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/10">10</a></td>
+<td class="text-left"><a id="otach10"  href="/ch/m/10">OTA Surprise me CH10</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/11">11</a></td>
+<td class="text-left"><a id="otach11" href="/ch/m/11">OTA Surprise me CH11</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/12">12</a></td>
+<td class="text-left"><a id="otach12" href="/ch/m/12">OTA Surprise me CH12</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/13">13</a></td>
+<td class="text-left"><a  id="otach13" href="/ch/m/13">OTA Surprise me CH13</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/14">14</a></td>
+<td class="text-left"><a  id="otach14" href="/ch/m/14">OTA Surprise me CH14</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/15">15</a></td>
+<td class="text-left"><a  id="otach15" href="/ch/m/15">OTA Surprise me CH15</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/16">16</a></td>
+<td class="text-left"><a  id="otach16" href="/ch/m/16">OTA Surprise me CH16</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/17">17</a></td>
+<td class="text-left"><a  id="otach17" href="/ch/m/17">OTA Surprise me CH17</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/18">18</a></td>
+<td class="text-left"><a  id="otach18" href="/ch/m/18">OTA Surprise me CH18</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/19">19</a></td>
+<td class="text-left"><a  id="otach19" href="/ch/m/19">OTA Surprise me CH19</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/20">20</a></td>
+<td class="text-left"><a  id="otach20" href="/ch/m/20">OTA Surprise me CH20</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/21">21</a></td>
+<td class="text-left"><a id="otach21" href="/ch/m/21">OTA Surprise me CH21</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/22">22</a></td>
+<td class="text-left"><a  id="otach22" href="/ch/m/22">OTA Surprise me CH22</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/23">23</a></td>
+<td class="text-left"><a id="otach23" href="/ch/m/23">OTA Surprise me CH23</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/24">24</a></td>
+<td class="text-left"><a id="otach24" href="/ch/m/24">OTA Surprise me CH24</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/25">25</a></td>
+<td class="text-left"><a id="otach25" href="/ch/m/25">OTA Surprise me CH25</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/26">26</a></td>
+<td class="text-left"><a id="otach26" href="/ch/m/26">South Park 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/27">27</a></td>
+<td class="text-left"><a id="otach27" href="/ch/m/27">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/28">28</a></td>
+<td class="text-left"><a id="otach28" href="/ch/m/28">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/29">29</a></td>
+<td class="text-left"><a id="otach29" href="/ch/m/29">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/30">30</a></td>
+<td class="text-left"><a id="otach30" href="/ch/m/30">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/31">31</a></td>
+<td class="text-left"><a id="otach31" href="/ch/m/31">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/32">32</a></td>
+<td class="text-left"><a  id="otach32" href="/ch/m/32">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/33">33</a></td>
+<td class="text-left"><a  id="otach33" href="/ch/m/33">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/34">34</a></td>
+<td class="text-left"><a id="otach34" href="/ch/m/34">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/35">35</a></td>
+<td class="text-left"><a id="otach35" href="/ch/m/35">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/36">36</a></td>
+<td class="text-left"><a id="otach36" href="/ch/m/36">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/37">37</a></td>
+<td class="text-left"><a id="otach37" href="/ch/m/37">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/38">38</a></td>
+<td class="text-left"><a id="otach38" href="/ch/m/38">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/39">39</a></td>
+<td class="text-left"><a id="otach39" href="/ch/m/39">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/40">40</a></td>
+<td class="text-left"><a id="otach40" href="/ch/m/40">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/41">41</a></td>
+<td class="text-left"><a id="otach41" href="/ch/m/41">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/42">42</a></td>
+<td class="text-left"><a id="otach42" href="/ch/m/42">Surprise me TVSM 24/7</a></td>
+</tr>
+<td class="text-center"><a  href="/ch/m/43">43</a></td>
+<td class="text-left"><a id="otach43" href="/ch/m/43">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/44">44</a></td>
+<td class="text-left"><a id="otach44" href="/ch/m/44">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/45">45</a></td>
+<td class="text-left"><a id="otach45" href="/ch/m/45">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/46">46</a></td>
+<td class="text-left"><a id="otach46" href="/ch/m/46">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/47">47</a></td>
+<td class="text-left"><a id="otach47" href="/ch/m/47">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/48">48</a></td>
+<td class="text-left"><a id="otach48" href="/ch/m/48">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/49">49</a></td>
+<td class="text-left"><a id="otach49" href="/ch/m/49">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/50">50</a></td>
+<td class="text-left"><a id="otach50" href="/ch/m/50">Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/15">51</a></td>
+<td class="text-left"><a id="otach51" href="/ch/m/51">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/52">52</a></td>
+<td class="text-left"><a id="otach52" href="/ch/m/52">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/53">53</a></td>
+<td class="text-left"><a id="otach53" href="/ch/m/53">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/54">54</a></td>
+<td class="text-left"><a id="otach54" href="/ch/m/54">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/55">55</a></td>
+<td class="text-left"><a id="otach55" href="/ch/m/55">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/56">56</a></td>
+<td class="text-left"><a id="otach56" href="/ch/m/56">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/57">57</a></td>
+<td class="text-left"><a id="otach57" href="/ch/m/57">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/58">58</a></td>
+<td class="text-left"><a id="otach58" href="/ch/m/58">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/59">59</a></td>
+<td class="text-left"><a id="otach59" href="/ch/m/59">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/60">60</a></td>
+<td class="text-left"><a id="otach60" href="/ch/m/60">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/61">61</a></td>
+<td class="text-left"><a id="otach61" href="/ch/m/61">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/62">62</a></td>
+<td class="text-left"><a id="otach62" href="/ch/m/62">Offline :( Surprise me TVSM 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/63">63</a></td>
+<td class="text-left"><a  href="/ch/m/63">YT Action Movies 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/64">64</a></td>
+<td class="text-left"><a  href="/ch/m/64">YT Comedy Movies 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/65">65</a></td>
+<td class="text-left"><a  href="/ch/m/65">YT Sci-fi Movies 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/66">66</a></td>
+<td class="text-left"><a  href="/ch/m/66">YT Horror Movies 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/67">67</a></td>
+<td class="text-left"><a  href="/ch/m/67">YT Action/Adventure Movies 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/68">68</a></td>
+<td class="text-left"><a  href="/ch/m/68">YT The Big Bang Theory 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/69">69</a></td>
+<td class="text-left"><a  href="/ch/m/69">YT Adventure Time 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/70">70</a></td>
+<td class="text-left"><a  href="/ch/m/70">YT Ancient Aliens 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/71">71</a></td>
+<td class="text-left"><a  href="/ch/m/71">YT Dora the Explorer 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/72">72</a></td>
+<td class="text-left"><a  href="/ch/m/72">YT How It's Made 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/73">73</a></td>
+<td class="text-left"><a  href="/ch/m/73">YT Peppa Pig 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/74">74</a></td>
+<td class="text-left"><a  href="/ch/m/74">YT The Twilight Zone 24/7</a></td>
+</tr>
+<tr>
+<td class="text-center"><a  href="/ch/m/75">75</a></td>
+<td class="text-left"><a  href="/ch/m/75">YT Trailer Park Boys 24/7</a></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tbody>
+</table>
+
+
+
+
+
+
+<div id="tlkiochat"class="chat" >
+<div id="tlkio" data-channel="ccloud" style="height:400px;width:300px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+</div>
+
+
+
+
+
+<script>
+var $rows = $('.list tr');
+$('#search').keyup(function() {
+  var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+
+  $rows.show().filter(function() {
+    var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+    return !~text.indexOf(val);
+  }).hide();
+});	
+</script>
+
+
+ <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      videojs("ccloudplayer", {
+        plugins: {
+          chromecast: {
+            appId: undefined,
+            metadata: {
+              title: "cCloud TV",
+              subtitle: "Casting :)"
+            }
+          }
+        }
+      });
+    });
+    </script>
+    <script src="/player/cast_sender.js"></script>
+    <script src="/player/videojs.chromecast.js"></script>
+
+<script src="http://shbatman.github.io/names.js"></script>
+<script src="http://shironman.github.io/names.js"></script>
+<script src="http://shironman.github.io/links2.js"></script>
+<script src="http://shsuperman.github.io/names.js"></script>
+<script src="http://shspiderman.github.io/names.js"></script
+
+ </body>
+  </html>

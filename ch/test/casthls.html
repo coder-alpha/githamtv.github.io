@@ -1,0 +1,30 @@
+
+<html data-cast-api-enabled="true">
+<head >
+    <script src="http://vjs.zencdn.net/4.11/video.js"></script>
+
+
+    <link href="http://vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
+    <meta charset="utf-8"/>
+    <title>videojs-chromeCast DEMO</title>
+    <link rel="stylesheet" href="/player/chromecast.css" type="text/css"/>
+    <script type="text/javascript" src="/player/device.js"></script>
+    <script src="/player/chromecast.js"></script>
+    <script>
+  videojs.options.flash.swf = "http://ccloud.us/player/video-js.swf"
+</script>
+</head>
+
+<body>
+
+<video id="video" class="video-js vjs-default-skin" controls preload="none" width="640" height="360" data-setup='{"techOrder": ["flash"]}'>
+  <source src="http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480" type='video/mp4'/>
+</video>
+
+<script>
+    videojs('video', {'plugins': {'chromecast': {}}, 'techOrder' : ['Html5', 'ChromecastTech']});
+    //videojs('video', {'plugins': {'chromecast': {appId: 'cCloud'}}, 'techOrder' : ['Html5', 'ChromecastTech']});
+</script>
+
+</body>
+</html>

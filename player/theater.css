@@ -1,0 +1,55 @@
+.togglelight {
+  z-index: 100;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-right: 20px;
+  text-align: center;
+  line-height: 40px;
+  width: 35px;
+  height: 80px;
+  background: #ddd;
+  transition: background .2s ease, box-shadow .2s ease;
+  cursor: pointer;
+}
+
+.togglelight.lightsoff {
+  background: #222;
+  color: #ddd;
+}
+
+.togglelight .fa {
+  font-size: 25px;
+  transition: color .2s ease;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.togglelight:active { box-shadow: 0 0 10px #222; }
+.togglelight:hover { background: #ADD8E6; }
+.togglelight:hover .fa { color: #fff; }
+
+/* overlay */
+
+.overlay {
+  display: none;
+  z-index: 1;
+  position:  fixed;
+  top: 0;
+  background: rgba(10,10,10,.9);
+  width: 100%;
+  height: 100%;
+}
+.video-js{
+    z-index: 2;
+}
+.ytplayer{
+    z-index: 2;
+    position:relative;
+    width:100%;
+    height:315px;
+}
+.pauseplayer{
+    width:100%;
+    height:100%;
+}

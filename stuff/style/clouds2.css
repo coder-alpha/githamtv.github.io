@@ -1,0 +1,73 @@
+
+.clouds-wrapper {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+  position: relative;
+}
+.clouds-inner {
+  height: 100%;
+  position: relative;
+  padding: 0 0 0 50px;
+  left: 0;
+  margin: 0;
+  transition: all 1s;
+}
+.clouds-inner .item {
+  height: 100%;
+  float: left;
+  list-style: none;
+  padding: 0;
+  margin: 0 50px 0 0;
+}
+.clouds-inner .item:before {
+  counter-increment: item;
+  content: counter(item);
+}
+.clouds-left,
+.clouds-right {
+  width: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.clouds-left:before,
+.clouds-right:before {
+  content: "";
+  background: #666;
+  width: 30px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  opacity: 0.5;
+}
+.clouds-left:hover:before,
+.clouds-right:hover:before {
+  opacity: 0.8;
+}
+.clouds-left {
+  left: 0;
+}
+.clouds-right {
+  right: 0;
+}
+/*Demo styles*/
+.clouds-wrapper {
+  background: #055252;
+  padding: 30px 0;
+}
+
+
+.clouds-left:before,
+.clouds-right:before {
+  background: url(http://i.imgur.com/Ej5hS07.png) no-repeat;
+  width: 50px;
+}
+.clouds-left:before {
+  left: 0;
+  background-position: -20% center;
+}
+.clouds-right:before {
+  right: 0;
+  background-position: -40px center;
+}

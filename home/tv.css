@@ -1,0 +1,1869 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+
+*{
+   padding:0;
+   margin:0;
+}
+
+/* Background */
+
+body {
+   background-color: #f1efec;
+}
+
+/* head */
+
+
+header{
+   width:100%;
+   height: 140px;
+   background-color: #F8F8F8;
+}
+
+header a {
+   text-decoration: none;
+   color:grey;
+
+}
+
+header a:hover {
+   color:#1ABC9C;
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;
+
+}
+
+header p {
+   font-size: 10px;
+   font-family: 'Montserrat', sans-serif;
+   text-transform: uppercase;
+   text-align: center;
+   color:grey;
+   margin-top: 4px;
+
+}
+
+h1{
+   font-size: 29px;
+   font-family: 'Montserrat', sans-serif;
+   text-transform: uppercase;
+   text-align: center;
+   color:grey;
+   padding-top: 45px;
+
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;
+
+}
+
+/* Buttons Row n°1 */
+
+#buttons{
+   text-align: center;
+}
+form{
+   display:inline;
+}
+
+.btn1{
+   
+   width: 200px;
+   height: 60px;
+   border:3px solid #1ABC9C;
+   background-color: #f1efec;
+   outline: none;
+   font-size: 17px;
+   color:#1ABC9C;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 10px;
+   margin-right: 30px;
+   -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+
+.btn1:hover{
+      background-color: #16A085;
+      border:none;
+      color:white;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+}
+
+
+.btn2{
+   
+   width: 200px;
+   height: 60px;
+   border:3px solid #FF0000;
+   background-color: #f1efec;
+   font-size: 17px;
+   color:#FF0000;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 10px;
+   margin-right: 30px;
+   outline: none;
+   -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+
+.btn2:hover{
+      background-color: #add8e6;
+      border:none;
+      color:white;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+      -webkit-transform: translateY(10%);
+      -moz-transform: translateY(10%);
+      -ms-transform: translateY(10%);
+      transform: translateY(10%);
+}
+
+
+.btn3{
+   
+   width: 200px;
+   height: 60px;
+   border:3px solid #1ABC9C;
+   background-color: #f1efec;
+   font-size: 17px;
+   color:#1ABC9C;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 10px;
+   outline: none;
+   margin-right: 30px;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+
+.btn3:hover{
+
+      color:grey;
+         border:3px solid grey;
+
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+
+}
+
+
+/* Buttons Row n°2 */
+
+#buttons2{
+   text-align: center;
+   margin-top: 120px;
+   width:100%;
+   background-color: #F8F8F8;
+}
+
+.btn4{
+   
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#536878;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   outline: none;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+
+.btn4:hover{
+      background-color: #27AE60;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+}
+
+
+.btn5{
+   
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#2ECC71;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;
+   box-shadow: 0px 5px 0px #1A8E4B;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+.btn5:hover{
+      background-color: #27AE60;
+      color:white;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+
+}
+
+.btn6{
+   
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#2ECC71;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   outline: none;
+   margin-right: 30px;
+   box-shadow: 5px 0px 0px #1A8E4B;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+.btn6:hover{
+      background-color: #27AE60;
+      color:white;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+
+}
+
+
+.btn7{
+   
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#2ECC71;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   outline: none;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;
+   max-width: 400px;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+.btn7:active{
+   background-color: #27AE60;
+   color:white;
+   box-shadow: inset 0px 0px 10px rgba(94,94,94,0.50);
+}
+
+.btn8{
+   
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#2ECC71;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;
+   box-shadow: 0px 5px 0px #1A8E4B;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+
+.btn8:active{
+      color:white;
+      box-shadow: 0px 0px 0px #1A8E4B;
+      -webkit-transition: 0.5s;
+      -moz-transition: 0.5s;
+      -ms-transition: 0.5s;
+      -o-transition: 0.5s;
+      transition: 0.5s;
+
+}
+
+
+.btn9{
+   
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#2ECC71;
+   font-size: 17px;
+   outline: none;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;
+   box-shadow: 5px 0px 0px #1A8E4B;
+      -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+.btn9:active{
+      color:white;
+      box-shadow: 0px 0px 0px #44BC77;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+
+}
+
+
+/* Buttons Row n°3 */
+
+#buttons3{
+   text-align: center;
+   width:100%;
+   margin-top: 80px;
+   height: 100%;
+   padding-bottom: 80px;
+   background-color: #C0392B;
+
+}
+
+.btn10
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#BDB76B;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn10:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+
+.btn110
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#72A0C1;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn110:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+.btn113
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#72A0C1;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn113:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+.btn114
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#253529;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn114:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+.btn115
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#FF9966;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn115:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+.btn150
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#2F847C;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn150:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+.btn151
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#808000;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn151:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+.btn152
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#E9D66B;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 70px;
+   margin-right: 30px;
+   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;}
+
+.btn152:hover
+{
+   transform:rotate(360deg);
+   -webkit-transform:rotate(360deg); 
+   -ms-transform:rotate(360deg); 
+   -o-transform:rotate(360deg); 
+}
+
+
+
+.btn11
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#E74C3C;
+   outline: none;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;
+}
+.btn11:hover
+{
+   transform:rotate(-360deg);
+   -webkit-transform:rotate(-360deg); 
+   -ms-transform:rotate(-360deg); 
+   -o-transform:rotate(-360deg); 
+}
+
+.btn12
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#E74C3C;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;
+}
+.btn12:hover
+{
+   transform:rotate(720deg);
+   -webkit-transform:rotate(720deg); 
+   -ms-transform:rotate(720deg); 
+   -o-transform:rotate(720deg); 
+}
+.btn112
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#FFE135;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px;   transition:width 2s, height 2s;
+   -webkit-transition:width 2s, height 2s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;
+}
+.btn112:hover
+{
+   transform:rotate(720deg);
+   -webkit-transform:rotate(720deg); 
+   -ms-transform:rotate(720deg); 
+   -o-transform:rotate(720deg); 
+}
+
+/** 4th row **/
+
+.btn13
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#FF7E00;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn13:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+
+
+
+.btn14
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#000000;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn14:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+
+.btn15
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#800080;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn15:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+
+#download{
+   background-color: white;
+   width:100%;
+   padding-bottom: 60px;
+   padding-top: 60px;
+   text-align: center;
+   margin: auto;
+}
+
+#download p{
+   color: grey;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   padding-top: 20px;
+   text-transform: uppercase;
+}
+
+#download a{
+   color:#E74C3C;
+
+}
+
+#download a:hover{
+   text-decoration: none;
+}
+
+
+/** footer **/
+
+footer{
+   background-color: #f1efec;
+   width:100%;
+   padding-top: 60px;
+   text-align: center;
+   margin: auto;
+
+}
+
+footer p{
+   color: grey;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+   padding-top: 20px;
+   text-transform: uppercase;
+}
+
+footer a {
+    text-decoration: none;
+    color: #E74C3C;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+
+footer i{
+   padding-top: 30px;
+   margin-left: 25px;
+   margin-right: 30px;
+   color: grey;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+
+footer i:hover{
+   color: #E74C3C;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+.btn20
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#FF55A3;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn20:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn21
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#cc9966;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn21:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn22
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#008000;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn22:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn23
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#000000;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn23:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn24
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#7CB9E8;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn24:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn25
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#B2BEB5;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn25:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn26
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#CAE00D;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn26:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn27
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#2E5894;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn27:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn28
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#FE6F5E;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn28:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn29
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#FF7E00;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn29:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+
+.btn50
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#007FFF;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn50:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn51
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#696969;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn51:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn52
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#F87217;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn52:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn53
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#FFD801;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn53:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn54
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#C25A7C;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn54:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn55
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#50C878;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn55:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn56
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#FF55A3;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn56:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn57
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#AB4B52;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn57:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn58
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#563C5C;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn58:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn59
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#CE2029;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn59:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn60
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#44D7A8;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn60:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn61
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#E48400;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn61:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn62
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#669999;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn62:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn63
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#1B1B1B;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn63:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn64
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#967117;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn64:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn65
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#C72C48;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn65:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn66
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#228B22;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn66:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn67
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#000000;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn67:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn68
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#666699;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn68:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn69
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#E9967A;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn69:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn70
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#9EFD38;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn70:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.btn71
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   background-color:#F88379;
+   font-size: 17px;
+   color:white;
+   outline: none;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn71:hover
+{
+
+     width: 210px;
+   height: 70px;
+}
+.btn72
+{
+   width: 200px;
+   height: 60px;
+   outline: none;
+   border:none;
+   background-color:#cc9966;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn72:hover
+{
+
+   width: 190px;
+   height: 50px;
+}
+.btn73
+{
+   width: 200px;
+   height: 60px;
+   border:none;
+   outline: none;
+   background-color:#B284BE;
+   font-size: 17px;
+   color:white;
+   border-radius: 4px;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 40px;
+   margin-right: 30px; 
+   transition:width 1s, height 1s;
+   -webkit-transition:width 1s, height 1s, 
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+   transition: 1s;  
+}
+
+.btn73:hover
+{
+
+   width: 230px;
+   height: 60px;
+}
+.discl{
+  text-align: left;
+  font-size: 10px;}
