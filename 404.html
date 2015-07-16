@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="20;url=http://tlk.io/ccloud" />
+</head>
+<body>
+<p>404</p>
+<p>Aw, Snap!</p>
+<p>Updates are in progress we will be back soon :)</p>
+<p>This page will redirect to chat in <span id="timer"></span> :) </p>
+
+
+<script>
+  var count=20;
+
+var counter=setInterval(timer, 1000); 
+
+function timer()
+{
+  count=count-1;
+  if (count <= 0)
+  {
+     clearInterval(counter);
+     return;
+  }
+}function timer()
+{
+  count=count-1;
+  if (count <= 0)
+  {
+     clearInterval(counter);
+     return;
+  }
+
+ document.getElementById("timer").innerHTML=count + " seconds"; 
+}
+
+</script>
+
+</body>
+</html>
+
