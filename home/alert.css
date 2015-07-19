@@ -5,6 +5,7 @@ body {
  
 }
 #coolal {
+  z-index: 100;
   display: block;
   position: fixed;
   top: calc(100% / 2);
@@ -63,4 +64,7 @@ body {
 #coolal .coolal-yes-no:first-child {
   border-right: 1px solid #aaa;
   border-radius: 0 0 0 8px;
+}
+.coolal-text {
+   text-align: left;
 }

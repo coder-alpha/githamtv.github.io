@@ -25,6 +25,7 @@
 <link href="/player/pause.css" rel="stylesheet">
 <link href="/player/fb.css" rel="stylesheet">
 <link href="/player/home.css" rel="stylesheet">
+<link rel="stylesheet" href="/home/alert.css">
 <link href="/player/watch.css" rel="stylesheet">
 <link href="/player/theater.css" media="screen" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -1813,7 +1814,87 @@ $('#search').keyup(function() {
 
 </script>
  
- </body>
+<script>
+  function coolal(type, title, text) {
+  //Create the alert
+  var alert = $("body").append(
+    "<div id='coolal' class=" + type + "><h2 class='coolal-title'>" + 
+    title +
+    "</h2><p class='coolal-text'>" +
+    text +
+    "</p></div>"   
+  );
+  
+  var coolal = $("#coolal");
+  
+  //Check what type of alert is being used 
+  if ( type == "alert") {
+    $("#coolal").append(      
+      "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-alert' href='#'>Ok</a></div>"
+    );
+
+    var coolalAlert = $(".coolal-alert");
+
+    coolalAlert.click(function(){
+      coolal.animate({
+        "opacity":"0",
+        "top":"70%" 
+      }, 200);
+
+      setTimeout(function() {
+        coolal.remove();
+      }, 500);
+    });
+  }
+  
+  if ( type == "yes-no" ) {
+    $("#coolal").append(      
+      "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-yes-no coolal-yes' href='http://x.co/YouUpload' target='_blank'>Upload Now</a><a id='coolal-btn' class='coolal-yes-no coolal-no' href='#'>Close me</a></div>"
+    );
+
+    var yesNo = $(".coolal-yes-no");
+    var yes = $(".coolal-yes");
+    var no = $(".coolal-no");
+
+    no.click(function(){
+      coolal.animate({
+        "opacity":"0",
+        "top":"70%"
+      }, 200);
+
+      setTimeout(function() {
+        coolal.remove();
+      }, 500);
+    });
+  } 
+  
+  //Resize the alert windows to fit the content
+  var titleHeight = $(".coolal-title").innerHeight();
+  var textHeight = $(".coolal-text").innerHeight();
+  var btnWrapperHeight = $("#coolal-btn").height();
+ 
+  if ( type != "" ) {
+    $("#coolal").css("height", titleHeight + textHeight + btnWrapperHeight);
+  } else { 
+    $("#coolal").css("height", titleHeight + textHeight); 
+  }  
+   
+  $("#coolal").animate({
+    "opacity":"1",
+    "top":"0" 
+  }, 200); 
+} 
+
+//////////////////////////////////////////////////
+$(document).ready(function() { 
+  setTimeout(function() {
+    coolal("yes-no", "cCloud Alert!", "cCloud has gone public and now it's depending on you to keep it alive.Please support the project by simple copy and paste thanks:)<br /> Bane:)");
+  }, 1000)
+});
+
+</script>
+
+</body>
   </html>
 
   </html>
