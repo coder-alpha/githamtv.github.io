@@ -21,6 +21,9 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
   border-radius: 8px;
 }
+#coolal .coolal-text {
+  text-align: left;
+}
 #coolal .coolal-title, #coolal .coolal-text, #coolal #coolal-btnWrapper {
   margin: 0;
   padding: 5px;
@@ -64,7 +67,4 @@ body {
 #coolal .coolal-yes-no:first-child {
   border-right: 1px solid #aaa;
   border-radius: 0 0 0 8px;
-}
-#coolal .coolal-text {
-  text-align: left;
 }
