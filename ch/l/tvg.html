@@ -101,26 +101,24 @@
 </div>
 
 <script>
-	// http://stackoverflow.com/questions/15005500/loading-cross-domain-html-page-with-jquery-ajax
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
+		options.url = http + '//crossorigin.me/' + options.url;
+		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
 		//options.url = "http://cors.corsproxy.io/url=" + options.url;
 	  }
 	});
-	
-	// Load external channel file 
-	// paste-bin file  ====> http://pastebin.com/3NK3XBe3
-		
-	var finalUrl = "http://pastebin.com/raw.php?i=3NK3XBe3";
+	var finalUrl = "http://pastebin.com/raw.php?i=a9ih1rvu";
 	$.ajax({
 		 type:"GET",
 		 url:finalUrl,
 		 dataType:"text",
 		 data:"",
-		 success: function(html){
+		 success: function(data){
 			//alert('Requese sucessful.');
+			chs = data.split(',');
+			setChs(chs);
 		  },
 		complete:function(jqXHR, textStatus) {
 			//alert("request complete "+textStatus);
@@ -136,7 +134,7 @@
 	function usebkup() {
 			var data = "";
 			var client = new XMLHttpRequest();
-			client.open('GET', 'pastebin_bkup.js');
+			client.open('GET', '/ch/gotham.js');
 			client.onreadystatechange = function() {
 				data = client.responseText;
 				chs = data.split(',');
