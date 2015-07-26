@@ -1,1 +1,1 @@
-Aw, Snap!;Error: sync server seems to be down. Please try reloading the page couple of times or wait for 5-10 minutes try relaoding again but in case if the issue still occurs,Please contact Bane ccloudus@gmail.com to report this issue thanks :);;;;,
+Aw, Snap!;Error: sync server seems to be down.Please contact Bane ccloudus@gmail.com to report this issue thanks :);;;;,
