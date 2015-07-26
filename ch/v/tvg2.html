@@ -115,7 +115,6 @@ color: white;
     version="VideoLAN.VLCPlugin.2"
     width="100%"
     height="420"
-    target="http://snipurl.com/gotham01" 
     id="vlc">
 </embed>
 </object>
@@ -126,24 +125,53 @@ color: white;
 </div>
 
 <script>
+// http://stackoverflow.com/questions/15005500/loading-cross-domain-html-page-with-jquery-ajax
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
+		options.url = http + '//crossorigin.me/' + options.url;
+		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
 		//options.url = "http://cors.corsproxy.io/url=" + options.url;
 	  }
 	});
+	
+	// Load external channel file 
+	// paste-bin file  ====> http://pastebin.com/3NK3XBe3
+		
+	var finalUrl = "http://pastebin.com/raw.php?i=a9ih1rvu";
 	$.ajax({
-            url : "http://pastebin.com/raw.php?i=KzhgEVju",
-            dataType: "text",
-			type: "GET",
-            success : function (data) {
-                //alert("file loading");
+		 type:"GET",
+		 url:finalUrl,
+		 dataType:"text",
+		 data:"",
+		 success: function(data){
+			//alert('Requese sucessful.');
+			chs = data.split(',');
+			setChs(chs);
+		  },
+		complete:function(jqXHR, textStatus) {
+			//alert("request complete "+textStatus);
+			chs = data.split(',');
+			setChs(chs);
+		 },
+		error: function(xhr, textStatus, errorThrown){
+			//alert('request failed->'+textStatus);
+			usebkup();
+		}             
+	   });  
+		
+	function usebkup() {
+			var data = "";
+			var client = new XMLHttpRequest();
+			client.open('GET', '/ch/gotham.js');
+			client.onreadystatechange = function() {
+				data = client.responseText;
 				chs = data.split(',');
 				setChs(chs);
-				//alert("file loaded");
-            }
-        });
+				//alert(data);
+			}
+			client.send();
+	}
 	
 	function setChs(chs) {
 		var text = "";
