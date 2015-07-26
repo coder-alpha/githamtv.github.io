@@ -125,7 +125,6 @@ color: white;
 </div>
 
 <script>
-// http://stackoverflow.com/questions/15005500/loading-cross-domain-html-page-with-jquery-ajax
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
@@ -134,10 +133,6 @@ color: white;
 		//options.url = "http://cors.corsproxy.io/url=" + options.url;
 	  }
 	});
-	
-	// Load external channel file 
-	// paste-bin file  ====> http://pastebin.com/3NK3XBe3
-		
 	var finalUrl = "http://pastebin.com/raw.php?i=a9ih1rvu";
 	$.ajax({
 		 type:"GET",
