@@ -153,30 +153,20 @@
 	function setChs(chs) {
 		var text = "";
 		text += "<table class='list'><tbody  class='table-hover'><tr><td class='text-center'><a  href='/'></a></td><td class='text-left'><a href='/'>Home</a></td></tr><tr><td class='text-center'><a target='_blank'  href='http://www.tvguide.com/listings/'>00</a></td><td class='text-left'><a target='_blank' href='http://www.tvguide.com/listings/'>TV Guide</a></td></tr>";
-		
-		// Channel listing file format
-		//1;NDTV;New Channel;IN;English;http://www.ndtv.com,
-		//2;NEWSX;News Channel;US;English;http://www.newsx.com,
-		//3;VEVO-1;Music;US;English;http://www.vevo1.com
-		
-		// Channels imported in array as:
-		//chs = ["1;NDTV;News;IN;English;http://www.ndtv.com", "2;NEWSX;News;US;English;http://www.newsx.com", "3;VEVO-1;Music;US;English;http://www.vevo1.com"];
-
-		// Channel layout
-		// Channel layout
+		        // Channel layout
 		for (i = 0; i < chs.length; i++) {
 			text += "<tr>";
 			
 			var chs_meta = chs[i].split(';');
 			
-			// channel no. and link
+			// Channel Number & Link
 			text += "<td class='text-center'><a  href='";
 			text += chs_meta[5];
 			text += "'>";
 			text += chs_meta[0];
 			text += "</a></td>";
 			
-			// channel id, name, link
+			// Channel Name & Link
 			text += "<td class='text-left'><a id='";
 			text += chs_meta[0];
 			text += "'  href='";
@@ -185,17 +175,17 @@
 			text += chs_meta[1];
 			text += "</a>";
 			
-			// channel Genre/Type (News, Movies, Music, Radio, Sports, Adult, etc.)
+			// Channel Genre
 			text += "<span id='genre' value='";
 			text += chs_meta[2];
 			text += "'></span>";
 			
-			// channel country (2 alphabet coding US, IN, UK, etc.)
+			// Channel Country
 			text += "<span id='country' value='";
 			text += chs_meta[3];
 			text += "'></span>";
 			
-			// channel audio language (English, Spanish, etc.)
+			// Channel Language 
 			text += "<span id='lang' value='";
 			text += chs_meta[4];
 			text += "'></span>";
@@ -208,32 +198,6 @@
 		// set channel layout in 'div'
 		document.getElementById("myDiv").innerHTML = text;
 	}
-	
-	// http://flashls.org/
-	// https://github.com/mangui
-	function playFlash(url)
-	{
-		doJavaScriptInAjax(url);
-	}
-	
-	function setPlayFlash(url)
-	{
-		var $vid_obj = _V_("example_video_1");
-		$vid_obj.src(url);
-		$vid_obj.on('loadstart',function(){
-			$vid_obj.play();
-		});
-	}
-	
-	function doJavaScriptInAjax(urlLink) {
-		$.ajax({
-			url: urlLink,
-			dataType: "text",
-			type: 'GET',
-			success: function(res) {
-				setPlayFlash(urlLink);
-				//alert(res);
-			}
 		});
     };
 </script>
