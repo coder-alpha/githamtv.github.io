@@ -127,7 +127,7 @@ color: white;
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-	         options.url = http + 'http://crossorigin.me/' + options.url;
+	         options.url = http + 'http://crossorigin.me' + options.url;
 		//options.url = "http://cors.corsproxy.io/url=" + options.url;
 	  }
 	});
