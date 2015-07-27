@@ -125,6 +125,11 @@ color: white;
 </div>
 
 <script>
+	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju";
+	var lineSeperator = "||";
+	var metaSeperator = ";";
+	
+	
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
@@ -133,7 +138,8 @@ color: white;
 		//options.url = "http://cors.corsproxy.io/url=" + options.url;
 	  }
 	});
-	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju";
+	
+	
 	$.ajax({
 		 type:"GET",
 		 url:finalUrl,
@@ -141,13 +147,14 @@ color: white;
 		 data:"",
 		 success: function(data){
 			//alert('Requese sucessful.');
-			chs = data.split(',');
+			//alert(data);
+			chs = data.split(lineSeperator);
 			setChs(chs);
 		  },
 		complete:function(jqXHR, textStatus) {
 			//alert("request complete "+textStatus);
-			chs = data.split(',');
-			setChs(chs);
+			//chs = data.split(',');
+			//setChs(chs);
 		 },
 		error: function(xhr, textStatus, errorThrown){
 			//alert('request failed->'+textStatus);
@@ -161,11 +168,15 @@ color: white;
 			client.open('GET', '/ch/gotham.js');
 			client.onreadystatechange = function() {
 				data = client.responseText;
-				chs = data.split(',');
+				chs = data.split(lineSeperator);
 				setChs(chs);
 				//alert(data);
 			}
 			client.send();
+	}
+	
+	function startsWith(str, key) {
+		return str.replace(/\s/g, "").indexOf(key) === 0;
 	}
 	
 	function setChs(chs) {
@@ -173,41 +184,47 @@ color: white;
 		text += "<table class='list'><tbody  class='table-hover'><tr><td class='text-center'><a  href='/'></a></td><td class='text-left'><a href='/'>Home</a></td></tr><tr><td class='text-center'><a target='_blank'  href='http://www.tvguide.com/listings/'>00</a></td><td class='text-left'><a target='_blank' href='http://www.tvguide.com/listings/'>TV Guide</a></td></tr>";
 			// Channel layout
 		for (i = 0; i < chs.length; i++) {
-			text += "<tr>";
-			
-			var chs_meta = chs[i].split(';');
-			
-			// Channel Number & Link
-			text += "<td class='text-center'>";
-			chNo = chs_meta[0].replace(/\s/g, "");
-			text += "<a onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chNo+"</a>";
-			
-			// Channel Name & Link
-			text += "<td class='text-left'><a onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chs_meta[1]+"</a>";
-	
-			// Channel ID
-			text += "<span id='" + chs_meta[0] + "'></span>";
-			
-			// Channel Genre
-			text += "<span id='genre' value='";
-			text += chs_meta[2];
-			text += "'></span>";
-			
-			// Channel Country
-			text += "<span id='country' value='";
-			text += chs_meta[3];
-			text += "'></span>";
-			
-			// Channel Language 
-			text += "<span id='lang' value='";
-			text += chs_meta[4];
-			text += "'></span>";
-			
-			text += "</td>";
-			text += "</tr>";
+		
+			if (startsWith(chs[i], "//")) {
+				// this is a comment - skip it
+			} else {
+				text += "<tr>";
+				
+				var chs_meta = chs[i].split(metaSeperator);
+				
+				// channel no. and link
+				text += "<td class='text-center'>";
+				chNo = chs_meta[0].replace(/\s/g, "");
+				text += "<a onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chNo+"</a>";
+				
+				// channel name and link
+				text += "<td class='text-left'><a onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chs_meta[1]+"</a>";
+		
+				// channel Id
+				text += "<span id='" + chs_meta[0] + "'></span>";
+				
+				// channel Genre/Type (News, Movies, Music, Radio, Sports, Adult, etc.)
+				text += "<span id='genre' value='";
+				text += chs_meta[2];
+				text += "'></span>";
+				
+				// channel country (2 alphabet coding US, IN, UK, etc.)
+				text += "<span id='country' value='";
+				text += chs_meta[3];
+				text += "'></span>";
+				
+				// channel audio language (English, Spanish, etc.)
+				text += "<span id='lang' value='";
+				text += chs_meta[4];
+				text += "'></span>";
+				
+				text += "</td>";
+				text += "</tr>";
+			}
 		}
 		text += "</tbody></table>";
 
+		// set channel layout in 'div'
 		document.getElementById("myDiv").innerHTML = text;
 	}
 	
