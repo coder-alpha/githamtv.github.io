@@ -146,7 +146,7 @@ color: white;
 		 dataType:"text",
 		 data:"",
 		 success: function(data){
-			//alert('Requese sucessful.');
+			//alert('Request sucessful.');
 			//alert(data);
 			chs = data.split(lineSeperator);
 			setChs(chs);
@@ -186,7 +186,7 @@ color: white;
 		for (i = 0; i < chs.length; i++) {
 		
 			if (startsWith(chs[i], "//")) {
-				// this is a comment - skip it
+				// this is a comment
 			} else {
 				text += "<tr>";
 				
