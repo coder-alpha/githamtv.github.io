@@ -2,7 +2,6 @@
 <html data-cast-api-enabled="true">
 <head>
 <meta charset="UTF-8">
-
 <title>cCloud TV BETA | Popcorntime for LIVE TV </title>
 <meta name="keywords" content="cCloud, TV, Popcorntime, Live TV, Simple IPTV, Free TV, Android, iOS, app, web,Roku, Amazon fire tv, Plex, Chromecast,Airplay,Cast,Cloud player">
 <meta name="description" content="Official cCloud TV The Popcorntime for Live TV">
@@ -108,13 +107,16 @@ color: white;
 </head>
 
 <body>
- <div class="table-title">
+
+<!-- https://wiki.videolan.org/Documentation:WebPlugin/ -->
+<div class="table-title">
   <embed 
     type="application/x-vlc-plugin" 
     pluginspage="http://www.videolan.org" 
     version="VideoLAN.VLCPlugin.2"
     width="100%"
-    height="420"
+    height="337.5"
+	width="600"
     id="vlc">
 </embed>
 </object>
@@ -128,7 +130,15 @@ color: white;
 	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju";
 	var lineSeperator = "||";
 	var metaSeperator = ";";
+	var myChs;
 	
+	function setMyChs(c) {
+		myChs = c;
+	}
+	
+	function getMyChs() {
+		return myChs;
+	}
 	
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
@@ -175,14 +185,21 @@ color: white;
 			client.send();
 	}
 	
-	function startsWith(str, key) {
-		return str.replace(/\s/g, "").indexOf(key) === 0;
-	}
-	
 	function setChs(chs) {
+		setMyChs(chs);
 		var text = "";
 		text += "<table class='list'><tbody  class='table-hover'><tr><td class='text-center'><a  href='/'></a></td><td class='text-left'><a href='/'>Home</a></td></tr><tr><td class='text-center'><a target='_blank'  href='http://www.tvguide.com/listings/'>00</a></td><td class='text-left'><a target='_blank' href='http://www.tvguide.com/listings/'>TV Guide</a></td></tr>";
-			// Channel layout
+		
+		
+		var thisPageUrl = window.location.href;
+		if (contains(thisPageUrl, "?")) {
+			thisPageUrls = thisPageUrl.split("?");
+			if (thisPageUrls.length > 1) {
+				thisPageUrl = thisPageUrls[0];
+			}
+		}
+		
+		// Channel layout
 		for (i = 0; i < chs.length; i++) {
 		
 			if (startsWith(chs[i], "//")) {
@@ -193,39 +210,38 @@ color: white;
 				var chs_meta = chs[i].split(metaSeperator);
 				
 				// channel no. and link
-				text += "<td class='text-center'>";
 				chNo = chs_meta[0].replace(/\s/g, "");
-				text += "<a onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chNo+"</a>";
+				text += "<td class='text-center'>";
+				text += "<a title='Play Channel in new Page' onclick='javascript:playInNew(\""+thisPageUrl+"?"+chNo+"\");' href='#'>"+chNo+"</a>";
 				
 				// channel name and link
-				text += "<td class='text-left'><a onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chs_meta[1]+"</a>";
+				text += "<td class='text-left'><a title='Play Channel in this Page' onclick='javascript:playVLC(\""+chs_meta[5]+"\");' href='#'>"+chs_meta[1]+"</a>";
 		
 				// channel Id
 				text += "<span id='" + chs_meta[0] + "'></span>";
 				
 				// channel Genre/Type (News, Movies, Music, Radio, Sports, Adult, etc.)
-				text += "<span id='genre' value='";
-				text += chs_meta[2];
-				text += "'></span>";
+				text += "<span id='genre' value='" + chs_meta[2] + "'></span>";
 				
 				// channel country (2 alphabet coding US, IN, UK, etc.)
-				text += "<span id='country' value='";
-				text += chs_meta[3];
-				text += "'></span>";
+				text += "<span id='country' value='" + chs_meta[3] + "'></span>";
 				
 				// channel audio language (English, Spanish, etc.)
-				text += "<span id='lang' value='";
-				text += chs_meta[4];
-				text += "'></span>";
+				text += "<span id='lang' value='" + chs_meta[4] + "'></span>";
 				
-				text += "</td>";
-				text += "</tr>";
+
+				text += "</td></tr>";
 			}
 		}
 		text += "</tbody></table>";
 
 		// set channel layout in 'div'
 		document.getElementById("myDiv").innerHTML = text;
+	}
+	
+	function playInNew(url)
+	{
+		window.open(url, '_blank');
 	}
 	
 	function playVLC(link)
@@ -252,6 +268,104 @@ color: white;
 		vlc.playlist.add(link, "live");
 		vlc.playlist.play();
 	}
+	
+	// http://stackoverflow.com/questions/646628/how-to-check-if-a-string-startswith-another-string
+	function startsWith(str, key) {
+		return str.replace(/\s/g, "").indexOf(key) === 0;
+	}
+	
+	function contains(str, key) {
+		return str.indexOf(key) > -1;
+	}
+	
+	function coolal(type, title, text) {
+	  //Create the alert
+	  var alert = $("body").append(
+		"<div id='coolal' class=" + type + "><h2 class='coolal-title'>" + 
+		title +
+		"</h2><p class='coolal-text'>" +
+		text +
+		"</p></div>"   
+	  );
+	  
+	  var coolal = $("#coolal");
+	  
+	  //Check what type of alert is being used 
+	  if ( type == "alert") {
+		$("#coolal").append(      
+		  "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-alert' href='#'>Ok</a></div>"
+		);
+
+		var coolalAlert = $(".coolal-alert");
+
+		coolalAlert.click(function(){
+		  coolal.animate({
+			"opacity":"0",
+			"top":"70%" 
+		  }, 200);
+
+		  setTimeout(function() {
+			coolal.remove();
+		  }, 500);
+		});
+	  }
+	  
+	  if ( type == "yes-no" ) {
+		$("#coolal").append(      
+		  "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-yes-no coolal-yes' href='http://x.co/YouUpload' target='_blank'>Upload Now</a><a id='coolal-btn' class='coolal-yes-no coolal-no' href='#'>Close me</a></div>"
+		);
+
+		var yesNo = $(".coolal-yes-no");
+		var yes = $(".coolal-yes");
+		var no = $(".coolal-no");
+
+		no.click(function(){
+		  coolal.animate({
+			"opacity":"0",
+			"top":"70%"
+		  }, 200);
+
+		  setTimeout(function() {
+			coolal.remove();
+		  }, 500);
+		});
+	  } 
+	  
+	  //Resize the alert windows to fit the content
+	  var titleHeight = $(".coolal-title").innerHeight();
+	  var textHeight = $(".coolal-text").innerHeight();
+	  var btnWrapperHeight = $("#coolal-btn").height();
+	 
+	  if ( type != "" ) {
+		$("#coolal").css("height", titleHeight + textHeight + btnWrapperHeight);
+	  } else { 
+		$("#coolal").css("height", titleHeight + textHeight); 
+	  }  
+	   
+	  $("#coolal").animate({
+		"opacity":"1",
+		"top":"25%" 
+	  }, 200); 
+	} 
+
+//////////////////////////////////////////////////
+	
+	$(document).ready(function() { 
+	  setTimeout(function() {
+		aurl = window.location.href;
+		url = aurl.split("?");
+		if (url.length > 1) {
+			no = parseInt(url[1]);
+			chLine = getMyChs()[no];
+			chMeta = chLine.split(metaSeperator);
+			chUrl = chMeta[5];
+			//alert(chUrl)
+			playVLC(chUrl);
+		} else {
+			coolal("yes-no", "cCloud Alert!", "cCloud has gone public and now it's depending on you to keep it alive.Please support the project by simple copy and paste thanks:)<br /> Bane:)");
+		}
+	  }, 1000)
+	});
 </script>
 
 
@@ -266,10 +380,11 @@ color: white;
 
 
 <script>
-var $rows = $('.list tr');
+
 $('#search').keyup(function() {
   var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-
+  var $rows = $('.list tr');
+  
   $rows.show().filter(function() {
     var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
     return !~text.indexOf(val);
@@ -317,87 +432,7 @@ $('#search').keyup(function() {
   ga('send', 'pageview');
 
 </script>
- 
-<script>
-  function coolal(type, title, text) {
-  //Create the alert
-  var alert = $("body").append(
-    "<div id='coolal' class=" + type + "><h2 class='coolal-title'>" + 
-    title +
-    "</h2><p class='coolal-text'>" +
-    text +
-    "</p></div>"   
-  );
-  
-  var coolal = $("#coolal");
-  
-  //Check what type of alert is being used 
-  if ( type == "alert") {
-    $("#coolal").append(      
-      "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-alert' href='#'>Ok</a></div>"
-    );
-
-    var coolalAlert = $(".coolal-alert");
-
-    coolalAlert.click(function(){
-      coolal.animate({
-        "opacity":"0",
-        "top":"70%" 
-      }, 200);
-
-      setTimeout(function() {
-        coolal.remove();
-      }, 500);
-    });
-  }
-  
-  if ( type == "yes-no" ) {
-    $("#coolal").append(      
-      "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-yes-no coolal-yes' href='http://x.co/YouUpload' target='_blank'>Upload Now</a><a id='coolal-btn' class='coolal-yes-no coolal-no' href='#'>Close me</a></div>"
-    );
-
-    var yesNo = $(".coolal-yes-no");
-    var yes = $(".coolal-yes");
-    var no = $(".coolal-no");
-
-    no.click(function(){
-      coolal.animate({
-        "opacity":"0",
-        "top":"70%"
-      }, 200);
-
-      setTimeout(function() {
-        coolal.remove();
-      }, 500);
-    });
-  } 
-  
-  //Resize the alert windows to fit the content
-  var titleHeight = $(".coolal-title").innerHeight();
-  var textHeight = $(".coolal-text").innerHeight();
-  var btnWrapperHeight = $("#coolal-btn").height();
- 
-  if ( type != "" ) {
-    $("#coolal").css("height", titleHeight + textHeight + btnWrapperHeight);
-  } else { 
-    $("#coolal").css("height", titleHeight + textHeight); 
-  }  
-   
-  $("#coolal").animate({
-    "opacity":"1",
-    "top":"0" 
-  }, 200); 
-} 
-
-//////////////////////////////////////////////////
-$(document).ready(function() { 
-  setTimeout(function() {
-    coolal("yes-no", "cCloud Alert!", "cCloud has gone public and now it's depending on you to keep it alive.Please support the project by simple copy and paste thanks:)<br /> Bane:)");
-  }, 1000)
-});
-
-</script>
 
 </body>
-  </html>
+</html>
 
