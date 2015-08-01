@@ -134,8 +134,7 @@ margin: 0px ;}
 </div>
 
 <script>
-    // Load external channel file 
-	// paste-bin file  ====> http://pastebin.com/3NK3XBe3
+
 	var testPlayUrl = "http://cdn3.videos.bloomberg.com/btv/us/master.m3u8"; 
 	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju"; 
 	var lineSeperator = "||";
@@ -150,7 +149,6 @@ margin: 0px ;}
 		return myChs;
 	}
 	
-	// http://stackoverflow.com/questions/15005500/loading-cross-domain-html-page-with-jquery-ajax
 	$.ajaxPrefilter( function (options) {
 	  if (options.crossDomain && jQuery.support.cors) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
@@ -250,8 +248,6 @@ margin: 0px ;}
 		document.getElementById("myDiv").innerHTML = text;
 	}
 	
-	// http://flashls.org/
-	// https://github.com/mangui
 	function playFlash(url)
 	{
 		setPlayFlash(url);
@@ -428,7 +424,6 @@ $('#search').keyup(function() {
       });
     });
     </script>
-    <script src="http://shrobin.github.io/otach01.js"></script>
 
   </body>
 </html>
