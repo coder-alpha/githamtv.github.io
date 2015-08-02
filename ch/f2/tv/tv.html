@@ -107,18 +107,44 @@
 <script>
 	videojs.options.flash.swf = "/flash/video-js.swf";
 </script>
+
+<style>
+.channel_content {
+  background-color: rgba(255,255,255,0.5);
+  padding: 10px;
+  position: absolute;
+  top: -250px;
+  z-index: 100;
+  transition: all 0.5s ease;
+}
+
+.table-title:hover .channel_content {
+  background-color: rgba(255,255,255,0.9);
+  top: 0;
+}
+
+.table-title:hover .channel_content a:hover {
+color: #FF1133;
+}
+</style>
+
 </head>
 <body>
 
-<center>
+<div class="table-title">
+<div id="channel_content" class="channel_content">
+    <strong id="ch_title">Player status: Idle</strong>
+    <p id="summary">Not Playing</p>
+</div>
+
 <video id="example_video_1" class="video-js vjs-default-skin" controls preload="" width="600" height="337.5" poster="http://s29.postimg.org/vc9ldoqnb/ccloud_moviess.png" data-setup='{"techOrder": ["flash"]}'>
-    <source src="http://sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4" type='video/mp4' />
+    <source src="http://www.mytvtestdisc.com/mytvtestdisc/DVD/GetFile?p=BarsAndToneMP4" type='video/mp4' />
 	<p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser
     that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
 	</p>
+	
 </video>
-</center>
 
 <table class='table-fill'><thead><tr><th class='text-left'>Channels</th><th class='text-left'><input type='search' id='search' placeholder='Search'></th></tr></thead></table>
 <div id="myDiv">
@@ -127,7 +153,7 @@
 <script>
     // Load external channel file 
 	// paste-bin file  ====> http://pastebin.com/3NK3XBe3
-	var testPlayUrl = "http://cdn3.videos.bloomberg.com/btv/us/master.m3u8"; 
+	var testPlayUrl = "http://www.mytvtestdisc.com/mytvtestdisc/DVD/GetFile?p=BarsAndToneMP4"; 
 	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju"; 
 	var lineSeperator = "||";
 	var metaSeperator = ";";
@@ -142,19 +168,25 @@
 	}
 	
 	// http://stackoverflow.com/questions/15005500/loading-cross-domain-html-page-with-jquery-ajax
-	$.ajaxPrefilter( function (options) {
-	  if (options.crossDomain && jQuery.support.cors) {
+//	$.ajaxPrefilter( function (options) {
+//	  if (options.crossDomain && jQuery.support.cors) {
+//		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
+//		options.url = http + '//crossorigin.me/' + options.url;
+//		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
+//		//options.url = "http://cors.corsproxy.io/url=" + options.url;
+//	  }
+//	});
+	
+	function getProxifiedUrl(url) {
 		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//crossorigin.me/' + options.url;
-		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
-		//options.url = "http://cors.corsproxy.io/url=" + options.url;
-	  }
-	});
+		ProxifiedUrl = http + '//crossorigin.me/' + url;
+		return ProxifiedUrl;
+	}
 	
 	
 	$.ajax({
 		 type:"GET",
-		 url:finalUrl,
+		 url:getProxifiedUrl(finalUrl),
 		 dataType:"text",
 		 data:"",
 		 success: function(data){
@@ -214,10 +246,10 @@
 				// channel no. and link 
 				chNo = chs_meta[0].replace(/\s/g, "");
 				text += "<td class='text-center'>";
-				text += "<a title='Play Channel in new Page' onclick='javascript:playInNew(\""+thisPageUrl+"?"+chNo+"\");' href='#'>"+chNo+"</a>";
+				text += "<a title='Play Channel in this Page' onclick='javascript:playChNo(\""+chNo+"\");' href='#'>"+chNo+"</a>";
 				
 				// channel name and link
-				text += "<td class='text-left'><a title='Play Channel in this Page' onclick='javascript:playFlash(\""+chs_meta[5]+"\");' href='#'>"+chs_meta[1]+"</a>";
+				text += "<td class='text-left'><a title='"+chs_meta[2]+" | "+chs_meta[3]+" | "+chs_meta[4]+"' onclick='javascript:playChNo(\""+chNo+"\");' href='#'>"+chs_meta[1]+"</a>";
 		
 				// channel Id
 				text += "<span id='" + chs_meta[0] + "'></span>";
@@ -241,6 +273,21 @@
 		document.getElementById("myDiv").innerHTML = text;
 	}
 	
+	function playChNo(noStr) {
+		no = parseInt(noStr);
+		chLine = getMyChs()[no];
+		chMeta = chLine.split(metaSeperator);
+		chUrl = chMeta[5];
+		playFlash(chUrl);
+		setMeta(chMeta);
+	}
+	
+	function setMeta(metaData) {
+	chNo = metaData[0].replace(/\s/g, "");
+		document.getElementById("ch_title").innerHTML = "Playing: # " + metaData[0] + "<br/>Title: " + metaData[1];
+		document.getElementById("summary").innerHTML = "Genre: " + metaData[2] + "<br/>Country: " + metaData[3] + "<br/>Lang: " + metaData[4] + "<br/><br/><strong><a onclick='javascript:playChNo(\""+chNo+"\");' href='#'> Resync Channel </a></strong>";
+	}	
+	
 	// http://flashls.org/
 	// https://github.com/mangui
 	function playFlash(url)
@@ -251,7 +298,7 @@
 	function playInNew(url)
 	{
 		window.open(url, '_blank');
-	}
+	}	
 	
 	function setPlayFlash(url)
 	{
@@ -401,9 +448,6 @@ $('#search').keyup(function() {
 
   ga('create', 'UA-63295016-1', 'auto');
   ga('send', 'pageview');
-
-</script>
-
 </script>
 
 </body>
