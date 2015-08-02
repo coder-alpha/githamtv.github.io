@@ -133,7 +133,8 @@ color: #FF1133;
 
 <div class="table-title">
 <div id="channel_content" class="channel_content">
-    <strong id="ch_title">Player status: Idle</strong>
+    <strong id="ch_title">Player status: Idle</strong></br>
+	Status: <span id="ch_status">(Idle) <img src="http://docs.mybb.com/assets/images/1.6/e/ea/Smilie_exclamation.gif"></span>
     <p id="summary">Not Playing</p>
 </div>
 
@@ -278,15 +279,64 @@ color: #FF1133;
 		chLine = getMyChs()[no];
 		chMeta = chLine.split(metaSeperator);
 		chUrl = chMeta[5];
+		
 		playFlash(chUrl);
 		setMeta(chMeta);
 	}
 	
 	function setMeta(metaData) {
-	chNo = metaData[0].replace(/\s/g, "");
+		chNo = metaData[0].replace(/\s/g, "");
 		document.getElementById("ch_title").innerHTML = "Playing: # " + metaData[0] + "<br/>Title: " + metaData[1];
-		document.getElementById("summary").innerHTML = "Genre: " + metaData[2] + "<br/>Country: " + metaData[3] + "<br/>Lang: " + metaData[4] + "<br/><br/><strong><a onclick='javascript:playChNo(\""+chNo+"\");' href='#'> Resync Channel </a></strong>";
+		document.getElementById("summary").innerHTML = "Genre: " + metaData[2] + "<br/>Country: " + metaData[3] + "<br/>Lang: " + metaData[4] + "<br/><br/><strong><a onclick='javascript:playFlash(\""+metaData[5]+"\");' href='#'> Resync Channel </a></strong>";
+		statusStr = "<img src ='https://issues.alfresco.com/jira/secure/attachment/37599/wait.gif'> (Verifying ..."+chUrl.substr(chUrl.length - 45)+")";
+		document.getElementById("ch_status").innerHTML = statusStr;
+		
+			var data = "";
+			var client = new XMLHttpRequest();
+			var url = getProxifiedUrl(metaData[5]);
+			client.open('GET', url);
+			client.onreadystatechange = function() {
+			
+				data = client.responseText;
+				statusStr = channeltester(url, data);
+				document.getElementById("ch_status").innerHTML = statusStr;
+			}
+			client.send();
 	}	
+	
+	function channeltester(url, data) {
+	
+		onlineIcon = "http://planetmaker.wthr.us/img/texture-remove.png";
+		page = data;
+		stat = "(Down)";
+		type = "";
+
+		if (contains(url, '.m3u8')) {
+			if ((!contains(page, 'html')) && (!contains(page, 'div')) && (contains(page, '#EXTM3U'))) {
+				onlineIcon = "https://www.epo.org/modules/epogui/images/status_1.png";
+				stat = "(Online)";
+				type = "http://www.oleoletv.ws/images/tv.png";
+			}
+		} else if (contains(url, '.m3u')) {
+			onlineIcon = "https://www.epo.org/modules/epogui/images/status_1.png";
+			stat = "(Online)";
+			type = "http://www.oleoletv.ws/images/tv.png";
+		} else if ((contains(url, '.aac')) || (contains(url, '.mp3'))) {
+			onlineIcon = "https://www.epo.org/modules/epogui/images/status_1.png";
+			stat = "(Online)";
+			type = "http://isites.harvard.edu/icb/imgs/ico-audio.gif";
+		} else {
+			onlineIcon = "http://images.clipartpanda.com/blue-question-mark-icon-question_mark_blue_23x23.jpg";
+			stat = "(Unknown)";
+		}
+		
+		if (stat == "(Online)") {
+			statusStr = "<img src ='"+onlineIcon+"'> <img src ='"+type+"'> " + stat;
+		} else {
+			statusStr = "<img src ='"+onlineIcon+"'> " + stat;
+		}
+		return statusStr;
+	}
 	
 	// http://flashls.org/
 	// https://github.com/mangui
