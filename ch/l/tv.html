@@ -110,15 +110,6 @@
 	var lineSeperator = "||";
 	var metaSeperator = ";";
 	
-	$.ajaxPrefilter( function (options) {
-	  if (options.crossDomain && jQuery.support.cors) {
-		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//crossorigin.me/' + options.url;
-		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
-		//options.url = "http://cors.corsproxy.io/url=" + options.url;
-	  }
-	});
-	
 	
 	$.ajax({
 		 type:"GET",
@@ -127,7 +118,7 @@
 		 data:"",
 		 success: function(data){
 			//alert('Request sucessful.');
-			//alert(data);
+			alert(data.substring(100, 110));
 			chs = data.split(lineSeperator);
 			setChs(chs);
 		  },
