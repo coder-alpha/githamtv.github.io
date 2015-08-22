@@ -106,18 +106,9 @@
 </div>
 
 <script>
-	var finalUrl = "http://pastethebin.github.io/db.js";
+	var finalUrl = "http://crossorigin.me/http://googledrive.com/host/0B0Uq10AGOvuvbTZMYlB2MVZDOWc";
 	var lineSeperator = "||";
 	var metaSeperator = ";";
-	
-	$.ajaxPrefilter( function (options) {
-	  if (options.crossDomain && jQuery.support.cors) {
-		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//crossorigin.me/' + options.url;
-		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
-		//options.url = "http://cors.corsproxy.io/url=" + options.url;
-	  }
-	});
 	
 	
 	$.ajax({
