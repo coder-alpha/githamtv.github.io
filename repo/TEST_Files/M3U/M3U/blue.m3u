@@ -1,0 +1,245 @@
+﻿#EXTINF:-1,.......(2/9/14)
+rtmp://80.252.165.110:554
+#EXTINF:-1,.24/7 tv shows & some VOD.......
+rtmp://80.252.165.110:554
+#EXTINF:-1,.......
+rtmp://80.252.165.110:554
+
+#EXTINF:-1,THE WALKING DEAD HD 
+http://62.210.76.216:8080/hls/walkingdead.m3u8
+#EXTINF:-1,SON'S OF ANARCHY HD 
+http://62.210.76.216:8080/hls/soa.m3u8
+#EXTINF:-1,American DAD
+http://62.210.76.216:8080/hls/american.m3u8
+#EXTINF:-1,BreAkinG BaD HD
+http://62.210.76.216:8080/hls/bb.m3u8
+#EXTINF:-1,Futurama HD 
+http://62.210.76.216:8080/hls/futurama.m3u8
+#EXTINF:-1,Family guy HD 
+http://62.210.76.216:8080/hls/familyguy.m3u8
+#EXTINF:-1,Game of Thrones HD 
+http://62.210.76.216:8080/hls/got.m3u8
+#EXTINF:-1,House Of Cards
+http://62.210.76.216:8080/hls/housecard.m3u8
+#EXTINF:-1,South Park HD
+http://62.210.76.216:8080/hls/southpark.m3u8
+#EXTINF:-1,The Big Bang Theory hd 
+http://62.210.76.216:8080/hls/bigbang.m3u8
+#EXTINF:-1,The Cleveland Show 
+http://62.210.76.216:8080/hls/cleveland.m3u8
+#EXTINF:-1,Weeds 
+http://62.210.76.216:8080/hls/weeds.m3u8
+#EXTINF:-1,The Big Bang Theory HD
+http://62.210.76.216:8080/hls/bigbang.m3u8
+#EXTINF:-1,The Simpsons HD 
+http://62.210.76.216:8080/hls/simpsons.m3u8
+
+
+
+#EXTINF:-1,Game of Thrones
+rtmp://198.27.75.99/app playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv
+#EXTINF:-1,ANGER MAN
+rtmp://198.27.75.99/app playpath=anger02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?
+#EXTINF:-1,ALL IN THE FAMILY
+rtmp://198.27.75.99/app playpath=aitf swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?aitf
+#EXTINF:-1,Arrested Development
+rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01
+#EXTINF:-1,I Love Lucy
+rtmp://198.27.75.99/app playpath=lucy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv
+#EXTINF:-1,Oz
+rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv
+#EXTINF:-1,2 and a HALF MEN
+rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men01
+#EXTINF:-1,2 Broke Girls
+rtmp://198.27.75.99/app playpath=2bg01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01
+#EXTINF:-1,3rd Rock From The Sun
+rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?rock <objectEncoding>
+#EXTINF:-1,AMERICAN DAD
+rtmp://192.99.38.122/app playpath=americandad02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?americandad01
+#EXTINF:-1,Andy Griffith
+http://72.13.93.186/andygriffith
+#EXTINF:-1,Becker
+rtmp://198.27.75.99/app playpath=beck swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?beck <objectEncoding>
+#EXTINF:-1,Beverly Hillbillies
+http://72.13.93.186/beverlyhillbillies
+#EXTINF:-1,Big Bang Theory
+rtmp://198.27.75.99/app playpath=tbbt01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?tbbt01
+#EXTINF:-1,BONANZA
+http://72.13.93.186/bonanza
+#EXTINF:-1,BONES
+rtmp://192.99.38.122/app playpath=bones02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?bones01
+#EXTINF:-1,Boy Meets World
+rtmp://198.27.75.99/app playpath=bmw swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?bmw
+#EXTINF:-1,BREAKING BAD
+rtmp://192.99.38.122/app playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02
+#EXTINF:-1,Burn Notice
+rtmp://192.99.38.122/app playpath=burnnotice03 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?burnnotice02
+#EXTINF:-1,Burns and Allen
+http://72.13.93.186/burnsandallen
+#EXTINF:-1,CHEERS
+rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cheers01
+#EXTINF:-1,COMMUNITY
+rtmp://198.27.75.99/app playpath=community01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?community01
+#EXTINF:-1,COPS
+rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01
+#EXTINF:-1,Cosby Show
+rtmp://198.27.75.99/app playpath=cosby swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?cosby <objectEncoding>
+#EXTINF:-1,Curb Your Enthusiasm
+rtmp://192.99.38.122/app playpath=curbs03 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?curbs02
+#EXTINF:-1,Dick Van Dyke
+http://72.13.93.186/dickvandyke
+#EXTINF:-1,Dragnet
+http://72.13.93.186/dragnet
+#EXTINF:-1,Drew Carey
+rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?drewcarey
+#EXTINF:-1,Eastbound and Down
+rtmp://198.27.75.99/app playpath=east swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?east
+#EXTINF:-1,Everybody Loves Raymond
+rtmp://192.99.38.122/app playpath=elr02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?elr01
+#EXTINF:-1,FAMILY GUY
+rtmp://192.99.38.122/app playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?familyguy01
+#EXTINF:-1,FRASIER
+rtmp://192.99.38.122/app playpath=frasier02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?frasier01
+#EXTINF:-1,FRIENDS
+rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?friends01
+#EXTINF:-1,Fresh Prince
+rtmp://192.99.38.122/app playpath=freshprince02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince01
+#EXTINF:-1,Full House
+rtmp://198.27.75.99/app playpath=fullhouse swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?fullhouse <objectEncoding>
+#EXTINF:-1,FUTURAMA
+rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?2501
+#EXTINF:-1,Growing Pains
+rtmp://198.27.75.99/app playpath=gpain swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?gpain <objectEncoding>
+#EXTINF:-1,Hangin with Mr. Cooper
+rtmp://198.27.75.99/app playpath=cooper swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?cooper <objectEncoding>
+#EXTINF:-1,Home Improvement
+rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?home01
+#EXTINF:-1,How I Met Your Mother
+rtmp://192.99.38.122/app playpath=himym02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?himym01
+#EXTINF:-1,It’s Always Sunny in Philidelphia
+rtmp://$OPT:rtmp-raw=rtmp://192.99.38.122/app playpath=sunny02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?sunny01
+#EXTINF:-1,Just Shoot Me
+rtmp://198.27.75.99/app playpath=shootme swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?shootme <objectEncoding>
+#EXTINF:-1,Johnny Carson
+http://72.13.93.186/johnnycarson
+#EXTINF:-1,KING OF QUEENS
+rtmp://192.99.38.122/app playpath=koq02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koq01
+#EXTINF:-1,KING OF THE HILL
+rtmp://192.99.38.122/app playpath=koth02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koth01
+#EXTINF:-1,LUCY
+http://72.13.93.186/lucy
+#EXTINF:-1,Malcolm in the Middle
+rtmp://198.27.75.99/app playpath=malcolm swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?malcolm
+#EXTINF:-1,MARRIED WITH CHILDREN
+rtmp://192.99.38.122/app playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mwc01
+#EXTINF:-1,MASH
+rtmp://192.99.38.122/app playpath=mash02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mash01
+#EXTINF:-1,MODERN FAMILY
+rtmp://198.27.75.99/app playpath=mfamily02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mfamily02
+#EXTINF:-1,New Girl
+rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?ng
+#EXTINF:-1,News Radio
+rtmp://198.27.75.99/app playpath=nradio swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?nradio <objectEncoding>
+#EXTINF:-1,Night Court
+rtmp://198.27.75.99/app playpath=nightcourt swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?nightcourt <objectEncoding>
+#EXTINF:-1,Northern Exposure
+rtmp://198.27.75.99/app playpath=northern swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?northern <objectEncoding>
+#EXTINF:-1,Perfect Strangers
+rtmp://198.27.75.99/app playpath=ps swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?ps <objectEncoding>
+#EXTINF:-1,Petticoat Junction
+http://72.13.93.186/petticoatjunction
+#EXTINF:-1,ROBOT CHICKEN
+rtmp://173.192.81.172/flash playpath=18253?MTM5NjE1MDA0NztlNTQwMmEwNGE2OGY3ZjczNWIyNGJjMTU4Zjg5YjNkZQ== swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/IxZGYxYTMwZjhiNWI6NjJiYTRiNDY1NGMwMWY3ZWQ2NDBlZDNkZTE3MThmMTA_/YzJmNzA0OTllODBjOmQ2NjMzMTM2OjFjODFiYWE2ZWIzYzA3Njg3ZTQ3MDlmMDc5NT
+#EXTINF:-1,ROSEANNE
+rtmp://198.27.75.99/app playpath=roseanne01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?roseanne01
+#EXTINF:-1,Rules of Engagement
+rtmp://192.99.38.122/app playpath=roe02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?roe02
+#EXTINF:-1,SCRUBS
+rtmp://192.99.38.122/app playpath=scrubs02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?scrubs01
+#EXTINF:-1,SEINFELD
+rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players
+#EXTINF:-1,South Park
+rtmp://192.99.38.122/app playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players
+#EXTINF:-1,STAR TREK
+rtmp://173.192.81.172/app playpath=15434?MTM5ODM3NTU0NDszZTBiNDQzMWE1MzA2NjQxNzE2N2MwZWUzYjFlZmQ1Yw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/8cfcd8478153
+#EXTINF:-1,STAR TREK DS9
+rtmp://192.99.38.122/app playpath=ds902 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?ds901
+#EXTINF:-1,STAR TREK ENTERPRISE
+rtmp://192.99.38.122/app playpath=trekent02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?trekent01
+#EXTINF:-1,STAR TREK TNG
+rtmp://192.99.38.122/app playpath=tng02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng01
+#EXTINF:-1,Star Trek Voyager
+rtmp://192.99.38.122/app playpath=voy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus
+#EXTINF:-1,THAT 70's SHOW
+rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?that70sshow
+#EXTINF:-1,The Middle
+rtmp://198.27.75.99/app playpath=middle swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?middle
+#EXTINF:-1,THE OFFICE
+rtmp://192.99.38.122/app playpath=office02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?office01
+#EXTINF:-1,THE SIMPSONS
+rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2502
+#EXTINF:-1,The Sopranos
+rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?sopranos
+#EXTINF:-1,The Walking Dead
+rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02
+#EXTINF:-1,THIRD ROCK FROM THE SUN
+rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?rock
+#EXTINF:-1,THREE’S COMPANY
+rtmp://198.27.75.99/app playpath=3scom01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?3scom01
+#EXTINF:-1,TRAILER PARK BOYS
+rtmp://192.99.38.122/app playpath=tpb02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tpb01
+#EXTINF:-1,Will and Grace
+rtmp://198.27.75.99/app playpath=wag swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?wag
+#EXTINF:-1,X-FILES
+rtmp://192.99.38.122/app playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?xfiles01
+
+
+#EXTINF:-1,Futurama hd 
+rtmp://62.210.76.216/hls/futuramahd 
+#EXTINF:-1,Dragonball 
+rtmp://62.210.76.216/hls/dragonball 
+#EXTINF:-1,Familyguy hd 
+rtmp://62.210.76.216/hls/familyguyhd 
+#EXTINF:-1,Southpark hd 
+rtmp://62.210.76.216/hls/southparkhd 
+#EXTINF:-1,Simpsons hd 
+rtmp://62.210.76.216/hls/simpsonshd 
+#EXTINF:-1,Soa 
+rtmp://62.210.76.216/hls/soa 
+#EXTINF:-1,Housecard 
+rtmp://62.210.76.216/hls/housecard 
+#EXTINF:-1,Cleveland 
+rtmp://62.210.76.216/hls/cleveland 
+#EXTINF:-1,Weeds 
+rtmp://62.210.76.216/hls/weeds 
+#EXTINF:-1,Bigbang 
+rtmp://62.210.76.216/hls/bigbang 
+#EXTINF:-1,Got 
+rtmp://62.210.76.216/hls/got 
+#EXTINF:-1,Walkingdead 
+rtmp://62.210.76.216/hls/walkingdead 
+#EXTINF:-1,BB 
+rtmp://62.210.76.216/hls/bb 
+#EXTINF:-1,Kinghill 
+rtmp://62.210.76.216/hls/kinghill 
+#EXTINF:-1,American 
+rtmp://62.210.76.216/hls/american 
+#EXTINF:-1,Archer 
+rtmp://62.210.76.216/hls/archer 
+#EXTINF:-1,Madmen 
+rtmp://62.210.76.216/hls/madmen 
+#EXTINF:-1,Naturehd 
+rtmp://195.154.188.161/hls/naturehd 
+#EXTINF:-1,Ungarsunefille 
+rtmp://195.154.188.161/hls/ungarsunefille 
+#EXTINF:-1,Manwildus 
+rtmp://195.154.188.161/hls/manwildus 
+#EXTINF:-1,Camerafr 
+rtmp://195.154.188.161/hls/camerafr 
+#EXTINF:-1,Tvsciences 
+rtmp://195.154.188.161/hls/tvsciences 
+#EXTINF:-1,Hntegrale 
+rtmp://195.154.188.161/hls/hintegrale 
+#EXTINF:-1,Kaamfr 
+rtmp://195.154.188.161/hls/kaamfr
+

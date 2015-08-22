@@ -1,0 +1,20 @@
+item_info_name=title
+item_info_from=@PARAM1@
+item_info_build=PrvServers - %s
+
+item_info_name=pageUrl
+item_info_from=@PARAM1@
+item_info_build=http://prvservers.com/player.php?u=%s&vw=650&vh=440
+
+item_info_name=path
+item_info_from=@PARAM1@
+item_info_build=%s
+
+item_info_name=tmp
+item_info_from=pageUrl
+item_info_convert=getInfo('%s','.*["']*streamer["']*:\s*["']([^'"]+).*','@REFERER@')
+item_info_build=%s
+
+item_info_name=url
+item_info_from=tmp + ' playPath=' + path + ' swfUrl=http://hdcast.org/Player.swf flashver=WIN\2016,0,0,305 token=Fo5_n0w?U.rA6l3-70w47 timeout=9 live=true swfVfy=1 pageUrl=' + pageUrl
+item_info_build=%s

@@ -1,0 +1,20 @@
+#EXTINF:1, Sky SPORTS 1HD
+http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 2HD
+http://195.154.227.38:1935/live/skysports2lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 3HD
+http://195.154.227.38:1935/live/skysports3lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 4HD
+http://195.154.227.38:1935/live/skysports4lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 5HD
+http://195.154.227.38:1935/live/skysports5lsh/anis_sat.m3u8
+#EXTINF: Fox Sports 1
+http://stream6.dyndns.tv:8888/live?channelId=260&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 2
+http://stream6.dyndns.tv:8888/live?channelId=261&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 3
+http://stream6.dyndns.tv:8888/live?channelId=262&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF:Fox Sports 4
+http://stream6.dyndns.tv:8888/live?channelId=263&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 5
+http://stream6.dyndns.tv:8888/live?channelId=264&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q

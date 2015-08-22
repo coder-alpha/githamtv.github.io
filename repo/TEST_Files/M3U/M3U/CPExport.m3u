@@ -1,0 +1,304 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2872.jpg",Animal Planet
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2523.png",HBO
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2553.jpg",Star Movies HD
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1236.jpg",PBS
+http://128.104.144.134/WisconsinChannel/mystream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1557.jpg",FOX Movies HD
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5535.png",CTV Regina HD
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/0WySc9Y.jpg",WBTV HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2668.jpg",Ginx TV
+http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1680.png",BBC Two
+http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5000.png",FOX HD
+http://46.61.226.18/hls/CH_C02_FOXHD/bw3000000/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5578.jpg",VH1 Classic
+http://46.61.226.18/hls/CH_VH1CLASSIC/bw1500000/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3860.jpg",MBC Action
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1679.jpg",Channel 4
+http://78.129.175.72/live/channel4/channel4.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/129.jpeg",ITV HD
+http://78.129.175.72/live/itv/itv.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4291.jpg",ITV 2
+http://78.129.175.72/live/itv2/itv2.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3281.jpg",ITVBe
+http://78.129.175.72/live/itvbe/itvbe.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2319.png",More 4
+http://78.129.175.72/live/more4/more4.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/104.jpg",Dance TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/5UhbBgX.png",English Club TV
+http://92.50.181.6/tv/1151/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4932.png",Film Hits
+http://94.100.31.242:8183/hls/film1/index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/QVvBPKr.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&amp;b=1200&amp;rebase=on
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4974.jpg",24/7 Off the Air
+http://adultswim-lh.akamaihd.net/i/adultswim_5@156963/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5784.jpeg",beIN Sport sUSA
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/pMt74TT.jpg",Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4352.jpg",BYU tv
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2510.png",Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2218.jpg",24/7Mystery Science Theater 3000
+http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4059.jpg",KTVU News
+http://ktvu-lh.akamaihd.net/i/KTVU_NEWSCAST@7529/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4926.jpeg",Global BC
+http://link.theplatform.com/s/dtjsEC/EqBPGYLY6fEx?feed=DEV%20Live%20Stream
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4890.png",Global
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2217.png",Sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4195.png",Sky Sports F1
+http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2484.jpg",Sky Sports 5
+http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2842.jpg",Sky Sports 1
+http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2413.jpg",Crime & Investigation Network
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5597.jpg",RETV
+http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/NvJIzn3.png",Pink Comedy
+http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/L3eP9Yx.png",Pink Family
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/6044.jpg",Pink Kids
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/j7PiiEi.jpg",Pink Premium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/SfmkcxF.png",Pink Western
+http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5965.jpg",Victoria's Secret
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/WuYJhkg.jpg",Golf Channel HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4387.jpg",VEVO Country
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/Rp6PKpt.jpg",WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3785.jpeg",UCB TV
+http://wowza02.sharp-stream.com/ucbtv1/ucbtv1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3244.jpg",CNBC (Europe)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/cnnint.gif",CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/skynews.jpg",Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/937.png",euronews
+http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/euronews_en/ls_satlink/b_828.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2872.jpg",Animal Planet
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2523.png",HBO
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2553.jpg",Star Movies HD
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1236.jpg",PBS
+http://128.104.144.134/WisconsinChannel/mystream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1557.jpg",FOX Movies HD
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5535.png",CTV Regina HD
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/0WySc9Y.jpg",WBTV HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2668.jpg",Ginx TV
+http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1680.png",BBC Two
+http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5000.png",FOX HD
+http://46.61.226.18/hls/CH_C02_FOXHD/bw3000000/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5578.jpg",VH1 Classic
+http://46.61.226.18/hls/CH_VH1CLASSIC/bw1500000/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3860.jpg",MBC Action
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1679.jpg",Channel 4
+http://78.129.175.72/live/channel4/channel4.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/129.jpeg",ITV HD
+http://78.129.175.72/live/itv/itv.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4291.jpg",ITV 2
+http://78.129.175.72/live/itv2/itv2.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3281.jpg",ITVBe
+http://78.129.175.72/live/itvbe/itvbe.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2319.png",More 4
+http://78.129.175.72/live/more4/more4.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/104.jpg",Dance TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/5UhbBgX.png",English Club TV
+http://92.50.181.6/tv/1151/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4932.png",FilmHits
+http://94.100.31.242:8183/hls/film1/index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/QVvBPKr.jpg",ABCNews
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&amp;b=1200&amp;rebase=on
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4974.jpg",24/7OfftheAir
+http://adultswim-lh.akamaihd.net/i/adultswim_5@156963/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5784.jpeg",beINSportsUSA
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/pMt74TT.jpg",BigTenNetwork
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4352.jpg",BYUtv
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2510.png",CartoonNetwork
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2218.jpg",24/7MysteryScienceTheater3000
+http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4059.jpg",KTVUNews
+http://ktvu-lh.akamaihd.net/i/KTVU_NEWSCAST@7529/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4926.jpeg",GlobalBC
+http://link.theplatform.com/s/dtjsEC/EqBPGYLY6fEx?feed=DEV%20Live%20Stream
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4890.png",Global
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2217.png",Sportsnet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4195.png",SkySportsF1
+http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2484.jpg",SkySports5
+http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2842.jpg",SkySports1
+http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2413.jpg",Crime&amp;InvestigationNetwork
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5597.jpg",RETV
+http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/NvJIzn3.png",PinkComedy
+http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/L3eP9Yx.png",PinkFamily
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/6044.jpg",PinkKids
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/j7PiiEi.jpg",PinkPremium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/SfmkcxF.png",PinkWestern
+http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5965.jpg",Victoria'sSecret
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/WuYJhkg.jpg",GolfChannelHD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4387.jpg",VEVOCountry
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/Rp6PKpt.jpg",WGNChicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3785.jpeg",UCBTV
+http://wowza02.sharp-stream.com/ucbtv1/ucbtv1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3244.jpg",CNBC(Europe)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/cnnint.gif",CNNInternational
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/skynews.jpg",SkyNews
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/937.png",euronews
+http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/euronews_en/ls_satlink/b_828.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3782.png",MusicTV
+http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5621.jpg",CBCTV8
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5684.png",MelodyChannelTV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3505.png",CTVRegina
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3859.png",CinecanalPlus
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4090.jpg",GoldenEDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://i.imgur.com/Y4MVZGc.png",StudioUniversal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://i.imgur.com/s1jsUqd.gif",MTVLiveHD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2539.jpg",MotorsTV
+http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5577.gif",VH1Europe
+http://46.61.226.18/hls/CH_VH1EUROPEAN/bw1500000/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3781.jpg",CHCH-DT
+http://54.85.197.21:1935/live/news/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4158.jpg",AAAFamily
+http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3861.png",MBC2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3864.jpg",MBCMax
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3130.png",BBCWorldNews
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5805.png",RebelTV
+http://95.211.203.5/live/rebel.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4835.jpg",24/7TheVentureBros.
+http://adultswim-lh.akamaihd.net/i/adultswim_4@156963/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4874.png",24/7TimandEric
+http://adultswim-lh.akamaihd.net/i/timanderic_1@128223/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5531.jpg",TheWeatherNetwork
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5873.jpg",BloombergTVAsia-Pacific
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3680.png",DJing
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4486.jpg",UChannel
+http://edge.nim.mivo.tv/kqcsmbqna6yg/uchannel_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5686.jpg",RadioMonteCarloTV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/RiTJwPA.jpg",FOXCollegeSports
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5141.jpg",GenesisScienceNetwork
+http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/BFMMPwP.png",France24
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4160.jpg",EurosportNews
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4925.jpeg",GlobalHalifax
+http://link.theplatform.com/s/dtjsEC/77l1KA_G_5P1?feed=DEV%20Live%20Stream%20Feed
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4086.png",QVCPlus
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4083.png",QVCUK
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3767.jpg",iFilm
+http://mtv.ashttp7.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SD/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3889.png",RT
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_320p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/Qtpm9W2.png",RTAmerica
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/H4aefdH.png",Pac-12BayArea
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-p.m3u8?
+#EXTINF:0 tvg-logo="http://i.imgur.com/NB8khid.png",Pac-12Mountain
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-p.m3u8?
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2483.jpg",SkySports4
+http://pappuyartangnakar.ddns.net:8080/sp4TK/sp4Rtk/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2471.jpg",SkySports2
+http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2482.jpg",SkySports3
+http://pappuyartangnakar.ddns.net:8080/sportK3/sp0K3re/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5691.png",Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5622.gif",TelevisionJamaica
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@191979/master.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5690.jpg",HardLifeTV
+http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-sKlv6hvLtfE/USFot5aoWAI/AAAAAAAADPE/0gBmihlUC4c/s1600/rad.jpg",Radio105TV
+http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4278.jpg",WXYZ-TV
+http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/348k/prog.m3u8?anv=1428346792363&amp;X-Anvato-Adst-Auth=J7VEixU5Z5zgsiCOwKDDDhuAwX49h37NWMVCFr3hUCHNgTxYyuhgN6KQit0+5qqh
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/5726.png",PinkCrimeandMystery
+http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/iJCQzmj.png",PinkHorror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/4iNWwmf.png",PinkMovies
+http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/mojtube.m3u8
+#EXTINF:0 tvg-logo="http://www.canli-izle.tv/tv_logo_k/1444.jpg",Streetclip.TV
+http://stream.streetclip.tv:1935/live/high-stream/index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4387.jpg",VEVOHipHop/R&amp;B
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4122.jpg",SeattleChannel
+http://video.seattle.gov/hls-live/livepkgr/_definst_/channelevent/ChannelLiveHD3.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/8de2qM6.jpg",AlJazeeraEnglish
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8

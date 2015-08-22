@@ -1,0 +1,229 @@
+<!--
+	Credits
+	KemoNine (xbmcandroid.com/forums)
+	Staticadk (xbmcandroid.com/forums)
+	GSH (xbmcandroid.com/forums)
+-->
+
+<playercorefactory>
+	<players>
+		<!-- MXPlayer Free definition -->
+		<player name="MX Playerfree" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.mxtech.videoplayer.ad</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- MX Player Pro definition -->
+		<player name="MX Player Pro" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.mxtech.videoplayer.pro</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- Plex definition -->
+		<player name="Plex" type="ExternalPl Mkayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.plexapp.plex</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- Avia definition -->
+		<player name="Avia" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.videon.android.mediaplayer</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- VLC Player definition -->
+		<player name="VLC" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>org.videolan.vlc</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- Allcast definition -->
+		<player name="Allcast" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.koushikdutta.cast</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- RockPlayer Lite definition -->
+		<player name="RockPlayerLite" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.redirectin.rockplayer.android.unified.lite</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- BubbleUPnP definition -->
+		<player name="BubbleUPnP" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.bubblesoft.android.bubbleupnp</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- Gallery definition -->
+		<player name="Gallery" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.android.gallery3d</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- Vget definition -->
+		<player name="Vget" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>mb.videoget</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- LocalCast definition -->
+		<player name="Localcast" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>de.stefanpledl.localcast</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>		
+
+		<!-- Vplayer definition -->
+		<player name="Vplayer" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>me.abitno.vplayer.t</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+
+		<!-- Vbukit Chromecast definition -->
+		<player name="Vbukit Chromecast" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.creatingrevolutions.vbukitchromecast</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+	    </player>
+
+     	 <!-- Vbukit definition -->
+		<player name="Vbukit" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.creatingrevolutions.virtualbucket</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+	    </player>
+
+	    <!-- SopCast Player definition -->
+		<player name="SopCast" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>org.sopcast.android</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+	    </player>
+
+		<!-- Dolphin Web Browser definition -->
+		<player name="Dolphin Browser" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>mobi.mgeek.TunnyBrowser</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+		
+		<!-- allshare definition -->
+		<player name=“allshare” type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com..sec.android.allshare</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+		
+		<!-- ES File Explorer definition -->
+		<player name="ES File Explorer" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.estrongs.android.pop</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+		
+		<!-- RemoteCast definition -->
+		<player name="RemoteCast" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.benlc.camcast</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+		
+		<!-- Cast2TV Pro definition -->
+		<player name=“Cast2TV” type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename>com.ytweb</filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+		
+		<!--  definition -->
+		<player name="" type="ExternalPlayer" audio="false" video="true">
+			<!-- Android intent -->
+			<filename></filename>
+			<!-- Hide XBMC -->
+			<hidexbmc>true</hidexbmc>
+			<!-- After 2 minutes bump the play count of the item in XBMC -->
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+	</players>
+	
+	<!-- Rules for which external player to use -->
+	<!-- MX Player Pro is default
+	         change player= value to one of the above names to change this -->
+	<rules action="prepend">
+		
+		<!-- Video files -- Default rule (last to ensure above trigger first -->
+		<rule video="true" player="MXPlayer Free"/>
+	</rules>
+</playercorefactory>

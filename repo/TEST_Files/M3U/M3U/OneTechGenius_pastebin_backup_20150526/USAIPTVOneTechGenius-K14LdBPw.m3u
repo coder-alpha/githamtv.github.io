@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***ABD - USA ***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,AMC (RU/EN Audio)
+http://31.130.9.158:81/udp/238.1.2.44:1234
+#EXTINF:-1,BBC America HD
+http://31.220.41.111:80/LiveEdge/BBCAmericaHD/chunklist_w1773661470_b1000000.m3u8?token=
+#EXTINF:-1,BLOMBERG
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bloomberg/ls_satlink/b_828.m3u8
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1,CarolCablesTV (Florida) mmsh
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+#EXTINF:-1,Cartoon (RU/EN Audio)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+#EXTINF:-1,CBS Sports Network
+http://31.220.41.103:80/LiveEdge/CBSSportsNetworkUS/chunklist_w2063228985_b1000000.m3u8?token=
+#EXTINF:-1,Channel 6 - City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$
+#EXTINF:-1,CineMax East
+http://31.220.41.111/LiveEdge/CinemaxEastUS/chunklist_w1861841138_b1000000.m3u8?token=
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,Encore East
+http://31.220.41.110:80/LiveEdge/EncoreEastHD/chunklist_w278428019_b1000000.m3u8?token=
+#EXTINF:-1,ESPN US
+http://31.220.41.107:80/LiveEdge/ESPNUS/chunklist_w689312563_b1000000.m3u8?token=
+#EXTINF:-1,FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1,Fox 1 HD (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,Fox Action (US)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1,FOX CINEMA (US)
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1,FOX CLASSICS (US)
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1,Fox Family (US)
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,Fox Sports 1 US
+http://31.220.40.100:80/LiveEdge/FoxSports1HD/chunklist_w231183099_b1000000.m3u8?token=
+#EXTINF:-1,Fox Sports 2 US
+http://31.220.2.221:80/LiveEdge/FoxSports2US/chunklist_w286577617_b1000000.m3u8?token=
+#EXTINF:-1,FOX SPORTS NEWS HD
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
+#EXTINF:-1,GMU TV (Virginia) mms
+mms://media.mesa.gmu.edu/capconwhite1
+#EXTINF:-1,Hallmark Movie Channel HD
+http://31.220.41.110:80/LiveEdge/HallmarkMovieChannelUS/chunklist_w1274236983_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2 West
+http://31.220.41.111:80/LiveEdge/HBO2WestUS/chunklist_w691497406_b1000000.m3u8?token=
+#EXTINF:-1,HBO Comedy East
+http://31.220.2.220:80/LiveEdge/HBOComedyEastUS/chunklist_w935175443_b1000000.m3u8?token=
+#EXTINF:-1,HBO East
+http://31.220.41.111:80/LiveEdge/HBOEastUS/chunklist_w1634307971_b1000000.m3u8?token=
+#EXTINF:-1,HBO West
+http://31.220.2.221:80/LiveEdge/HBOWestUS/chunklist_w1108801454_b1000000.m3u8?token=
+#EXTINF:-1,HBO Zone
+http://31.220.40.108:80/LiveEdge/HBOZoneUS/chunklist_w320493732_b1000000.m3u8?token=
+#EXTINF:-1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1,HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+#EXTINF:-1,MLB Network
+http://31.220.41.103:80/LiveEdge/MLBNetworkHD/chunklist_w120707322_b1000000.m3u8?token=
+#EXTINF:-1,MSNBC
+rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
+#EXTINF:-1,NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,NBA TV
+http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
+#EXTINF:-1,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,News Brooklyn(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1,News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1,News Westchester(Weather from Hudson Valley)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,NFL Network
+http://31.220.2.221:80/LiveEdge/NFLNetworkUS/chunklist_w291124137_b1000000.m3u8?token=
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+#EXTINF:-1,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1,Showtime Beyond East
+http://31.220.41.107/LiveEdge/ShowtimeBeyondEastUS/chunklist_w1863492743_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Extreme East
+http://31.220.41.103:80/LiveEdge/ShowtimeExtremeEastUS/chunklist_w597992924_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Next
+http://31.220.2.220:80/LiveEdge/ShowtimeNextUS/chunklist_w973847094_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Showcase East
+http://31.220.41.107:80/LiveEdge/ShowtimeShowcaseEastUS/chunklist_w558093061_b1000000.m3u8?token=
+#EXTINF:-1,Showtime West
+http://31.220.41.103:80/LiveEdge/ShowtimeWestUS/chunklist_w514349824_b1000000.m3u8?token=
+#EXTINF:-1,Sony Movie Channel USA
+http://31.220.2.221:80/LiveEdge/SonyMovieChannelUS/chunklist_w2109190971_b1000000.m3u8?token=
+#EXTINF:-1,SPORTES 6 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,SPORTES 7 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,Starz Cinema East
+http://31.220.2.221/LiveEdge/StarzCinemaEastUS/chunklist_w728228150_b1000000.m3u8?token=
+#EXTINF:-1,Starz East
+http://31.220.40.108:80/LiveEdge/StarzEastHD/chunklist_w2022301216_b1000000.m3u8?token=
+#EXTINF:-1,Starz in Black East
+http://31.220.41.103/LiveEdge/StarzInBlackEastUS/chunklist_w2087048984_b1000000.m3u8?token=
+#EXTINF:-1,Starz Kids & Family East
+http://31.220.41.102:80/LiveEdge/StarzKidsFamilyEastUS/chunklist_w1565892697_b1000000.m3u8?token=
+#EXTINF:-1,Starz West
+http://31.220.40.108:80/LiveEdge/StarzWestUS/chunklist_w180614607_b1000000.m3u8?token=
+#EXTINF:-1,TCM USA
+http://31.220.41.102/LiveEdge/TCMUS/chunklist_w2047265790_b1000000.m3u8?token=
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,The Movie Channel East
+http://31.220.40.108/LiveEdge/TheMovieChannelEastHD/chunklist_w67402912_b1000000.m3u8?token=
+#EXTINF:-1,The Movie Channel Xtra East
+http://31.220.41.107:80/LiveEdge/TheMovieChannelXtraEastUS/chunklist_w393745351_b1000000.m3u8?token=
+#EXTINF:-1,ThrillerMax East
+http://31.220.41.110:80/LiveEdge/ThrillerMaxEasUS/chunklist_w887093571_b1000000.m3u8?token=
+#EXTINF:-1,UFC (latino)
+http://31.220.2.220:80/LiveEdge/UFCNetworkLA/chunklist_w519816327_b1000000.m3u8?token=
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8

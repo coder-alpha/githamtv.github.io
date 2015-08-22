@@ -1,0 +1,173 @@
+
+ 
+mplayer http://usa.fankytv.com/live/espn.stream/playlist.m3u8   #espn
+ 
+mplayer http://195.244.40.230:8001/1:0:1:274C:7FC:2:11A0000:0:0:0: #sky sports 5
+ 
+mplayer http://202.75.23.37:1400/live/ch21/03.m3u8 ##Eurosport_HD_Eng
+ 
+mplayer rtsp://a627.l2479952251.c24799.g.lm.akamaistream.net/D/627/24799/v0001/reflector:52251  #Bloomberg
+ 
+mplayer rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200  #sportstimetv1
+ 
+mplayer rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200 #SportsTimeTV2
+ 
+mplayer rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200 #sportstimetv3-GER
+ 
+mplayer http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8 #sportsnetextra1hd
+ 
+mplayer http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8 #sportsneteast
+ 
+mplayer http://str103.setplex.net:1935/228/stv_online/playlist.m3u8  #stvonline
+ 
+mplayer rtmp://213.136.71.43/live/beinsports1 #biensports
+ 
+mplayer http://202.75.23.37:1400/live/ch18/03.m3u8 #biensports1
+ 
+mplayer http://relay1.bitnet.dn.ua/tv/533ec0fdbafdfa8c1f1e9c119bd5d8c4/  #xsport
+ 
+mplayer http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8 #nasa
+ 
+mplayer http://202.75.23.34:1400/live/ch31/04.m3u8 #AnimalPlanet_Eng
+ 
+mplayer http://202.75.23.36:1400/live/ch46/03.m3u8  ##Bio_SD_Eng
+ 
+mplayer http://202.75.23.34:1400/live/ch29/03.m3u8   #Discovery_SD_Eng
+ 
+mplayer http://202.75.23.36:1400/live/ch46/04.m3u8  #Bio_HD_Eng
+ 
+mplayer http://202.75.23.34:1400/live/ch34/04.m3u8 #Discovery_Home_HD_Eng
+ 
+mplayer http://202.75.23.34:1400/live/ch29/04.m3u8   #Discovery_HD_Eng
+ 
+mplayer http://202.75.23.34:1400/live/ch30/01.m3u8  #Nat_Geo_SD_Eng
+ 
+mplayer http://202.75.23.35:1400/live/ch38/04.m3u8   #Nat_Geo_HD_Eng
+ 
+mplayer http://202.75.23.34:1400/live/ch30/04.m3u8  ##Discovery_World_HD_Eng
+ 
+mplayer http://202.75.23.35:1400/live/ch36/01.m3u8 ##Discovery_World_SD_Eng
+ 
+mplayer http://202.75.23.34:1400/live/ch34/01.m3u8  ##Discovery_Kids_SD_Eng
+ 
+mplayer  mms://194.88.72.13/skynews_wmlz_live300k  ##Sky_News_SD_Eng
+ 
+mplayer http://cdn.live.simplestream.com/JDFNNS9B2UOL2FL1N2GQ/3/playlist-limelight.m3u8  #foodnetwork
+ 
+mplayer http://82.135.224.134:80/udp/239.100.3.3:1234 #Unknown_Eng
+ 
+mplayer http://82.135.224.134:80/udp/239.100.3.1:1234  #BBC1
+ 
+mplayer http://bit.do/Simpletv39-HD-2-vlc-eu-pn-26 ##Simple_TV_Eng
+ 
+mplayer http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/64.m3u8  ##AlJazeera_Eng
+ 
+mplayer http://c9.vkcache.com/sec/lNH_lm9uUUQR9O9mdekqRw/1413424800/hls-vod-s4/flv/api/files/videos/2014/10/14/1413294299be3dc.mp4.m3u8 ##Pron_HD_Eng
+ 
+mplayer http://80.87.146.133:1111/udp/230.3.4.150:5678 ##pron
+ 
+mplayer http://178.159.82.136:4022/udp/239.192.10.70:1234 ##Fashion_TV_Eng
+ 
+mplayer rtmp://fms.105.net:1935/live/virgin1  ##Virgin_TV_Music_Eng
+ 
+mplayer http://hd1.lsops.net/live/euronews_en_340/playlist.m3u8 #Euronews_Eng
+ 
+mplayer http://www.tvonlinestreams.com@u.to/jPidCA ##Kids_Eng
+ 
+mplayer http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 ##vevoHD_Music
+ 
+mplayer http://212.79.96.134:8024 ##VH1_Classic_Eng
+ 
+mplayer http://202.75.23.37/live/ch18/03.m3u8  ##Bien_Sports1
+mplayer http://202.75.23.37/live/ch19/03.m3u8  ##Bien_Sports2
+ 
+mplayer http://202.75.23.36:1400/live/ch48/03.m3u8  ##Lifetime_Eng
+ 
+mplayer http://81.201.52.159:8024 #VH1Classic
+ 
+mplayer rtmp://live190.la3.origin.filmon.com:8086/live/245.high.stream #pron
+ 
+mplayer http://videohttp2.porndig.com/videos/2014/07/57023_20140711.smil/chunklist_b1824000.m3u8   #pron
+ 
+mplayer http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8   #4Music
+ 
+mplayer http://202.75.23.35:1400/live/ch38/01.m3u8 ##Nat_Geo_HD_Eng
+ 
+mplayer http://s1.streamuj.tv:8080/vid/fc0c1df9881d2b1457e9ac847dc29a3a/5448176c/59669_sd.flv?start=0  #movie
+ 
+mplayer http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on  #SportsUSA
+ 
+mplayer rtmp://stream.smcloud.net/live2/best/best_480p ##Music
+ 
+mplayer http://bglive-a.bitgravity.com/twit/live/high   ##TwitTV
+ 
+rtmpdump -v -r "rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_med" | mplayer -    #aljazeera
+ 
+rtmpdump -v -r rtmp://cp103653.live.edgefcs.net/live/international_medium@36382 | mplayer -      #abcnews_australia
+ 
+##non english
+mplayer http://世界テレビ_www.vlc.eu{HD}{SPORT}=www.vlc.eu.pn@hop.02.lv/2bf ##Dubai_Sports_Non_Anglais
+mplayer rtmp://serv02.vintera.tv/push//hdmedia.stream  ##HD_Media_Stream_Non_Anglais
+mplayer rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream ##HD_Media_Stream_3D_Non_Anglais
+mplayer http://qlql.ru/bUO ##Sports5_Non_Anglais
+mplayer rtmp://31.204.153.71/live/master06 ##ESPN
+mplayer rtmp://31.204.153.71/live/master05 ##ESPN1
+mplayer http://www.tvonlinestreams.com@mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8 ##prosports1
+mplayer http://178.151.4.67:8888/udp/238.0.0.58:1234  #futbol 
+mplayer rtmp://iptv1.sat-elit.net/iptv/531 ##sport
+mplayer rtmp://iptv1.sat-elit.net/iptv/532 ##sport
+mplayer http://brodilo.tv:8100 ##unknown
+mplayer http://62.209.36.244:8081origin.filmon.com/udp/239.100.40.1:1234  #skysportsGerman
+mplayer http://tvonlinestreams.com=HD=www.vlc.eu.pn@149.255.39.122:2002/aasd/8733/index.m3u8  #sport
+http://tvonlinestreams.com=HD=www.vlc.eu.pn@149.255.39.122:2002/aasd/8814/index.m3u8   #sport
+http://tvonlinestreams.com=HD=www.vlc.eu.pn@149.255.39.122:2002/aasd/8815/index.m3u8   #sport
+http://tvonlinestreams.com=HD=www.vlc.eu.pn@149.255.39.122:2002/aasd/8814/index.m3u8   #sport
+########################################################### LIVESTREAMER ###########################################################
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/bbc-one best  #BBC1
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/bbc-two best  #BBC2
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/bbc-three best  #BBC3
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/channel-4 best   #Channel4
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/channel-5   ##Channe5
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/itv1 best #ITV1
+ 
+livestreamer -p mpv http://www.filmon.com/tv/dave best  #Dave
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/itv2 best #ITV2
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/quest best #Quest
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/dave best #Dave
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/e4 best #E4
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/cbs-reality1 best #Realty+1
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/cbs-reality best #Reality
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/itv3 best #ITV3
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/itv4 best #ITV4
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/really best #Really
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/the-war-channel best #War-Channel
+ 
+livestreamer -p mplayer http://www.filmon.com/tv/living-history-channel best #Hist
+ 
+livestreamer -p mplayer http://veetle.com/index.php/channel/view#541c316fe8423/c110901717efc14a622f796902b21505 best #SouthPark
+ 
+livestreamer -p mplayer http://veetle.com/index.php/channel/view#4cfd8ae6f0bd8 best #CSI
+ 
+livestreamer -p mplayer http://veetle.com/index.php/channel/view#542059aeb250c/3edea3948753ae5ed2111b1b2dc3f09f best #Ancient_Aliens
+ 
+livestreamer -p mplayer http://veetle.com/index.php/channel/view#4ff683c52c4d1/1a6a272969c126dcc7141fc343b85d91 best #UKComedy
+ 
+livestreamer -p mplayer http://veetle.com/index.php/channel/view#54276dc67368b/33cee352127a87171ef6a9d9e1ad37f7 best #Sopranos
+ 
+livestreamer -p mplayer https://www.connectcast.tv/jazzrack13 best #Star_Trek

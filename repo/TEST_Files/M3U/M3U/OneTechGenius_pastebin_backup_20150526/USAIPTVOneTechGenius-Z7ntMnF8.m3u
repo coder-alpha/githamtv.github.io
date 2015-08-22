@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1,4 Music
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+#EXTINF:-1,4 Seven
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+#EXTINF:-1,4 Seven Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+#EXTINF:-1,5 Star
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+#EXTINF:-1,5 USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1,BBC 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+#EXTINF:-1,BBC 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+#EXTINF:-1,BBC 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+#EXTINF:-1,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:-1,BBC News Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+#EXTINF:-1,BBC WORLD NEWS
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,CBS Action
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+#EXTINF:-1,CBS Reality
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+#EXTINF:-1,Channel 4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+#EXTINF:-1,Channel 4 +1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+#EXTINF:-1,Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+#EXTINF:-1,Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+#EXTINF:-1,Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+#EXTINF:-1,cnn m3u8
+http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8
+#EXTINF:-1,DAIL EIREANN rtsp
+rtsp://wms.servers.heanet.ie/Dail
+#EXTINF:-1,Dave
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+#EXTINF:-1,Dave Ja Vu
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+#EXTINF:-1,Drama
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+#EXTINF:-1,E4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+#EXTINF:-1,Film Four
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+#EXTINF:-1,Film Four +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+#EXTINF:-1,Florida-CarolCablesTV mms
+mms://207.7.154.95/G0937_002?wmcache=0
+#EXTINF:-1,Food Network
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+#EXTINF:-1,Horror Channel
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+#EXTINF:-1,ITV 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+#EXTINF:-1,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+#EXTINF:-1,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+#EXTINF:-1,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+#EXTINF:-1,JCTV
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
+#EXTINF:-1,JCTV Music, Mobile, Music Blender, Others US
+http://www.jctv.org/watchlive/jc-tv200.asx
+#EXTINF:-1,Knob Ch1 mms
+mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
+#EXTINF:-1,More 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+#EXTINF:-1,Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+#EXTINF:-1,MovieMix
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+#EXTINF:-1,Movies4Men
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+#EXTINF:-1,Pick TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+#EXTINF:-1,Quest
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+#EXTINF:-1,Quest +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+#EXTINF:-1,Really
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+#EXTINF:-1,RTE One
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:-1,RTE2
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:-1,RTEjr
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:-1,Sky ARTRS 2
+http://188.227.189.18:8082/TV4250
+#EXTINF:-1,Sky Movies Action & Adventure
+http://188.227.189.18:8082/TV4245
+#EXTINF:-1,Sky Movies Comedy
+http://188.227.189.18:8082/TV4246
+#EXTINF:-1,Sky Movies Disney
+http://188.227.189.18:8082/TV4247
+#EXTINF:-1,Sky Movies Family
+http://188.227.189.18:8082/TV4248
+#EXTINF:-1,Sky Movies Premiere
+http://188.227.189.18:8082/TV4251
+#EXTINF:-1,Sky Movies Premiere+
+http://188.227.189.18:8082/TV4252
+#EXTINF:-1,Sky Movies SciFi
+http://188.227.189.18:8082/TV4249
+#EXTINF:-1,Sky Sky Movies Select
+http://188.227.189.18:8082/TV4254
+#EXTINF:-1,Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+#EXTINF:-1,TG4
+http://212.250.46.35:4252/bysid/9603
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,True Entertainment
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+#EXTINF:-1,TruTV UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+#EXTINF:-1,TV3
+http://212.250.46.35:4252/bysid/9605
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,Yesterday
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,BLOMBERG
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bloomberg/ls_satlink/b_828.m3u8
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1,CarolCablesTV (Florida) mmsh
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+#EXTINF:-1,Cartoon (RU/EN Audio)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+#EXTINF:-1,Channel 6 – City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1,Fox 1 HD (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,Fox Action (US)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1,FOX CINEMA (US)
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1,FOX CLASSICS (US)
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1,Fox Family (US)
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,GMU TV (Virginia) mms
+mms://media.mesa.gmu.edu/capconwhite1
+#EXTINF:-1,NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,News Brooklyn(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1,News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1,News Westchester(Weather from Hudson Valley)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1,SPORTES 7 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8

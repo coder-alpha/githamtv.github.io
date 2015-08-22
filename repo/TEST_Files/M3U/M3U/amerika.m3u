@@ -1,0 +1,337 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***AMERIKA-AMERICA-LATINO***LONG BUFFERS
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,Argentina - ARGENTINA TN 24 Horas
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+#EXTINF:-1,Argentina - C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1,Argentina - Canal 12 – Córdoba, Argentiina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1,Argentina - CANAL 13 ARGENITNA
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,Argentina - CANAL 26 mms
+mms://200.115.194.1:1755/Canal26
+#EXTINF:-1,Argentina - Canal 5 Argentina
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live swfUrl=http://c5n.minutouno.com/js/c5n/jwplayer/player.swf live=1 pageUrl=http://www.miscanalesdetv.net/2013/02/c5n.html
+#EXTINF:-1,Argentina - Canal 5 Tigre, Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+#EXTINF:-1,Argentina - Canal 79 Mar del Plata. Argentina
+rtmp://144.76.17.146/cn79a/cn79a
+#EXTINF:-1,Argentina - Canal Rural 1
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:-1,Argentina - CANAL RURAL 2
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:-1,Argentina - CANAL RURAL 3
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
+#EXTINF:-1,Argentina - LAPACHO TV CANAL 11 FORMOSA ARGENTINA
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1,Argentina - Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Argentina - TN24 AR
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1,Argentina - Tucuman Canal 5
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+#EXTINF:-1,Argentina-AMERICA TV
+http://iphone-streaming.ustream.tv/ustreamVideo/17916695/streams/live/playlist.m3u8
+#EXTINF:-1,ARGENTINA-ARGENTINISIMA TV
+http://transmisionargtv.com.ar:8207/
+#EXTINF:-1,ARGENTINA-C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1 pageUrl=http://c5n.minutouno.com/contenidos/home.html
+#EXTINF:-1,Argentina-C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1 pageUrl=http://c5n.minutouno.com/contenidos/home.html
+#EXTINF:-1,Argentina-CANAL 11 LAPACHO TV FORMOSA
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1,ARGENTINA-CANAL 11 TV LAPACHO
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1,Argentina-CANAL 26
+mmsh://200.115.194.1:8080/canal26?MSWMExt=.asf
+#EXTINF:-1,ARGENTINA-CANAL 4 SAN JUAN
+rtmp://$OPT:rtmp-raw=rtmp://streamlky.alsolnet.com:1935/canal4sanjuan playpath=live swfUrl=http://www.alsolnet.com/stream/canal4sanjuan/alsolnetplayer.swf live=1 pageUrl=http://wwitv.com/tv_channels/b3623.htm
+#EXTINF:-1,Argentina-CANAL 4 SAN JUAN
+rtmp://$OPT:rtmp-raw=rtmp://streamlky.alsolnet.com:1935/canal4sanjuan playpath=live swfUrl=http://www.alsolnet.com/stream/canal4sanjuan/alsolnetplayer.swf live=1 pageUrl=http://wwitv.com/tv_channels/b3623.htm
+#EXTINF:-1,Argentina-CANAL 9
+rtmp://$OPT:rtmp-raw=rtmp://72.46.226.53:80/live01/_definst_ playpath=canal91 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf live=true timeout=15 pageUrl=http://fpdownload.adobe.com/
+#EXTINF:-1,Argentina-EL TRECE HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,Argentina-EL TRECE HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,ARGENTINA-MAGAZINE
+rtmp://$OPT:rtmp-raw=rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+#EXTINF:-1,Argentina-Pringles TV CANAL 6
+http://200.70.58.102:8080/?MSWMExt=online-television.net.asf
+#EXTINF:-1,Argentina-TN 24 HORAS HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd2 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf pageUrl=http://tn.com.ar/envivo/24hs live=true timeout=15
+#EXTINF:-1,Argentina-TN 24 HORAS HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1,Argentina-TN 24 HORAS HD
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,ARGENTINA-TN 24 HORAS HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1,Argentina-TN 24 HORAS SD
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+#EXTINF:-1,BOLIVIA Redadvenir
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+#EXTINF:-1,Canada -  METROVISION
+rtmp://$OPT:rtmp-raw=rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getCanada - /122/1
+#EXTINF:-1,Canada -  SLTV
+rtmp://$OPT:rtmp-raw=rtmp://saltandlighttv.streamguys.net:80/live/ playpath=sltviphone.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/9.html
+#EXTINF:-1,Canada - ARGENT TV
+rtmp://$OPT:rtmp-raw=rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/argent.html
+#EXTINF:-1,Canada - METRO TV
+rtmp://$OPT:rtmp-raw=rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
+#EXTINF:-1,Canada - TVA2/TVA SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://cp39414.live.edgefcs.net/live/shoptva@9752 playpath=shoptva@9752 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/tva2.html
+#EXTINF:-1,Caracol HD
+http://acaooyalahd2-lh.akamaihd.net/i/caracol04_delivery@187706/index_2128_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Chile - ANTOFAGASTA TV CANAL 30
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
+#EXTINF:-1,Chile - ARICA TV
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1,Chile - AYSEN TV
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+#EXTINF:-1,Chile - AYSEN TV  OPTION 2
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+#EXTINF:-1,Chile - C9 BIO BIO TV CONCEPCION
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
+#EXTINF:-1,Chile - C9 BIO BIO TV CONCEPCION  OPTION 2
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:-1,Chile - CAMARA DE DIPUTADOS
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+#EXTINF:-1,Chile - CAMPUS TV TALCA
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1,Chile - CNN CHILE
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+#EXTINF:-1,Chile - CONTIVISION HD CONSTITUCION
+rtmp://stream1.eltelon.com:1935/live/contivision/contivision671
+#EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
+#EXTINF:-1,Chile - MEGA HD SANTIAGO  OPTION 3
+rtsp://megatandas.ztreaming.com:80/megatandas/stream01megatandas04032013.sdp
+#EXTINF:-1,Chile - ROCCO TV COYHAIQUE
+rtmp://$OPT:rtmp-raw=rtmp://stream1.eltelon.com:80/live/rocco-tv/ playpath=rocco-tv571 swfUrl=http://new.eltelon.com/resources/player/liveplayer/jwplayer.flash.swf live=1 pageUrl=http://new.eltelon.com/rocco-tv/canal/rocco-tv
+#EXTINF:-1,Chile - SUB TV SANTIAGO
+http://190.196.9.186:8080/subtv
+#EXTINF:-1,Chile - TV PATAGONIA PUNTA ARENAS
+http://69.164.193.177:1935/live/myStream/hasbahca.m3u8
+#EXTINF:-1,Chile - TV SENADO
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+#EXTINF:-1,Chile - UNIACC TV CANAL 34 SANTIAGO
+http://upmv10.comcast.upmv.ustream.tv/0/1/40/40611/40611222/1_11176799_40611222.flv?tracking=ad6f16_61_1_0_0&src=ro&hash=7ae0
+#EXTINF:-1,Chile - VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1,Colombia - Cable Noticias
+rtmp://$OPT:rtmp-raw=rtmp://50.23.172.98:1935/live/ playpath=cablenoticiastv
+#EXTINF:-1,Costa Rica - Canal 13
+rtmp://$OPT:rtmp-raw=rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
+#EXTINF:-1,COSTA RICA Canal 13
+rtmp://$OPT:rtmp-raw=rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
+#EXTINF:-1,DOMINICIAN Telenord Canal 10
+rtmp://$OPT:rtmp-raw=rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal10
+#EXTINF:-1,DOMINICIAN Telenord Canal 8
+rtmp://$OPT:rtmp-raw=rtmp://mek2.mekstream.com:1935/telenord8 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord8/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal8
+#EXTINF:-1,Dominik-Noticias 16 Canal 16
+http://mek2.mekstream.com:1935/noticias16/live2/hasbahca.m3u8
+#EXTINF:-1,Dominik-Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+#EXTINF:-1,Dominik-Telefuturo Canal 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+#EXTINF:-1,Dominik-Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Ecuador - Ecuador TV
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.216:1935/live playpath=ecuadortvn3 swfUrl=http://www.ecuadortv.ec/mod_video/player.swf live=1
+#EXTINF:-1,Kanada - LCN
+rtmp://$OPT:rtmp-raw=rtmp://cp39414.live.edgefcs.net:1935/live playpath=lcn1@9753 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/lcn.html
+#EXTINF:-1,Kanada - Savoir
+rtsp://stream2.canal.qc.ca/enOndes_haut_debit
+#EXTINF:-1,Latino - C5N noticias
+rtmp://c5n.stweb.tv:1935/c5n/live_media
+#EXTINF:-1,Latino - CNN Chile
+rtmpt://200.83.3.28/CNN-CHILE/CNN-CHILE
+#EXTINF:-1,Latino - EuroNews noticias en español
+rtmp://$OPT:rtmp-raw=rtmp://fr-par-10-stream-relay.hexaglobe.net:80/rtpeuronewslive playpath=es_video350_rtp.sdp swfUrl=http://es.euronews.com/media/player_live_1_14.swf live=1 pageUrl=http://es.euronews.com/noticias/en-directo/
+#EXTINF:-1,Latino - Goltv Lat
+rtmp://$OPT:rtmp-raw=rtmp://162.253.128.130/edge/ch5/ch5 playpath=ch5 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player3.php?chname=ch5&width=620&height=382&domain=www.pirlotv.tv
+#EXTINF:-1,Latino - hispantv
+rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+#EXTINF:-1,Latino - MTV Latino
+rtmp://$OPT:rtmp-raw=rtmp://extondemand.livestream.com/ondemand playpath=trans/union/mogulus-user-files/ch40tv/2008/07/03/5f104d19-82ae-4810-99e0-dc93269972f5
+#EXTINF:-1,Latino - Musa visión canal 10 (SPM)
+rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
+#EXTINF:-1,Latino - Teleantillas
+rtmp://$OPT:rtmp-raw=rtmp://mek4.mekstream.com/teleantillas playpath=live3_source swfUrl=http://www.mekstream.com/clients/teleantillas/player-licensed.swf live=1 pageUrl=http://teleantillas.com.do/senal-en-vivo/
+#EXTINF:-1,Latino - Telesistema
+rtmp://$OPT:rtmp-raw=rtmp://mek4.mekstream.com/telesistema playpath=live3 swfUrl=http://www.mekstream.com/clients/telesistema/player-licensed.swf live=1 pageUrl=http://telesistema11.com.do/senal-en-vivo/
+#EXTINF:-1,Latino - Univision Deportes Network
+rtmp://$OPT:rtmp-raw=rtmp://137.63.71.66/edge/udn/udn playpath=udn swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=udn&width=620&height=382&domain=www.pirlotv.tv
+#EXTINF:-1,MEXICO - AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Mexico - Canal 11 Mexico
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf live=1 pageUrl=http://www.elchoyerotv.tv/2013/09/canal-once-tv-en-vivo-online.html
+#EXTINF:-1,Mexico - Canal 22 de Mexico
+rtmp://origen.cloudapp.net:1935/live/envivopc
+#EXTINF:-1,Mexico - Canal 22 Mexico
+rtmp://$OPT:rtmp-raw=rtmp://origen.cloudapp.net/live/ playpath=envivopc swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/15.html
+#EXTINF:-1,Mexico - Canal 4 Mexico
+rtmp://159.16.243.10/live/canal4/canal4
+#EXTINF:-1,Mexico - Canal 5 de Mexico
+rtmp://159.16.243.10/live/canal5/canal5
+#EXTINF:-1,Mexico - Canal 6 Guadalajara Mexico
+rtmp://200.52.193.57:1935/live/unique/live_2650
+#EXTINF:-1,Mexico - CB Television
+rtmp://$OPT:rtmp-raw=rtmp://189.199.90.164:1935/live playpath=myStreamHD.sdp swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.stream2video.tv/getStream/132/1
+#EXTINF:-1,Mexico - ERH
+rtmp://$OPT:rtmp-raw=rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/20.html
+#EXTINF:-1,Mexico - milenio_centro
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1,MEXICO - MULTIMEDIOS TV
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+#EXTINF:-1,Mexico - oncetv
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/137/1
+#EXTINF:-1,Mexico - Radio y Televisión Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,Mexico - TVMas Mexico
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Mexico Canal 10
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf
+#EXTINF:-1,Mexico -Mexiquense
+rtmp://$OPT:rtmp-raw=rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ playpath=broadcast1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/134/1
+#EXTINF:-1,MEXICO-A&E
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=108&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Animal Planet
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=261&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-AXN HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=112&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Azteca 13
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=68&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Azteca 7
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=16&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Bandamax
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=449&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-BBC
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=129&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Cadena 3
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=73&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Canal 2
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=44&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Canal 5
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=40&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Cartoon Network
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Cinecanal
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Cinecanal Plus
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=312&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Cinemax
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Comedy Central
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=120&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Discovery
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=257&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Discovery Civilization
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=281&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Discovery HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=244&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Discovery Science
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=277&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Disney
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Disney XD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Distrito Comedia
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-E
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=133&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-elGourmet
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=161&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Film Zone HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=324&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Fox
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=88&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-FX HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Glitz
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=165&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Golden Edge
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=363&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Golden HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=320&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-History
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=248&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-I.Sat
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-ID
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-INFinito
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-MGM
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=365&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-MGM HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=331&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Moviecity Action
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Moviecity Classics
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=345&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Moviecity Family
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Moviecity Hollywood HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=308&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Moviecity Mundo
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=337&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Moviecity Premieres HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-MTV
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=441&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-MTV Live
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=432&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Nat Geo
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=269&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Nat Geo Wild
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=252&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Nick
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Nick HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=216&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Nicktoons
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=469&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Once TV
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=64&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Proyecto 40
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=72&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Ritmoson
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=445&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Sony
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=92&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Space
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=369&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Space HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=336&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Studio Universal
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-SyFy
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-tbs
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-TCM
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=381&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Telehit
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=436&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-TLC HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=256&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-TNT
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=357&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-TNT HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=316&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-tooncast
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-TRU TV HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=116&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Unicable
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=124&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Universal HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=100&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Vh1 HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=440&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,MEXICO-Warner
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=hasbahca.m3u8
+#EXTINF:-1,Perú - Lima Megavisión (Peru)
+rtmp://$OPT:rtmp-raw=rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/

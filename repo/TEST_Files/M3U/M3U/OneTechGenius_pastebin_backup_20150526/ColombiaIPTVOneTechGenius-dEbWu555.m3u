@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]-------------- ESPANOL --------------[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --IPTVXBMC 4-16-2015--[/COLOR]  
+#EXTINF:-1, [COLOR green] --IPTVXBMC.COM EXPERIENCE-[/COLOR]
+http://www.xbmcmxtv.com
+
+
+#EXTINF:-1,[COLOR blue]COLOMBIA[/COLOR]
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TeleAntioquía (Colombia)
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Telecafe (Colombia)
+http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Telemedellin (Colombia)
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  caracol test
+rtmp://207.244.67.7:1935/iguide playpath=a4jap9zysp1psim swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD 
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Caracol HD
+rtmp://89.248.168.57/iguide playpath=a4jap9zysp1psim swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  TyC Sports
+http://38.95.112.2/tyc-edge/live/master.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Caracol TV
+http://bclivehd-lh.akamaihd.net/i/noticiascaracol_1@125557/master.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Canal 13
+http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Mi Gente
+http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Telepacifico
+http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Canal Cnc QuindÃ­o
+http://xcncarmeniax.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal 9
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
+#EXTINF:-1 tvg-id="RCN" tvg-logo="rcn.png" group-title="Variedades - Latinos",RCN Colombia
+rtmp://50.7.69.186/iguide playpath=g5a1l98d8gy0ob0 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+#EXTINF:-1 tvg-id="Caracol" tvg-logo="caracol.png" group-title="Variedades - Latinos",Caracol Colombia
+rtmp://50.7.69.186/iguide playpath=a4jap9zysp1psim swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+#EXTINF:-1 tvg-id="TeleMedellin" tvg-logo="tele medellin.png" group-title="Variedades - Latinos",TeleMedellin Colombia
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+#EXTINF:-1 tvg-id="Telecafé" tvg-logo="telecafe.png" group-title="Variedades - Latinos",Telecafé Colombia
+http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="Variedades - Latinos",Teleantioquia Colombia
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1 tvg-id=Telepacifico" tvg-logo="telepacifico.png" group-title="Variedades - Latinos",Telepacifico Colombia
+http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id=Cosmovision tvg-logo="cosmovision.png" group-title="Variedades - Latinos",Cosmovision Colombia
+http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
+#EXTINF:-1 tvg-id=UNEtv" tvg-logo="unetv.png" group-title="Variedades - Latinos",Une TV Colombia
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+#EXTINF:-1 tvg-id=TeleCaribe" tvg-logo="telecaribe.png" group-title="Variedades - Latinos",TeleCaribe Colombia
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-id="VMasTV" tvg-logo="vmastv.png" group-title="Variedades - Latinos",VMas+TV Colombia
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+#EXTINF:-1 tvg-id="Canal Tr3ce Colombia" tvg-logo="canal tr3ce.png" group-title="Variedades - Latinos",Canal Tr3ce Colombia
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1 tvg-id="Canal U" tvg-logo="canalu.png" group-title="Variedades - Latinos",Canal U Colombia
+http://uneapple-i.akamaihd.net/hls/live/206416/grupoune_st15@206416/st15_index.m3u8
+#EXTINF:-1 tvg-id="SeñalInstitucional" tvg-logo="senalinstitucional.png" group-title="Variedades - Latinos",Señal Institucional Colombia
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
+
+#EXTINF:-1 tvg-id="TeleVid" tvg-name="TeleVid" tvg-logo="televid.png" group-title="Variedades - Latinos",TeleVidColombia
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8

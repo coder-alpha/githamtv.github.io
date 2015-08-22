@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1,TVA Canada
+rtmp://cp39414.live.edgefcs.net/live/shoptva@9752/ playpath=shoptva@9752 swfUrl=http://referenceur-tv.com/wp-content/uploads/jwplayer.flash.swf live=1 pageUrl=http://referenceur-tv.com/tv-par-themes/tva-canada-en-direct-261
+
+#EXTINF:-1,Canada -  LCN
+rtmp://$OPT:rtmp-raw=rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.stream2video.tv/getCanada - /119/1
+#EXTINF:-1,Canada -  METROVISION
+rtmp://$OPT:rtmp-raw=rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getCanada - /122/1
+#EXTINF:-1,Canada -  SLTV
+rtmp://$OPT:rtmp-raw=rtmp://saltandlighttv.streamguys.net:80/live/ playpath=sltviphone.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/9.html
+
+#EXTINF:-1, group-title="Sports",Sportsnet East
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet East HD
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Extra 1 HD
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet Pacific
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Pacific HD
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet West
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet West HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+#EXTINF:-1, group-title="Sports",SPORTSNET 1
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Sports",Sportsnet East
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet East HD
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Extra 1 HD
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet Pacific
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Pacific HD
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet West
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet West HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+
+#EXTINF:-1 group-title="SCANNED",Savoir tv Canada (Fre.)
+ mms://stream2.canal.qc.ca/enOndes_haut_debit?MSWMExt=online-television.net.asf
+
+#EXTINF:-1, CBC News
+rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
+ 
+#EXTINF:-1 tvg-logo="CBS", CBC news (canada)
+rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/?Vd?u#bt!25 timeout=15

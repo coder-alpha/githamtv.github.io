@@ -1,0 +1,533 @@
+#EXTM3U
+#EXTINF:-1,Adult Premium 1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1,ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,BabeStation Unleashed 1
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1,BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1,Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1,Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1,Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1,Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1,Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1,Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1,Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1,Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1,Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1,Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Olalá
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,PASSIE XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Russian Night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1,TOP PREMIUM XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,XXX 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:-1,SATISFACTION HD
+http://195.69.110.26:9091/udp/239.255.247.104:30000
+#EXTINF:-1, PRIVATE
+http://195.69.110.26:9091/udp/239.255.247.71:30000
+#EXTINF:-1,  HUSTLER HD 3D
+http://195.69.110.26:9091/udp/239.255.247.54:30000
+#EXTINF:-1,  FRENCH LOVER TV
+http://195.69.110.26:9091/udp/239.255.247.20:30000
+#EXTINF:-1,RED LIGHT HD
+http://195.69.110.26:9091/udp/239.255.247.3:30000
+#EXTINF:-1,
+http://59.120.43.181:8081
+#EXTINF:-1,
+http://59.120.43.181:8082
+#EXTINF:-1,
+http://59.120.43.181:8083
+#EXTINF:-1,
+http://59.120.43.181:8084
+#EXTINF:-1,
+http://59.120.43.181:8085
+#EXTINF:-1,
+http://59.120.43.181:8086
+#EXTINF:-1,
+http://59.120.43.181:8087
+#EXTINF:-1,DORCEL TV +18
+http://83.139.104.112/Content/HLS/Live/Channel(DORCEL_TV)/Stream(03)/index.m3u8
+
+#EXTINF:-1.BRAZZERS TV +18
+http://83.139.104.112/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
+
+#EXTINF:-1,PLAYBOY TV +18
+http://83.139.104.112/Content/HLS/Live/Channel(PLAYBOY_TV)/Stream(03)/index.m3u8
+
+#EXTINF:0, Frenchlover TV
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/569/index.m3u8
+
+#EXTINF:0, SCT HQ
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/566/index.m3u8
+
+#EXTINF:0, CENTOXCENTO TV
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/564/index.m3u8
+
+#EXTINF:0, exotica plus
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/562/index.m3u8
+
+#EXTINF:0, SATISFACTION HD
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/561/index.m3u8
+
+#EXTINF:-1, pink
+http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/567/index.m3u8
+
+Adult tv
+http://188.165.220.116:8081/live/z/chunks.m3u8
+
+#EXTINF:0, Интрига ТВ
+http://serv02.vintera.tv:1935/live/play/playlist.m3u8
+
+#EXTINF:0, Playboy TV
+http://37.228.91.166:8081/cdn/playboy/playlist.m3u8
+
+#EXTINF:0, Brazzers TV Europe
+http://37.228.91.166:8081/cdn/brozz/playlist.m3u8
+
+#EXTINF:-1,REDLIGHT
+http://macedoniathebest.mine.nu:8000/live/SPORT/CLUB/145.ts
+
+#EXTINF:-1,PRIVAT
+http://macedoniathebest.mine.nu:8000/live/SPORT/CLUB/234.ts
+
+#EXTINF:-1,XXL
+http://macedoniathebest.mine.nu:8000/live/SPORT/CLUB/235.ts
+
+#EXTINF:-1,HUSTLER
+http://macedoniathebest.mine.nu:8000/live/SPORT/CLUB/240.ts
+
+#EXTINF:-1, Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+#EXTINF:-1, Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:-1, Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+
+#EXTINF:-1, XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:0,  Hustler
+http://tv1.sunduk.tv:8080/CH171_std/playlist.m3u8
+
+#EXTINF:0,  Playboy
+http://tv1.sunduk.tv:8080/CH175_std/playlist.m3u8
+
+#EXTINF:0,  Private
+http://tv1.sunduk.tv:8080/CH151_std/playlist.m3u8
+
+#EXTINF:0,  Brazzers
+http://tv1.sunduk.tv:8080/CH152_std/playlist.m3u8
+
+#EXTINF:0,  Русская ночь
+http://tv10.sunduk.tv:8080/CH163_std/playlist.m3u8
+
+http://188.165.220.116:8081/live/n/playlist.m3u8
+
+ PLAYBOY USA
+rtmp://212.83.171.82:1935/live/1016
+
+DORCEL TV
+rtmp://212.83.171.82:1935/live/1017
+
+EXOTICA
+rtmp://212.83.171.82:1935/live/1018
+
+EXOTICA PLUS
+rtmp://212.83.171.82:1935/live/1018
+
+HOT tv Brasil
+http://4.31.30.145:9145
+
+#EXTINF:-1,Penthouse
+http://93.87.43.249:8050/50
+
+Erotic+18
+http://185.6.104.184:23232/9069/index.m3u8
+
+Dorcel+18
+http://185.6.104.184:23232/9070/index.m3u8
+P
+http://185.6.104.184:23232/9071/index.m3u8
+
+Bunga Bunga
+http://84.22.33.3:8066
+
+#EXTINF:-1,Hustler
+http://cdn-07.sdn.si/hustler/hustler.m3u8
+
+#EXTINF:-1,EroXXX HD
+http://cdn-07.sdn.si/eroxxxhd/eroxxxhd.m3u8
+
+#EXTINF:-1,SuperOne
+http://cdn-07.sdn.si/superone/superone.m3u8
+
+#EXTINF:-1,Dorcel
+http://cdn-07.sdn.si/dorcel/dorcel.m3u8
+
+#EXTINF:-1,SCT
+http://cdn-07.sdn.si/sct/sct.m3u8
+
+#EXTINF:-1,Daring
+http://cdn-07.sdn.si/daring/daring.m3u8
+
+#EXTINF:-1,Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1,Babestation Unleashed2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
+
+#EXTINF:-1,Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:401,Private Spice
+http://193.77.184.176:7781/udp/232.4.4.4:5002
+
+#EXTINF:403,Hustler
+http://193.77.184.176:7781/udp/232.2.4.9:5002
+
+#EXTINF:0,Hustler HD
+http://193.77.184.176:7781/udp/232.2.6.10:5002
+
+#EXTINF:405,X Dream TV
+http://193.77.184.176:7781/udp/232.4.4.6:5002
+
+#EXTINF:406,Dorcel TV
+http://193.77.184.176:7781/udp/232.4.4.15:5002
+
+#EXTINF:0,Erox HD
+http://193.77.184.176:7781/udp/232.4.4.16:5002
+
+#EXTINF:0,Eroxxx HD
+http://193.77.184.176:7781/udp/232.4.4.14:5002
+
+#EXTINF:0,Super One HD
+http://193.77.184.176:7781/udp/232.4.4.19:5002
+
+#EXTINF:407,Playboy TV
+http://193.77.184.176:7781/udp/232.4.3.38:5002
+
+#EXTINF:0,SCT
+http://193.77.184.176:7781/udp/232.4.4.3:5002
+
+#EXTINF:0,BOY BOY
+http://193.77.184.176:7781/udp/232.2.4.8:5002
+
+#EXTINF:408,Daring! TV
+http://193.77.184.176:7781/udp/232.2.4.10:5002
+
+#EXTINF:409,Satisfaction Italy
+http://193.77.184.176:7781/udp/232.4.2.38:5002
+
+#EXTINF:410,Free X TV
+http://193.77.184.176:7781/udp/232.4.3.36:5002
+
+#EXTINF:411,Prive
+http://193.77.184.176:7781/udp/232.4.4.5:5002
+
+#EXTINF:0,XXL
+http://193.77.184.176:7781/udp/232.4.2.28:5002
+
+#EXTINF:413,Brazzers TV Europe
+http://193.77.184.176:7781/udp/232.2.4.6:5002
+
+#EXTINF:0,Frenchlover TV
+http://193.77.184.176:7781/udp/232.4.1.49:5002
+
+#EXTINF:-1, Daring
+http://95.143.22.105:2222/udp/234.5.2.246:1234
+
+#EXTINF:-1, HUSTLER
+http://95.143.22.105:2222/udp/234.5.2.247:1234
+
+#EXTINF:-1, Private spice
+http://95.143.22.105:2222/udp/234.5.2.248:1234
+
+#EXTINF:-1, Русская ночь
+http://95.143.22.105:2222/udp/234.5.2.249:1234
+
+#EXTINF:0,31, Hustler HD +18
+rtmp://tv.futubox.com:1935/live/z990102.stream
+
+#EXTINF:0,32, Redlight HD +18
+rtmp://tv.futubox.com:1935/live/z990101.stream
+
+#EXTINF:0,sct
+http://88.203.214.12:4022/udp/239.10.1.197:30000
+
+#EXTINF:0,Premium hd
+http://88.203.214.12:4022/udp/239.10.1.196:30000
+
+X Desire Tv +18
+http://84.22.33.3:8060
+
+egoist
+http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/526/index.m3u8
+
+Playboy
+http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/527/index.m3u8
+
+Russian Night
+http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/147/index.m3u8
+
+#EXTINF:-1, Adult Tv
+http://188.165.220.116:8081/str/ru/playlist.m3u8
+
+#EXTINF:-1, Adult Tv1
+http://188.165.220.116:8081/str/ner/playlist.m3u8
+
+#EXTINF:-1, Ночной клуб
+http://46.181.237.75:1234/udp/239.255.42.217:1234
+
+#EXTINF:-1, Русская ночь
+http://46.181.237.75:1234/udp/239.255.42.218:1234
+
+#EXTINF:-1, O-la-la
+http://46.181.237.75:1234/udp/239.255.42.219:1234
+
+#EXTINF:-1, BRAZZERS TV Europe
+http://46.181.237.75:1234/udp/239.255.42.220:123
+
+1
+rtsp://210.200.79.28:554/live/tc218081
+2
+rtsp://210.200.79.28:554/live/tc218082
+3
+rtsp://210.200.79.28:554/live/tc218083
+4
+rtsp://210.200.79.28:554/live/aracity_m_new
+5
+rtsp://210.200.79.28:554/live/aracity02
+6
+rtsp://210.200.79.28:554/live/aracity01
+7
+rtsp://210.200.79.28:554/live/aracity03
+
+#EXTINF: -1, Playboy TV
+http://auth.nnm-list.ru/h/383/1/1/niu3uo4w
+
+#EXTINF: -1, Hustler TV
+http://auth.nnm-list.ru/h/115/1/1/niu3uo4w
+
+#EXTINF: -1, O-la-la
+http://auth.nnm-list.ru/h/826/1/1/niu3uo4w
+
+#EXTINF: -1, Satisfaction TV HQ
+http://auth.nnm-list.ru/h/924/1/1/niu3uo4w
+
+#EXTINF: -1, Platinum TV
+http://auth.nnm-list.ru/h/622/1/1/niu3uo4w
+
+#EXTINF: -1, SCT HD (SD)
+http://auth.nnm-list.ru/h/911/1/1/niu3uo4w
+
+#EXTINF: -1, Night Club
+http://auth.nnm-list.ru/h/528/1/1/niu3uo4w
+
+#EXTINF: -1, Russian night
+http://auth.nnm-list.ru/h/64/1/1/niu3uo4w
+
+#EXTINF: -1, Nuart TV
+http://auth.nnm-list.ru/h/634/1/1/niu3uo4w
+
+#EXTINF: -1, Temptation
+http://auth.nnm-list.ru/h/659/1/1/niu3uo4w
+
+#EXTINF: -1, Satisfaction Prive
+http://auth.nnm-list.ru/h/922/1/1/niu3uo4w
+
+#EXTINF: -1, Exotica TV
+http://auth.nnm-list.ru/h/919/1/1/niu3uo4w
+
+#EXTINF: -1, Pink O TV
+http://auth.nnm-list.ru/h/925/1/1/niu3uo4w
+
+#EXTINF: -1, Teleitalia TV
+http://auth.nnm-list.ru/h/921/1/1/niu3uo4w
+
+#EXTINF: -1, Redlight Premium
+http://auth.nnm-list.ru/h/918/1/1/niu3uo4w
+
+#EXTINF: -1, Brazzers TV Europe
+http://auth.nnm-list.ru/h/540/1/1/niu3uo4w
+
+night club
+http://iptv.multi-net.ru:80/udp/239.255.4.1:1234
+
+russian night
+http://iptv.multi-net.ru:80/udp/239.255.4.2:1234
+
+french Lover tv
+http://iptv.multi-net.ru:80/udp/239.255.4.4:1234
+
+temptaion
+http://iptv.multi-net.ru:80/udp/239.255.4.5:1234
+
+brazzers tv
+http://iptv.multi-net.ru:80/udp/239.255.4.7:1234
+
+#EXTINF:0,REDLIGHT HD
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/private/private/ playpath=private swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ero-tv.org/redlight_online/
+
+#EXTINF:0,Sexysat-tv
+rtmp://$OPT:rtmp-raw=rtmp://81.89.48.215/xyz999wkz/ playpath=sexysat.stream swfUrl=http://ero-tv.org/jwplayer/jwplayer.flash.swf live=1pageUrl=http://ero-tv.org/sexysat-tv_online/
+
+#EXTINF:0,PENTHOUSE HD
+rtmp://$OPT:rtmp-raw=rtmp://lm07.everyon.tv/ptv7/ playpath=pld10927 swfUrl=http://ero-tv.org/uppod/player5.swf live=1 pageUrl=http://ero-tv.org/penthouse_online/
+
+#EXTINF:0,BUTGOO
+rtmp://$OPT:rtmp-raw=rtmp://lm07.everyon.tv/ptv7/ playpath=pld772 swfUrl=http://ero-tv.org/uppod/player5.swf live=1 pageUrl=http://ero-tv.org/platinum_tv_online/
+
+#EXTINF:-1,ADULTOS:VENUS TV 17-11
+rtmp://$OPT:rtmp-raw=rtmp://208.43.81.145/live playpath=venusya?id=11551 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/huraivza conn=S:OK --live
+
+#EXTINF:-1,ADULTOS:HUSTLER TV 17-11
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/hustlertv/hustlertv/ playpath=hustlertv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=hustlerr&vh=410&vw=630
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd10927
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd10766
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd10765
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd771
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd501
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd772
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd62
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd60
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd64
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd59
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd511
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd769
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd63
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd499
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd10497
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd1003
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd1008
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd1006
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd1005
+
+rtmp://lm07.everyon.tv:1935/ptv7/phd61
+Related Posts

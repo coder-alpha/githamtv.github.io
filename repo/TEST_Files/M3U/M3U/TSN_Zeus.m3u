@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1,TSN 1 HD
+http://zeusrepo.com/alpha/channel.php?link=tsn_1&hash=7k9J1dupq6
+#EXTINF:-1,TSN 2 HD
+http://zeusrepo.com/alpha/channel.php?link=tsn_2&hash=7k9J1dupq6
+#EXTINF:-1,TSN 3 HD
+http://zeusrepo.com/alpha/channel.php?link=tsn_3&hash=7k9J1dupq6
+#EXTINF:-1,TSN 4 HD
+http://zeusrepo.com/alpha/channel.php?link=tsn_4&hash=7k9J1dupq6
+#EXTINF:-1,TSN 5 HD
+http://zeusrepo.com/alpha/channel.php?link=tsn_5&hash=7k9J1dupq6

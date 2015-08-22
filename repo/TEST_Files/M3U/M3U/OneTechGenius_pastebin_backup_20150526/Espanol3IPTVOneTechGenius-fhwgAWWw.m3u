@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR Blue] 31/03/2015 IPTVXBMC.com[/COLOR] 
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal +
+rtmp://188.165.210.103/live?token=athKMHB4yr7iQGnTzi7J2AExpired=1428280428 playpath=plus1 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=650&h=400 live=true
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal Accion
+rtmp://199.201.110.99/live?token=odAhS7tgNqroyjvAJLJCZAExpired=1428280541 playpath=plusaccion swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion&w=650&h=400 live=true
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal + Deportes
+rtmp://66.85.133.162/live?token=p0juo4Udg8sxeTfFZtUYjgExpired=1428280798 playpath=plus_deportes swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 pageUrl=http://1broadcastlive.com/embed/embed.php?channel=plus_deportes&w=650&h=400 live=true
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", canal + Futbol
+rtmp://162.255.117.204/live?token=KuxLdfQeVh4i5w5jcY3EVQExpired=1428280934 playpath=plus_futbol swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 pageUrl=http://1broadcastlive.com/embed/embed.php?channel=plus_futbol&w=650&h=400 live=true
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", canal + Liga
+rtmp://185.39.11.50:1735/vod/?token=play@142827755301384 playpath=ttt_91481i5 swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=http://www.dinostream.pw/embed.php?c=103330&width=650&height=400&autostart=true&tk1=ygqj6JsafcWtWI/qaUxwWB5831f/STm%2B98Jvqa4c/4fUhTbWKEwdkAJSWvQRE0tvxSXBcmTIU0dTls66uZTp%2Bg==&tk2=yj2dnwF0oXpWS3bLf6LoORcFHarbFWkGKiHZlHbxZKE=&tk3=h5pnGftMi98p3KHoHhrDiC5gRl2WIEfNOHwkKK/8KAs= live=true
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", canal + campeones
+rtmp://185.39.11.74:1735/vod/?token=play@142827763806349 playpath=tvb1 swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=http://www.dinozap.info/redirect/embedredi.php?c=111&width=650&height=400&autostart=true&tk1=2dS3k0dv8/t4lp7FOEyojWeaEBq9CThLiaNuhMohQvg=&tk2=BfrNPV70h0voLxUFhR%2Bl9S%2BLuA09mHpheCNW9MIcmFM=&tk3=hcsOSCERjOWnjFPhJU%2BSuDpfnZE%2Bcp9gyifQ3VFwo8Y= live=true
+
+
+
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="sony.png",Sony HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="a&e.png",A E 
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="axn.png",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="unicable.png",Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="bbc entertainment.png",BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="!e.png",E! 
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="fx.png",FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="infinito.png",Infinito
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="el gourmet.png",El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="glitz.png",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="fox life.png",Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="tbs.png",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="nick hd.png",Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="tiin.png",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="discovery channel.png",DISCOVERY HD Teather
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="history hd.png",History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="animal planet.png",Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="home and health.png",Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="discovery science.png",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="discovery civilization.png",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="tlc hd.png",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="wobi tv.png",WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="fox 1 hd.png",Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="fox action.png",Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="fox movies HD.png",Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="fox family.png",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="fox cinema.png",Fox Cin�ma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="fox classics.png",Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="cinecanal hd.png",Cinecanal HD
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="tnt hd.png",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="golden.png",Golden HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="the film zone hd.png",The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="de pelicula hd.png",De Pel�cula
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="amc hd.png",AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="space hd.png",Space HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="cinecanal.png",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="tvtultimate.png",Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="tnt.png",TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="golden edge.png",Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="space hd.png",Space
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="TCM.png",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-logo="fox sports hd.png,Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="fox sports 2 hd.png,Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="espn 2.png",ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="espn 3 hd.png",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="cable noticias.png",Cable Noticias
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+
+#EXTINF:-1 tvg-logo="el tiempo tv.png",El Tiempo TV 
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="tele vid.png",TELE VID 
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+
+#EXTINF:-1 tvg-logo="mtv live hd.png",MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="telehit hd.png",Telehit
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="vh1 hd.png",VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="mtv.png",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="mtv hits.png",MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="mtv classic.png",VH1 Classics
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="musica.png",Trendy Musica
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+
+#EXTINF:-1 tvg-logo="musica.png",Me suena TV 1 Musica
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+
+#EXTINF:-1 tvg-logo="musica.png",MeSuena TV 2 MUSICA
+http://uneapple-i.akamaihd.net/hls/live/215944/grupoune_st33@215944/st33_index.m3u8
+
+#EXTINF:-1 tvg-logo="exa tv.png",EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="musica.png",MIMUSICA HD
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="ritmoson latino.png",Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="h13n.png",H13N
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+
+#EXTINF:-1 tvg-logo="vmas.png",VMas+ TV 
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Mexicanos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",anal de las estrellas HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ocho tv.png",Ocho Tv
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="multimedios.png",Multimedios Monterrey
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias HD 
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="proyecto 40.png",Proyecto 40
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TV-Mexiquense.png",Radio y Televisi�n Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 tvg-logo="tvmas.png",TVMas HD 
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 tvg-logo="tvmas.png",TVMas VERACRUZ
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TV-Mexiquense.png",Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once HD
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ingenio tv.png",Ingenio Tv
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="foro tv HD.png",Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="teleformula.png",TeleF�rmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+
+
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Espa�oles[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+
+
+#EXTINF:-1 tvg-logo="Bein_sport_logo.png",BEIN SPORTS
+http://205.204.75.154/dhwet3iksdjg95jjsdfhg4GDfhkkjsdsdhjuer56eq3/200.m3u8
+
+#EXTINF:-1 tvg-logo="antena 3.png",Antena 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="telemadrid.png",Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+
+#EXTINF:-1 tvg-logo="telemedellin.png",Telemedellin
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+
+#EXTINF:-1 tvg-logo="antena 3.png",Antena 3 SD
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+
+#EXTINF:-1 tvg-logo="la sexta.png",La sexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="extremadura.png",Extremadura Tv
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="nova hd.png",Nova HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+
+#EXTINF:-1 tvg-logo="andalucia.png",Andaluc�a TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:-1 tvg-logo="Hispan Tv.png",Hispan Tv
+http://ptv-hls.streaming.overon.es/channel04/livehigh.m3u8
+
+#EXTINF:-1 tvg-logo="tv galicia.png",Galicia TV
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="8Tv Catalunya.png",8Tv Catalunya 
+http://94.23.54.177:1935/8TV/8aldia-directe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tve 24h.png",Tve 24h HD 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="aragon tv.png",Aragon Tv Aprende Ingles 
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+
+#EXTINF:-1 tvg-logo="people.png",News People tv 
+http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Argentinos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:CANAL 13 HD 
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:Canal Rural 1 HD 
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:Canal 3 Trelew 
+http://198.49.76.226:1935/inovasd/inovasd/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:MAGAZINE 
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:DISCOVERY
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:EL TRECE HD 
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:DEPORTV HD 
+rtmp://sl100tb.cxnlive.com/live/deportv.stream
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Arg:C5N 
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Chilenos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+
+
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:CANAL 9 HD 
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:LA RED HD 
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:TVN 
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:TELECANAL 
+com/tcsc/tcscvivo/tcsc.smil/chunklist_w1420799444_b1248000.m3u8
+ 
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:MEGA HD 
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:AYSEN TV 
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:BIO BIO TV CONCEPCION
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:CAMARA DE DIPUTADOS 
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:CNN HD 
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:TV SENADO 
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Chil:VTV2 
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Colombia[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+
+
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:TELEANTIOQUIA HD 
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:TV MEDELLIN HD 
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:CANAL ANTIESTRES 
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:CLICK 
+http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:CARACOL 
+rtmp://46.165.210.40/iguide/a4jap9zysp1psim playpath=a4jap9zysp1psim swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:Canal Antiestres HD 
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Col:Cantinazo TV 
+http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Peruanos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Per:LATELE 
+rtmp://d91.iblups.com/latele playpath=MMb2wRCis1 swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D10691 live=1 pageUrl=http://iblups.com/e_latele-620-382 conn=S:OK --live
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Per:AMERICA TV HD 
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Per:PANAMERICANA 
+http://fl01.iviplanet.com:1935/GlobalTVPanamericana/myStream.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Dominicanos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Dom:Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Dom:TELEANTILLAS 2 HD 
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Dom:Telefuturo Canal 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Dom:Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]Variados[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Canal 4 El Salvador 
+rtmp://86.106.137.13/live?token=NyJ_IwdN7fJZ7tia8E2U4wExpired=1427867639 playpath=ver59caa6e94f81445880a84c swfUrl=http://openlive.org/player.swf live=1 pageUrl=http://openlive.org/embed.php?file=azulfovew&width=600&height=400
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Nic:CANAL 13 
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Nic:CANAL 4
+http://iphone-streaming.ustream.tv/uhls/16349493/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Hon:TVC 5 HD 
+http://162.212.176.83:8080/tvchd.stream.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Gua:GUATEVISION TV 
+http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",CR:SINART CANAL 13 
+rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Bolivia:Redadvenir 
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Venezuela:ViveTV Venezuela 
+mmsh://difusion.cantv.net/vhost-covetel_live
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Venezuela:TeleSur
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", [COLOR yellow]USA[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+
+
+
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="kiss-tv.gif",Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live

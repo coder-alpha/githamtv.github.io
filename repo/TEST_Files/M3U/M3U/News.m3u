@@ -1,0 +1,63 @@
+
+
+#EXTINF:-1 tvg-id="news.png" tvg-name="news.png" tvg-logo="news.png",[COLOR red][B] --> News <-- [/B][/COLOR]
+http://www.southeastpaprep.com/wp-content/uploads/2014/05/news-logo.png
+
+
+#EXTINF:-1 tvg-id="ABC News.png" tvg-name="ABC News.png" tvg-logo="ABC News.png",[COLOR red]ABC News [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:0 tvg-id="BBC News.png" tvg-name="BBC News.png" tvg-logo="BBC News.png",[COLOR red] BBC News [/COLOR]
+rtsp://live304.edge.filmon.com:1935/live/27.high.stream/?id=0ad5aac39bb13fbecc09094b0212c3c44dd08ceee9333494c10c4f508c69e56f8d7b589d9ff758b6e5d16da1f4ea97054f453bdd8dc911ff33ac2bd92ea9eb7359afef704088b9b37a8f82f34e25e13b72508022a896efc05b6919cb7f9e4f8fa183397e15599cb8521b29ad6d0a50befe4166e64844771098b85c628263d9079fab181000b689f57f2ff7e9dc98636ed6f0af60ca66154c
+
+#EXTINF:-1 tvg-id="BBC News.png" tvg-name="BBC News.png" tvg-logo="BBC News.png",[COLOR red] BBC News HD [/COLOR]
+http://wj8s2.cdn.live.simplestream.com/BIAHNLT54ATAXG27BDQN/3/playlist-limelight.m3u8?e=1407584127&h=4aeab7124697e13bdf875f93d338087a
+
+#EXTINF:-1 tvg-id="BBC News.png" tvg-name="BBC News.png" tvg-logo="BBC News.png",[COLOR red] BBC News [/COLOR]
+rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/en/bbc-news live=1
+
+#EXTINF:-1 tvg-id="Al Jazeera.png" tvg-name="Al Jazeera.png" tvg-logo="Al Jazeera.png",[COLOR red]Al Jazeera[/COLOR]
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
+
+#EXTINF:-1 tvg-id="Bloomberg.png" tvg-name="Bloomberg.png" tvg-logo="Bloomberg.png",[COLOR red] Bloomberg [/COLOR]
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+
+#EXTINF:-1 tvg-id="CNN.png" tvg-name="CNN.png" tvg-logo="CNN.png",[COLOR red] CNN [/COLOR]
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.png" tvg-name="Euronews.png" tvg-logo="Euronews.png",[COLOR red] Euronews  [/COLOR]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
+
+#EXTINF:0 tvg-id="Euronews.png" tvg-name="Euronews.png" tvg-logo="Euronews.png",[COLOR red] Euronews  Alternate Link[/COLOR]
+rtsp://live300.edge.filmon.com:1935/live/1672.high.stream/?id=0ad5aac39bb13fbecc09094b0212c3c44dd08ceee9333494c10c4f508c69e56f8d7b589d9ff758b6e5d16da1f4ea97054f453bdd8dc911ff33ac2bd92ea9eb7359afef704088b9b37a8f82f34e25e13b72508022a896efc05b6919cb7f9e4f8fa183397e15599cb8521b29ad6d0a50befe4166e64844771098b85c628263d9079fab181000b689f57f2ff7e9dc98636ed6f0af60ca66154c
+
+#EXTINF:-1 tvg-id="FOX News.png" tvg-name="FOX News.png" tvg-logo="FOX News.png",[COLOR red] FOX News [/COLOR]
+rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
+
+#EXTINF:-1 tvg-id="i24.png" tvg-name="i24.png" tvg-logo="i24.png",[COLOR red] i24 News [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-id="i24.png" tvg-name="i24.png" tvg-logo="i24.png",[COLOR red] i24 News Alternate Link[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.png" tvg-name="MSNBC.png" tvg-logo="MSNBC.png",[COLOR red] MSNBC [/COLOR]
+rtmpe://watch.playfooty.tv/live playpath=msnbc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=msnbc1569
+
+#EXTINF:-1 tvg-id="SKY News.png" tvg-name="SKY News.png" tvg-logo="SKY News.png",[COLOR red]SKY News[/COLOR]
+rtmpe://89.248.172.52/live/skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
+
+#EXTINF:-1 tvg-id="SKY News.png" tvg-name="SKY News.png" tvg-logo="SKY News.png",[COLOR lightred]SKY News Alternate Link[/COLOR]
+http://212.250.159.10:7020/
+
+#EXTINF:0 tvg-id="CCTV News.png" tvg-name="CCTV News.png" tvg-logo="CCTV News.png",[COLOR red]CCTV News[/COLOR]
+rtsp://live300.edge.filmon.com:1935/live/1675.high.stream/?id=0ad5aac39bb13fbecc09094b0212c3c44dd08ceee9333494c10c4f508c69e56f8d7b589d9ff758b6e5d16da1f4ea97054f453bdd8dc911ff33ac2bd92ea9eb7359afef704088b9b37a8f82f34e25e13b72508022a896efc05b6919cb7f9e4f8fa183397e15599cb8521b29ad6d0a50befe4166e64844771098b85c628263d9079fab181000b689f57f2ff7e9dc98636ed6f0af60ca66154c
+
+#EXTINF:0 tvg-id="Filmon Breaking News.png" tvg-name="Filmon Breaking News.png" tvg-logo="Filmon Breaking News.png",[COLOR red]Filmon Breaking News[/COLOR]
+rtsp://live308.edge.filmon.com:1935/live/302.high.stream/?id=0ad5aac39bb13fbecc09094b0212c3c44dd08ceee9333494c10c4f508c69e56f8d7b589d9ff758b6e5d16da1f4ea97054f453bdd8dc911ff33ac2bd92ea9eb7359afef704088b9b37a8f82f34e25e13b72508022a896efc05b6919cb7f9e4f8fa183397e15599cb8521b29ad6d0a50befe4166e64844771098b85c628263d9079fab181000b689f57f2ff7e9dc98636ed6f0af60ca66154c
+
+#EXTINF:-1 tvg-id="Russia Today.png" tvg-name="Russia Today.png" tvg-logo="Russia Today.png", [COLOR red]Russia Today[/COLOR]
+http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8
+
+#EXTINF:0 tvg-id="RAI News 24.png" tvg-name="RAI News 24.png" tvg-logo="RAI News 24.png",[COLOR red]RAI News 24[/COLOR]
+rtsp://204.107.27.247:1935/live/378.high.stream/?id=0ad5aac39bb13fbecc09094b0212c3c44dd08ceee9333494c10c4f508c69e56f8d7b589d9ff758b6e5d16da1f4ea97054f453bdd8dc911ff33ac2bd92ea9eb7359afef704088b9b37a8f82f34e25e13b72508022a896efc05b6919cb7f9e4f8fa183397e15599cb8521b29ad6d0a50befe4166e64844771098b85c628263d9079fab181000b689f57f2ff7e9dc98636ed6f0af60ca66154c
+

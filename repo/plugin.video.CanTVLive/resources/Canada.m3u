@@ -1,0 +1,115 @@
+#EXTM3U
+
+#EXTINF:-1, [B][COLOR red]O[/COLOR][COLOR white]H[/COLOR] [COLOR red]C[/COLOR][COLOR white]A[/COLOR][COLOR red]N[/COLOR][COLOR white]A[/COLOR][COLOR red]D[/COLOR][COLOR white]A[/COLOR][/B]
+http://fla.fg-a.com/flags/canadian-flag-large.png
+#EXTINF:0, [B]Bonus Channels[/B]
+http://fla.fg-a.com/flags/canadian-flag-large.png
+
+#EXTINF:0,TSN 1 alt link
+http://4.31.30.159:9082
+#EXTINF:0,TSN 2 alt link
+http://4.31.30.159:9083
+#EXTINF:0,TSN 3 alt link
+http://4.31.30.159:9084
+#EXTINF:0,TSN 4 alt link
+http://4.31.30.159:9085
+#EXTINF:0,TSN 5 alt link
+http://4.31.30.159:9086
+#EXTINF:0,Sportsnet
+http://4.31.30.159:9110
+#EXTINF:0,Sportsnet 360
+http://192.99.19.98:1935/flu555/_definst_/sn360/playlist.m3u8?token=
+#EXTINF:0,Sportsnet 360
+http://167.114.101.188:1935/flu555/_definst_/sn360/playlist.m3u8?token=
+#EXTINF:0,Global
+http://192.99.19.98:1935/flu555/_definst_/global/playlist.m3u8?token=
+#EXTINF:0,Global
+http://167.114.157.40:1935/flu555/_definst_/global/playlist.m3u8?token=
+#EXTINF:0,CTV
+http://192.99.39.240:1935/flu555/_definst_/ctv/playlist.m3u8?token=
+#EXTINF:0,CTV
+http://167.114.157.40:1935/flu555/_definst_/ctv/playlist.m3u8?token=
+#EXTINF:0,CBC
+http://192.99.39.240:1935/flu555/_definst_/cbc/playlist.m3u8?token=
+#EXTINF:0,CBC
+http://167.114.157.40:1935/flu555/_definst_/cbc/playlist.m3u8?token=
+#EXTINF:0,CP24
+http://192.99.39.240:1935/flu555/_definst_/cp24/playlist.m3u8?token=
+#EXTINF:0,CP24
+http://167.114.157.40:1935/flu555/_definst_/cp24/playlist.m3u8?token=
+#EXTINF:0,CHCH
+http://192.99.39.240:1935/flu555/_definst_/chch/playlist.m3u8?token=
+#EXTINF:0,CHCH
+http://167.114.157.40:1935/flu555/_definst_/chch/playlist.m3u8?token=
+#EXTINF:0,HGTV
+http://167.114.156.30:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+#EXTINF:0,HGTV
+http://192.99.39.240:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+#EXTINF:0,Slice
+http://192.99.39.240:1935/flu555/_definst_/slice/playlist.m3u8?token=
+#EXTINF:0,Slice
+http://167.114.157.40:1935/flu555/_definst_/slice/playlist.m3u8?token=
+#EXTINF:0,DejaView
+http://192.99.39.240:1935/flu555/_definst_/dejaview/playlist.m3u8?token=
+#EXTINF:0,DejaView
+http://167.114.157.40:1935/flu555/_definst_/dejaview/playlist.m3u8?token=
+#EXTINF:0,Super Channel 1
+http://192.99.39.240:1935/flu555/_definst_/superchannel1/playlist.m3u8?token=
+#EXTINF:0,Super Channel 1
+http://167.114.157.40:1935/flu555/_definst_/superchannel1/playlist.m3u8?token=
+#EXTINF:0,Super Channel 2
+http://192.99.39.240:1935/flu555/_definst_/superchannel2/playlist.m3u8?token=
+#EXTINF:0,Super Channel 2
+http://167.114.157.40:1935/flu555/_definst_/superchannel2/playlist.m3u8?token=
+#EXTINF:0,MFest
+http://192.99.39.240:1935/flu555/_definst_/mfest/playlist.m3u8?token=
+#EXTINF:0,MFest
+http://167.114.157.40:1935/flu555/_definst_/mfest/playlist.m3u8?token=
+#EXTINF:0,Teletoon
+http://192.99.39.240:1935/flu555/_definst_/teletoon/playlist.m3u8?token=
+#EXTINF:0,Teletoon
+http://167.114.101.188:1935/flu555/_definst_/teletoon/playlist.m3u8?token=
+#EXTINF:0,Treehouse
+http://192.99.39.240:1935/flu555/_definst_/treehouse/playlist.m3u8?token=
+#EXTINF:0,Treehouse
+http://167.114.101.188:1935/flu555/_definst_/treehouse/playlist.m3u8?token=
+#EXTINF:0,YTV
+http://192.99.39.240:1935/flu555/_definst_/ytv/playlist.m3u8?token=
+#EXTINF:0,YTV
+http://167.114.101.188:1935/flu555/_definst_/ytv/playlist.m3u8?token=
+#EXTINF:0,Family
+http://192.99.39.240:1935/flu555/_definst_/family/playlist.m3u8?token=
+#EXTINF:0,Family
+http://167.114.101.188:1935/flu555/_definst_/family/playlist.m3u8?token=
+#EXTINF:0,RDI (French)
+http://192.99.39.240:1935/flu555/_definst_/rdi/playlist.m3u8?token=
+#EXTINF:0,RDI (French)
+http://167.114.157.40:1935/flu555/_definst_/rdi/playlist.m3u8?token=
+#EXTINF:0,TV5 (French)
+http://192.99.39.240:1935/flu555/_definst_/tv5/playlist.m3u8?token=
+#EXTINF:0,TV5 (French)
+http://167.114.157.40:1935/flu555/_definst_/tv5/playlist.m3u8?token=
+#EXTINF:0,RDS 2 (French)
+http://192.99.39.240:1935/flu555/_definst_/rds2/playlist.m3u8?token=
+#EXTINF:0,RDS 2 (French)
+http://167.114.157.40:1935/flu555/_definst_/rds2/playlist.m3u8?token=
+#EXTINF:0,Vrak (French)
+http://192.99.39.240:1935/flu555/_definst_/vrak/playlist.m3u8?token=
+#EXTINF:0,Vrak (French)
+http://167.114.157.40:1935/flu555/_definst_/vrak/playlist.m3u8?token=
+#EXTINF:0,Super ecran 1 (French)
+http://192.99.39.240:1935/flu555/_definst_/superecran1/playlist.m3u8?token=
+#EXTINF:0,Super ecran 1 (French)
+http://167.114.157.40:1935/flu555/_definst_/superecran1/playlist.m3u8?token=
+#EXTINF:0,Super ecran 2 (French)
+http://192.99.39.240:1935/flu555/_definst_/superecran2/playlist.m3u8?token=
+#EXTINF:0,Super ecran 2 (French)
+http://167.114.157.40:1935/flu555/_definst_/superecran2/playlist.m3u8?token=
+#EXTINF:0,Super ecran 3 ( (French)
+http://192.99.39.240:1935/flu555/_definst_/superecran3/playlist.m3u8?token=
+#EXTINF:0,Super ecran 3 ( (French)
+http://167.114.157.40:1935/flu555/_definst_/superecran3/playlist.m3u8?token=
+#EXTINF:0,Super ecran 4 (French)
+http://192.99.39.240:1935/flu555/_definst_/superecran4/playlist.m3u8?token=
+#EXTINF:0,Super ecran 4 (French)
+http://167.114.157.40:1935/flu555/_definst_/superecran4/playlist.m3u8?token=

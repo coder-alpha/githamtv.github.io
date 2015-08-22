@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.CanTVLive" name="CanTVLive" version="1.7.1" provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Live Canadian TV channels</summary>
+    <description>Live Canadian TV channels all in one place.</description>
+	<description>General disclaimer: These are just random feeds found on the net. Like all things internet, links go up and down. Also, some channels do not broadcast 24/7. I take no responsibility for the content or reliability of the feeds. Enjoy while you can. Some channels require an external player setup using a playercorefactory.xml file. For more info, go to http://kodi.wiki/view/External_players</description>
+  </extension>
+</addon>

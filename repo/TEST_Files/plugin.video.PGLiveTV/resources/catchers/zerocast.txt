@@ -1,0 +1,16 @@
+item_info_name=title
+item_info_from=@PARAM1@
+item_info_build=ZeroCast - %s
+
+item_info_name=pageUrl
+item_info_from=@PARAM1@
+item_info_build=http://zerocast.in/embed.php?a=%s&id=&width=620&height=470&autostart=true&strech=
+
+item_info_name=flashvars
+item_info_from=pageUrl
+item_info_convert=getInfo('%s','.*?file['"]?[:,]\s*['"]([^'"]+)['"].*?streamer['"]?[:,]\s*['"]([^'"]+)['"].*','@REFERER@','file|rtmp')
+item_info_build=%s
+
+item_info_name=url
+item_info_from=rtmp + ' playPath=' + file + ' swfUrl=http://zerocast.tv/player-licensed.swf live=1 flashver=WIN\2016,0,0,305 timeout=15 token=WaS41NlMjXaidsz swfVfy=1 pageUrl=' + pageUrl
+item_info_build=%s

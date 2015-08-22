@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.canada.on.demand.pg" name="Canada On Demand*" version="1.0" provider-name="andre, podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup"	version="3.2.0"/>
+    <import addon="script.module.simplejson" version="2.0.10"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Video On Demand From Canada</summary>
+    <description>Stream content from Canadian providers including CBC, Global, DIY, HGTV, Slice and more! This is a stripped down version of the original addon by andre which is now dead, all credit to him. Basically, I just removed everything that wasn't working.</description>
+    <platform>all</platform>
+    <disclaimer></disclaimer>
+  </extension>
+</addon>
+
+<addon id="plugin.video.CanTVLive" name="CanTVLive" version="1.9.3" provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Live Canadian TV channels</summary>
+    <description>Live Canadian TV channels all in one place. General disclaimer: These are just random feeds found on the net. Like all things internet, links go up and down. Also, some channels do not broadcast 24/7. I take no responsibility for the content or reliability of the feeds. Enjoy while you can. [B]P2P-Streams[/B] addon required for sports channels. Make sure it is properly configured for your system. More Info: http://tinyurl.com/p2pstreamsconfig</description>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ccloudtv"
+       name="cCloud TV"
+       version="1.1"
+       provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>All the best from cCloud TV</summary>
+    <description>
+	 cCloud Popcorntime for LIVE TV, an open source project.
+	 Just click, play and stream because IPTV just got simple and easy:)
+
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.channelpear"
+       name="channel PEAR"
+       version="1.5"
+       provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>All the best from channelpear.com</summary>
+    <description>
+	The channel PEAR media database is 100% maintained by users like you! Share media sources with fellow channel PEAR users and discover a whole world of live streaming channels from around the globe! http://channelpear.com
+	You can now enter your custom Plex URL in the addon settings. You can get your custom Plex URL from your library at https://channelpear.com/library/ (must be logged in - click the "Plex Channel" link at the top right of the page).
+
+	This addon is based on code from LiveStreamspro from Shani. All credit to Shani and other devs involved.
+
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.heynow"
+	name="Howard Stern"
+	version="1.8.1"
+	provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="plugin.video.youtube" version="5.1.5"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Howard Stern Show</summary>
+    <description lang="en">Catch up with the King Of All Media.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.podgod" name="podgod repo" version="1.4" provider-name="podgod">
+	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
+		<info compressed="false">https://copy.com/web/users/user-15685756/copy/My-Repo/addons.xml</info>
+		<checksum>https://copy.com/web/users/user-15685756/copy/My-Repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://copy.com/web/users/user-15685756/copy/My-Repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from podgod!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>

@@ -1,0 +1,864 @@
+﻿#EXTM3U#EXTM3U
+
+#EXTINF:-1 tvg-id="9247942.png?161" tvg-name="9247942.png?161" tvg-logo="9247942.png?161",[COLOR darkorange][UPPERCASE]Last Update [B]09/22/14[/B] [/UPPERCASE][/COLOR]
+http://newtvworld.com/Images/livetv_transparent.png
+#EXTINF:-1 tvg-id="9247942.png?161" tvg-name="9247942.png?161" tvg-logo="9247942.png?161",[COLOR darkorange][UPPERCASE]Report Dead Links To [/UPPERCASE][/COLOR]
+http://newtvworld.com/Images/livetv_transparent.png
+#EXTINF:-1 tvg-id="9247942.png?161" tvg-name="9247942.png?161" tvg-logo="9247942.png?161",[COLOR darkorange][UPPERCASE]podgod@gmail.com [/UPPERCASE][/COLOR]
+http://newtvworld.com/Images/livetv_transparent.png
+
+
+#EXTINF:-1 tvg-id="7004868.png" tvg-name="7004868.png" tvg-logo="7004868.png",[COLOR gold][B] --> Live TV <-- [/B][/COLOR]
+http://newtvworld.com/Images/livetv_transparent.png
+
+#EXTINF:-1 tvg-id="wgn.png" tvg-name="wgn.png" tvg-logo="wgn.png",[COLOR blue]WGN 9 CW[/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8
+#EXTINF:-1 tvg-id="fox5sandiego.png" tvg-name="fox5sandiego.png" tvg-logo="fox5sandiego.png",[COLOR blue]KSWB FOX 5[/COLOR]
+http://kswbtribune-lh.akamaihd.net/i/KSWBTribune_1@122481/master.m3u8
+
+
+#EXTINF:-1 tvg-id="kids.png" tvg-name="kids.png" tvg-logo="kids.png",[COLOR orange][B] --> Kids TV <-- [/B][/COLOR]
+http://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png
+
+#EXTINF:-1 tvg-id="Cartoon Network.png" tvg-name="Cartoon Network.png" tvg-logo="Cartoon Network.png" group-title="Kids TV",[COLOR orange]Cartoon Network (2 Audio's)[/COLOR]
+http://80.77.52.6:4022/udp/230.0.3.15:12345
+
+#EXTINF:-1 tvg-logo="Cartoon Network.png" group-title="Kids TV",[COLOR orange] Cartoon Network (Alternate Link)[/COLOR]
+#EXTVLCOPT: Audio-track=2
+http://80.77.52.6:4022/udp/230.0.3.15:12345
+
+#EXTINF:-1 tvg-id="Nickelodeon.png" tvg-name="Nickelodeon.png" tvg-logo="Nickelodeon.png" group-title="Kids TV",[COLOR orange]Nickelodeon HD[/COLOR]
+http://202.75.23.36:1400/live/ch43/04.m3u8
+
+#EXTINF:-1  tvg-id="Nickelodeon.png" tvg-name="Nickelodeon.png" tvg-logo="Nickelodeon.png" group-title="Kids TV",[COLOR orange]Nickelodeon (Alternate Link)[/COLOR]
+http://91.240.87.34:4015/udp/224.200.202.40:1234
+
+#EXTINF:-1 tvg-logo="" group-title="Kids TV",[COLOR orange] Baby First [/COLOR]
+http://202.75.23.33/live/ch27/03.m3u8
+
+#EXTINF:-1 tvg-logo="English Club.png" group-title="Kids TV",[COLOR orange] English Club TV [/COLOR]
+http://85.187.154.9:2001/
+
+#EXTINF:-1 tvg-logo="Discovery Kids.png" group-title="Kids TV",[COLOR orange] Discovery Kids[/COLOR]
+http://202.75.23.35/live/ch36/03.m3u8
+
+#EXTINF:-1 tvg-logo="Cartoonito.png" group-title="Kids TV",[COLOR orange]Cartoonito [/COLOR]
+http://202.75.23.36/live/ch49/03.m3u8
+
+#EXTINF:-1 tvg-logo="Cartoonito.png" group-title="Kids TV",[COLOR orange] Cartoonito HD[/COLOR]
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+
+#EXTINF:-1 tvg-logo="JimJam.png" group-title="Kids TV",[COLOR orange] Jim Jam[/COLOR]
+http://202.75.23.37/live/ch17/03.m3u8
+
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Nick Jr.
+http://176.51.87.65:1234/udp/233.7.70.169:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Nickelodeon
+http://176.51.87.65:1234/udp/233.7.70.97:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Nickelodeon HD
+http://176.51.87.65:1234/udp/233.7.70.164:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Cartoon Network
+http://176.51.87.65:1234/udp/233.7.70.102:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Boomerang
+http://176.51.87.65:1234/udp/233.7.70.187:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",JimJam
+http://176.51.87.65:1234/udp/233.7.70.148:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Disney (+7) (Audio Currently Down)
+http://176.51.87.65:1234/udp/233.7.70.91:5000,ru
+#EXTINF:-1 audio-track="en" group-title="Kids TV",Baby TV
+http://176.51.87.65:1234/udp/233.7.70.188:5000,ru
+
+
+
+#EXTINF:-1 tvg-id=".jpg" tvg-name=".jpg" tvg-logo=".jpg" group-title="Movies",[COLOR gold] American Horrors [/COLOR]
+rtmp://204.107.26.252:8086/live/393.high.stream
+
+#EXTINF:-1 tvg-id="7740621_orig.jpg" tvg-name="7740621_orig.jpg" tvg-logo="7740621_orig.jpg" group-title="Movies",[COLOR gold] -- HBO -- [/COLOR]
+rtmp://81.17.20.46/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1 tvg-id="258332_orig.jpg" tvg-name="258332_orig.jpg" tvg-logo="258332_orig.jpg" group-title="24/7 Shows",[COLOR gray][B] --> SERIES 24/7 <-- [/B][/COLOR]
+http://www.talkingpictures.co.uk/247television/images/247-Logo-smaller.gif
+
+
+#EXTINF:-1 tvg-id="Anger Management.png" tvg-name="Anger Management.png" tvg-logo="Anger Management.png" group-title="24/7 Shows",[COLOR gray]Anger Management[/COLOR]
+rtmp://198.27.75.99/app playpath=anger02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?
+
+#EXTINF:-1 tvg-id="6357583_orig.jpg" tvg-name="6357583_orig.jpg" tvg-logo="6357583_orig.jpg" group-title="24/7 Shows",[COLOR gray]Arrested Development[/COLOR]
+rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-id="9546221_orig.gif" tvg-name="9546221_orig.gif" tvg-logo="9546221_orig.gif" group-title="24/7 Shows",[COLOR gray]American Dad HD[/COLOR]
+http://62.210.76.216:8080/hls/american.m3u8
+
+#EXTINF:-1 tvg-id="1622903_orig.png" tvg-name="1622903_orig.png" tvg-logo="1622903_orig.png" group-title="24/7 Shows",[COLOR gray]BreAkinG BaD HD[/COLOR]
+http://62.210.76.216:8080/hls/bb.m3u8
+
+#EXTINF:-1 tvg-id="9493504_orig.jpg" tvg-name="9493504_orig.jpg" tvg-logo="9493504_orig.jpg" group-title="24/7 Shows",[COLOR gray]Futurama[/COLOR]
+rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-id="9484438_orig.jpg" tvg-name="9484438_orig.jpg" tvg-logo="9484438_orig.jpg" group-title="24/7 Shows",[COLOR gray]Futurama HD[/COLOR]
+http://62.210.76.216:8080/hls/futurama.m3u8
+
+#EXTINF:-1 tvg-id="6027955_orig.jpeg" tvg-name="6027955_orig.jpeg" tvg-logo="6027955_orig.jpeg" group-title="24/7 Shows",[COLOR gray]Family Guy HD[/COLOR]
+http://62.210.76.216:8080/hls/familyguy.m3u8
+
+#EXTINF:-1 tvg-id="3143145_orig.jpg" tvg-name="3143145_orig.jpg" tvg-logo="3143145_orig.jpg" group-title="24/7 Shows",[COLOR gray]Game of Thrones HD[/COLOR]
+http://62.210.76.216:8080/hls/got.m3u8
+
+#EXTINF:-1 group-title="24/7 Shows", tvg-id="Game of Thrones.png" tvg-name="Game of Thrones.png" tvg-logo="Game of Thrones.png" group-title="24/7 Shows",[COLOR gray]Game of Thrones[/COLOR]
+rtmp://198.27.75.99/app playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv
+
+#EXTINF:-1 tvg-id="7208034_orig.gif" tvg-name="7208034_orig.gif" tvg-logo="7208034_orig.gif" group-title="24/7 Shows",[COLOR gray]Home Improvement[/COLOR]
+rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-id="1118813_orig.jpg" tvg-name="1118813_orig.jpg" tvg-logo="1118813_orig.jpg" group-title="24/7 Shows",[COLOR gray] King Of The Hill [/COLOR]
+http://62.210.76.216:8080/hls/kinghill.m3u8
+
+#EXTINF:-1 tvg-id="178804_orig.png" tvg-name="178804_orig.png" tvg-logo="178804_orig.png" group-title="24/7 Shows",[COLOR gray] New Girl [/COLOR]
+rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?ng live=true
+
+#EXTINF:-1 tvg-id="9468741_orig.gif" tvg-name="9468741_orig.gif" tvg-logo="9468741_orig.gif" group-title="24/7 Shows",[COLOR gray] Seinfeld [/COLOR]
+rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-id="8402129_orig.jpg" tvg-name="8402129_orig.jpg" tvg-logo="8402129_orig.jpg" group-title="24/7 Shows",[COLOR gray]Sons of Anarchy HD [/COLOR]
+http://62.210.76.216:8080/hls/soa.m3u8
+
+#EXTINF:-1 tvg-id="7258014_orig.jpg" tvg-name="7258014_orig.jpg" tvg-logo="7258014_orig.jpg" group-title="24/7 Shows",[COLOR gray]South Park HD [/COLOR]
+http://62.210.76.216:8080/hls/southpark.m3u8
+
+#EXTINF:-1 tvg-id="3881406_orig.png" tvg-name="3881406_orig.png" tvg-logo="3881406_orig.png" group-title="24/7 Shows",[COLOR gray] Third Rock From The Sun [/COLOR]
+rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-id="4465518_orig.jpg" tvg-name="4465518_orig.jpg" tvg-logo="4465518_orig.jpg" group-title="24/7 Shows",[COLOR gray] The Drew Carey Show [/COLOR]
+rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?drewcarey live=true
+
+#EXTINF:-1 tvg-id="1088686_orig.gif" tvg-name="1088686_orig.gif" tvg-logo="1088686_orig.gif" group-title="24/7 Shows",[COLOR gray]That 70s Show[/COLOR]
+rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow live=true
+
+#EXTINF:-1 tvg-id="4401836_orig.jpg" tvg-name="4401836_orig.jpg" tvg-logo="4401836_orig.jpg" group-title="24/7 Shows",[COLOR gray]The Big Bang Theory[/COLOR]
+rtmp://198.27.75.99/app playpath=tbbt01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?tbbt01
+
+#EXTINF:-1 tvg-id="4401836_orig.png" tvg-name="4401836_orig.png" tvg-logo="4401836_orig.png" group-title="24/7 Shows",[COLOR gray]The Big Bang Theory HD[/COLOR]
+http://62.210.76.216:8080/hls/bigbang.m3u8
+
+#EXTINF:-1 tvg-id="8259948_orig.jpg" tvg-name="8259948_orig.jpg" tvg-logo="8259948_orig.jpg" group-title="24/7 Shows",[COLOR gray]The Simpsons[/COLOR]
+rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-id="8259948_orig.jpg" tvg-name="8259948_orig.jpg" tvg-logo="8259948_orig.jpg" group-title="24/7 Shows",[COLOR gray]The Simpsons HD[/COLOR]
+http://62.210.76.216:8080/hls/simpsons.m3u8
+
+#EXTINF:-1 tvg-id="Spongebob.png" tvg-name="Spongebob.png" tvg-logo="Spongebob.png" group-title="24/7 Shows",[COLOR gray]SpongeBob SquarePants 1[/COLOR]
+http://142.4.216.60:1935/edge/_definst_/bgk9mq6lxgd63km/playlist.m3u8?xs=_we_YmdrOW1xNmx4Z2Q2M2ttfDE0MTIxNzg4MzZ8MjQuMTQyLjYzLjMwfDU0MmMyMjJjMzAwMDh8MDcyZDJjZDJhMmYxYjc5Njc3YTA1MzIyNjUzNTg4MjBiYTgyZmJlYw..&&token=motngaynew1
+
+#EXTINF:-1 tvg-id="9442390_orig.gif" tvg-name="9442390_orig.gif" tvg-logo="9442390_orig.gif" group-title="24/7 Shows",[COLOR gray]The Sopranos[/COLOR]
+rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=true
+
+#EXTINF:-1 tvg-id="4264188_orig.jpg" tvg-name="4264188_orig.jpg" tvg-logo="4264188_orig.jpg" group-title="24/7 Shows",[COLOR gray]The Walking Dead[/COLOR]
+rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02
+
+#EXTINF:-1 tvg-id="4264188_orig.jpg" tvg-name="4264188_orig.jpg" tvg-logo="4264188_orig.jpg" group-title="24/7 Shows",[COLOR gray]The Walking Dead HD[/COLOR]
+http://62.210.76.216:8080/hls/walkingdead.m3u8
+
+
+
+#EXTINF:-1 group-title="Music Channels",[B][COLOR blue] --> MUSIC <-- [/COLOR][/B]
+http://static.wixstatic.com/media/6c2e7f_5971b394c59cd45ab908a96679e3cc2a.png
+
+#EXTINF:-1 audio-track="en" tvg-id="vh1.png" tvg-name="vh1.png" tvg-logo="vh1.png" group-title="Music Channels",[COLOR blue]VH1[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.152:5000,ru
+
+#EXTINF:-1 audio-track="en" tvg-id="VH1Classic.png" tvg-name="VH1Classic.png" tvg-logo="VH1Classic.png" group-title="Music Channels",[COLOR blue]VH1 Classic[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.229:5000,ru
+
+#EXTINF:-1 tvg-id="VH1Classic.png" tvg-name="VH1Classic.png" tvg-logo="VH1Classic.png" group-title="Music Channels",[COLOR lightblue]VH1 Classic (Alternate Link)[/COLOR]
+http://37.192.73.83:81/udp/239.1.8.7:1234
+
+#EXTINF:-1 tvg-id="mtv.png" tvg-name="mtv.png" tvg-logo="mtv.png" group-title="Music Channels",[COLOR blue]MTV (US)[/COLOR]
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVDance.png" tvg-name="MTVDance.png" tvg-logo="MTVDance.png" group-title="Music Channels",[COLOR blue]MTV Dance[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.207:5000,ru
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVHits.png" tvg-name="MTVHits.png" tvg-logo="MTVHits.png" group-title="Music Channels",[COLOR blue]MTV Hits[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.208:5000,ru
+
+#EXTINF:-1 tvg-id="MTVHits.png" tvg-name="MTVHits.png" tvg-logo="MTVHits.png" group-title="Music Channels",[COLOR lightblue] MTV Hits (Alternate Link)[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.107:1234
+
+#EXTINF:-1 tvg-id="MTVHits.png" tvg-name="MTVHits.png" tvg-logo="MTVHits.png" group-title="Music Channels",[COLOR lightblue] MTV Hits (Alternate Link 2)[/COLOR]
+http://staticline52974.toya.net.pl/mtvhits/mtvhits.m3u8 
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVRocks.png" tvg-name="MTVRocks.png" tvg-logo="MTVRocks.png" group-title="Music Channels",[COLOR blue]MTV Rocks[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.209:5000,ru
+
+#EXTINF:-1 tvg-id="MTVRocks.png" tvg-name="MTVRocks.png" tvg-logo="MTVRocks.png" group-title="Music Channels",[COLOR lightblue]MTV Rocks (Alternate Link)[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.98:1234
+
+#EXTINF:-1 tvg-id="MTVRocks.png" tvg-name="MTVRocks.png" tvg-logo="MTVRocks.png" group-title="Music Channels",[COLOR lightblue]MTV Rocks (Alternate Link 2)[/COLOR]
+http://digiquest.forumo.de@tinyurl.com/kd6mggd 
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVLiveHD.png" tvg-name="MTVLiveHD.png" tvg-logo="MTVLiveHD.png" group-title="Music Channels",[COLOR blue]MTV Live HD[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.161:5000,ru
+
+#EXTINF:-1 tvg-id="MTVDance.png" tvg-name="MTVDance.png" tvg-logo="MTVDance.png" group-title="Music Channels",[COLOR blue]MTV Dance[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.47:1234
+
+#EXTINF:-1 tvg-id="MTVDance.png" tvg-name="MTVDance.png" tvg-logo="MTVDance.png" group-title="Music Channels",[COLOR lightblue]MTV Dance (Alternate Link)[/COLOR]
+http://digiquest.forumo.de@tinyurl.com/qzcxwsm
+
+#EXTINF:-1 tvg-id="karrang.png" tvg-name="kerrang.png" tvg-logo="kerrang.png" group-title="Music Channels",[COLOR blue]Kerrang![/COLOR]
+http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel16/hls/3/playlist.m3u8
+
+#EXTINF:-1 audio-track="en" tvg-id="musicbox.png" tvg-name="musicbox.png" tvg-logo="musicbox.png" group-title="Music Channels",[COLOR blue]Music Box[/COLOR]
+http://176.51.87.65:1234/udp/233.7.70.53:5000,ru
+
+#EXTINF:-1 tvg-id="A One Hip Hop Music.png" tvg-name="A One Hip Hop Music.png" tvg-logo="A One Hip Hop Music.png" group-title="Music Channels",[COLOR blue]A ONE - Hip Hop Music[/COLOR]
+http://5.128.90.97:1234/udp/239.1.8.2:1234
+
+#EXTINF:-1 tvg-id="HeartTV.png" tvg-name="HeartTV.png" tvg-logo="HeartTV.png" group-title="Music Channels",[COLOR blue]Heart TV[/COLOR]
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+
+#EXTINF:-1tvg-id="vevo.png" tvg-name="vevo.png" tvg-logo="vevo.png" group-title="Music Channels",[COLOR blue]VEVO Playlist HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1tvg-id="Best Music TV.png" tvg-name="Best Music TV.png" tvg-logo="Best Music TV.png" group-title="Music Channels",[COLOR blue]eska Best Music TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1tvg-id="EskaRock.png" tvg-name="EskaRock.png" tvg-logo="EskaRock.png" group-title="Music Channels",[COLOR blue]eska Rock TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-id="CapitalTV.png" tvg-name="CapitalTV.png" tvg-logo="CapitalTV.png" group-title="Music Channels",[COLOR blue]Capital TV[/COLOR]
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-id="CapitalTV.png" tvg-name="CapitalTV.png" tvg-logo="CapitalTV.png" group-title="Music Channels",[COLOR lightblue]Capital TV (Alternate Link)[/COLOR]
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-id="Clubland.png" tvg-name="Clubland.png" tvg-logo="Clubland.png" group-title="Music Channels",[COLOR blue]Clubland[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="musiq1.png" tvg-name="musiq1.png" tvg-logo="musiq1.png" group-title="Music Channels",[COLOR blue]Musiq 1 TV[/COLOR]
+http://212.79.96.134:8005/
+
+#EXTINF:-1 tvg-id="NTWICM.png" tvg-name="NTWICM.png" tvg-logo="NTWICM.png" group-title="Music Channels",[COLOR blue]NTWICM (Now Music)[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio105.png" tvg-name="Radio105.png" tvg-logo="Radio105.png" group-title="Music Channels",[COLOR blue]Radio 105 TV[/COLOR]
+rtmp://fms.105.net/live/105Test1
+
+#EXTINF:-1 tvg-id="TubaTV.png" tvg-name="TubaTV.png" tvg-logo="TubaTV.png" group-title="Music Channels",[COLOR blue]Tuba TV[/COLOR]
+rtmp://fms.gazeta.pl:1935/aglive/tuba_tv
+
+#EXTINF:-1 tvg-id="PartyTV.png" tvg-name="PartyTV.png" tvg-logo="PartyTV.png" group-title="Music Channels",[COLOR blue]PartyTV Eska HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 tvg-id="RMC.png" tvg-name="RMC.png" tvg-logo="RMC.png" group-title="Music Channels",[COLOR blue]RMC TV[/COLOR]
+rtmp://fms.105.net:1935/live/rmc1 
+
+#EXTINF:-1 tvg-id="virgintv.png" tvg-name="virgintv.png" tvg-logo="virgintv.png" group-title="Music Channels",[COLOR blue]Virgin TV[/COLOR]
+rtmp://fms.105.net:1935/live/virgin1 
+
+
+#EXTINF:-1 tvg-id="news.png" tvg-name="news.png" tvg-logo="news.png" group-title="News",[COLOR red][B] --> News <-- [/B][/COLOR]
+http://www.southeastpaprep.com/wp-content/uploads/2014/05/news-logo.png
+
+
+#EXTINF:-1 tvg-id="ABC News.png" tvg-name="ABC News.png" tvg-logo="ABC News.png" group-title="News",[COLOR red]ABC News [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1 tvg-id="BBC News.png" tvg-name="BBC News.png" tvg-logo="BBC News.png" group-title="News",[COLOR red] BBC News HD [/COLOR]
+http://wj8s2.cdn.live.simplestream.com/BIAHNLT54ATAXG27BDQN/3/playlist-limelight.m3u8?e=1407584127&h=4aeab7124697e13bdf875f93d338087a
+
+#EXTINF:-1 tvg-id="BBC News.png" tvg-name="BBC News.png" tvg-logo="BBC News.png" group-title="News",[COLOR lightred] BBC News Alternate Link[/COLOR]
+rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/en/bbc-news live=1
+
+#EXTINF:-1 tvg-id="Al Jazeera.png" tvg-name="Al Jazeera.png" tvg-logo="Al Jazeera.png" group-title="News",[COLOR red]Al Jazeera[/COLOR]
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
+
+#EXTINF:-1 tvg-id="Bloomberg.png" tvg-name="Bloomberg.png" tvg-logo="Bloomberg.png" group-title="News",[COLOR red] Bloomberg [/COLOR]
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+
+#EXTINF:-1 tvg-id="CNN.png" tvg-name="CNN.png" tvg-logo="CNN.png" group-title="News",[COLOR red] CNN [/COLOR]
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.png" tvg-name="Euronews.png" tvg-logo="Euronews.png" group-title="News",[COLOR red] Euronews  [/COLOR]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
+
+#EXTINF:-1 tvg-id="FOX News.png" tvg-name="FOX News.png" tvg-logo="FOX News.png" group-title="News",[COLOR red] FOX News [/COLOR]
+rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
+
+#EXTINF:-1 tvg-id="i24.png" tvg-name="i24.png" tvg-logo="i24.png" group-title="News",[COLOR red] i24 News [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-id="i24.png" tvg-name="i24.png" tvg-logo="i24.png" group-title="News",[COLOR red] i24 News Alternate Link[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.png" tvg-name="MSNBC.png" tvg-logo="MSNBC.png" group-title="News",[COLOR red] MSNBC [/COLOR]
+rtmpe://watch.playfooty.tv/live playpath=msnbc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=msnbc1569
+
+#EXTINF:-1 tvg-id="SKY News.png" tvg-name="SKY News.png" tvg-logo="SKY News.png" group-title="News",[COLOR red]SKY News[/COLOR]
+rtmpe://89.248.172.52/live/skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
+
+#EXTINF:-1 tvg-id="SKY News.png" tvg-name="SKY News.png" tvg-logo="SKY News.png" group-title="News",[COLOR pink]SKY News Alternate Link[/COLOR]
+http://212.250.159.10:7020/
+
+#EXTINF:-1 tvg-id="Russia Today.png" tvg-name="Russia Today.png" tvg-logo="Russia Today.png" group-title="News", [COLOR red]Russia Today[/COLOR]
+http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8
+
+#EXTINF:0 tvg-id="RAI News 24.png" tvg-name="RAI News 24.png" tvg-logo="RAI News 24.png" group-title="News",[COLOR red]RAI News 24[/COLOR]
+rtsp://204.107.27.247:1935/live/378.low.stream/?id=0ad5aac39bb13fbe24640970b4aa2a4ac562ac813f7be47e542cd05856f91c1f1a15cf1e5125bb4d61172585b380ad08d051de3c8b0a466d3a5416f5ef0d9c6853a37caf720a825d40386ca74942da11c2352dc243bf81c00822ba15a23b9829afd70406cfbbb38cc23d8db1766c7459edd7e7454f1bbad6508e0e87cdec0f8666764c76e78822d7eb34e314c9ea7c28d1f64824c4127a23
+
+
+#EXTINF:-1,[COLOR green] --> ENTERTAINMENT <-- [/COLOR]
+
+#EXTINF:-1 group-title="Entertainment",[COLOR red]BBC One[/COLOR]
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR red]BBC Two[/COLOR]
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+
+#EXTINF:0 group-title="Entertainment",BBC 2 (UK)
+http://212.250.159.10:7040
+
+#EXTINF:-1 group-title="Entertainment",[COLOR red]Universal Channel (2 Audio's)[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.80:1234
+
+#EXTINF:-1 group-title="Entertainment",[COLOR red]TG4 Ireland[/COLOR]
+http://tg4-lh.akamaihd.net/EirBeo1_1200_tg4@118693?videoId=2538842141001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&affiliateId;=&bandwidthEstimationTest=true&v=3.3.0&fp=WIN 13,0,0,182&r=MWDOQ&g=TPANMNTKXCBN
+
+#EXTINF:-1 group-title="Entertainment",ITV (UK)
+http://212.250.159.10:7050
+
+#EXTINF:-1 group-title="Entertainment",ITV 2 (UK)
+http://212.250.159.7:7080 
+
+#EXTINF:-1 group-title="Entertainment",ITV 3 (UK)
+http://212.250.159.7:7100 
+
+#EXTINF:-1 group-title="Entertainment",ITV 4 (UK)
+http://212.250.159.8:7110
+
+#EXTINF:0 group-title="Entertainment",Channel 4 (UK)
+http://212.250.159.10:7060
+
+#EXTINF:-1 group-title="Entertainment",Film4 (UK)
+http://212.250.159.7:7090 
+
+#EXTINF:-1 group-title="Entertainment",E4 (UK)
+http://212.250.159.8:7120 
+
+#EXTINF:-1 group-title="Entertainment",More4 (UK)
+http://212.250.159.9:7140 
+
+#EXTINF:0 group-title="Entertainment",Channel 5 (UK)
+http://212.250.159.10:7070
+
+#EXTINF:0 group-title="Entertainment",5* (UK)
+http://212.250.159.9:7150
+
+#EXTINF:0 group-title="Entertainment",5 USA (UK)
+http://212.250.159.9:7160
+
+#EXTINF:-1 group-title="Entertainment",National Geographic (Eng)
+http://202.75.23.35:1400/live/ch38/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Animal Planet (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.18:12345
+
+#EXTINF:-1 group-title="Entertainment",Discovery Channel (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.17:12345
+
+#EXTINF:-1 group-title="Entertainment",Viasat Nature (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.53:12345
+
+#EXTINF:-1 group-title="Entertainment",Viasat History (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.56:12345
+
+#EXTINF:-1 group-title="Entertainment",Bio
+http://202.75.23.36:1400/live/ch46/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",E
+http://212.164.209.160:1234/udp/233.7.70.72:5000
+
+#EXTINF:-1 group-title="Entertainment",TV1000 (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.54:12345
+
+#EXTINF:-1 group-title="Entertainment",TV1000 Action (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.52:12345
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]ANIMAL PLANET[/COLOR]
+http://202.75.23.34:1400/live/ch31/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]BIO CH[/COLOR]
+http://202.75.23.36:1400/live/ch46/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]DISCOVERY[/COLOR]
+http://202.75.23.34:1400/live/ch29/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]DISCOVERY WORLD[/COLOR]
+http://202.75.23.34:1400/live/ch30/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment" group-title="Kids",[COLOR green]DISCOVERY KIDS[/COLOR]
+http://202.75.23.35:1400/live/ch36/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]NAT GEO[/COLOR]
+http://202.75.23.35:1400/live/ch38/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]HISTORY HD[/COLOR]
+http://202.75.23.36:1400/live/ch45/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]LIFETIME[/COLOR]
+http://202.75.23.36:1400/live/ch48/04.m3u8
+
+#EXTINF:-1 group-title="Entertainment",[COLOR green]Viasat Nature (2 Audio's)[/COLOR]
+http://80.77.52.6:4022/udp/230.0.3.53:12345
+
+
+#EXTINF:-1,[COLOR blue] --> Sports <-- [/COLOR]
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports 1[/COLOR]
+rtmp://89.248.172.239:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=42&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports 2[/COLOR]
+rtmp://80.82.78.38:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=43&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports 3[/COLOR]
+rtmp://94.102.56.235:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf  live=1 pageUrl=http://filotv.pw/player2.php?id=44&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports 4[/COLOR]
+rtmp://89.248.174.51:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=45&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports 5[/COLOR]
+rtmp://80.82.78.38:443/liverepeater playpath=1 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports 5 ( should be up in the morning)[/COLOR]
+rtmp://89.248.169.48:443/liverepeater playpath=124 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=124&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Sky Sports F1[/COLOR]
+rtmp://80.82.64.90:443/liverepeater playpath=73 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=73&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]MUTV[/COLOR]
+rtmp://80.82.64.90:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=10&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]TSN 1[/COLOR]
+rtmp://31.220.0.195:1935/live playpath=tsn1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=tsn1x&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]TSN 2[/COLOR]
+rtmp://31.220.0.195:1935/live playpath=tsn2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=tsn2x&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",Sportsnet One 
+rtmp://31.220.0.104:1935/live playpath=spone swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=spone&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",Sportsnet One (Alternate Link) 
+rtmp://31.220.0.104:1935/live/spone pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",Sportsnet Ontario 
+rtmp://31.220.0.104:1935/live playpath=spon swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=spon&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",Sportsnet Ontario (Alternate Link) 
+rtmp://31.220.0.104:1935/live/spon pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport HD[/COLOR]
+http://149.255.39.122/aasd/8817/index.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport NEWS[/COLOR]
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi4.stream
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 1[/COLOR]
+rtmp://80.82.78.85:443/liverepeater playpath=20 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=20&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 2[/COLOR]
+rtmp://80.82.78.85:443/liverepeater playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=21&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 3[/COLOR]
+rtmp://93.174.93.67:443/liverepeater playpath=23 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=23&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 4[/COLOR]
+rtmp://93.174.95.71:443/liverepeater playpath=24 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=24&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 5[/COLOR]
+rtmp://94.102.52.186:443/liverepeater playpath=25 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=25&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 6[/COLOR]
+rtmp://93.174.93.94:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=26&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 7[/COLOR]
+rtmp://80.82.64.90:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf  live=1 pageUrl=http://filotv.pw/player3.php?id=27&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 8[/COLOR]
+rtmp://94.102.51.79:443/liverepeater playpath=28 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=28&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 9[/COLOR]
+rtmp://80.82.64.117:443/liverepeater playpath=29 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=29&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 10[/COLOR]
+rtmp://80.82.64.90:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=30&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 11[/COLOR]
+rtmp://80.82.64.241:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=31&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 12[/COLOR]
+rtmp://80.82.64.241:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=32&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 13[/COLOR]
+rtmp://89.248.172.239:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=33&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 14[/COLOR]
+rtmp://94.102.56.235:443/liverepeater playpath=34 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=34&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Bein Sport 15[/COLOR]
+rtmp://89.248.168.130:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=35&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]ESPN HD 720p[/COLOR]
+rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",[COLOR blue] DIGI SPORTS 2 [/COLOR]
+rtmp://5.63.151.204:443/liverepeater playpath=11 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=11&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Premiere Live[/COLOR]
+rtmp://89.248.169.48:443/liverepeater playpath=74 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR yellow]BT Sports 1 HD[/COLOR]
+http://37.187.133.146:1935/gtfo/prem1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]BT Sports 1[/COLOR]
+rtmp://89.248.171.97:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=77&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]BT Sports 2[/COLOR]
+rtmp://89.248.171.97:443/liverepeater playpath=72 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=72&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Setanta Ireland[/COLOR]
+rtmp://80.82.64.117:443/liverepeater playpath=84 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=84&width=640&height=460 token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Setanta Sport ( Manually change audio to 2 for english )[/COLOR]
+http://80.77.52.6:4022/udp/230.0.4.1:12345
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Box Nation[/COLOR]
+rtmp://93.174.93.29:443/liverepeater playpath=38 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=38&width=640&height=460 token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]ESPN[/COLOR]
+rtmp://80.82.78.38:443/liverepeater playpath=71 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=71&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]At the races[/COLOR]
+rtmp://80.82.78.38:443/liverepeater playpath=8 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=8&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Racing UK[/COLOR]
+rtmp://93.174.93.200:443/liverepeater playpath=7 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=7&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Viasat Sport (2 Audio's)[/COLOR]
+http://80.77.52.6:4022/udp/230.0.3.58:12345
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Fox Sports 1[/COLOR]
+rtmp://89.248.168.57:443/liverepeater playpath=98 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=98&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Fox Sports 2[/COLOR]
+rtmp://94.102.56.235:443/liverepeater playpath=96 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=96&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Chelsea TV[/COLOR]
+rtmp://173.193.227.104:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=33&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]NFL[/COLOR]
+rtmp://94.102.56.235:443/liverepeater playpath=47 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=47&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]NBA[/COLOR]
+rtmp://93.174.93.94:443/liverepeater playpath=48 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=48&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]ESPN USA[/COLOR]
+rtmp://93.174.93.94:443/liverepeater playpath=52 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=52&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]WWE NETWORK[/COLOR]
+rtmp://80.82.64.117:443/liverepeater playpath=46 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=46&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Czech-Sport 5 v1[/COLOR]
+http://212.79.96.134:8023
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Fightbox HD[/COLOR]
+http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Georgia - Eurosport[/COLOR]
+http://80.77.52.6:4022/udp/230.0.3.11:12345
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Georgia - Eurosport 2[/COLOR]
+http://80.77.52.6:4022/udp/230.0.3.12:12345
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]supersport1 hd[/COLOR]
+http://149.255.39.122/aasd/8733/index.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]supersport2 hd[/COLOR]
+http://149.255.39.122/aasd/8734/index.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]supersport3 hd[/COLOR]
+http://149.255.39.122/aasd/8741/index.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]supersport4 hd[/COLOR]
+http://149.255.39.122/aasd/8743/index.m3u8
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]KD Sports [/COLOR]
+rtmp://89.248.168.130:443/liverepeater playpath=5 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=5&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]ARENA SPORT 1[/COLOR]
+http://217.172.190.10:8101/
+#EXTINF:-1 group-title="Sports",[COLOR blue]ARENA SPORT 2[/COLOR]
+http://217.172.190.10:8102/
+#EXTINF:-1 group-title="Sports",[COLOR blue]ARENA SPORT 3[/COLOR]
+http://217.172.190.10:8103/
+#EXTINF:-1 group-title="Sports",[COLOR blue]ARENA SPORT 4[/COLOR]
+http://217.172.190.10:8104/
+#EXTINF:-1 group-title="Sports",[COLOR blue]EUROSPORT[/COLOR]
+http://217.172.190.10:8116/
+#EXTINF:-1 group-title="Sports",[COLOR blue]EUROSPORT 2[/COLOR]
+http://217.172.190.10:8117/
+#EXTINF:-1 group-title="Sports",[COLOR blue]SPORTKLUB 1[/COLOR]
+http://217.172.190.10:8150/
+#EXTINF:-1 group-title="Sports",[COLOR blue]SPORT KLUB 2[/COLOR]
+http://217.172.190.10:11111/
+#EXTINF:-1 group-title="Sports",[COLOR blue]SPORTKLUB 3[/COLOR]
+http://217.172.190.10:8167/
+
+#EXTINF:-1 group-title="Sports",[COLOR blue]Fighting MMA World series of fighting[/COLOR]
+rtmp://173.193.219.179:443/liverepeater playpath=18 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=18&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",Sports 1 (Eng) 
+rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",Sports 2 (Eng) 
+rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",Sports 3 (Eng) 
+rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",Sports 4 (Eng) 
+rtmp://server.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",Sports 5 (Eng) 
+rtmp://server.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",Sports 6 (Eng) 
+rtmp://server.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 group-title="Sports",Sky Sports 1
+rtmp://89.248.169.48:443/liverepeater playpath=66  swfUrl=http://static.surk.tv/atdedead.swf live=1  pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460  token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",Sky Sports 2
+rtmp://89.248.169.48:443/liverepeater playpath=67  swfUrl=http://static.surk.tv/atdedead.swf live=1  pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460  token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",Sky Sports 3
+rtmp://89.248.169.48:443/liverepeater playpath=68  swfUrl=http://static.surk.tv/atdedead.swf live=1  pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460  token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",Sky Sports 4
+rtmp://89.248.169.48:443/liverepeater playpath=69  swfUrl=http://static.surk.tv/atdedead.swf live=1  pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460  token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",Sky Sports News
+rtmp://195.154.220.115:1935/private/skynews2014
+
+#EXTINF:-1 group-title="Sports",BT Sports 1
+rtmp://31.220.0.194:1935/live playpath=bt1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt1&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 group-title="Sports",BT Sports 2
+rtmp://89.248.169.48:443/liverepeater playpath=72  swfUrl=http://static.surk.tv/atdedead.swf live=1  pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460  token=#atd%#$ZH 
+
+#EXTINF:-1 group-title="Sports",Premier Sports
+rtmp://89.248.169.48:443/liverepeater playpath=74  swfUrl=http://static.surk.tv/atdedead.swf live=1  pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460  token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",ESPN   
+rtmp://46.165.210.40/iguide playpath=qld2uz6m4f6m4js swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=25878&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1 group-title="Sports",ESPN (US)
+rtmp://93.174.95.71:443/liverepeater playpath=52  swfUrl=http://static.surk.tv/atdedead.swf  pageUrl=http://filotv.pw/player3.php?id=20&width=640&height=460  token=#atd%#$ZH
+
+#EXTINF:-1 group-title="Sports",ESPN 2 (US)
+rtmp://195.154.220.115:1935/private/espn2 
+
+#EXTINF:-1 group-title="Sports",Eurosport (Eng/Rus)
+http://212.164.209.160:1234/udp/233.7.70.45:5000
+
+#EXTINF:-1 group-title="Sports",Eurosport 2 (Eng/Rus)
+http://212.164.209.160:1234/udp/233.7.70.81:5000
+
+#EXTINF:-1 group-title="Sports",Setanta Sport (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.4.1:12345
+
+#EXTINF:-1 group-title="Sports",Viasat Sport (Eng/Rus)
+http://80.77.52.6:4022/udp/230.0.3.58:12345
+
+#EXTINF:-1 group-title="Sports",NBA TV
+rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+
+#EXTINF:-1 group-title="Sports",NFL TV
+rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+
+#EXTINF:-1 group-title="Sports",Sport5 1 (Israel) 
+rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
+
+#EXTINF:-1 group-title="Sports",Sport5 2 (Israel)  
+rtmp://s5-s.nsacdn.com:1935/sport5_Live3Repeat/Live3_3 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live3&Type=live
+
+
+
+#EXTINF:-1 group-title="Movies",[B][COLOR blue] --> Movies <-- [/COLOR][/B]
+
+#EXTINF:-1 group-title="Movies",Paramount Channel (2 Audio's)
+http://80.77.52.6:4022/udp/230.0.3.20:12345
+
+#EXTINF:-1 group-title="Movies",PINK Action (2 Audio's)
+http://149.255.39.122/aasd/8804/index.m3u8
+
+#EXTINF:-1 group-title="Movies",ShowTime (2 Audio's)
+mmsh://mediafilmcenter.ro:10
+
+#EXTINF:-1 group-title="Movies",TV1000 Action (2 Audio's)
+http://80.77.52.6:4022/udp/230.0.3.52:12345
+
+#EXTINF:-1 group-title="Movies",TV1000 (2 Audio's)
+http://80.77.52.6:4022/udp/230.0.3.54:12345
+
+#EXTINF:-1 group-title="Movies",TV1000 Русское кино (2 Audio's)
+http://80.77.52.6:4022/udp/230.0.3.59:12345
+
+#EXTINF:-1 group-title="Movies",MGM (2 Audio's)
+http://93.184.81.71:8097/
+
+#EXTINF:-1 group-title="Movies",[COLOR yellow] Sky Movies Premiere[/COLOR]
+rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 group-title="Movies",[COLOR yellow] Sky Movies Action[/COLOR]
+rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 group-title="Movies",[COLOR yellow] Sky Movies Greats[/COLOR]
+rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 group-title="Movies",[COLOR yellow] Sky Movies Thriller[/COLOR]
+rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 group-title="Movies",[COLOR yellow] Sky Movies SciFi[/COLOR]
+rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+
+
+
+
+#EXTINF:-1  group-title="Radio" radio="true",[COLOR blue]BBC Radio 1 ( uk )[/COLOR]
+mms://212.58.284.122/wms/bbc_ami/radio1/radio1_bb_live_ep1_sl0?BBC-UID=25a3ee4379a7ddda48e6d25af1507f5e70322937e0b0b134a40fb9371c723a41&amp;SSO2-UID=
+
+#EXTINF:-1  group-title="Radio" radio="true",[COLOR blue]BBC Radio 2 ( uk )[/COLOR]
+mms://212.58.251.85/wms/bbc_ami/radio2/radio2_bb_live_ep1_sl0?BBC-UID=b5731e43994847a2a3dfa93eb1f6e3b31ad15445b0a0d2d1b2e8f0f520860903&amp;SSO2-UID=
+
+#EXTINF:-1  group-title="Radio" radio="true",[COLOR blue]BBC Radio 5 Sports ( uk )[/COLOR]
+mms://212.58.284.122/wms/bbc_ami/radio5/5spxtra_bb_live_ep1_sl0?BBC-UID=b543fe8369283bee4ff19b22d1323e60e1a87342d0e0a1b454cf3967e43303c4&amp;SSO2-UID=
+
+#EXTINF:-1 group-title="Radio" radio="true",[COLOR blue]96.9 VikingFm ( uk )[/COLOR]
+http://icy-e-02.sharp-stream.com:80/viking.mp3
+
+#EXTINF:-1 group-title="Radio" radio="true", [COLOR blue]BBC - Radio 1[/COLOR]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio1_p?s=1407614289&e=1407628689&h=eeccef04fe2aa4fd5eb373c6914fa25b
+
+#EXTINF:-1 group-title="Radio" radio="true", [COLOR blue]BBC - Radio 2[/COLOR]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio2_p?s=1407614521&e=1407628921&h=27c826761cfbe8fbbd92be5d43b88f55
+
+#EXTINF:-1 group-title="Radio" radio="true", [COLOR blue]BBC - Radio 3[/COLOR]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio3_p?s=1407614585&e=1407628985&h=46e9b59d45f0cc8198517a8b682bf4df
+
+#EXTINF:-1 group-title="Radio" radio="true", [COLOR blue]BBC - Radio 4[/COLOR]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio4_p?s=1407614642&e=1407629042&h=7484d1a8313f42df102273fa79154175
+
+#EXTINF:-1 group-title="Radio" radio="true", [COLOR blue]BBC - Radio 5 live[/COLOR]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_5live_p?s=1407614689&e=1407629089&h=d1b2618b4dc9852c4095d48235105672
+
+#EXTINF:-1 group-title="Radio" radio="true", [COLOR blue]BBC - Radio 5 Live sports extra[/COLOR]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_5sportxtra_p?s=1407614913&e=1407629313&h=4d61971d86b89236c9aa4512fa1107ee
+
+
+#EXTINF:-1 tvg-id="new.png" tvg-name="new.png" tvg-logo="new.png" group-title="New Channels",[COLOR darkorange][B][UPPERCASE]-->NEW CHANNELS<--[/UPPERCASE][/B][/COLOR]
+http://newtvworld.com/Images/livetv_transparent.png
+#EXTINF:-1 audio-track="en" group-title="New Channels",Amedia Premium HD ENG
+http://176.51.87.65:1234/udp/233.7.70.244:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Animal Planet HD ENG
+http://176.51.87.65:1234/udp/233.7.70.225:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Discovery Channel HD ENG
+http://176.51.87.65:1234/udp/233.7.70.253:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Discovery Science HD ENG
+http://176.51.87.65:1234/udp/233.7.70.195:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Outdoor HD
+http://176.51.87.65:1234/udp/233.7.70.163:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Outdoor
+http://176.51.87.65:1234/udp/233.7.70.226:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Nat Geo Wild
+http://176.51.87.65:1234/udp/233.7.70.223:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Nautical Channel
+http://176.51.87.65:1234/udp/233.7.70.84:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Eurosport HD ENG
+http://176.51.87.65:1234/udp/233.7.70.132:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Fashion One HD ENG
+http://176.51.87.65:1234/udp/233.7.70.162:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",FOX Life HD ENG??? (Audio Currently Down)
+http://176.51.87.65:1234/udp/233.7.70.158:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",MyZen HD ENG
+http://176.51.87.65:1234/udp/233.7.70.160:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Paramount Channel HD
+http://176.51.87.65:1234/udp/233.7.70.114:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Russia Today HD
+http://176.51.87.65:1234/udp/233.7.70.216:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Russia Today Д HD
+http://176.51.87.65:1234/udp/233.7.70.217:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Amedia I
+http://176.51.87.65:1234/udp/233.7.70.214:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",BBC World New
+http://176.51.87.65:1234/udp/233.7.70.186:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Nick Jr.
+http://176.51.87.65:1234/udp/233.7.70.169:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Nickelodeon
+http://176.51.87.65:1234/udp/233.7.70.97:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Nickelodeon HD
+http://176.51.87.65:1234/udp/233.7.70.164:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Cartoon Network
+http://176.51.87.65:1234/udp/233.7.70.102:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Boomerang
+http://176.51.87.65:1234/udp/233.7.70.187:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",JimJam
+http://176.51.87.65:1234/udp/233.7.70.148:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Disney (+7) (Audio Currently Down)
+http://176.51.87.65:1234/udp/233.7.70.91:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Baby TV
+http://176.51.87.65:1234/udp/233.7.70.188:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",CBS Reality
+http://176.51.87.65:1234/udp/233.7.70.231:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Deutsche Welle
+http://176.51.87.65:1234/udp/233.7.70.191:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Discovery Channel
+http://176.51.87.65:1234/udp/233.7.70.26:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",English Club TV
+http://176.51.87.65:1234/udp/233.7.70.96:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Eurosport
+http://176.51.87.65:1234/udp/233.7.70.45:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Eurosport 2
+http://176.51.87.65:1234/udp/233.7.70.81:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Eurosport News
+http://176.51.87.65:1234/udp/233.7.70.197:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Extreme Sports
+http://176.51.87.65:1234/udp/233.7.70.147:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Fashion TV
+http://176.51.87.65:1234/udp/233.7.70.47:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",History
+http://176.51.87.65:1234/udp/233.7.70.185:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",TLC
+http://176.51.87.65:1234/udp/233.7.70.29:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",ID Xtra???
+http://176.51.87.65:1234/udp/233.7.70.192:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",MCM TOP
+http://176.51.87.65:1234/udp/233.7.70.109:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Mezzo
+http://176.51.87.65:1234/udp/233.7.70.204:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Motors TV
+http://176.51.87.65:1234/udp/233.7.70.206:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",NHK World
+http://176.51.87.65:1234/udp/233.7.70.224:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Paramount Channel
+http://176.51.87.65:1234/udp/233.7.70.113:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",SET
+http://176.51.87.65:1234/udp/233.7.70.70:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Sony Turbo
+http://176.51.87.65:1234/udp/233.7.70.166:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",TV1000 Action
+http://176.51.87.65:1234/udp/233.7.70.59:5000,ru
+#EXTINF:-1 audio-track="en" group-title="New Channels",Universal Channel
+http://176.51.87.65:1234/udp/233.7.70.151:5000,ru
+

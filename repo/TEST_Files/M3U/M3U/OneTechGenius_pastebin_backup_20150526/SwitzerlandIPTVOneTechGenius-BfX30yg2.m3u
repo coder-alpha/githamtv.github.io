@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV ISVIÇRE-SCHWEIZ-SWITZERLAND***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,3plus m3u8 (nur CH Provider)
+http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8
+#EXTINF:-1,barntele rtmp
+http://rtmp.infomaniak.ch/livecast/barntele/HasBahCa.m3u8
+#EXTINF:-1,c9 m3u8 (nur CH Provider)
+http://pebbles117-lh.akamaihd.net/i/c9_1@135252/master.m3u8
+#EXTINF:-1,caju m3u8 (nur CH Provider)
+http://pebbles117-lh.akamaihd.net/i/caju_1@135253/master.m3u8
+#EXTINF:-1,cane m3u8 (nur CH Provider)
+http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8
+#EXTINF:-1,deltatv rtmp
+http://rtmp.infomaniak.ch/livecast/deltatv/HasBahCa.m3u8
+#EXTINF:-1,joiz m3u8 (nur CH Provider)
+http://pebbles118-lh.akamaihd.net/i/joiz_1@135266/master.m3u8
+#EXTINF:-1,Leman Bleu - Suisse rtmp
+http://rtmp.infomaniak.ch/livecast/naxoo/HasBahCa.m3u8
+#EXTINF:-1,m6 m3u8 (nur CH Provider)
+http://pebbles108-lh.akamaihd.net/i/m6_1@97467/master.m3u8
+#EXTINF:-1,M6TV
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1,ouitv rtmp
+http://rtmp.infomaniak.ch/livecast/ouitv/HasBahCa.m3u8
+#EXTINF:-1,rouge m3u8 (nur CH Provider)
+http://pebbles102-lh.akamaihd.net/i/rouge_1@97359/master.m3u8
+#EXTINF:-1,ROUGE TV rtmp
+http://rtmp.infomaniak.ch/livecast/rougetv/HasBahCa.m3u8
+#EXTINF:-1,rsila1 m3u8 (nur CH Provider)
+http://pebbles110-lh.akamaihd.net/i/rsila1_1@97472/master.m3u8
+#EXTINF:-1,rsila2 m3u8 (nur CH Provider)
+http://pebbles110-lh.akamaihd.net/i/rsila2_1@97473/master.m3u8
+#EXTINF:-1,rts 2 m3u8 (nur CH Provider)
+http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/master.m3u8
+#EXTINF:-1,rts1 m3u8 (nur CH Provider)
+http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8
+#EXTINF:-1,sf1 m3u8 (nur CH Provider)
+http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/master.m3u8
+#EXTINF:-1,sf2 m3u8 (nur CH Provider)
+http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/master.m3u8
+#EXTINF:-1,sfinfo m3u8 (nur CH Provider)
+http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8
+#EXTINF:-1,swr m3u8 (nur CH Provider)
+http://pebbles113-lh.akamaihd.net/i/swr_1@97485/master.m3u8
+#EXTINF:-1,t1 m3u8 (nur CH Provider)
+http://pebbles118-lh.akamaihd.net/i/t1_1@135267/master.m3u8
+#EXTINF:-1,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/HasBahCa.m3u8
+#EXTINF:-1,tele bern m3u8 (nur CH Provider)
+http://pebbles119-lh.akamaihd.net/i/tbarn_1@135272/master.m3u8
+#EXTINF:-1,tele bielingue m3u8 (nur CH Provider)
+http://pebbles120-lh.akamaihd.net/i/tbielingue_1@135280/master.m3u8
+#EXTINF:-1,tele ost m3u8 (nur CH Provider)
+http://pebbles118-lh.akamaihd.net/i/tost_1@135270/master.m3u8
+#EXTINF:-1,tele sudost m3u8 (nur CH Provider)
+http://pebbles119-lh.akamaihd.net/i/tsudost_1@135274/master.m3u8
+#EXTINF:-1,tele zurich m3u8 (nur CH Provider)
+http://pebbles119-lh.akamaihd.net/i/tzurich_1@135275/master.m3u8
+#EXTINF:-1,TELEBARN rtmp
+http://rtmp.infomaniak.ch/livecast/barntele/HasBahCa.m3u8
+#EXTINF:-1,TeleBarn rtsp
+rtsp://rtmp.infomaniak.ch/livecast/barntele
+#EXTINF:-1,telebasel m3u8 (nur CH Provider)
+http://pebbles119-lh.akamaihd.net/i/tbasel_1@135273/master.m3u8
+#EXTINF:-1,telebielinguech rtmp
+http://rtmp.infomaniak.ch/livecast/telebielinguech/HasBahCa.m3u8
+#EXTINF:-1,tf1 m3u8 (nur CH Provider)
+http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/master.m3u8
+#EXTINF:-1,ticino m3u8 (nur CH Provider)
+http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8
+#EXTINF:-1,tm1o m3u8 (nur CH Provider)
+http://pebbles118-lh.akamaihd.net/i/tm1o_1@135268/master.m3u8
+#EXTINF:-1,ttg m3u8 (nur CH Provider)
+http://pebbles120-lh.akamaihd.net/i/tttg_1@135278/master.m3u8
+#EXTINF:-1,ttsh m3u8 (nur CH Provider)
+http://pebbles120-lh.akamaihd.net/i/ttsh_1@135279/master.m3u8
+#EXTINF:-1,ttzh m3u8 (nur CH Provider)
+http://pebbles119-lh.akamaihd.net/i/ttzh_1@135271/master.m3u8
+#EXTINF:-1,tvfil78 rtmp
+http://rtmp.infomaniak.ch/livecast/tvfil78/HasBahCa.m3u8
+#EXTINF:-1,TVM 3 CH rtmp
+rtmp://rtmp.infomaniak.ch/livecast/tvm3
+#EXTINF:-1,tvm3 rtmp
+http://rtmp.infomaniak.ch/livecast/tvm3/HasBahCa.m3u8
+#EXTINF:-1,TVM3 Suisse
+http://rtmp.infomaniak.ch/livecast/tvm3/HasBahCa.m3u8
+#EXTINF:-1,tvo rtmp
+http://rtmp.infomaniak.ch/livecast/tvo/HasBahCa.m3u8
+#EXTINF:-1,yveline1 rtmp
+http://rtmp.infomaniak.ch/livecast/yveline1/HasBahCa.m3u8
+#EXTINF:-1,***HasBahCa IPTV ***ALMANCA - DEUTSCH - GERMAN***DOPPEL
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,3SAT m3u8 (nur CH Provider) 1024*576
+http://pebbles112-lh.akamaihd.net/i/3sat_1@97480/index_1300_av-p.m3u8
+#EXTINF:-1,ARTE m3u8 (nur CH Provider) 1024*576
+http://pebbles107-lh.akamaihd.net/i/artede_1@97463/index_1300_av-p.m3u8
+#EXTINF:-1,ATV m3u8 (nur CH Provider) 1024*576
+http://pebbles114-lh.akamaihd.net/i/atv_1@97491/index_1300_av-p.m3u8
+#EXTINF:-1,BR  m3u8 (nur CH Provider) 1024*576
+http://pebbles107-lh.akamaihd.net/i/br3_1@97517/index_1300_av-p.m3u8
+#EXTINF:-1,DAS ERSTE m3u8 (nur CH Provider) 1024*576
+http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/index_1300_av-p.m3u8
+#EXTINF:-1,DMAX m3u8 (nur CH Provider) 1024*576
+http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/index_1300_av-p.m3u8
+#EXTINF:-1,EUROSPORT m3u8 (nur CH Provider) 1024*576
+http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_1300_av-p.m3u8
+#EXTINF:-1,KABEL 1 m3u8 (nur CH Provider) 1024*576
+http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/index_1300_av-p.m3u8
+#EXTINF:-1,KIKA m3u8 (nur CH Provider) 1024*576
+http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_1300_av-p.m3u8
+#EXTINF:-1,N24 m3u8 (nur CH Provider) 1024*576
+http://pebbles104-lh.akamaihd.net/i/n24_1@97406/index_1300_av-p.m3u8
+#EXTINF:-1,NICKELODEON m3u8 (nur CH Provider) 1024*576
+http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_1300_av-p.m3u8
+#EXTINF:-1,NOA4 Hamburg (MQ) mmsh
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asf
+#EXTINF:-1,NOA4 Norderstedt (MQ) mmsh
+mmsh://wt-wm1.wtnet.de/noa4-stream-mid?MSWMExt=.asf
+#EXTINF:-1,NTV m3u8 (nur CH Provider) 1024*576
+http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/index_1300_av-p.m3u8
+#EXTINF:-1,ORF 1 m3u8 (nur CH Provider) 1024*576
+http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/index_1300_av-p.m3u8
+#EXTINF:-1,ORF 2 m3u8 (nur CH Provider) 1024*576
+http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/index_1300_av-p.m3u8
+#EXTINF:-1,PHOENIX  m3u8 (nur CH Provider) 1024*576
+http://pebbles111-lh.akamaihd.net/i/phoenix_1@97476/index_1300_av-p.m3u8
+#EXTINF:-1,pro7  m3u8 (nur CH Provider) 1024*576
+http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_1300_av-p.m3u8
+#EXTINF:-1,RTL 2 m3u8 (nur CH Provider) 1024*576
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_1300_av-p.m3u8
+#EXTINF:-1,RTL m3u8 (nur CH Provider) 1024*576
+http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_1300_av-p.m3u8
+#EXTINF:-1,RTL NITRO m3u8 (nur CH Provider) 1024*576
+http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/index_1300_av-p.m3u8
+#EXTINF:-1,rtl9  m3u8 (nur CH Provider) 1024*576
+http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_1300_av-p.m3u8
+#EXTINF:-1,SAT 1 m3u8 (nur CH Provider) 1024*576
+http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_1300_av-p.m3u8
+#EXTINF:-1,SERVUS TV m3u8 (nur CH Provider) 1024*576
+http://pebbles114-lh.akamaihd.net/i/servus_1@97488/index_1300_av-p.m3u8
+#EXTINF:-1,SIXX m3u8 (nur CH Provider) 1024*576
+http://pebbles107-lh.akamaihd.net/i/sixx_1@97462/index_1300_av-p.m3u8
+#EXTINF:-1,SPORT 1 m3u8 (nur CH Provider) 1024*576
+http://pebbles108-lh.akamaihd.net/i/sport1_1@97464/index_1300_av-p.m3u8
+#EXTINF:-1,SUPER RTL m3u8 (nur CH Provider) 1024*576
+http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_1300_av-p.m3u8
+#EXTINF:-1,Tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,VIVA m3u8 (nur CH Provider) 1024*576
+http://pebbles105-lh.akamaihd.net/i/viva_1@97493/index_1300_av-p.m3u8
+#EXTINF:-1,VOX m3u8 (nur CH Provider) 1024*576
+http://pebbles108-lh.akamaihd.net/i/vox_1@97466/index_1300_av-p.m3u8
+#EXTINF:-1,WDR m3u8 (nur CH Provider) 1024*576
+http://pebbles114-lh.akamaihd.net/i/wdr_1@97490/index_1300_av-p.m3u8
+#EXTINF:-1,ZDF  m3u8 (nur CH Provider) 1024*576
+http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_1300_av-p.m3u8
+#EXTINF:-1,ZDF NEO m3u8 (nur CH Provider) 1024*576
+http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/index_1300_av-p.m3u8

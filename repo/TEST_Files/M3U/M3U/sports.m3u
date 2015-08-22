@@ -1,0 +1,490 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR blue]Sports[/COLOR] 2015-06-30
+http://icons.iconarchive.com/icons/yingfengling-fl/i-love-sports/256/soccer-icon.png
+#EXTINF:-1,TSN 1 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/34.ts?12345678
+#EXTINF:-1,TSN 2 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/35.ts?12345678
+#EXTINF:-1,TSN 3 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/135.ts?12345678
+#EXTINF:-1,TSN 4 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/136.ts?12345678
+#EXTINF:-1,TSN 5 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/137.ts?12345678
+
+#EXTINF:-1, Sportsnet One HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/138.ts?12345678
+#EXTINF:-1, Sportsnet Ontario HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/77.ts?12345678
+#EXTINF:-1, Sportsnet World HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/76.ts?12345678
+
+#EXTINF:-1, Sportsnet 360 HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1 tvg-logo="sportsnet.png" group-title=“DESPORTO”,SPORTSNET 360 (CAN)
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1 tvg-logo="sportsnet.png" group-title=“DESPORTO”,SPORTSNET WORLD (CAN)
+rtmp://93.158.217.202:80/live playpath=sportsnetw swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=sportsnetw&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1,NHL Network
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/78.ts?12345678
+
+
+#EXTINF:-1, RDS  (CH+/CH-)
+http://bit.ly/1x74XVX
+#EXTINF:-1, TVA Sports/TVA Sports 2/MAtv
+rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://fr.video.canoe.tv swfVfy=true live=true timeout=60
+
+#EXTINF:-1, Sky Sports 1 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/1.ts?12345678
+#EXTINF:-1, Sky Sports 1 HD German
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/88.ts?12345678
+#EXTINF:-1, BT Sport 1 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/10.ts?12345678
+#EXTINF:-1, Eurosport 1 HD British
+http://s1.wssiptv.com/live/wssiptvdotcom/VLi8slUjhs7Uyuy/12.ts?12345678
+
+#EXTINF:,ESPN 516 (Espagnol)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports
+
+#EXTINF:,ESPN 520 (Espagnol)
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports
+
+#EXTINF:,FOX SPORTS 522 (Espagnol)
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?moneysports
+
+#EXTINF:,FOX SPORTS 527 (Espagnol)
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?moneysports
+
+#EXTINF:-1, NBC Sports Network HD [COLOR yellow] 1080p [/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC Sports Network HD [COLOR yellow] 720p [/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC Sports Network HD [COLOR yellow] 480p [/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/1296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+
+#EXTINF:-1, Big Ten Network 720 HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+
+#EXTINF:-1, Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1, Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (USA)
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8
+
+#EXTINF:-1, PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1, Fox Sports 1
+rtmp://178.18.31.52:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191359?183055?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1, Fox sport 2
+rtmp://31.220.0.195:80/live/fox22 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fox22x?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1, ESPN 1 US HD
+rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+#EXTINF:-1, ESPN 2 US
+rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1, NBC US
+http://128.105.21.253:8080/udp/239.1.1.84:3084
+#EXTINF:-1, NBC Sports USA
+rtmp://31.220.0.195:80/live/golfx pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=golf?btx22?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1, Bein USA
+rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf  live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030      token=#ed%h0#w@1
+
+#EXTINF:-1, Recent WSS Links (VLC Only)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/test.ts 
+
+#EXTINF:-1,Setmax IPL 2015 (2G Quality)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/229.ts 
+#EXTINF:-1,2G 80kbps 304417
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/249.ts 
+#EXTINF:-1,2G 120kbps 304429
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/228.ts 
+#EXTINF:-1,test
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/227.ts 
+#EXTINF:-1,Arena Sports 1 SD Croatian
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/54.ts 
+#EXTINF:-1,Arena Sports 2 SD Croatian
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/55.ts 
+#EXTINF:-1,Arena Sports 3 SD Croatian
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/56.ts 
+#EXTINF:-1,Arena Sports 4 SD Croatian
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/57.ts 
+#EXTINF:-1,BBC 1 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/101.ts 
+#EXTINF:-1,BBC 2 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/102.ts 
+#EXTINF:-1,BBC 3 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/100.ts 
+#EXTINF:-1,BBC 4 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/99.ts 
+#EXTINF:-1,Bein Sports USA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/95.ts 
+#EXTINF:-1,Bein Sports 1 FR
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/31.ts 
+#EXTINF:-1,Bein Sports 2 FR
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/36.ts 
+#EXTINF:-1,Bein Sports 3 FR
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/32.ts 
+#EXTINF:-1,Bein Max 4
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/93.ts 
+#EXTINF:-1,Bein Max 5
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/94.ts 
+#EXTINF:-1,Bein Sports 1 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/16.ts 
+#EXTINF:-1,Bein Sports 2 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/17.ts 
+#EXTINF:-1,Bein Sports 3 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/18.ts 
+#EXTINF:-1,Bein Sports 4 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/19.ts 
+#EXTINF:-1,Bein Sports 5 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/20.ts 
+#EXTINF:-1,Bein Sports 6 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/21.ts 
+#EXTINF:-1,Bein Sports 7 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/22.ts 
+#EXTINF:-1,Bein Sports 8 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/23.ts 
+#EXTINF:-1,Bein Sports 9 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/24.ts 
+#EXTINF:-1,Bein Sports 10 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/25.ts 
+#EXTINF:-1,Bein Sports 11 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/247.ts 
+#EXTINF:-1,Bein Sports 12 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/248.ts 
+#EXTINF:-1,Bein Sports 1 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/114.ts 
+#EXTINF:-1,Bein Sports 2 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/115.ts 
+#EXTINF:-1,Bein Sports 3 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/116.ts 
+#EXTINF:-1,Bein Sports 4 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/117.ts 
+#EXTINF:-1,Bein Sports 5 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/118.ts 
+#EXTINF:-1,Bein Sports 6 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/119.ts 
+#EXTINF:-1,Bein Sports 7 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/120.ts 
+#EXTINF:-1,Bein Sports 8 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/121.ts 
+#EXTINF:-1,Bein Sports 9 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/122.ts 
+#EXTINF:-1,Bein Sports 10 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/123.ts 
+#EXTINF:-1,Bein Sports 11 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/124.ts 
+#EXTINF:-1,Bein Sports 12 LQ Backup
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/125.ts 
+#EXTINF:-1,Boxnation HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/240.ts 
+#EXTINF:-1,Box Nation
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/15.ts 
+#EXTINF:-1,Bt Sports 1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/10.ts 
+#EXTINF:-1,Bt Sports 1 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/147.ts 
+#EXTINF:-1,Bt Sports 2
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/11.ts 
+#EXTINF:-1,Bt Sports 2 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/148.ts 
+#EXTINF:-1,ESPN UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/14.ts 
+#EXTINF:-1,ESPN USA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/48.ts 
+#EXTINF:-1,ESPN 2 USA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/49.ts 
+#EXTINF:-1,Eurosport 1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/12.ts 
+#EXTINF:-1,Eurosport 2
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/13.ts 
+#EXTINF:-1,ITV 1 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/103.ts 
+#EXTINF:-1,ITV 2 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/104.ts 
+#EXTINF:-1,ITV 3 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/105.ts 
+#EXTINF:-1,ITV 4 UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/106.ts 
+#EXTINF:-1,Premier Sports
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/9.ts 
+#EXTINF:-1,Premier Sports (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/149.ts 
+#EXTINF:-1,Setanta Sports
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/8.ts 
+#EXTINF:-1,Sky Sport 1 HD Deutch Germany
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/88.ts 
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/89.ts 
+#EXTINF:-1,Sky Bundesliga HD1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/38.ts 
+#EXTINF:-1,Sky Bundesliga HD2
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/39.ts 
+#EXTINF:-1,Sky Bundesliga HD3
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/40.ts 
+#EXTINF:-1,Sky Bundesliga HD4
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/41.ts 
+#EXTINF:-1,Sky Bundesliga HD5
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/42.ts 
+#EXTINF:-1,Sky Movie (Action&Adventure)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/110.ts 
+#EXTINF:-1,Sky Movie (Comedy)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/108.ts 
+#EXTINF:-1,Sky Movie (Crime&Thriller)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/113.ts 
+#EXTINF:-1,Sky Movie (Drama)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/107.ts 
+#EXTINF:-1,Sky Movie (Family)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/65.ts 
+#EXTINF:-1,Sky Movie (Modern Greats)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/109.ts 
+#EXTINF:-1,Sky Movie (Premiere)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/111.ts 
+#EXTINF:-1,Sky Movie (SciFi&Horror)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/112.ts 
+#EXTINF:-1,Sky Movie (Select)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/64.ts 
+#EXTINF:-1,Sky Atlantic
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/98.ts 
+#EXTINF:-1,SkySports 1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/1.ts 
+#EXTINF:-1,SkySports 1 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/140.ts 
+#EXTINF:-1,SkySports 2
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/2.ts 
+#EXTINF:-1,SkySports 2 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/141.ts 
+#EXTINF:-1,SkySports 3
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/3.ts 
+#EXTINF:-1,SkySports 3 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/142.ts 
+#EXTINF:-1,SkySports 4
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/4.ts 
+#EXTINF:-1,SkySports 4 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/143.ts 
+#EXTINF:-1,SkySports 5
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/5.ts 
+#EXTINF:-1,SkySports 5 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/144.ts 
+#EXTINF:-1,SkySports F1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/6.ts 
+#EXTINF:-1,SkySports F1 (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/145.ts 
+#EXTINF:-1,SkySports News
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/7.ts 
+#EXTINF:-1,SkySports News (Backup)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/146.ts 
+#EXTINF:-1,NFL Network
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/58.ts 
+#EXTINF:-1,At The Races
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/52.ts 
+#EXTINF:-1,Racing UK
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/53.ts 
+#EXTINF:-1,NBC Sports
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/37.ts 
+#EXTINF:-1,Fox Sports 1 USA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/59.ts 
+#EXTINF:-1,Fox Sports 2 USA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/60.ts 
+#EXTINF:-1,SportsNet One
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/75.ts 
+#EXTINF:-1,SportsNet Ontario
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/77.ts 
+#EXTINF:-1,SportsNet World
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/76.ts 
+#EXTINF:-1,TSN 1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/34.ts 
+#EXTINF:-1,TSN 2
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/35.ts 
+#EXTINF:-1,TSN 3
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/135.ts 
+#EXTINF:-1,TSN 4
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/136.ts 
+#EXTINF:-1,TSN 5
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/137.ts 
+#EXTINF:-1,OTE Sports 1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/85.ts 
+#EXTINF:-1,OTE Sports 2
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/86.ts 
+#EXTINF:-1,OTE Sports 3
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/87.ts 
+#EXTINF:-1,OTE Sports 4
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/90.ts 
+#EXTINF:-1,OTE Sports 5
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/91.ts 
+#EXTINF:-1,OTE Sports 6
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/92.ts 
+#EXTINF:-1,Sport Klub 1 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/71.ts 
+#EXTINF:-1,Sport Klub 2 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/72.ts 
+#EXTINF:-1,Sport Klub 3 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/73.ts 
+#EXTINF:-1,Super Sport 1 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/66.ts 
+#EXTINF:-1,Super Sport 2 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/67.ts 
+#EXTINF:-1,Super Sport 3 HD
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/68.ts 
+#EXTINF:-1,Canal +
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/97.ts 
+#EXTINF:-1,Canal + Sport
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/96.ts 
+#EXTINF:-1,Pac 12 Network
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/138.ts 
+#EXTINF:-1,Sky Sport 1 HD Italy
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/50.ts 
+#EXTINF:-1,Sky Sport 2 HD Italy
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/51.ts 
+#EXTINF:-1,Btn
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/139.ts 
+#EXTINF:-1,Channel 1 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/150.ts 
+#EXTINF:-1,Channel 2 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/151.ts 
+#EXTINF:-1,Channel 3 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/152.ts 
+#EXTINF:-1,Channel 4 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/153.ts 
+#EXTINF:-1,Channel 5 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/154.ts 
+#EXTINF:-1,Channel 6 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/155.ts 
+#EXTINF:-1,Channel 7 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/156.ts 
+#EXTINF:-1,Channel 8 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/157.ts 
+#EXTINF:-1,Channel 9 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/158.ts 
+#EXTINF:-1,Channel 10 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/159.ts 
+#EXTINF:-1,Channel 11 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/160.ts 
+#EXTINF:-1,Channel 12 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/161.ts 
+#EXTINF:-1,Channel 13 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/162.ts 
+#EXTINF:-1,Channel 14 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/163.ts 
+#EXTINF:-1,Channel 15 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/164.ts 
+#EXTINF:-1,Channel 16 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/165.ts 
+#EXTINF:-1,Channel 17 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/166.ts 
+#EXTINF:-1,Channel 18 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/167.ts 
+#EXTINF:-1,Channel 19 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/168.ts 
+#EXTINF:-1,Channel 20 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/169.ts 
+#EXTINF:-1,Channel 21 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/170.ts 
+#EXTINF:-1,Channel 22 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/171.ts 
+#EXTINF:-1,Channel 23 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/172.ts 
+#EXTINF:-1,Channel 24 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/173.ts 
+#EXTINF:-1,Channel 25 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/174.ts 
+#EXTINF:-1,Channel 26 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/175.ts 
+#EXTINF:-1,Channel 27 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/176.ts 
+#EXTINF:-1,Channel 28 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/177.ts 
+#EXTINF:-1,Channel 29 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/178.ts 
+#EXTINF:-1,Channel 30 (not 24×7)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/179.ts 
+#EXTINF:-1,ENG_WAENER_TV-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/439.ts 
+#EXTINF:-1,ENG_SLICE_US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/452.ts 
+#EXTINF:-1,ENG_PBS-CA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/453.ts 
+#EXTINF:-1,ENG_NICK-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/456.ts 
+#EXTINF:-1,ENG_NBC-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/483.ts 
+#EXTINF:-1,ENG_NAT_GEO-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/457.ts 
+#EXTINF:-1,ENG_LIFETIME-CA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/460.ts 
+#EXTINF:-1,ENG_DOCUMENTARY-CA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/468.ts 
+#EXTINF:-1,ENG_DISNEY_JR-EN-CA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/469.ts 
+#EXTINF:-1,ENG_DISCOVERY_SCIENCE-CA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/470.ts 
+#EXTINF:-1,ENG_CBS-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/475.ts 
+#EXTINF:-1,ENG_CBC_CA_(MTL)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/476.ts 
+#EXTINF:-1,ENG_CARTOON_NETWORK-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/477.ts 
+#EXTINF:-1,ENG_BET
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/478.ts 
+#EXTINF:-1,ENG_ATN_CBN-CA
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/479.ts 
+#EXTINF:-1,ENG_ANIMAL_PLANET_HD-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/480.ts 
+#EXTINF:-1,ENG_AMC-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/481.ts 
+#EXTINF:-1,ENG_ABC-US
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/482.ts 
+#EXTINF:-1,Willow Tv (Cricket)
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/33.ts 
+#EXTINF:-1,Star Sports 1
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/253.ts 
+#EXTINF:-1,NDTV News
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/79.ts 
+#EXTINF:-1,India Tv News
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/80.ts 
+#EXTINF:-1,ABP News
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/246.ts 
+#EXTINF:-1,Aajtak News
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/243.ts 
+#EXTINF:-1,NHL Network
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/78.ts 
+#EXTINF:-1,HBO East
+http://iptv.wssiptv.com:80/live/wssiptvdotcom/VLi8slUjhs7Uyuy/342.ts

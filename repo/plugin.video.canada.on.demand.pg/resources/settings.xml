@@ -1,0 +1,11 @@
+<settings>
+   <setting id="vidquality" type="enum" label="30006" default="3" values="1|2|3|4|5|6|7|8"/>
+   <setting id="numclips" type="enum" label="30009" default="1" values="10|20|30|40|50|60|70|80|90|99"/>
+   <setting id="max_bitrate" type="number" label="30005" default="9999" />
+   <setting id="make_playlists" type="bool" label="30004" default="false" />
+   <setting id="max_playlist_size" type="number" label="30007" default="6" enable="eq(-1,true)" />
+   <setting id="show_empty_cat" type="bool" label="30000" default="false" />
+   <setting id="default_cache_timeout" type="number" label="30008" default="14400" />
+   <setting id="http_proxy" type="text" label="30001" default="" />
+   <setting id="http_proxy_port" type="text" label="30002" default="" />
+</settings>

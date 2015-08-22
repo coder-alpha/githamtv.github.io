@@ -1,0 +1,6 @@
+<settings>
+    <category label="30004">
+        <setting id="playerType" type="enum" values="Auto|MPlayer|DVDPlayer|AMLPlayer" label="30003" default="0"/> 
+        <setting id="autoplay" type="bool" label="30270" default="true"/>
+    </category>
+</settings>                                                                                     

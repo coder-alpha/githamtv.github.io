@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]-------------- MEXICO--------------[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --FORUMS OPEN IPTVXBMC.COM 4-7-2015 COME VISIT US--[/COLOR]  
+#EXTINF:-1, [COLOR red] --New Links IPTVXBMC.COM EXPERIENCE-[/COLOR]
+http://www.xbmcmxtv.com
+
+#EXTINF:-1, [COLOR yellow][I]------MEXICO ------[/COLOR] [/I] 
+www.iptvxbmc.com
+
+#EXTINF:-1, tvg-logo="espn.png" group-title="TV LIVE", ESPN MEX
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Univisión 
+
+http://sjc-uhls-proxy110.ustream.tv/...8?cid=20031620
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Univisión 
+
+http://iphone-streaming.ustream.tv/u...playlist.m3u8?
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Ingenio Tv
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TVMas VERACRUZ
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TVMas HD 
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 ,Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Univision
+http://66.55.92.79:1935/app/chivas69s-channel/.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", CASA
+
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TELEFORMULA
+
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1,Comedy Central esp
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", MILENIO
+
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", PROYECTO_40
+
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TELENOVELAS
+
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Azteca_Corazon
+
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", CANAL_DE_LAS_ESTRELLAS_HD
+
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FORO_TV_HD
+
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", CANAL_5_HD
+
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", AZTECA_7_HD
+
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Gala_TV
+
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", AZTECA_NOTICIAS
+
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", AZTECA_13_HD
+
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", CANAL_11
+
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", UNICABLE
+
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?

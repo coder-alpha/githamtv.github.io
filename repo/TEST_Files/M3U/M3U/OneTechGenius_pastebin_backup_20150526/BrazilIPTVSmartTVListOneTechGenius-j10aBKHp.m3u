@@ -1,0 +1,581 @@
+#EXTM3U
+######################################################################################################################## BY FB.COM/MARCOTULIOJS
+
+#EXTINF:-1 tvg-logo="creditos" tvg-logo="http://www.marcotuliojs.qlix.com.br/creditos.jpg" group-title="Creditos", Creditos:
+swfUrl= pageUrl=
+#EXTINF:-1 tvg-logo="IPTV" tvg-logo="http://www.marcotuliojs.qlix.com.br/IPTV.jpg" group-title="Creditos", IPTV Brasil
+swfUrl= pageUrl=
+#EXTINF:-1 tvg-logo="face" tvg-logo="http://www.marcotuliojs.qlix.com.br/face.jpg" group-title="Creditos", Fb.com/canaisiptvbrasil
+swfUrl= pageUrl=
+#EXTINF:-1 tvg-logo="face" tvg-logo="http://www.marcotuliojs.qlix.com.br/face.jpg" group-title="Creditos", Fb.com/marcotuliojs
+swfUrl= pageUrl=
+
+
+
+####################################################################################################################################  TV ABERTA
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="aratu" tvg-logo="http://www.marcotuliojs.qlix.com.br/aratu.jpg" group-title="TV ABERTA", TV Aratu (SBT BA)
+http://ns1.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band" tvg-logo="band" tvg-logo="http://www.marcotuliojs.qlix.com.br/band.jpg" group-title="TV ABERTA", Band HD
+rtmp://199.217.118.218:1935/TarobaCascavel/TarobaCascavel pageUrl=http://livestreamcast.org/embed.php?c=band1111taroba3335a&vw=100%&vh=100%
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band" tvg-logo="band" tvg-logo="http://www.marcotuliojs.qlix.com.br/band.jpg" group-title="TV ABERTA", Band HD
+http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo SP" tvg-logo="globo" tvg-logo="http://www.marcotuliojs.qlix.com.br/globo.jpg" group-title="TV ABERTA", Globo
+rtmp://62.210.88.233:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE1IDEwOjM2OjMzIEFNJmhhc2hfdmFsdWU9eEV6N05TV3duMjZLT3lNWW1vN3huZz09JnZhbGlkbWludXRlcz0zMDA=/101010  pageUrl=http://livestreamcast.org/embeds/1.php?c=bobonews445a&vw=100%&vh=100%
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo SP" tvg-logo="globo" tvg-logo="http://www.marcotuliojs.qlix.com.br/globo.jpg" group-title="TV ABERTA", Globo
+http://62.210.83.180:1935/liverepeat/101010/.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt" tvg-logo="http://www.marcotuliojs.qlix.com.br/sbt.jpg" group-title="TV ABERTA", SBT
+rtmp://31.204.128.76/live/master94  pageUrl=http://www.cdnbr.biz/mastertv/SBT.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt" tvg-logo="http://www.marcotuliojs.qlix.com.br/sbt.jpg" group-title="TV ABERTA", SBT
+rtmp://94.242.228.41:1935/live/sbt2 pageUrl=http://www.tvonline.org/out/sbt.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt" tvg-logo="http://www.marcotuliojs.qlix.com.br/sbt.jpg" group-title="TV ABERTA", SBT RJ
+rtmp://31.204.128.76/live/master94 pageUrl=http://www.cdnbr.biz/mastertv/SBT.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt" tvg-logo="http://www.marcotuliojs.qlix.com.br/sbt.jpg" group-title="TV ABERTA", SBT Nordeste
+http://62.210.89.38:8081/livehd/sbthd4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt" tvg-logo="http://www.marcotuliojs.qlix.com.br/sbt.jpg" group-title="TV ABERTA", SBT HD
+http://gbbrlive.sambatech.com.br/hls-live/livepkgr/sbt_6840d01dafa3b0af0ead2ed2c959aa05/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record" tvg-logo="record" tvg-logo="http://www.marcotuliojs.qlix.com.br/record.jpg" group-title="TV ABERTA", Record
+rtmp://76.73.108.36/online/record pageUrl=http://livestreamtv.biz/globo.php?file=record&width=480&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record" tvg-logo="record" tvg-logo="http://www.marcotuliojs.qlix.com.br/record.jpg" group-title="TV ABERTA", Record
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record" tvg-logo="record" tvg-logo="http://www.marcotuliojs.qlix.com.br/record.jpg" group-title="TV ABERTA", Record
+http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record News" tvg-logo="rhd" tvg-logo="http://www.marcotuliojs.qlix.com.br/rhd.jpg" group-title="TV ABERTA", Record News
+http://flash.midiaip.com.br:1935/recordnewses/recordnewses/live.m3u8 
+
+#EXTINF:-1 tvg-id="itpvbrasil - Canal Futura" tvg-logo="futura" tvg-logo="http://www.marcotuliojs.qlix.com.br/futura.jpg" group-title="TV ABERTA", Futura
+rtmp://199.217.118.218/UCS-TV/UCS-TV pageUrl=http://www.cxtv.com.br/live.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - TV Cultura" tvg-logo="cultura" tvg-logo="http://www.marcotuliojs.qlix.com.br/cultura.jpg" group-title="TV ABERTA", Cultura
+rtmp://200.136.27.12/livepkgr/tvcultura4  pageUrl=http://www.hipertela.com/search/label/Cultura
+ 
+ #EXTINF:-1 tvg-id="itpvbrasil - TV Cultura" tvg-logo="cultura" tvg-logo="http://www.marcotuliojs.qlix.com.br/cultura.jpg" group-title="TV ABERTA", Cultura PR
+http://200.189.113.201/hls/tve.m3u8
+ 
+#EXTINF:-1  tvg-id="itpvbrasil - TV Gazeta" tvg-logo="gazeta" tvg-logo="http://www.marcotuliojs.qlix.com.br/gazeta.jpg" group-title="TV ABERTA", TV Gazeta
+http://livestream-f.akamaihd.net/5381476_2395418_f6f9b628_1_678@141252?v=3.6.0&fp=WIN%2017,0,0,134&r=YKFDH&g=YOJXQDLGBAMG
+
+#EXTINF:-1  tvg-id="itpvbrasil - TV Gazeta" tvg-logo="gazeta" tvg-logo="http://www.marcotuliojs.qlix.com.br/gazeta.jpg" group-title="TV ABERTA", TV Gazeta HD
+http://livestream-f.akamaihd.net/5381476_2395418_4ee427f4_1_678@141252?v=3.6.0&fp=WIN%2017,0,0,134&r=OUVZK&g=ERPGMKOJSWRA
+
+#EXTINF:-1 tvg-id="itpvbrasil - Rede TV" tvg-logo="redetv" tvg-logo="http://www.marcotuliojs.qlix.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1 pageUrl=http://www.redetv.uol.com.br/aovivo/
+
+#EXTINF:-1 tvg-id="itpvbrasil - Rede TV" tvg-logo="redetv" tvg-logo="http://www.marcotuliojs.qlix.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1  pageUrl=http://www.tvnanet.biz/boss/ch17-redetv.htm
+
+#EXTINF:-1 tvg-id="itpvbrasil - Rede TV" tvg-logo="redetv" tvg-logo="http://www.marcotuliojs.qlix.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV
+rtmp://flash1.crossdigital.com.br/ponto4/tvpampa pageUrl=http://www.pampa.com.br/ver-tv.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Rede TV" tvg-logo="redetv" tvg-logo="http://www.marcotuliojs.qlix.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV HD
+http://livestreamcast.org/embed.php?c=bandband&amp%3Bvw=100%25&amp%3Bvh=100
+
+#EXTINF:-1 tvg-id="" tvg-logo="tvebahia" tvg-logo="http://www.marcotuliojs.qlix.com.br/tvebahia.jpg" group-title="TV ABERTA",Tv escola
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - TV Brasil" tvg-logo="tvb" tvg-logo="http://www.marcotuliojs.qlix.com.br/tvb.jpg" group-title="TV ABERTA", TV Brasil
+rtmp://stream2.ba.gov.br/livepkgr/pgm-2?adbe-live-event=irdeb  pageUrl=http://www.irdeb.ba.gov.br/tveonline
+
+#EXTINF:-1 tvg-id="itpvbrasil - TV Brasil" tvg-logo="tvb" tvg-logo="http://www.marcotuliojs.qlix.com.br/tvb.jpg" group-title="TV ABERTA", TV Brasil HD
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/stream1  pageUrl=http://www.assistirtvgratisonline.org/canais/tvbrasil.php
+
+
+
+
+
+#################################################################################################################################### VARIEDADES
+
+#EXTINF:-1 tvg-id="itpvbrasil - Animal Planet" tvg-logo="animal" tvg-logo="http://www.marcotuliojs.qlix.com.br/animal.jpg" group-title="VARIEDADES", Animal Planet
+rtmp://31.204.128.75/live/30  pageUrl=http://www.cdnbr.biz/mastertv/Animal Planet.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Animal Planet" tvg-logo="animal" tvg-logo="http://www.marcotuliojs.qlix.com.br/animal.jpg" group-title="VARIEDADES", Animal Planet
+rtmp://76.73.108.34/online/animal  pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=animal&width=468&height=360
+
+#EXTINF:-1 tvg-id="itpvbrasil - AXN" tvg-logo="axn" tvg-logo="http://www.marcotuliojs.qlix.com.br/axn.jpg" group-title="VARIEDADES", AXN
+rtmp://31.204.128.76/live/master52 pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="black" tvg-logo="http://www.marcotuliojs.qlix.com.br/black.jpg" group-title="VARIEDADES", AXN Black
+rtmp://94.102.49.104/stream/xnblackuu?id=8151 pageUrl=http://www.liveflashplayer.net/embedplayer/axnblackuu/1/480/380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Canal Brasil" tvg-logo="brasil" tvg-logo="http://www.marcotuliojs.qlix.com.br/brasil.jpg" group-title="VARIEDADES", Canal Brasil
+rtmp://srvlon1.hostseven.org/liverepeat/canalbrasil/canalbrasil pageUrl=http://direct-stream.biz/embedFrame.php?c=canalbrasil&vw=468&vh=380
+
+#EXTINF:-1 tvg-logo="la" tvg-logo="http://www.marcotuliojs.qlix.com.br/la.jpg" group-title="VARIEDADES", Canal De las estrelas
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="itpvbrasil - Comedy Central" tvg-logo="comedy" tvg-logo="http://www.marcotuliojs.qlix.com.br/comedy.jpg" group-title="VARIEDADES", Comedy Central
+http://live.livestreamcast.org:1935/live/comedy913/comedy913/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Comedy Central" tvg-logo="comedy" tvg-logo="http://www.marcotuliojs.qlix.com.br/comedy.jpg" group-title="VARIEDADES", Comedy Central 
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="chefe" tvg-logo="http://www.marcotuliojs.qlix.com.br/chefe.jpg" group-title="VARIEDADES", Chef TV
+rtmp://flashd.localmidia.com.br/cheftv/aovivo  pageUrl=http://www.hipertela.com/search/label/Chef TV
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Channel" tvg-logo="dis" tvg-logo="http://www.marcotuliojs.qlix.com.br/dis.jpg" group-title="VARIEDADES", Discovery Channel
+rtmp://31.204.128.75/live/master04  pageUrl=http://www.cdnbr.biz/mastertv/Discovery Channel.html
+ 
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Science" tvg-logo="scid" tvg-logo="http://www.marcotuliojs.qlix.com.br/scid.jpg" group-title="VARIEDADES", Discovery Science
+rtmp://199.59.88.39/cam4-cr107/130 pageUrl=http://www.cdnbr.biz/mastertv/Discovery Science.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Theater" tvg-logo="dt" tvg-logo="http://www.marcotuliojs.qlix.com.br/dt.jpg" group-title="VARIEDADES", Discovery Theater
+rtmp://31.204.153.70/live/discohd  pageUrl=http://www.cdnbr.biz/mastertv/Discovery HD.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - FishTV" tvg-logo="fish" tvg-logo="http://www.marcotuliojs.qlix.com.br/fish.jpg" group-title="VARIEDADES",FISH TV
+rtmp://199.59.88.39/cam4-cr107/89
+
+#EXTINF:-1 tvg-id="itpvbrasil - GNT" tvg-logo="GNT" tvg-logo="http://www.marcotuliojs.qlix.com.br/GNT.jpg" group-title="VARIEDADES", GNT
+rtmp://31.204.128.76/live/132  pageUrl=http://www.cdnbr.biz/mastertv/GNT.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - The History Channel" tvg-logo="historia" tvg-logo="http://www.marcotuliojs.qlix.com.br/historia.jpg" group-title="VARIEDADES", History
+rtmp://109.200.202.124/live/history pageUrl=http://tv-msn.com/history.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - i-SAT" tvg-logo="isat" tvg-logo="http://www.marcotuliojs.qlix.com.br/isat.jpg" group-title="VARIEDADES", ISAT
+rtmp://199.59.88.39/cam4-cr107/isat  pageUrl=http://www.cdnbr.biz/mastertv/ISAT.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Home e Health" tvg-logo="hh" tvg-logo="http://www.marcotuliojs.qlix.com.br/hh.jpg" group-title="VARIEDADES", Home & Health
+rtmp://109.200.202.124/live/home  pageUrl=http://tv-msn.com/home.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Investigação Discovery" tvg-logo="ID" tvg-logo="http://www.marcotuliojs.qlix.com.br/ID.jpg" group-title="VARIEDADES", ID - Investigação
+rtmp://109.200.202.124/live/liv pageUrl=http://tv-msn.com/investigacao.html
+
+#EXTINF:-1 tvg-id"itpvbrasil - Multishow" tvg-logo="multi" tvg-logo="http://www.marcotuliojs.qlix.com.br/multi.jpg" group-title="VARIEDADES", Multishow
+rtmp://31.204.128.74/live/brlive_0031  pageUrl=http://www.cdnbr.biz/mastertv/Multishow.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - MIX TV" tvg-logo="mixtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mixtv.jpg" group-title="VARIEDADES", MIX TV
+rtmp://109.200.202.124/live/mixtv  pageUrl=http://tv-msn.com/mixtv.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - MGM" tvg-logo="mgm" tvg-logo="http://www.marcotuliojs.qlix.com.br/mgm.jpg" group-title="VARIEDADES", MGM Channel
+rtmp://109.200.202.124/live/mgm pageUrl=http://tv-msn.com/mgm.html
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - MTV" tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Brasil
+rtmp://109.200.202.124/live/hbohd pageUrl=http://tv-msn.com/mtv.html
+
+#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Hits
+http://92.50.181.6/tv/1278/index.m3u8
+
+#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES",MTV Rocks
+http://92.50.181.6/tv/1279/index.m3u8
+
+#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Dance
+http://92.50.181.6/tv/1280/index.m3u8
+
+
+#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", Vhr 1 classic
+http://92.50.181.6/tv/1282/index.m3u8
+
+#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES",MTV russ
+http://92.50.181.6/tv/1284/index.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - National Geographic" tvg-logo="nat" tvg-logo="http://www.marcotuliojs.qlix.com.br/nat.jpg" group-title="VARIEDADES", NatGeograpic
+rtmp://109.200.202.124/live/natgeo pageUrl=http://tv-msn.com/natgeo.html#
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Nat Geo Wild HD " tvg-logo="wild" tvg-logo="http://www.marcotuliojs.qlix.com.br/wild.jpg" group-title="VARIEDADES", NatGeo Wild
+rtmp://109.200.202.124/live/animal  pageUrl=http://tv-msn.com/natgeowild.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - SyFy" tvg-logo="sy" tvg-logo="http://www.marcotuliojs.qlix.com.br/sy.jpg" group-title="VARIEDADES", Syfy
+rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/syfy.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - TBS muitodivertido" tvg-logo="TBS" tvg-logo="http://www.marcotuliojs.qlix.com.br/TBS.jpg" group-title="VARIEDADES", TBS HD
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="itpvbrasil - TLC" tvg-logo="tlc" tvg-logo="http://www.marcotuliojs.qlix.com.br/tlc.jpg" group-title="VARIEDADES", TLC
+rtmp://93.174.93.50:443/liveedge/tlcZis pageUrl=http://micast.tv/chn2.php?ch=tlcZis
+
+#EXTINF:-1 tvg-id="itpvbrasil - TruTV" tvg-logo="tru" tvg-logo="http://www.marcotuliojs.qlix.com.br/tru.jpg" group-title="VARIEDADES", TruTV
+rtmp://199.59.88.39/cam4-cr107/112_2  pageUrl=http://www.cdnbr.biz/mastertv/truTV.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - TruTV" tvg-logo="tru" tvg-logo="http://www.marcotuliojs.qlix.com.br/tru.jpg" group-title="VARIEDADES", TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="tl" tvg-logo="http://www.marcotuliojs.qlix.com.br/tl.jpg" group-title="VARIEDADES", TL NOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="itpvbrasil - Viva" tvg-logo="viva" tvg-logo="http://www.marcotuliojs.qlix.com.br/viva.jpg" group-title="VARIEDADES", Viva
+rtmp://31.204.128.73/live/master21  pageUrl=http://www.cdnbr.biz/mastertv/Viva.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Viva" tvg-logo="viva" tvg-logo="http://www.marcotuliojs.qlix.com.br/viva.jpg" group-title="VARIEDADES", Viva
+rtmp://31.204.128.73/live/master21  pageUrl=http://www.bbbaovivo.co/mc/viva.html
+
+#EXTINF:-1 tvg-logo="vevo" tvg-logo="http://www.marcotuliojs.qlix.com.br/vevo.jpg" group-title="VARIEDADES", Vevo HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo" tvg-logo="http://www.marcotuliojs.qlix.com.br/vevo.jpg" group-title="VARIEDADES", Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo" tvg-logo="http://www.marcotuliojs.qlix.com.br/vevo.jpg" group-title="VARIEDADES", Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8 
+
+
+
+
+#################################################################################################################################### REDE TELECINE
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Premium" tvg-logo="tele" tvg-logo="http://www.marcotuliojs.qlix.com.br/tele.jpg" group-title="REDE TELECINE",Telecine Premium
+rtmp://31.204.128.140/live/master19  pageUrl=http://www.cdnbr.biz/mastertv/Telecine Premium.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Action" tvg-logo="acao" tvg-logo="http://www.marcotuliojs.qlix.com.br/acao.jpg" group-title="REDE TELECINE", Telecine Action
+rtmp://31.204.128.75/live/master17  pageUrl=http://www.cdnbr.biz/mastertv/Telecine Action.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Action" tvg-logo="acao" tvg-logo="http://www.marcotuliojs.qlix.com.br/acao.jpg" group-title="REDE TELECINE", Telecine Action
+rtmp://76.73.108.34/online/tcaction pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=tcaction&width=480&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Pipoca" tvg-logo="pipoca" tvg-logo="http://www.marcotuliojs.qlix.com.br/pipoca.jpg" group-title="REDE TELECINE", Telecine Pipoca
+rtmp://76.73.108.34/online/tcpipoca  pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=tcpipoca&width=468&height=360
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Pipoca" tvg-logo="pipoca" tvg-logo="http://www.marcotuliojs.qlix.com.br/pipoca.jpg" group-title="REDE TELECINE", Telecine Pipoca
+rtmp://31.204.128.74/live/master18 pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Pipoca.html
+ 
+ 
+ 
+#################################################################################################################################### CANAIS HBO/Max
+
+#EXTINF:-1 tvg-id="itpvbrasil - Cinemax" tvg-logo="cinemax" tvg-logo="http://www.marcotuliojs.qlix.com.br/cinemax.jpg" group-title="HBO/Max", Cinemax
+rtmp://31.204.128.140/live/53 pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - HBO" tvg-logo="HBO" tvg-logo="http://www.marcotuliojs.qlix.com.br/HBO.jpg" group-title="HBO/Max", HBO
+rtmp://live.abcast.net/live/verc9439634dc8610f517991f
+
+#EXTINF:-1 tvg-id="" tvg-logo="HBO" tvg-logo="http://www.marcotuliojs.qlix.com.br/HBO.jpg" group-title="HBO/Max", HBO HD (USA)
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="HBO" tvg-logo="http://www.marcotuliojs.qlix.com.br/HBO.jpg" group-title="HBO/Max", HBO HD (USA)
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
+#EXTINF:-1 tvg-id="itpvbrasil - HBO 2" tvg-logo="HBO2" tvg-logo="http://www.marcotuliojs.qlix.com.br/HBO2.jpg" group-title="HBO/Max", HBO 2
+rtmp://109.200.202.124/live/hbo2  pageUrl=http://tv-msn.com/hbo2.html
+
+#EXTINF:-1 tvg-id="" tvg-logo="HBOUSAC" tvg-logo="http://www.marcotuliojs.qlix.com.br/HBOUSAC.jpg" group-title="HBO/Max", HBO Comedy HD (USA)
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+#################################################################################################################################### CANAIS DE FILMES
+
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Fox" tvg-logo="fox" tvg-logo="http://www.marcotuliojs.qlix.com.br/fox.jpg" group-title="FILMES", FOX
+rtmp://31.204.128.140/live/fox pageUrl=http://www.cdnbr.biz/mastertv/FOX.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox" tvg-logo="fox" tvg-logo="http://www.marcotuliojs.qlix.com.br/fox.jpg" group-title="FILMES", FOX
+rtmp://76.73.108.34/online/fox  pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=fox&width=468&height=360
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - FX" tvg-logo="FX" tvg-logo="http://www.marcotuliojs.qlix.com.br/FX.jpg" group-title="FILMES", FX
+rtmp://31.204.128.75/live/master25 pageUrl=http://www.cdnbr.biz/mastertv/FX.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - FX" tvg-logo="FX" tvg-logo="http://www.marcotuliojs.qlix.com.br/FX.jpg" group-title="FILMES", FX
+rtmpt://76.73.108.34:80/online/fx  pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=fx&width=468&height=360
+
+#EXTINF:-1 tvg-id="itpvbrasil - Megapix" tvg-logo="megapix" tvg-logo="http://www.marcotuliojs.qlix.com.br/megapix.jpg" group-title="FILMES", Megapix
+rtmp://31.204.128.73/live/master11  pageUrl=http://www.cdnbr.biz/mastertv/Megapix.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Megapix" tvg-logo="megapix" tvg-logo="http://www.marcotuliojs.qlix.com.br/megapix.jpg" group-title="FILMES", Megapix
+rtmp://76.73.108.34/online/megapix pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=megapix&width=468&height=360
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Studio Universal" tvg-logo="studio" tvg-logo="http://www.marcotuliojs.qlix.com.br/studio.jpg" group-title="FILMES", Studio Universal
+rtmp://109.200.202.124/live/studio  pageUrl=http://tv-msn.com/studio.html
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Sony Entertainment Television" tvg-logo="sony" tvg-logo="http://www.marcotuliojs.qlix.com.br/sony.jpg" group-title="FILMES", Sony
+rtmp://109.200.202.124/live/sony  pageUrl=http://tv-msn.com/sony.html#
+
+#EXTINF:-1 tvg-id="itpvbrasil - TNT" tvg-logo="TNT" tvg-logo="http://www.marcotuliojs.qlix.com.br/TNT.jpg" group-title="FILMES", TNT
+rtmp://31.204.128.74/live/master77_1 pageUrl=http://www.cdnbr.biz/mastertv/TNT.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - TNT" tvg-logo="TNT" tvg-logo="http://www.marcotuliojs.qlix.com.br/TNT.jpg" group-title="FILMES", TNT
+rtmp://76.73.108.34/online/tnt  pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=tnt&width=468&height=360
+
+#EXTINF:-1 tvg-id="itpvbrasil - Universal" tvg-logo="chanel" tvg-logo="http://www.marcotuliojs.qlix.com.br/chanel.jpg" group-title="FILMES", Universal Channel
+rtmp://31.204.128.75/live/master20  pageUrl=http://www.cdnbr.biz/mastertv/Universal Channel.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Universal" tvg-logo="chanel" tvg-logo="http://www.marcotuliojs.qlix.com.br/chanel.jpg" group-title="FILMES", Universal Channel
+rtmp://76.73.108.34/online/universal  pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=universal&width=468&height=360
+
+#EXTINF:-1 tvg-id="itpvbrasil - Warner" tvg-logo="warner" tvg-logo="http://www.marcotuliojs.qlix.com.br/warner.jpg" group-title="FILMES", Warner
+rtmp://31.204.128.76/live/master22  pageUrl=http://www.cdnbr.biz/mastertv/Warner Brothers.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Warner" tvg-logo="warner" tvg-logo="http://www.marcotuliojs.qlix.com.br/warner.jpg" group-title="FILMES", Warner
+rtmp://76.73.108.34/online/warner pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=warner&width=468&height=360
+
+
+
+
+
+#################################################################################################################################### ESPORTES
+
+
+#EXTINF:-1 tvg-logo="WWE" tvg-logo="http://www.marcotuliojs.qlix.com.br/WWE.jpg" group-title="ESPORTES", WWE HD
+rtmp://80.82.78.26:443/liverepeater/49  pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band Sports" tvg-logo="bands" tvg-logo="http://www.marcotuliojs.qlix.com.br/bands.jpg" group-title="ESPORTES", Band Sports HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="ein" tvg-logo="http://www.marcotuliojs.qlix.com.br/ei.jpg" group-title="ESPORTES", Esporte Interativo HD
+http://eiplus-lh.akamaihd.net/i/eitv6_1@147097/master.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="ei" tvg-logo="http://www.marcotuliojs.qlix.com.br/ein.jpg" group-title="ESPORTES", Ei Nordeste
+http://eiplus-lh.akamaihd.net/i/ela_02@147097/master.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="ei" tvg-logo="http://www.marcotuliojs.qlix.com.br/ein.jpg" group-title="ESPORTES", Ei Nordeste HD
+http://eiplus-lh.akamaihd.net/i/ela_04@147097/master.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="ei" tvg-logo="http://www.marcotuliojs.qlix.com.br/ein.jpg" group-title="ESPORTES", Ei Nordeste
+rtmp://r.livecast.cc/rl/flash48  pageUrl=http://livecast.cc/live/stream8.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox Sports" tvg-logo="foxs" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs.jpg" group-title="ESPORTES", FOX Sports
+rtmp://31.204.153.72/live/fsb  pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox Sports" tvg-logo="foxs2" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs2.jpg" group-title="ESPORTES", FOX Sports 2
+rtmp://85.12.5.8/aovivo/fsports2 pageUrl=http://www.tvonlinegratis.tv/parcerias/fox-sports2.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox Sports" tvg-logo="foxs2" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs2.jpg" group-title="ESPORTES", FOX Sports 2
+rtmp://76.73.108.34/edge/foxsport pageUrl=http://livestreamtv.biz/ live=true timeout=15
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox Sports" tvg-logo="foxs2" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs2.jpg" group-title="ESPORTES", FOX Sports 2
+rtmp://85.12.5.8/aovivo/fsports2  pageUrl=http://www.tvonlinegratis.tv/mais-canais/fox-sports2.html
+
+#EXTINF:-1 tvg-logo="smais" tvg-logo="http://www.marcotuliojs.qlix.com.br/smais.jpg" group-title="ESPORTES", SPORTS+
+rtmp://31.204.153.71/live/sportsmais  pageUrl=http://www.brshare.info/url/71.php?itc=sportsmais&lar=660&alt=380
+
+
+
+
+#################################################################################################################################### PREMIERE FC
+
+
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 
+rtmp://76.73.108.34/edge/pfc2  pageUrl=http://www.livestreamtv.biz/power.php?file=pfc2&width=480&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC",PFC 1 Em dias de Jogos
+rtmp://62.210.82.241:1935/liverepeat/fut01  pageUrl=http://www.ppcast.net/embedP/1.php?file=zuca01&width=635&height=500
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 2 Em dias de Jogos
+rtmp://62.210.83.180:1935/liverepeat/fut02 pageUrl=http://www.ppcast.net/embedP/2.php?file=poder2a&width=635&height=500
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 3 Em dias de Jogos 
+rtmp://62.210.83.180:1935/liverepeat/101010 pageUrl=http://www.ppcast.net/embedP/3.php?file=zuca3&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 4 Em dias de Jogos
+rtmp://83.170.111.194:1935/liverepeat/fut1123402 pageUrl=http://www.ppcast.net/embedP/5.php?file=zuca5&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 5 Em dias de Jogos
+rtmp://62.210.82.241:1935/liverepeat/fut06 pageUrl=http://www.ppcast.net/embedP/6.php?file=zuca6&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 6 Em dias de Jogos
+rtmp://62.210.83.152:1935/liverepeat/fut07 pageUrl=http://www.ppcast.net/embedP/7.php?file=zuca7&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC",PFC 7 Em dias de Jogos
+rtmp://62.210.88.208:1935/liverepeat/201020 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc" tvg-logo="http://www.marcotuliojs.qlix.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 8 Em dias de Jogos
+rtmp://62.210.88.244:1935/liverepeat/fut09 pageUrl=http://www.ppcast.net/embedP/9.php?file=zuca9&width=468&height=386
+
+
+
+
+
+#################################################################################################################################### ESPORTES INTERNACIONAS
+
+
+#EXTINF:0  tvg-logo="RAISports1" tvg-logo="http://www.marcotuliojs.qlix.com.br/RAISports1.jpg" group-title="ESPORTES INTERNACIONAS", RAI SPORT 1
+http://81.92.105.135:5555/pl.m3u8?channel=534&key=dFju0KcAG30UnrgV7vZZy1mNbbYHpD&client=DEVICE_MAC
+
+#EXTINF:0  tvg-logo="RAISports2" tvg-logo="http://www.marcotuliojs.qlix.com.br/RAISports2.jpg" group-title="ESPORTES INTERNACIONAS",RAI SPORT 2
+http://81.92.105.135:5555/pl.m3u8?channel=535&key=dFju0KcAG30UnrgV7vZZy1mNbbYHpD&client=DEVICE_MAC
+
+#EXTINF:-1  tvg-logo="foxs" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs.jpg" group-title="ESPORTES INTERNACIONAS", FOX SPORTS HD
+http://mojtube.com@200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
+
+#EXTINF:-1  tvg-logo="foxs" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs.jpg" group-title="ESPORTES INTERNACIONAS" , FOX SPORTS 2 HD
+http://mojtube.com@200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="FOX3" tvg-logo="http://www.marcotuliojs.qlix.com.br/FOX3.jpg" group-title="ESPORTES INTERNACIONAS", Fox sports 3
+http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="BenficaTv1" tvg-logo="http://www.marcotuliojs.qlix.com.br/BenficaTv1.jpg" group-title="ESPORTES INTERNACIONAS", Benfica TV
+http://noscdn1.connectedviews.com:1935/live/nickelodeon.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="BenficaTv2" tvg-logo="http://www.marcotuliojs.qlix.com.br/BenficaTv2.jpg" group-title="ESPORTES INTERNACIONAS", Benfica TV 2
+http://servprjsmartv.mine.nu:8888/live/18.04.2015/20.04.2015/20.ts
+
+#EXTINF:-1 tvg-logo="bein1" tvg-logo="http://www.marcotuliojs.qlix.com.br/bein1.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 1HD 
+http://2co1.vp9.tv/chn/bin01/v.m3u8
+
+#EXTINF:-1 tvg-logo="bein2" tvg-logo="http://www.marcotuliojs.qlix.com.br/bein2.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 2HD 
+http://2co1.vp9.tv/chn/bin02/v.m3u8
+
+#EXTINF:-1 tvg-logo="bein3" tvg-logo="http://www.marcotuliojs.qlix.com.br/bein3.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 3HD 
+http://2co1.vp9.tv/chn/bin03/v.m3u8
+
+#EXTINF:-1 tvg-logo="bein4" tvg-logo="http://www.marcotuliojs.qlix.com.br/bein4.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 4HD 
+http://2co1.vp9.tv/chn/bin04/v.m3u8
+
+#EXTINF:-1 tvg-logo="NBATV" tvg-logo="http://www.marcotuliojs.qlix.com.br/NBATV.jpg" group-title="ESPORTES INTERNACIONAS", NBA TV
+http://2co1.vp9.tv/chn/nba/v.m3u8
+
+#EXTINF:-1 tvg-logo="NBATV" tvg-logo="http://www.marcotuliojs.qlix.com.br/NBATV.jpg" group-title="ESPORTES INTERNACIONAS", NBA TV
+rtmp://213.152.180.151:1935/stream/0f5bZcQBIw.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n244z2c4u2z24424v203o2t2y294b4&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t22433133433t2p2s2d4q2z3y20364m264n5a4k5y36435k4f3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=NQ==&str=is&ok=&cat=2&link=1&idom=www.gofeed2all.eu
+
+
+#EXTINF:-1 tvg-logo="SKYF1" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKYF1.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports F1
+rtmp://46.246.29.132:1935/stream/0kJFUS0B1c.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=14c4w4r46555s29374h5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=j5x2n584k57454x2o5h544b4u29423n234r5k3e3p3u3w2o474l5t22433133433t2p2s2d4q2z3y20364m264s5v4s4t3q364k4r2v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTI=&str=is&ok=&cat=10&link=1&idom=www.gofeed2all.eu
+
+
+#EXTINF:-1 tvg-logo="SKY1" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY1.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 1 SD
+rtmp://46.246.29.138:1935/stream/6vPuiWkmnW.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=74n42526q595f4g4w555n244z2c4u2z24424v203o2t2y294b4&adx=&stream=54s2j5d474l5t2y2d44434l5s2k5z2n29426q3p494y3j4v5w595t22433133433t2p2s2d4q2z3y20364m2c4361536d4u3t5r5g4v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTg=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="SKY2" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY2.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 2 HD
+rtmp://80.82.64.140:443/liverepeater/48  pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="SKY2" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY2.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 2 SD
+rtmp://46.246.29.155:1935/stream/IYo4NHFVNc.stream pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=q4u3x594z4u4e3t305h5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=24749494c4n5t264n55444748484y2n2s495l4w2i3j3i38505l5t22433133433t2p2s2d4q2z3y20364m2v4a5w5a4m3f3s445k3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MjU=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="SKY3" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY3.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 3 HD
+rtmp://80.82.78.26:443/liverepeater/10  pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="SKY3" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY3.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 3 SD 
+rtmp://46.246.29.159:1935/stream//gs5l5skuCm.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=k5k4b4t5a416f4o4p4r5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=84x2m5n584m5z2t2949444l5x2b4x2n2m5z5z2g4t2q4j436p4v5t22433133433t2p2s2d4q2z3y20364m2p506a4u5x2m4t5z593v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=Mjk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="SKY4" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY4.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 4 HD
+rtmp://80.82.78.87:443/liverepeater/16 pageUrl=http://popeoftheplayers.eu/crichd.php?id=16&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="SKY4" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY4.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 4 SD
+rtmp://46.246.29.159:1935/stream/dc7FfEwso4.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=h544d4r4n5r4r4m4x564n244z2c4u2z24424v203o2t2y294b4&adx=&stream=e5w2d4n554k5x2t2e434r2h554i5x2n2j5j513e364g3v416x5a4t22433133433t2p2s2d4q2z3y20364m2m5k5c4s4a4c356x5h4v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=Mjk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="SKY5" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY5.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 5 HD
+rtmp://89.248.171.90:443/liverepeater/31 pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="SKY5" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKY5.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 5 SD
+rtmp://81.17.23.118:1935/stream/8QaZfLVfC9.stream pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=94m3j5b5n5y4u394p4b4n244z2c4u2z24424v203o2t2y294b4&adx=&stream=i5t2e4n5d4k554s2n5k5z274w2l543n2b41574y364n3y3o5p4f4t22433133433t2p2s2d4q2z3y20364m2e425i5c5a4j385k593v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=Mg==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="SKYNEWS" tvg-logo="http://www.marcotuliojs.qlix.com.br/SKYNEWS.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports News
+rtmp://213.152.181.12:1935/stream/1KnYJyfnK5.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3w5a5v476a4h4x474n244z2c4u2z24424v203o2t2y294b4&adx=&stream=g5q2c4e4k5e4v244j54434b474a4z2n244v4k4x3e3w4e4w5x4b4t22433133433t2p2s2d4q2z3y20364m274w4v5b5i3s4o5s5h3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=OQ==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="BTS1" tvg-logo="http://www.marcotuliojs.qlix.com.br/BTS1.jpg" group-title="ESPORTES INTERNACIONAS", BT sport 1
+rtmp://46.246.29.136:1935/stream/NdTaX9Epd0.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=v45465i595f4d3j4m524n244z2c4u2z24424v203o2t2y294b4&adx=&stream=14v2o5m58484w2r2742474i5r2h5d4n2x4k5u354s343h3y5m564t22433133433t2p2s2d4q2z3y20364m205l555j5w303r4u564v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTY=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="BTS2" tvg-logo="http://www.marcotuliojs.qlix.com.br/BTS2.jpg" group-title="ESPORTES INTERNACIONAS", BT sport 2
+rtmp://46.246.29.139:1935/stream/q9dS41DQ8U.stream  pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=u5y2m5459474c3o3e435n244z2c4u2z24424v203o2t2y294b4&adx=&stream=h5v2e464k594s20384b4w2k5x2b4e4n2w5d4a4r3s2w2g335e475t22433133433t2p2s2d4q2z3y20364m2z5e4l555w2s2q4z4y2v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="WWE" tvg-logo="http://www.marcotuliojs.qlix.com.br/WWE.jpg" group-title="ESPORTES INTERNACIONAS", WWE network
+rtmp://80.82.78.26:443/liverepeater/49  pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="EURO1" tvg-logo="http://www.marcotuliojs.qlix.com.br/EURO1.jpg" group-title="ESPORTES INTERNACIONAS", Euro sport 
+rtmp://94.102.49.126:443/liverepeater/28 pageUrl=http://popeoftheplayers.eu/crichd.php?id=28&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="EURO2" tvg-logo="http://www.marcotuliojs.qlix.com.br/EURO2.jpg" group-title="ESPORTES INTERNACIONAS", Euro sport 2
+rtmp://94.102.49.126:443/liverepeater/21 pageUrl=http://popeoftheplayers.eu/crichd.php?id=21&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="ESPNUK" tvg-logo="http://www.marcotuliojs.qlix.com.br/ESPNUK.jpg" group-title="ESPORTES INTERNACIONAS", ESPN UK
+rtmp://141.255.160.198:1935/stream/J3IwstxSV2.stream  live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=r4s2v4460626s4q38544n244z2b4u2y2542403t2m20323&adx=&stream=94p2o5e4d4a4t244b4f5x2h5v2k5a4n2t474j3r4j4r4w4558584t22433033423u2p2x264o26423u2r4s2v4460626s4q385u384o5l4k5e4h436x3r2r4l2s2t234j57413j584w2542394t2t2j5v28443y264s29454e4e4w284e484r2346484y2w20414r2p2l2s2t23434&sooor=Mw==&str=is&ok=&cat=16&link=1&idom=firstrowpt.eu
+ 
+#EXTINF:-1 tvg-logo="ESPNMEX" tvg-logo="http://www.marcotuliojs.qlix.com.br/ESPNMEX.jpg" group-title="ESPORTES INTERNACIONAS", ESPN1 HD MEX
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ESPNMEX" tvg-logo="http://www.marcotuliojs.qlix.com.br/ESPNMEX.jpg" group-title="ESPORTES INTERNACIONAS", ESPN1 MEX
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="ESPNMEX2" tvg-logo="http://www.marcotuliojs.qlix.com.br/ESPNMEX2.jpg" group-title="ESPORTES INTERNACIONAS", ESPN2 MEX
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="ESPNMEX3" tvg-logo="http://www.marcotuliojs.qlix.com.br/ESPNMEX3.jpg" group-title="ESPORTES INTERNACIONAS", ESPN3 MEX (Campeonato PT)
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
+ 
+#EXTINF:-1 tvg-logo="JOGO" tvg-logo="http://www.marcotuliojs.qlix.com.br/JOGO.jpg" group-title="ESPORTES INTERNACIONAS", +DEPORTES
+http://178.49.132.73/streaming/futbol/tvrec/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#################################################################################################################################### INFANTIS
+
+
+
+#EXTINF:-1 tvg-logo="animados" tvg-logo="http://www.marcotuliojs.qlix.com.br/animados.jpg" group-title="INFANTIS", Cine Animado
+rtmp://85.12.5.8/aovivo/cineanimado  pageUrl=http://www.tvonlinegratis.tv/parcerias/filmes-animacao.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Boomerang" tvg-logo="boomerang" tvg-logo="http://www.marcotuliojs.qlix.com.br/boomerang.jpg" group-title="INFANTIS", Boomerang
+rtmp://199.59.88.39/cam4-cr107/79  pageUrl=http://www.brshare.info/url/c4.php?itc=79&lar=660&alt=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Boomerang" tvg-logo="boomerang" tvg-logo="http://www.marcotuliojs.qlix.com.br/boomerang.jpg" group-title="INFANTIS", Boomerang
+rtmp://199.59.88.39:1935/cam4-cr107/79 PageUrl=http://www.cdnbr.biz/live.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Baby TV" tvg-logo="baby" tvg-logo="http://www.marcotuliojs.qlix.com.br/baby.jpg" group-title="INFANTIS", Baby TV
+rtmp://199.59.88.39/cam4-cr107/131 pageUrl=http://www.cdnbr.biz/mastertv/Baby TV.html
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Cartoon Network" tvg-logo="cartoon" tvg-logo="http://www.marcotuliojs.qlix.com.br/cartoon.jpg" group-title="INFANTIS", Cartoon Network
+rtmp://31.204.128.140/live/brlive_0028  pageUrl=http://www.cdnbr.biz/mastertv/CartoonNetwork.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Cartoon Network" tvg-logo="cartoon" tvg-logo="http://www.marcotuliojs.qlix.com.br/cartoon.jpg" group-title="INFANTIS", Cartoon Network
+rtmp://94.242.228.41:1935/live/cartoon  pageUrl=http://www.tvonline.org/out/cartoon.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Cartoon Network" tvg-logo="cartoon" tvg-logo="http://www.marcotuliojs.qlix.com.br/cartoon.jpg" group-title="INFANTIS", Cartoon Network
+rtmp://31.204.128.140:1935/live/brlive_0028 PageUrl=http://www.cdn-br.com/livestream.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney Channel" tvg-logo="disney" tvg-logo="http://www.marcotuliojs.qlix.com.br/disney.jpg" group-title="INFANTIS", Disney Channel
+rtmp://109.200.202.124/live/disney  pageUrl=http://www.tv-msn.com/disney.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney XD" tvg-logo="XD" tvg-logo="http://www.marcotuliojs.qlix.com.br/XD.jpg" group-title="INFANTIS", Disney XD
+rtmp://109.200.202.124/live/disneyxd  pageUrl=http://tv-msn.com/disneyxd.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney XD" tvg-logo="XD" tvg-logo="http://www.marcotuliojs.qlix.com.br/XD.jpg" group-title="INFANTIS", Disney XD
+rtmp://85.12.5.8/aovivo/xd pageUrl=http://www.tvonlinegratis.tv/parcerias/disney-xd.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Kids" tvg-logo="kids" tvg-logo="http://www.marcotuliojs.qlix.com.br/kids.jpg" group-title="INFANTIS", Discovery Kids
+rtmp://31.204.128.74/live/master24  pageUrl=http://www.cdnbr.biz/mastertv/Discovery Kids.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Kids" tvg-logo="kids" tvg-logo="http://www.marcotuliojs.qlix.com.br/kids.jpg" group-title="INFANTIS", Discovery Kids
+rtmp://31.204.128.74:1935/live/master24 PageUrl=http://www.cdn-br.com/livestream.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Gloob" tvg-logo="gloob" tvg-logo="http://www.marcotuliojs.qlix.com.br/gloob.jpg" group-title="INFANTIS", Gloob
+rtmp://31.204.128.73/live/110hd  pageUrl=http://www.cdnbr.biz/mastertv/Gloob.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nickelodeon" tvg-logo="nickd" tvg-logo="http://www.marcotuliojs.qlix.com.br/nickd.jpg" group-title="INFANTIS", Nickelodeon
+rtmp://31.204.128.140/live/brlive_0030 pageUrl=http://www.cdnbr.biz/mastertv/Nickelodeon.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Tooncast" tvg-logo="toon" tvg-logo="http://www.marcotuliojs.qlix.com.br/toon.jpg" group-title="INFANTIS", Tooncast
+rtmp://109.200.202.124/live/tooncast  pageUrl=http://tv-msn.com/tooncast.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nick Jr." tvg-logo="nickJR" tvg-logo="http://www.marcotuliojs.qlix.com.br/nickJR.jpg" group-title="INFANTIS", Nick JR
+rtmp://109.200.202.124/live/nickjr  pageUrl=http://tv-msn.com/nickjr.html
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="18" tvg-logo="http://www.marcotuliojs.qlix.com.br/18.jpg" group-title="ADULTOS +18", Adulto Claro
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Playboy TV" tvg-logo="play" tvg-logo="http://www.marcotuliojs.qlix.com.br/play.jpg" group-title="ADULTOS +18", Playboy TV HD
+rtmp://212.129.30.215/pboytv/pboytv  pageUrl=http://livestreamcast.org/embed.php?c=pboytv&vw=100%&vh=100%
+
+#EXTINF:-1 tvg-id="itpvbrasil - Playboy TV" tvg-logo="play" tvg-logo="http://www.marcotuliojs.qlix.com.br/play.jpg" group-title="ADULTOS +18", Playboy TV HD
+rtmp://edge2.everyon.tv/etv2sb/phd499  pageUrl=http://nowwatchtvlive.me/channel-tab-frame/playboychannel-1.php

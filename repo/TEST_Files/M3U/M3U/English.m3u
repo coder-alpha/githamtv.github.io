@@ -1,0 +1,101 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV*** INGILIZCE - ENGLISH***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,ALJAZEERA ENGLISH
+http://149.255.39.122/aasd/8614/index.m3u8
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1,Animal Planet Low 320*240
+http://202.75.23.34:1400/live/ch31/01.m3u8
+#EXTINF:-1,Animal Planet SD 640*480
+http://202.75.23.34:1400/live/ch31/03.m3u8
+#EXTINF:-1,ARAP Peace TV (english)
+rtmp://$OPT:rtmp-raw=rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_usa-live-25f-4x3-sdh_1 swfUrl=http://www.elahmad.com/tv/swf/peacetv.swf?autostart=true&"/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.way2allah.com/media/TV/peacetv.php
+#EXTINF:-1,BBC WORLD
+http://149.255.39.122/aasd/8612/index.m3u8
+#EXTINF:-1,BBC World News
+http://185.6.104.114:9983/udp/239.210.10.27:1234?by_HasBahCa
+#EXTINF:-1,Beauty TV
+rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
+#EXTINF:-1,Bio CH Low 320*240
+http://202.75.23.36:1400/live/ch46/01.m3u8
+#EXTINF:-1,Bloomberg
+rtsp://a627.l2479952251.c24799.g.lm.akamaistream.net/D/627/24799/v0001/reflector:52251
+#EXTINF:-1,bollywoodaction2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1,Channel News Asia Low 320*240
+http://202.75.23.37:1400/live/ch15/04.m3u8
+#EXTINF:-1,CNBC Europe
+http://185.6.104.114:9983/udp/239.210.10.15:1234?by_HasBahCa
+#EXTINF:-1,Discovery Home Low 320*240
+http://202.75.23.34:1400/live/ch34/01.m3u8
+#EXTINF:-1,Discovery Kids Low 320*240
+http://202.75.23.35:1400/live/ch36/01.m3u8
+#EXTINF:-1,Discovery Kids SD 640*480
+http://202.75.23.35:1400/live/ch36/03.m3u8
+#EXTINF:-1,Discovery Low 320*240
+http://202.75.23.34:1400/live/ch29/01.m3u8
+#EXTINF:-1,Discovery SD 640*480
+http://202.75.23.34:1400/live/ch29/03.m3u8
+#EXTINF:-1,Discovery World SD 640*480
+http://202.75.23.34:1400/live/ch30/03.m3u8
+#EXTINF:-1,EURONEWS
+http://149.255.39.122/aasd/8611/index.m3u8
+#EXTINF:-1,Euronews
+http://185.6.104.114:9983/udp/239.210.10.28:1234?by_HasBahCa
+#EXTINF:-1,Fight Sports Low 320*240
+http://202.75.23.37:1400/live/ch20/03.m3u8
+#EXTINF:-1,Fresh TV
+rtmp://80.93.53.88:1935/live/channel_4
+#EXTINF:-1,gotica tv
+rtmp://149.11.34.6:1935/live/gotica.stream
+#EXTINF:-1,History Low 320*240
+http://202.75.23.36:1400/live/ch45/01.m3u8
+#EXTINF:-1,History SD 640*480
+http://202.75.23.36:1400/live/ch45/03.m3u8
+#EXTINF:-1,HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+#EXTINF:-1,Lifetime Low 320*240
+http://202.75.23.36:1400/live/ch48/01.m3u8
+#EXTINF:-1,Lifetime SD 640*480
+http://202.75.23.36:1400/live/ch48/03.m3u8
+#EXTINF:-1,Lobas Tv
+rtmp://149.11.34.6/live/lobas.stream
+#EXTINF:-1,Mix Music Low 320*240
+http://202.75.23.49:1400/live/ch1/01.m3u8
+#EXTINF:-1,Mix Music SD 640*480
+http://202.75.23.49:1400/live/ch1/03.m3u8
+#EXTINF:-1,Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:-1,NatGeo Low 320*240
+http://202.75.23.35:1400/live/ch38/01.m3u8
+#EXTINF:-1,NatGeo SD 640*480
+http://202.75.23.35:1400/live/ch38/03.m3u8
+#EXTINF:-1,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1,NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1,Nickelodeon Low 320*240
+http://202.75.23.36:1400/live/ch43/01.m3u8
+#EXTINF:-1,Nickelodeon SD 640*480
+http://202.75.23.36:1400/live/ch43/03.m3u8
+#EXTINF:-1,offroad tv
+rtmp://grey.ether.tv/live/fulltime/broadcast4
+#EXTINF:-1,Peace Tv Asia
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:-1,QVC TV UK
+rtmp://cp79650.live.edgefcs.net/live/QVCLive1@14308
+#EXTINF:-1,Rocks n Co. TV
+rtmp://rockscolivefs.fplive.net/rockscolive-live/stream002
+#EXTINF:-1,RUS TODAY
+http://rt.com/s/rtplayer/playlists/rt_global.m3u8
+#EXTINF:-1,Russia Today
+http://185.6.104.114:9983/udp/239.210.10.17:1234?by_HasBahCa
+#EXTINF:-1,Sky News mms
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+#EXTINF:-1,teledom
+rtmp://91.209.128.203/live/teledom3
+#EXTINF:-1,TWiT US
+http://bglive-a.bitgravity.com/twit/live/high
+#EXTINF:-1,virgin1
+rtmp://fms.105.net:1935/live/virgin1

@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1,TVA Nouvelles Gatineau en direct (En ondes à 18h, les jours de semaine)
+rtmp://67.212.85.90/media/chot.tva
+
+#EXTINF:-1,TVA Nouvelles Abitibi-Témiscamingue en direct (En ondes à 18h, les jours de semaine)
+rtmp://67.212.85.90/media/cfem.tva
+
+#EXTINF:-1,Assemblée nationale du Québec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1,YOOPA
+http://bit.ly/1ALzV6m
+
+#EXTINF:-1,City Montreal HD - CJNT-DT (En ondes de 6h à 9h, les jours de semaine)
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+
+#EXTINF:-1 tvg-logo="lcn.png",LCN
+http://bit.ly/1H5HH3r
+
+#EXTINF:-1,CPAC Français
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+
+#EXTINF:-1,ICI Radio-Canada Télé Québec - CBVT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ICI Radio-Canada Télé Ottawa-Gatineau - CBOFT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ICI Radio-Canada Télé Trois-Rivières - CKTM-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ICI Radio-Canada Télé Rimouski - CJBR-DT
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ICI Radio-Canada Télé Saguenay - CKTV-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ICI Radio-Canada Télé Sherbrooke - CKSH-DT
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ICI RDI (Diffusion interrompue, à partir de 20h les soirs de semaine)
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="I2.28456053.microsoft.com" tvg-name="SRC" group-title="Franco",ICI Radio-Canada Télé Montréal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
+
+#EXTINF:-1 tvg-id="I4.28457403.microsoft.com" tvg-name="TVA" group-title="Franco",TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+
+#########################TESTER JUSQUE ICI ####################################################################################################################################
+
+#EXTINF:-1 tvg-id="I22.28458316.microsoft.com" tvg-name="Savoir" group-title="Franco",Canal Savoir
+mms://stream2.canal.qc.ca/enOndes_haut_debit
+
+#EXTINF:-1 tvg-id="I9.28461318.microsoft.com" tvg-name="MaTV/TVA Sports" group-title="Franco",MaTV/TVA Sports (Diffusion en alternance)
+rtmp://cp39414.live.edgefcs.net/live/event1@9756 swfVfy=true live=true timeout=60
+
+#EXTINF:-1 tvg-id="I5.28460602.microsoft.com" tvg-name="V" group-title="Franco",V HD (Diffusions périodiques)
+rtmp://cp101680.live.edgefcs.net/live playpath=livev_1@50832 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://vtele.ca/en-direct.html live=true
+
+#EXTINF:-1 tvg-id="I5.28460602.microsoft.com" tvg-name="V" group-title="Franco",V (Station de Québec)
+rtmp://204.107.26.252/live//livevO playpath=livevO swfVfy=true live=true
+
+#EXTINF:-1 tvg-id="I5.28460602.microsoft.com" tvg-name="TQC" group-title="Franco",Télé-Québec
+###DOWN###rtmp://204.107.26.252/live//tqOO5 playpath=tqOO5 swfVfy=true live=true

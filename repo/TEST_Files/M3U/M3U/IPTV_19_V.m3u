@@ -1,0 +1,471 @@
+#EXTM3U
+#EXTINF:-1 audio-track="ru",Amedia I HD
+http://176.51.89.115:1234/udp/233.7.70.222:5000,ru
+#EXTINF:-1 audio-track="ru",Amedia Premium HD
+http://176.51.89.115:1234/udp/233.7.70.239:5000,ru
+#EXTINF:-1 audio-track="ru",Amedia Premium HD
+http://176.51.89.115:1234/udp/233.7.70.244:5000,ru
+#EXTINF:-1 audio-track="ru",Animal Planet HD
+http://176.51.89.115:1234/udp/233.7.70.225:5000,ru
+#EXTINF:-1 audio-track="ru",Discovery Channel HD
+http://176.51.89.115:1234/udp/233.7.70.253:5000,ru
+#EXTINF:-1 audio-track="ru",Discovery Science HD
+http://176.51.89.115:1234/udp/233.7.70.195:5000,ru
+#EXTINF:-1 audio-track="ru",Eurosport HD
+http://176.51.89.115:1234/udp/233.7.70.132:5000,ru
+#EXTINF:-1 audio-track="ru",Fashion One HD
+http://176.51.89.115:1234/udp/233.7.70.162:5000,ru
+#EXTINF:-1 audio-track="ru",FOX HD
+http://176.51.89.115:1234/udp/233.7.70.127:5000,ru
+#EXTINF:-1 audio-track="ru",FOX Life HD
+http://176.51.89.115:1234/udp/233.7.70.158:5000,ru
+#EXTINF:-1 audio-track="ru",HD Life
+http://176.51.89.115:1234/udp/233.7.70.157:5000,ru
+#EXTINF:-1 audio-track="ru",History HD
+http://176.51.89.115:1234/udp/233.7.70.230:5000,ru
+#EXTINF:-1 audio-track="ru",Mezzo Live HD
+http://176.51.89.115:1234/udp/233.7.70.125:5000,ru
+#EXTINF:-1 audio-track="ru",MTV Live HD
+http://176.51.89.115:1234/udp/233.7.70.161:5000,ru
+#EXTINF:-1 audio-track="ru",MyZen HD
+http://176.51.89.115:1234/udp/233.7.70.160:5000,ru
+#EXTINF:-1 audio-track="ru",Nat Geo Wild HD
+http://176.51.89.115:1234/udp/233.7.70.133:5000,ru
+#EXTINF:-1 audio-track="ru",National Geographic HD
+http://176.51.89.115:1234/udp/233.7.70.159:5000,ru
+#EXTINF:-1 audio-track="ru",Nickelodeon HD
+http://176.51.89.115:1234/udp/233.7.70.164:5000,ru
+#EXTINF:-1 audio-track="ru",Outdoor HD
+http://176.51.89.115:1234/udp/233.7.70.163:5000,ru
+#EXTINF:-1 audio-track="ru",Paramount Channel HD
+http://176.51.89.115:1234/udp/233.7.70.114:5000,ru
+#EXTINF:-1 audio-track="ru",Russia Today HD
+http://176.51.89.115:1234/udp/233.7.70.216:5000,ru
+#EXTINF:-1 audio-track="ru",Russia Today Д HD
+http://176.51.89.115:1234/udp/233.7.70.217:5000,ru
+#EXTINF:-1 audio-track="ru",SET HD
+http://176.51.89.115:1234/udp/233.7.70.126:5000,ru
+#EXTINF:-1 audio-track="ru",TLC HD
+http://176.51.89.115:1234/udp/233.7.70.211:5000,ru
+#EXTINF:-1 audio-track="ru",Travel+ Adventure HD
+http://176.51.89.115:1234/udp/233.7.70.156:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Comedy HD
+http://176.51.89.115:1234/udp/233.7.70.130:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Comedy HD
+http://176.51.89.115:1234/udp/233.7.70.179:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Megahit HD
+http://176.51.89.115:1234/udp/233.7.70.128:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Megahit HD
+http://176.51.89.115:1234/udp/233.7.70.178:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Premium HD
+http://176.51.89.115:1234/udp/233.7.70.129:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Premium HD
+http://176.51.89.115:1234/udp/233.7.70.193:5000,ru
+#EXTINF:-1 audio-track="ru",Viasat History HD
+http://176.51.89.115:1234/udp/233.7.70.134:5000,ru
+#EXTINF:-1 audio-track="ru",Viasat History HD
+http://176.51.89.115:1234/udp/233.7.70.180:5000,ru
+#EXTINF:-1 audio-track="ru",КХЛ HD
+http://176.51.89.115:1234/udp/233.7.70.177:5000,ru
+#EXTINF:-1 audio-track="ru",КХЛ HD
+http://176.51.89.115:1234/udp/233.7.70.218:5000,ru
+#EXTINF:-1 audio-track="ru",Наш Футбол HD
+http://176.51.89.115:1234/udp/233.7.70.116:5000,ru
+#EXTINF:-1 audio-track="ru",Наш Футбол HD
+http://176.51.89.115:1234/udp/233.7.70.194:5000,ru
+#EXTINF:-1 audio-track="ru",Первый канал HD
+http://176.51.89.115:1234/udp/233.7.70.200:5000,ru
+#EXTINF:-1 audio-track="ru",Россия HD
+http://176.51.89.115:1234/udp/233.7.70.201:5000,ru
+#EXTINF:-1 audio-track="ru",Спорт 1 HD
+http://176.51.89.115:1234/udp/233.7.70.131:5000,ru
+#EXTINF:-1 audio-track="ru",24 DOC
+http://176.51.89.115:1234/udp/233.7.70.181:5000,ru
+#EXTINF:-1 audio-track="ru",24 Техно
+http://176.51.89.115:1234/udp/233.7.70.89:5000,ru
+#EXTINF:-1 audio-track="ru",2x2
+http://176.51.89.115:1234/udp/233.7.70.124:5000,ru
+#EXTINF:-1 audio-track="ru",2x2 (+5)
+http://176.51.89.115:1234/udp/233.7.70.43:5000,ru
+#EXTINF:-1 audio-track="ru",365 дней
+http://176.51.89.115:1234/udp/233.7.70.182:5000,ru
+#EXTINF:-1 audio-track="ru",49 канал Новосибирск
+http://176.51.89.115:1234/udp/239.1.128.53:5000,ru
+#EXTINF:-1 audio-track="ru",5 канал (+2)
+http://176.51.89.115:1234/udp/233.7.70.60:5000,ru
+#EXTINF:-1 audio-track="ru",5 канал (+2)
+http://176.51.89.115:1234/udp/239.1.128.37:5000,ru
+#EXTINF:-1 audio-track="ru",8 канал
+http://176.51.89.115:1234/udp/233.7.70.215:5000,ru
+#EXTINF:-1 audio-track="ru",A-One
+http://176.51.89.115:1234/udp/233.7.70.52:5000,ru
+#EXTINF:-1 audio-track="ru",AB Moteurs
+http://176.51.89.115:1234/udp/233.7.70.183:5000,ru
+#EXTINF:-1 audio-track="ru",Amazing Life
+http://176.51.89.115:1234/udp/233.7.70.21:5000,ru
+#EXTINF:-1 audio-track="ru",Amedia I
+http://176.51.89.115:1234/udp/233.7.70.214:5000,ru
+#EXTINF:-1 audio-track="ru",Amedia II
+http://176.51.89.115:1234/udp/233.7.70.212:5000,ru
+#EXTINF:-1 audio-track="ru",Animal Planet
+http://176.51.89.115:1234/udp/233.7.70.30:5000,ru
+#EXTINF:-1 audio-track="ru",Arirang
+http://176.51.89.115:1234/udp/233.7.70.111:5000,ru
+#EXTINF:-1 audio-track="ru",Baby TV
+http://176.51.89.115:1234/udp/233.7.70.188:5000,ru
+#EXTINF:-1 audio-track="ru",BBC World New
+http://176.51.89.115:1234/udp/233.7.70.186:5000,ru
+#EXTINF:-1 audio-track="ru",Blue Hustler
+http://176.51.89.115:1234/udp/233.7.70.121:5000,ru
+#EXTINF:-1 audio-track="ru",Boomerang
+http://176.51.89.115:1234/udp/233.7.70.187:5000,ru
+#EXTINF:-1 audio-track="ru",Bridge TV
+http://176.51.89.115:1234/udp/233.7.70.110:5000,ru
+#EXTINF:-1 audio-track="ru",Cartoon Network
+http://176.51.89.115:1234/udp/233.7.70.102:5000,ru
+#EXTINF:-1 audio-track="ru",CBS Drama
+http://176.51.89.115:1234/udp/233.7.70.232:5000,ru
+#EXTINF:-1 audio-track="ru",CBS Reality
+http://176.51.89.115:1234/udp/233.7.70.231:5000,ru
+#EXTINF:-1 audio-track="ru",Da Vinci Learning
+http://176.51.89.115:1234/udp/233.7.70.63:5000,ru
+#EXTINF:-1 audio-track="ru",Deutsche Welle
+http://176.51.89.115:1234/udp/233.7.70.191:5000,ru
+#EXTINF:-1 audio-track="ru",Discovery Channel
+http://176.51.89.115:1234/udp/233.7.70.26:5000,ru
+#EXTINF:-1 audio-track="ru",Discovery Science
+http://176.51.89.115:1234/udp/233.7.70.27:5000,ru
+#EXTINF:-1 audio-track="ru",Discovery World
+http://176.51.89.115:1234/udp/233.7.70.28:5000,ru
+#EXTINF:-1 audio-track="ru",Disney (+3)
+http://176.51.89.115:1234/udp/233.7.70.9:5000,ru
+#EXTINF:-1 audio-track="ru",Disney (+7)
+http://176.51.89.115:1234/udp/233.7.70.91:5000,ru
+#EXTINF:-1 audio-track="ru",E! Entertainment
+http://176.51.89.115:1234/udp/233.7.70.72:5000,ru
+#EXTINF:-1 audio-track="ru",English Club TV
+http://176.51.89.115:1234/udp/233.7.70.96:5000,ru
+#EXTINF:-1 audio-track="ru",Euronews
+http://176.51.89.115:1234/udp/233.7.70.42:5000,ru
+#EXTINF:-1 audio-track="ru",Europa Plus TV
+http://176.51.89.115:1234/udp/233.7.70.196:5000,ru
+#EXTINF:-1 audio-track="ru",Eurosport
+http://176.51.89.115:1234/udp/233.7.70.45:5000,ru
+#EXTINF:-1 audio-track="ru",Eurosport 2
+http://176.51.89.115:1234/udp/233.7.70.81:5000,ru
+#EXTINF:-1 audio-track="ru",Eurosport News
+http://176.51.89.115:1234/udp/233.7.70.197:5000,ru
+#EXTINF:-1 audio-track="ru",Extreme Sports
+http://176.51.89.115:1234/udp/233.7.70.147:5000,ru
+#EXTINF:-1 audio-track="ru",Fashion TV
+http://176.51.89.115:1234/udp/233.7.70.47:5000,ru
+#EXTINF:-1 audio-track="ru",FOX
+http://176.51.89.115:1234/udp/233.7.70.154:5000,ru
+#EXTINF:-1 audio-track="ru",Fox Life
+http://176.51.89.115:1234/udp/233.7.70.85:5000,ru
+#EXTINF:-1 audio-track="ru",France 24
+http://176.51.89.115:1234/udp/233.7.70.149:5000,ru
+#EXTINF:-1 audio-track="ru",Gulli
+http://176.51.89.115:1234/udp/233.7.70.171:5000,ru
+#EXTINF:-1 audio-track="ru",History
+http://176.51.89.115:1234/udp/233.7.70.185:5000,ru
+#EXTINF:-1 audio-track="ru",ID Xtra
+http://176.51.89.115:1234/udp/233.7.70.192:5000,ru
+#EXTINF:-1 audio-track="ru",Inva Media TV
+http://176.51.89.115:1234/udp/233.7.70.39:5000,ru
+#EXTINF:-1 audio-track="ru",JimJam
+http://176.51.89.115:1234/udp/233.7.70.148:5000,ru
+#EXTINF:-1 audio-track="ru",LifeNews
+http://176.51.89.115:1234/udp/233.7.70.76:5000,ru
+#EXTINF:-1 audio-track="ru",MCM TOP
+http://176.51.89.115:1234/udp/233.7.70.109:5000,ru
+#EXTINF:-1 audio-track="ru",Mezzo
+http://176.51.89.115:1234/udp/233.7.70.204:5000,ru
+#EXTINF:-1 audio-track="ru",MGM
+http://176.51.89.115:1234/udp/233.7.70.205:5000,ru
+#EXTINF:-1 audio-track="ru",Motors TV
+http://176.51.89.115:1234/udp/233.7.70.206:5000,ru
+#EXTINF:-1 audio-track="ru",MTV Dance
+http://176.51.89.115:1234/udp/233.7.70.207:5000,ru
+#EXTINF:-1 audio-track="ru",MTV Hits
+http://176.51.89.115:1234/udp/233.7.70.208:5000,ru
+#EXTINF:-1 audio-track="ru",MTV Rocks
+http://176.51.89.115:1234/udp/233.7.70.209:5000,ru
+#EXTINF:-1 audio-track="ru",MTV Россия
+http://176.51.89.115:1234/udp/233.7.70.202:5000,ru
+#EXTINF:-1 audio-track="ru",Music Box
+http://176.51.89.115:1234/udp/233.7.70.53:5000,ru
+#EXTINF:-1 audio-track="ru",Nat Geo Wild
+http://176.51.89.115:1234/udp/233.7.70.223:5000,ru
+#EXTINF:-1 audio-track="ru",National Geographic
+http://176.51.89.115:1234/udp/233.7.70.32:5000,ru
+#EXTINF:-1 audio-track="ru",Nautical Channel
+http://176.51.89.115:1234/udp/233.7.70.84:5000,ru
+#EXTINF:-1 audio-track="ru",NHK World
+http://176.51.89.115:1234/udp/233.7.70.224:5000,ru
+#EXTINF:-1 audio-track="ru",Nick Jr.
+http://176.51.89.115:1234/udp/233.7.70.169:5000,ru
+#EXTINF:-1 audio-track="ru",Nickelodeon
+http://176.51.89.115:1234/udp/233.7.70.97:5000,ru
+#EXTINF:-1 audio-track="ru",O-la-la
+http://176.51.89.115:1234/udp/233.7.70.236:5000,ru
+#EXTINF:-1 audio-track="ru",Ocean TV
+http://176.51.89.115:1234/udp/233.7.70.95:5000,ru
+#EXTINF:-1 audio-track="ru",Outdoor
+http://176.51.89.115:1234/udp/233.7.70.226:5000,ru
+#EXTINF:-1 audio-track="ru",Paramount Channel
+http://176.51.89.115:1234/udp/233.7.70.113:5000,ru
+#EXTINF:-1 audio-track="ru",Paramount Comedy
+http://176.51.89.115:1234/udp/233.7.70.227:5000,ru
+#EXTINF:-1 audio-track="ru",Playboy TV
+http://176.51.89.115:1234/udp/233.7.70.115:5000,ru
+#EXTINF:-1 audio-track="ru",RU.TV
+http://176.51.89.115:1234/udp/233.7.70.83:5000,ru
+#EXTINF:-1 audio-track="ru",Rusong TV
+http://176.51.89.115:1234/udp/233.7.70.228:5000,ru
+#EXTINF:-1 audio-track="ru",Russia Today
+http://176.51.89.115:1234/udp/233.7.70.82:5000,ru
+#EXTINF:-1 audio-track="ru",Russian Extreme
+http://176.51.89.115:1234/udp/233.7.70.139:5000,ru
+#EXTINF:-1 audio-track="ru",Russian Music Box
+http://176.51.89.115:1234/udp/233.7.70.54:5000,ru
+#EXTINF:-1 audio-track="ru",SET
+http://176.51.89.115:1234/udp/233.7.70.70:5000,ru
+#EXTINF:-1 audio-track="ru",Shopping Live
+http://176.51.89.115:1234/udp/233.7.70.135:5000,ru
+#EXTINF:-1 audio-track="ru",Sony Sci-Fi
+http://176.51.89.115:1234/udp/233.7.70.184:5000,ru
+#EXTINF:-1 audio-track="ru",Sony Turbo
+http://176.51.89.115:1234/udp/233.7.70.166:5000,ru
+#EXTINF:-1 audio-track="ru",Style TV
+http://176.51.89.115:1234/udp/233.7.70.140:5000,ru
+#EXTINF:-1 audio-track="ru",TDK
+http://176.51.89.115:1234/udp/233.7.70.50:5000,ru
+#EXTINF:-1 audio-track="ru",TiJi
+http://176.51.89.115:1234/udp/233.7.70.101:5000,ru
+#EXTINF:-1 audio-track="ru",TLC
+http://176.51.89.115:1234/udp/233.7.70.29:5000,ru
+#EXTINF:-1 audio-track="ru",Top Shop TV
+http://176.51.89.115:1234/udp/233.7.70.56:5000,ru
+#EXTINF:-1 audio-track="ru",Travel+ Adventure
+http://176.51.89.115:1234/udp/233.7.70.119:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000
+http://176.51.89.115:1234/udp/233.7.70.36:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Action
+http://176.51.89.115:1234/udp/233.7.70.59:5000,ru
+#EXTINF:-1 audio-track="ru",TV1000 Русское кино
+http://176.51.89.115:1234/udp/233.7.70.67:5000,ru
+#EXTINF:-1 audio-track="ru",Universal Channel
+http://176.51.89.115:1234/udp/233.7.70.151:5000,ru
+#EXTINF:-1 audio-track="ru",VH1
+http://176.51.89.115:1234/udp/233.7.70.152:5000,ru
+#EXTINF:-1 audio-track="ru",VH1 Classic
+http://176.51.89.115:1234/udp/233.7.70.229:5000,ru
+#EXTINF:-1 audio-track="ru",Viasat Explore
+http://176.51.89.115:1234/udp/233.7.70.33:5000,ru
+#EXTINF:-1 audio-track="ru",Viasat History
+http://176.51.89.115:1234/udp/233.7.70.88:5000,ru
+#EXTINF:-1 audio-track="ru",Viasat Nature
+http://176.51.89.115:1234/udp/233.7.70.103:5000,ru
+#EXTINF:-1 audio-track="ru",Viasat Sport
+http://176.51.89.115:1234/udp/233.7.70.138:5000,ru
+#EXTINF:-1 audio-track="ru",XXI
+http://176.51.89.115:1234/udp/233.7.70.35:5000,ru
+#EXTINF:-1 audio-track="ru",XXL
+http://176.51.89.115:1234/udp/233.7.70.122:5000,ru
+#EXTINF:-1 audio-track="ru",Zee TV
+http://176.51.89.115:1234/udp/233.7.70.104:5000,ru
+#EXTINF:-1 audio-track="ru",Zooпарк
+http://176.51.89.115:1234/udp/233.7.70.90:5000,ru
+#EXTINF:-1 audio-track="ru",Авто Плюс
+http://176.51.89.115:1234/udp/233.7.70.79:5000,ru
+#EXTINF:-1 audio-track="ru",Агро ТВ
+http://176.51.89.115:1234/udp/233.7.70.57:5000,ru
+#EXTINF:-1 audio-track="ru",Боец
+http://176.51.89.115:1234/udp/233.7.70.78:5000,ru
+#EXTINF:-1 audio-track="ru",Бойцовский клуб
+http://176.51.89.115:1234/udp/233.7.70.233:5000,ru
+#EXTINF:-1 audio-track="ru",Вместе-РФ
+http://176.51.89.115:1234/udp/233.7.70.77:5000,ru
+#EXTINF:-1 audio-track="ru",Всё ТВ
+http://176.51.89.115:1234/udp/233.7.70.174:5000,ru
+#EXTINF:-1 audio-track="ru",Детский
+http://176.51.89.115:1234/udp/233.7.70.99:5000,ru
+#EXTINF:-1 audio-track="ru",Детский мир + Телеклуб
+http://176.51.89.115:1234/udp/233.7.70.234:5000,ru
+#EXTINF:-1 audio-track="ru",Домашний Новосибирск
+http://176.51.89.115:1234/udp/233.7.70.18:5000,ru
+#EXTINF:-1 audio-track="ru",Драйв
+http://176.51.89.115:1234/udp/233.7.70.31:5000,ru
+#EXTINF:-1 audio-track="ru",Еврокино
+http://176.51.89.115:1234/udp/233.7.70.235:5000,ru
+#EXTINF:-1 audio-track="ru",Живи!
+http://176.51.89.115:1234/udp/233.7.70.105:5000,ru
+#EXTINF:-1 audio-track="ru",Звезда (+3)
+http://176.51.89.115:1234/udp/233.7.70.69:5000,ru
+#EXTINF:-1 audio-track="ru",Здоровое ТВ
+http://176.51.89.115:1234/udp/233.7.70.49:5000,ru
+#EXTINF:-1 audio-track="ru",Иллюзион+
+http://176.51.89.115:1234/udp/233.7.70.62:5000,ru
+#EXTINF:-1 audio-track="ru",История
+http://176.51.89.115:1234/udp/233.7.70.173:5000,ru
+#EXTINF:-1 audio-track="ru",КХЛ ТВ
+http://176.51.89.115:1234/udp/233.7.70.37:5000,ru
+#EXTINF:-1 audio-track="ru",КХЛ ТВ
+http://176.51.89.115:1234/udp/233.7.70.150:5000,ru
+#EXTINF:-1 audio-track="ru",Карусель (+2)
+http://176.51.89.115:1234/udp/233.7.70.40:5000,ru
+#EXTINF:-1 audio-track="ru",Карусель (+7)
+http://176.51.89.115:1234/udp/233.7.70.170:5000,ru
+#EXTINF:-1 audio-track="ru",Кино ТВ
+http://176.51.89.115:1234/udp/233.7.70.167:5000,ru
+#EXTINF:-1 audio-track="ru",Комедия
+http://176.51.89.115:1234/udp/233.7.70.80:5000,ru
+#EXTINF:-1 audio-track="ru",Комсомольская правда
+http://176.51.89.115:1234/udp/233.7.70.240:5000,ru
+#EXTINF:-1 audio-track="ru",Конференция ТВ
+http://176.51.89.115:1234/udp/233.7.70.55:5000,ru
+#EXTINF:-1 audio-track="ru",Кто есть кто
+http://176.51.89.115:1234/udp/233.7.70.241:5000,ru
+#EXTINF:-1 audio-track="ru",Кухня ТВ
+http://176.51.89.115:1234/udp/233.7.70.94:5000,ru
+#EXTINF:-1 audio-track="ru",Ля-Минор
+http://176.51.89.115:1234/udp/233.7.70.108:5000,ru
+#EXTINF:-1 audio-track="ru",Мать и дитя
+http://176.51.89.115:1234/udp/233.7.70.41:5000,ru
+#EXTINF:-1 audio-track="ru",Мир (+3)
+http://176.51.89.115:1234/udp/233.7.70.58:5000,ru
+#EXTINF:-1 audio-track="ru",Мир 24
+http://176.51.89.115:1234/udp/233.7.70.120:5000,ru
+#EXTINF:-1 audio-track="ru",Моя планета
+http://176.51.89.115:1234/udp/233.7.70.71:5000,ru
+#EXTINF:-1 audio-track="ru",Муз ТВ
+http://176.51.89.115:1234/udp/233.7.70.137:5000,ru
+#EXTINF:-1 audio-track="ru",Мульт
+http://176.51.89.115:1234/udp/233.7.70.57:5000,ru
+#EXTINF:-1 audio-track="ru",Мультимания
+http://176.51.89.115:1234/udp/233.7.70.242:5000,ru
+#EXTINF:-1 audio-track="ru",НСТ
+http://176.51.89.115:1234/udp/233.7.70.74:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ (+3)
+http://176.51.89.115:1234/udp/239.1.128.35:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ (+4)
+http://176.51.89.115:1234/udp/233.7.70.64:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ+ Баскетбол
+http://176.51.89.115:1234/udp/233.7.70.246:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ+ Кино Плюс
+http://176.51.89.115:1234/udp/233.7.70.247:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ+ Кино Союз
+http://176.51.89.115:1234/udp/233.7.70.248:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ+ Наше Кино
+http://176.51.89.115:1234/udp/233.7.70.249:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ+ Новое Кино
+http://176.51.89.115:1234/udp/233.7.70.250:5000,ru
+#EXTINF:-1 audio-track="ru",НТВ+ Спорт Плюс
+http://176.51.89.115:1234/udp/233.7.70.251:5000,ru
+#EXTINF:-1 audio-track="ru",Наука 2.0
+http://176.51.89.115:1234/udp/233.7.70.243:5000,ru
+#EXTINF:-1 audio-track="ru",Ностальгия
+http://176.51.89.115:1234/udp/233.7.70.245:5000,ru
+#EXTINF:-1 audio-track="ru",ОТР
+http://176.51.89.115:1234/udp/233.7.70.141:5000,ru
+#EXTINF:-1 audio-track="ru",ОТС Новосибирск
+http://176.51.89.115:1234/udp/239.1.128.52:5000,ru
+#EXTINF:-1 audio-track="ru",Оружие
+http://176.51.89.115:1234/udp/233.7.70.252:5000,ru
+#EXTINF:-1 audio-track="ru",Охота и рыбалка
+http://176.51.89.115:1234/udp/233.7.70.48:5000,ru
+#EXTINF:-1 audio-track="ru",Парк развлечений
+http://176.51.89.115:1234/udp/233.7.70.142:5000,ru
+#EXTINF:-1 audio-track="ru",Первый Образовательный
+http://176.51.89.115:1234/udp/233.7.70.23:5000,ru
+#EXTINF:-1 audio-track="ru",Первый канал (+4)
+http://176.51.89.115:1234/udp/239.1.128.33:5000,ru
+#EXTINF:-1 audio-track="ru",Перец
+http://176.51.89.115:1234/udp/233.7.70.66:5000,ru
+#EXTINF:-1 audio-track="ru",Перец (+7)
+http://176.51.89.115:1234/udp/233.7.70.165:5000,ru
+#EXTINF:-1 audio-track="ru",Просвещение
+http://176.51.89.115:1234/udp/233.7.70.168:5000,ru
+#EXTINF:-1 audio-track="ru",Пятница! (+2)
+http://176.51.89.115:1234/udp/233.7.70.175:5000,ru
+#EXTINF:-1 audio-track="ru",Пятница! (+3)
+http://176.51.89.115:1234/udp/239.1.128.54:5000,ru
+#EXTINF:-1 audio-track="ru",Пятница! (+4)
+http://176.51.89.115:1234/udp/233.7.70.237:5000,ru
+#EXTINF:-1 audio-track="ru",Пятница! (+7)
+http://176.51.89.115:1234/udp/233.7.70.198:5000,ru
+#EXTINF:-1 audio-track="ru",РБК
+http://176.51.89.115:1234/udp/233.7.70.22:5000,ru
+#EXTINF:-1 audio-track="ru",Радость моя
+http://176.51.89.115:1234/udp/233.7.70.100:5000,ru
+#EXTINF:-1 audio-track="ru",Раз ТВ
+http://176.51.89.115:1234/udp/233.7.70.145:5000,ru
+#EXTINF:-1 audio-track="ru",Ретро ТВ
+http://176.51.89.115:1234/udp/233.7.70.44:5000,ru
+#EXTINF:-1 audio-track="ru",Россия 1 (+2)
+http://176.51.89.115:1234/udp/239.1.128.34:5000,ru
+#EXTINF:-1 audio-track="ru",Россия 2
+http://176.51.89.115:1234/udp/233.7.70.172:5000,ru
+#EXTINF:-1 audio-track="ru",Россия 2
+http://176.51.89.115:1234/udp/239.1.128.39:5000,ru
+#EXTINF:-1 audio-track="ru",Россия 24
+http://176.51.89.115:1234/udp/233.7.70.68:5000,ru
+#EXTINF:-1 audio-track="ru",Россия 24
+http://176.51.89.115:1234/udp/239.1.128.36:5000,ru
+#EXTINF:-1 audio-track="ru",Россия К
+http://176.51.89.115:1234/udp/239.1.128.38:5000,ru
+#EXTINF:-1 audio-track="ru",Россия К (+2)
+http://176.51.89.115:1234/udp/233.7.70.61:5000,ru
+#EXTINF:-1 audio-track="ru",Русская ночь
+http://176.51.89.115:1234/udp/233.7.70.112:5000,ru
+#EXTINF:-1 audio-track="ru",Русский Бестселлер
+http://176.51.89.115:1234/udp/233.7.70.176:5000,ru
+#EXTINF:-1 audio-track="ru",Русский Иллюзион
+http://176.51.89.115:1234/udp/233.7.70.155:5000,ru
+#EXTINF:-1 audio-track="ru",Русский роман
+http://176.51.89.115:1234/udp/233.7.70.153:5000,ru
+#EXTINF:-1 audio-track="ru",СТС Мир (+3)
+http://176.51.89.115:1234/udp/239.1.128.45:5000,ru
+#EXTINF:-1 audio-track="ru",Союз
+http://176.51.89.115:1234/udp/233.7.70.24:5000,ru
+#EXTINF:-1 audio-track="ru",Спас
+http://176.51.89.115:1234/udp/233.7.70.38:5000,ru
+#EXTINF:-1 audio-track="ru",Спорт
+http://176.51.89.115:1234/udp/233.7.70.254:5000,ru
+#EXTINF:-1 audio-track="ru",Спорт 1
+http://176.51.89.115:1234/udp/233.7.70.75:5000,ru
+#EXTINF:-1 audio-track="ru",Страна
+http://176.51.89.115:1234/udp/233.7.70.213:5000,ru
+#EXTINF:-1 audio-track="ru",ТВ3 (+3)
+http://176.51.89.115:1234/udp/233.7.70.220:5000,ru
+#EXTINF:-1 audio-track="ru",ТВ3 (+3)
+http://176.51.89.115:1234/udp/239.1.128.43:5000,ru
+#EXTINF:-1 audio-track="ru",ТВ3 (+7)
+http://176.51.89.115:1234/udp/233.7.70.221:5000,ru
+#EXTINF:-1 audio-track="ru",ТВЦ (+2)
+http://176.51.89.115:1234/udp/233.7.70.203:5000,ru
+#EXTINF:-1 audio-track="ru",ТВЦ (+2)
+http://176.51.89.115:1234/udp/239.1.128.42:5000,ru
+#EXTINF:-1 audio-track="ru",ТВЦ (+4)
+http://176.51.89.115:1234/udp/233.7.70.219:5000,ru
+#EXTINF:-1 audio-track="ru",ТНТ (+3)
+http://176.51.89.115:1234/udp/239.1.128.44:5000,ru
+#EXTINF:-1 audio-track="ru",ТРО
+http://176.51.89.115:1234/udp/233.7.70.143:5000,ru
+#EXTINF:-1 audio-track="ru",Усадьба
+http://176.51.89.115:1234/udp/233.7.70.51:5000,ru
+#EXTINF:-1 audio-track="ru",Успех
+http://176.51.89.115:1234/udp/233.7.70.34:5000,ru
+#EXTINF:-1 audio-track="ru",Феникс Плюс Кино
+http://176.51.89.115:1234/udp/233.7.70.86:5000,ru
+#EXTINF:-1 audio-track="ru",Футбол
+http://176.51.89.115:1234/udp/233.7.70.210:5000,ru
+#EXTINF:-1 audio-track="ru",Шансон ТВ
+http://176.51.89.115:1234/udp/233.7.70.107:5000,ru
+#EXTINF:-1 audio-track="ru",Ю (+3)
+http://176.51.89.115:1234/udp/239.1.128.47:5000,ru
+#EXTINF:-1 audio-track="ru",Ю (+7)
+http://176.51.89.115:1234/udp/233.7.70.92:5000,ru
+#EXTINF:-1 audio-track="ru",Юмор TV
+http://176.51.89.115:1234/udp/233.7.70.46:5000,ru

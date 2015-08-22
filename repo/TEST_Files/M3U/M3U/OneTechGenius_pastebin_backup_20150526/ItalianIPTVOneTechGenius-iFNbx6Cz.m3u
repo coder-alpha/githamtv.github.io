@@ -1,0 +1,99 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***ITALYA-ITALIEN-ITALIA***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,Alto Adige TV
+rtmp://77.72.196.214:8554/live/mp4:AltoAdigeTV
+#EXTINF:-1,La 6
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+#EXTINF:-1,La 7
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
+#EXTINF:-1,La Cosa
+http://djhgglzdzw21p.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,Mediaset Canale 5 Italia
+http://5.189.144.85:1935/live/canale5/playlist.m3u8?auth=e05e9a27-cf39-3eb2-5d12-cf55a188babe
+#EXTINF:-1,Mediaset La 1 Italia
+http://5.189.144.85:1935/live/italia1/playlist.m3u8?auth=74912685-3dac-6168-cb49-aff8428b23a7
+#EXTINF:-1,Mediaset La 5 Italia
+http://5.189.144.85:1935/live/la5/playlist.m3u8?auth=6fa53c2f-de43-5ba3-aa45-d31570cec52d
+#EXTINF:-1,Mediaset La 6 Italia
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+#EXTINF:-1,Mediaset La 7 Italia
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Quartarete
+rtmp://wowza1.top-ix.org/quartaretetv/quartareteweb
+#EXTINF:-1,Radio 105 TV
+rtmp://fms.105.net/live/105Test1
+#EXTINF:-1,Radio Italia Tv
+rtmp://cwedge.cdcache.net/cwedge/rilive
+#EXTINF:-1,Radio Montecarlo TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,Rai 1
+http://31.186.24.231:8000/1
+#EXTINF:-1,RAI 1 Italia
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Rai 2
+http://31.186.24.231:8000/2
+#EXTINF:-1,RAI 2 Italia
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Rai 3
+http://31.186.24.231:8000/3
+#EXTINF:-1,RAI 3 Italia
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8#MegaIPTVArgentina
+#EXTINF:-1,RAI 5 Italia
+http://stream12.rai.it/live/smil:rai5.smil/chunklist_b1500000.m3u8#MegaIPTVArgentina
+#EXTINF:-1,RAI Gulp Italia
+http://212.162.68.163/Rai_gulp
+#EXTINF:-1,Rai Gulp TV mmsh
+mmsh://212.162.68.163/Rai_gulp
+#EXTINF:-1,RAI Movie (italiano)
+http://originstream6.rai.it/italy/smil:raimovie.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,Rai News 24
+http://31.186.24.231:8000/4
+#EXTINF:-1,Rai Premium mmsh
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+#EXTINF:-1,Rai Scuola mmsh
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf
+#EXTINF:-1,RAI Storia Italia
+mmsh://212.162.68.163/rai_storia
+#EXTINF:-1,Rai Storia mmsh
+mmsh://212.162.68.163/rai_storia?MSWMExt.asf
+#EXTINF:-1,Rai Yoyo mms
+mmsh://212.162.68.162/rai_yoyo
+#EXTINF:-1,Rock One mms
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,RSI La 1 HD 720 Italia
+http://5.189.144.85:1935/live/rsila1/playlist.m3u8?auth=e572da4f-7f1b-1328-a37a-3e47acd94d6b
+#EXTINF:-1,RSI La 2 HD 720 Italia
+http://5.189.144.85:1935/live/rsila2/playlist.m3u8?auth=e7deeeb5-145f-dfa7-0a86-7e3d807feda0
+#EXTINF:-1,RSI La 2 Italia
+http://81.92.105.135:5555/pl.m3u8?channel=176
+#EXTINF:-1,Sardegna_1
+rtmp://94.32.101.17/sardegna1/live1.stream
+#EXTINF:-1,SkyTG 24
+rtmp://cp49989.live.edgefcs.net/live/streamRM1@2564
+#EXTINF:-1,Suedtirol TV
+rtmp://77.72.196.214:8554/live/mp4:SuedtirolTV
+#EXTINF:-1,TELE 8
+http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8
+#EXTINF:-1,Tele Diogene
+rtmp://wms.shared.streamshow.it:1935/telediogene/telediogene
+#EXTINF:-1,Tele Pavia
+rtmp://fms.shared.streamshow.it:1935/telepavia//telepavia
+#EXTINF:-1,Tele SanRemo Italia
+http://wms.shared.streamshow.it/telesanremo/telesanremo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,TeleArena Italia
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Telemilano
+http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8
+#EXTINF:-1,Trentino TV
+rtmp://77.72.196.214:8554/live/mp4:TrentinoTV
+#EXTINF:-1,TST Molise Italia
+http://live.streamcaster.net:1935/tstv_live/tstv/chunklist_w1576261212.m3u8#MegaIPTVArgentina
+#EXTINF:-1,TV UNO
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1,Video Brescia
+rtmp://wms.shared.streamshow.it/videobrescia/videobrescia
+#EXTINF:-1,Videolina Italia
+rtmp://178.33.229.111/live/Videolina
+#EXTINF:-1,Virgin Radio TV
+rtmp://fms.105.net:1935/live/virgin1

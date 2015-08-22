@@ -1,0 +1,6 @@
+KodiTV
+http://66.51.129.171:8080/demo/index.m3u8?mac=001F16C47382&userId=0&sessionId=3vp63kvoi8ru86j7csb5445m8320150617054616&channelId=1
+
+CTV News
+http://66.51.129.171:8080/demo/index.m3u8
+

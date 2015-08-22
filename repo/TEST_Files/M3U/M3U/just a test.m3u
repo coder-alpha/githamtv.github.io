@@ -1,0 +1,63 @@
+ # EXTM3U
+ #EXTINF: 0, Channel
+ rtp: //@233.33.210.86: 5050
+ #EXTINF: 0, Russia 1
+ rtp: //@233.33.210.92: 5050
+ #EXTINF: 0, Russia 2
+ rtp: //@233.33.210.93: 5050
+ #EXTINF: 0, NTV
+ rtp: //@233.33.210.82: 5050
+ #EXTINF: 0, Channel Five
+ rtp: //@233.33.210.6: 5050
+ #EXTINF: 0, To Russia
+ rtp: //@233.33.210.60: 5050
+ #EXTINF: 0, Russia 24
+ rtp: //@233.33.210.115: 5050
+ #EXTINF: 0, Carousel
+ rtp: //@233.33.210.105: 5050
+ #EXTINF: 0, OTR
+ rtp: //@233.33.221.1: 5050
+ #EXTINF: 0, REN TV
+ rtp: //@233.33.210.91: 5050
+ #EXTINF: 0 Home
+ rtp: //@233.33.220.36: 5050
+ #EXTINF: 0, Monday
+ rtp: //@233.33.220.52: 5050
+ #EXTINF: 0, Disney Shannel
+ rtp: //@233.33.210.7: 5050
+ #EXTINF: 0, Music First
+ rtp: //@233.33.210.72: 5050
+ #EXTINF: 0, Fox Life
+ rtp: //@233.33.210.79: 5050
+ #EXTINF: 0, Muz TV
+ rtp: //@233.33.220.91: 5050
+ #EXTINF: 0, Nano TV
+ rtp: //@233.33.221.65: 5050
+ #EXTINF: 0, TTC
+ rtp: //@233.33.221.72: 5050
+ #EXTINF: 0, STS Love
+ rtp: //@233.33.221.76: 5050
+ #EXTINF: 0, Channel HD
+ rtp: //@233.33.220.207: 5050
+ #EXTINF: 0, Discovery Channel HD
+ rtp: //@233.33.220.121: 5050
+ #EXTINF: 0, Viasat Golf HD
+ rtp: //@233.33.221.33: 5050
+ #EXTINF: 0 Russian Night
+ rtp: //@233.33.210.96: 5050
+ #EXTINF: 0 Russia 1 (DOUBLE)
+ rtp: //@233.33.220.16: 5050
+ #EXTINF: 0, Russia 2 (DOUBLE)
+ rtp: //@233.33.220.28: 5050
+ #EXTINF: 0, To Russia (DOUBLE)
+ rtp: //@233.33.220.12: 5050
+ #EXTINF: 0, NTV (DOUBLE)
+ rtp: //@233.33.220.24: 5050
+ #EXTINF: 0, Channel Five (DOUBLE)
+ rtp: //@233.33.220.64: ​​5050
+ #EXTINF: 0, To Russia (DOUBLE)
+ rtp: //@233.33.220.250: 5050
+ #EXTINF: 0, Russia 2 (DOUBLE)
+ rtp: //@233.33.220.252: 5050
+ #EXTINF: 0, Russia 24 (DOUBLE)
+ rtp: //@233.33.220.254: 5050 

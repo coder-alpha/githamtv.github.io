@@ -1,0 +1,228 @@
+#EXTM3U 
+
+#EXTINF:-1,BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1 tvg-logo="Bloomberg.png" group-title="News”,BLOOMBERG (USA)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:-1 tvg-logo="i24news"group-title="news", i24 News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,PAC National
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Bay Area) 
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Oregon) 
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1,USA:Vevo1 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,USA:Vevo2 HD By Soloman
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,USA:Vevo3 HD By Soloman
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,USA:Kiss Tv Music By Soloman
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,Sports Night HD By Soloman
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1,Bahrain Sport By Soloman
+rtmp://alayam.netromedia.net/btv3/btv3 
+
+#EXTINF:-1,Big Ten Network By Soloman
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,Xtreme Impacts By Soloman
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1,Antena 3 Sports 720 HD By Soloman
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+  
+#EXTINF:-1,Sports Night By Soloman
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+  
+#EXTINF:-1,Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ 
+#EXTINF:-1,Antena 3 Sports
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8 
+
+#EXTINF:-1, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+ 
+#EXTINF:-1, NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1, NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1, NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ 
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“News”,[COLOR yellow] Music [/COLOR]
+ 
+#EXTINF:-1,USA:Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ 
+ #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“News”,[COLOR blue]» »News« «[/COLOR]
+ 
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ 
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+ 
+#EXTINF:1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+ 
+#EXTINF:-1, RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+ 
+#EXTINF:-1,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+ 
+#EXTINF:-1,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+ 
+#EXTINF:-1,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+ 
+#EXTINF:-1,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+ 
+#EXTINF:-1,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+ 
+#EXTINF:-1,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+ 
+#EXTINF:-1,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+ 
+#EXTINF:-1,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+ 
+#EXTINF:-1,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+ 
+#EXTINF:-1,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+ 
+#EXTINF:-1,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+ 
+#EXTINF:-1,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+ 
+#EXTINF:-1,News Westchester(Stream 1)
+
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+ 
+#EXTINF:-1, Fox Sports 1 By Soloman
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+#EXTINF:-1, Fox Sports Spain
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?=1
+ 
+#EXTINF:-1, Fox Sports 2 Spain
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?=1
+
+#EXTINF:-1,Canal Idman By Soloman
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+
+#EXTINF:-1,ABC NEWS By Soloman
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,ALJAZEERA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+#EXTINF:-1, HSN By Soloman
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31
+ 
+#EXTINF:-1, HSN 2 By Soloman
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31
+
+#EXTINF:-1  tvg-logo="UK/London_Live.png", London Live By Soloman
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+
+#EXTINF:-1, CNN USA
+http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421&xs=_we_cmp4bzhoejE3cTl3YWlxfDEzOTY4MjM0MTZ8NDkuOTMuMzcuNjN8NTM0MWM3NjgyZTY3Nnw5YWNmYzRhM2FiNjQwMmFkMmY1OGQ2YjJlOWVkMjllYTQ0MTgxODI2 timeout=10
+
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+
+#EXTINF:0,Fox Sports By Soloman
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+
+#EXTINF:0,Fox Sports 1 By Soloman
+http://198.27.94.105/hls/fox1.m3u8
+
+#EXTINF:0,Fox Sports 2 By Soloman
+http://198.27.94.105/hls/fox2.m3u8
+
+#EXTINF:-1 tvg-id="Xtreme Impacts" tvg-logo="SPORTS/xtreme_impacts.png", Xtreme Impacts
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8?b?b*t$
+
+#EXTINF:0,Heart
+http://37.48.118.32/live/heart.stream/master.m3u8
+
+#EXTINF:0,Magic Music
+http://37.48.118.32/live/magic.stream/playlist.m3u8
+
+#EXTINF:0, Mtunes
+http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
+
+#EXTINF:0,MTV Hits
+http://cdn-02.sdn.si/mtvhits/mtvhits.m3u8
+
+#EXTINF:0,MTV Dance
+http://cdn-02.sdn.si/mtvdance/mtvdance.m3u8
+
+#EXTINF:0,MTV Rocks
+http://cdn-02.sdn.si/mtvrocks/mtvrocks.m3u8
+
+#EXTINF:0,Now Thats What I Call Music Channel
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,VH1 CLASSIC
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:0,PARTY TV MUSIC
+http://149.11.34.6:1935/live/partytv.stream/playlist.m3u8

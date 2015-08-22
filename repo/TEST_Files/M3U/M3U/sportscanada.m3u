@@ -1,0 +1,49 @@
+ #EXTM3U
+
+#EXTINF:-1,[B][COLOR blue]Canadian Sports Channels[/COLOR][/B] - 2015-07-01
+http://icons.iconarchive.com/icons/yingfengling-fl/i-love-sports/256/soccer-icon.png
+
+#EXTINF:-1,[COLOR red]VLC Required for most links to work[/COLOR] hint:google "playercorefactory" for use in Kodi
+http://icons.iconarchive.com/icons/yingfengling-fl/i-love-sports/256/soccer-icon.png
+
+#EXTINF:-1,TSN 1 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/34.ts?12345678
+#EXTINF:-1,TSN 1 HD Alt Link
+http://195.154.227.38:1935/Iive/tsn1lsh/playlist.m3u8
+
+#EXTINF:-1,TSN 2 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/35.ts?12345678
+#EXTINF:-1 ,TSN 2 HD Alt Link
+http://195.154.227.38:1935/Iive/tsn2lsh/playlist.m3u8
+
+#EXTINF:-1,TSN 3 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/135.ts?12345678
+#EXTINF:-1 ,TSN 3 HD Alt Link
+http://195.154.227.38:1935/Iive/tsn3lsh/playlist.m3u8
+
+#EXTINF:-1,TSN 4 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/136.ts?12345678
+#EXTINF:-1 ,TSN 4 HD Alt Link
+http://195.154.227.38:1935/Iive/tsn4lsh/playlist.m3u8
+
+#EXTINF:-1,TSN 5 HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/137.ts?12345678
+#EXTINF:-1,TSN 5 HD Alt Link
+http://195.154.227.38:1935/Iive/tsn5lsh/playlist.m3u8
+
+
+#EXTINF:-1, Sportsnet 360 HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1, Sportsnet One HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/138.ts?12345678
+#EXTINF:-1, Sportsnet Ontario HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/77.ts?12345678
+#EXTINF:-1, Sportsnet World HD
+http://s1.wssiptv.com/live/wssiptvdotcom/KusIoi7Ui7U6y9Tim/76.ts?12345678
+#EXTINF:-1 ,Sportsnet World HD Alt Link
+rtmp://93.158.217.202:80/live playpath=sportsnetw swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=sportsnetw&vw=620&vh=490 token=%Zrey(nKa@#Z
+
+#EXTINF:-1, RDS  (CH+/CH-)
+http://bit.ly/1x74XVX
+#EXTINF:-1, TVA Sports/TVA Sports 2/MAtv
+rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://fr.video.canoe.tv swfVfy=true live=true timeout=60

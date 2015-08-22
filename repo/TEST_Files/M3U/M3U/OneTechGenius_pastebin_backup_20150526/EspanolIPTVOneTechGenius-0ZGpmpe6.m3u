@@ -1,0 +1,297 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]-------------- ESPANOL --------------[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --IPTVXBMC 4-8-2015--[/COLOR]  
+#EXTINF:-1, [COLOR green] --IPTVXBMC.COM EXPERIENCE-[/COLOR]
+http://www.xbmcmxtv.com
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Univision TV HD
+rtmp://167.114.157.90/app/turbomaxs-channel
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Telemundo 47 
+http://iphone-streaming.ustream.tv/u...playlist.m3u8?
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", GOLT
+acestream://3599e74e016d3e406f71644f9a58a809d2bedba5
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Bein HD esp
+http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", MOVISTAR F1
+acestream://4c7b83f20ea64b61c30050c857842d14eec25f54
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Motogpf1
+rtmp://185.39.11.74:1735/vod/?token=play@142860706909542 playpath=motogpf1_9c7ko9u swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=http://www.dinostream.pw/embed.php?c=103892&width=650&height=400&autostart=true&tk1=3p4XqvdNlNSSInpMTdq5pmZnbwsn3/5dZHBZzvg8O50Y9LBqENAPBsi1kVqUyUSmSQINZXc%2BlO8ZsqnTOG/xMQ==&tk2=NHbqH6q%2BJ/WGP7RClogzC8J4VzNLOw5Ul1Js00dYC6s=&tk3=5nkN5V7WBYUTRWQaDdbOr1hoKMs6u%2BxNQrtWQZvNMs8= live=true
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Canal +
+rtmp://185.39.11.82:1735/vod/?token=play@142860651105142 playpath=plushd_9dj1fll swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=http://www.dinostream.pw/embed.php?c=103937&width=650&height=400&autostart=true&tk1=4H3QiB1BGXVtSbPGe6kEX1fqjTIXxGFDRcvoyTZ8IY5lfestjH5EacDMZtlQshy8IIkS7A5BimbhWfr/KVVUYw==&tk2=rnvdZji7vdq8rkJnXmmDKQjpL7T4KJ8VSc%2BaCcDpqYU=&tk3=v1swPQ9QUxNYgqa5GPx14HHieHJy/5RCfA39K8CWKzA= live=true
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal+ Liga
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10:
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", canal + liga 
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Bein Sport SD
+rtmp://$OPT:rtmp-raw=rtmp://173.192.200.79/live playpath=199174?313432383336313538355f3365366637356163393664653634613462636664623939633733663165623164 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=24090&wh=605&ht=400&r=www.tarjetarojaonline.es
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal 
+rtmp://95.211.210.164/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=720&height=412&channel=29541&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Deportes 
+http://cctv2-lh.akamaihd.net/i/MRC1HD3_live@125189/master.m3u8
+ 
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Gol tv
+rtmp://$OPT:rtmp-raw=rtmp://188.165.213.105/live?token=KD5E8dLKw_nhkZn3uowMMgExpired=1422495994 playpath=gol swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=670&h=400
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Gol Tv 
+rtmp://188.165.215.99/live?token=Aj52LrpwI2-zAWhzi1_M2wExpired=1425673487 playpath=gol swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=650&h=400
+ 
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Arena Sport 1
+http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Arena Sport 2
+http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Arena Sport 3
+http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Arena Sport 4
+http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Arena Sport 5
+http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", SPORT TIME
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+ 
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", SPORT TIME 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+ 
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal+Liga 
+rtmp://$OPT:rtmp-raw=rtmp://185.39.11.66:1735/vod/?token=play@142536258008859 playpath=ttt_91481i5 swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinostream.pw/embed.php?c=103330&width=650&height=400&autostart=true&tk1=vjqTZ8gkI4EWAoXQlvUKmBbZi29viAooV9bFWfbXEBWRcoFEDQIv%2Bl%2B%2Fs6G%2FNMJswqTV5vtqJlvc0826ZZYGew%3D%3D&tk2=aCsMK66HL5rwGKPPUevcPEPoigrl5VL%2FMthYUJEuins%3D&tk3=fKNoQNYSLa7YNX71Gp5qskGiTeiS0FRWJqCINdqAv2A%3D
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", beIN Sports HD
+http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", beIN Sports HD 
+http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Bein Sport Español 
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170:1935/direct2watch/_definst_/?xs=_we_NmwyOTJtMnZyNGh2Zm8wfDE0MjQxOTA4OTl8ODcuMjIyLjIyOS4xMDZ8NTRlMzVmYTM4NTM4MnxiNWU4NmIzZmUyNTA2YTFiMzg5ZjY1ZTc0YWY0M2VhMWQ2ZWY2Y2Fj playpath=6l292m2vr4hvfo0 swfUrl=http://www.direct2watch.com/player/player_embed_iguide.swf live=1 pageUrl=http://www.direct2watch.com/embedplayer.php?width=653&height=410&channel=13&autoplay=true
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", ESPN DEPORTES
+http://edge.hls.dt.hitbox.tv/hls/zonasports3/index.m3u8
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", ESPN
+ http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", ESPN2,
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", ESPN 3 
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+ 
+
+
+#EXTINF:-1 “Deportes”,TyC Sports HD
+http://d1yjsz5fddyesn.cloudfront.net/livecf/tyc/master.m3u8
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal+Futbol
+rtmp://$OPT:rtmp-raw=rtmp://66.85.133.160/live?token=w6i4mwqvoLSq6dT_9xcttgExpired=1428370138 playpath=plus_futbol swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://1broadcastlive.com/embed/embed.php?channel=plus_futbol&w=650&h=400
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal+Deportes
+rtmp://$OPT:rtmp-raw=rtmp://66.85.133.160/live?token=6m-nFHz9WesAnBjXDUZBdwExpired=1428370295 playpath=plus_deportes swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://1broadcastlive.com/embed/embed.php?channel=plus_deportes&w=650&h=400
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal+Deportes 2
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10:
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal+Liga De Campeones
+rtmp://$OPT:rtmp-raw=rtmp://188.165.208.114/live?token=b6HsMSSOG4MBsD4_fNXbkQExpired=1424745129 playpath=campeones swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=campeones&w=670&h=400
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Barça tv
+rtmp://$OPT:rtmp-raw=rtmp://188.165.213.105/live?token=44Q3BARZehxXHYvWkloRkQExpired=1422243998 playpath=barsa swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=barsa&w=670&h=400
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Real Madrid Tv
+rtmp://$OPT:rtmp-raw=rtmp://94.23.218.194/live?token=8HWVbwf4JTeMQhpS1koU1AExpired=1423593533 playpath=realm swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=realm&w=650&h=400
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Teledeporte
+rtmp://$OPT:rtmp-raw=rtmp://cp347310.live.edgefcs.net:1935/live?ovpfv=2.1.2 playpath=TVE_TDP@123905?aksessionid=1423966511084_642661 swfUrl=http://swf.rtve.es/swf/4.3.8/RTVEPlayerVideo.swf live=1 pageUrl=http://www.rtve.es/directo/teledeporte/
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Eurosport
+rtmp://188.165.213.105/live?token=3qFCpxNP4Bqxpj0khHg2CAExpired=1419546642 playpath=eurosport swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=eurosport&w=670&h=400 conn=S:OK --live
+ 
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", beIN Sports
+http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", beIN Sports
+http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BEIN  (ESP)
+rtmp://cdn.cast-tv.us/iptv/beinsports1.stream
+
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", NTV Plus premier ligue
+http://iptv.sat-x.tv/iptv/a34321a744a74c408c5186b476d0013459c54634/530/index.m3u8
+ 
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Bt sports 2
+rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FOX Sports Mexico
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FOX Sports 2 esp
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Setanta Sports
+http://202.75.23.36/live/ch44/01.m3u8?Vd?u#bt!25
+ 
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BEIN SPORTS 1
+http://2co1.vp9.tv/chn/bin01/v.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BEIN SPORTS 2
+http://2co1.vp9.tv/chn/bin02/v.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BEIN SPORTS 4
+http://2co1.vp9.tv/chn/bin04/v.m3u8
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Wwe network
+rtmpe://l.xuscacamusca.se:Abouda/r/ playpath=wwenetwork412 swfUrl=http://mybeststream.xyz/NzAyZDMxNjk1MWFjN2QyNWQ1NWNkODEx/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/Abouda/gen_h.php?id=27470&width=100%25&height=100%
+
+
+
+
+#EXTINF:0,TYC SPORTS1
+http://38.95.112.2/tyc-edge/live/master.m3u8
+#EXTINF:0,TYC SPORTS2
+rtmp://38.95.112.2/tyc-edge/live/
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  BEIN N spanish
+rtmp://65.111.174.111/iptv/beinsports1.stream
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  BEIN N spanish
+http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Canal +
+rtmp://apenas69.112stream.com:69/fail/_definst_/117483348303125
+  
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FUTBOL
+http://macedoniathebest.mine.nu:8000/live/MACEDONIA/THEBEST/37.m3u8
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Real Madrid
+rtmp://85.91.143.9:1935/cs_real_madrid
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Barca TV
+rtmp://85.91.143.9:1935/cs_barcatv
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN esp
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN 2 esp
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Fox Sports 1 esp
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  FOX SPORTS 2 esp
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal Multi
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&amp;rebase=on
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal + 1
+rtmp://$OPT:rtmp-raw=rtmp://188.165.208.114/live?token=UVYSB-M9g5iA_XjkuP7paAExpired=1425397984 playpath=plus1 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Telemicro 5 rep dom
+rtmp://vivo.canalesdominicanosenvivo.com:1935/canal/ playpath=telemicro0505.stream swfUrl=http://canalesdominicanosenvivo.com/asset/play/jwplayer.flash.swf pageUrl=http://canalesdominicanosenvivo.com/asset/play/rep2.php?canal=222 live=true
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Telesistema rep dom
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w187860908_b2000000.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Digital 15 rep dom
+rtmp://vivo.canalesdominicanosenvivo.com:1935/canal/ playpath=telemicro1515.stream swfUrl=http://canalesdominicanosenvivo.com/asset/play/jwplayer.flash.swf pageUrl=http://canalesdominicanosenvivo.com/asset/play/rep2.php?canal=223 live=true
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Antena Latina rep dom
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  CDN Sport Max 
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Color Vision 
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Romana TV 42
+rtmp://tv.romanatv42.com:1935/rtplive/ playpath=romanatv.sdp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://canalesdominicanosenvivo.com/asset/play/rpe.php?id=85 live=true
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  CNNEspanol
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CNNEspanol800.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Discovery
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN3HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPNHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  FOXSPHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/FOXSPHD4500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  GALAHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD4500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  HistoryHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD4500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  NICKHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD4500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  TDNHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TDNHD1200.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  THITHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD4500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  TVC
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVC2500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  TVCDeportes
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  UNIHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNIHD4500.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  WarnerHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD4000.m3u8
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Canal +
+rtmp://185.39.11.82:1735/vod/?token=play@142860651105142 playpath=plushd_9dj1fll swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=http://www.dinostream.pw/embed.php?c=103937&width=650&height=400&autostart=true&tk1=4H3QiB1BGXVtSbPGe6kEX1fqjTIXxGFDRcvoyTZ8IY5lfestjH5EacDMZtlQshy8IIkS7A5BimbhWfr/KVVUYw==&tk2=rnvdZji7vdq8rkJnXmmDKQjpL7T4KJ8VSc%2BaCcDpqYU=&tk3=v1swPQ9QUxNYgqa5GPx14HHieHJy/5RCfA39K8CWKzA=

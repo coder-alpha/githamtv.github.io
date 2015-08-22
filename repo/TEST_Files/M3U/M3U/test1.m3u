@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR orange] UK[/COLOR]  [COLOR white]test[/COLOR]
+http://prozone.getxbmc.com/Patch/listaUK.m3u
+
+#EXTINF:-1,[COLOR orange] USA[/COLOR] test [COLOR white][/COLOR]
+http://prozone.getxbmc.com/Tutorials/usa.m3u8

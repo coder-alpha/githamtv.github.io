@@ -1,0 +1,993 @@
+﻿#EXTM3U
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Comments",[COLOR yellow]Updated 18/9/14 @ 1200[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",BBC 1
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",[COLOR green] --Uk Live Tv--[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",BBC 1
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",BBC 2
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",ITV
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Sky Premiere
+rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Sky Action
+rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Sky Comedy
+rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Sky Thriller
+rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Sky SciFiHorror
+rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Sky News
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff&bitrate=1500
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",DMAX ( asia )
+http://202.75.23.34/live/ch32/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Biography HD
+http://202.75.23.36/live/ch46/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Biography HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Comedy Central
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",CBS REALITY
+http://83.139.104.101/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",FX-HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",Universal
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",SYFY HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="UK Live TV",TLC ( English but not uk )
+http://83.139.104.101/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",NFL Network
+rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=1 timeout=13 pageUrl=http://www.04stream.com/ AnisotropicTV
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Setanta Sports
+http://202.75.23.36/live/ch44/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",ESPN USA
+rtmp://31.220.0.134:1935/live playpath=espnusax swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=espnusax&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports
+http://mobi3.ibrod.tv:1935/ibusa/bein.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",HD NFL Network 720p
+rtmpe://94.102.49.188/live playpath=nflusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Random Sports Channel
+rtmpe://46.246.124.28:1935/live/SporthdNew4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sportsnet East HD
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sportsnet Pacific HD
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sportsnet West HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sportsnet Extra 1 HD
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",[COLOR green]-- ALL SPORTS --[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",TSN 1
+rtmp://31.220.0.195:1935/live playpath=tsn1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=tsn1x&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",TSN 2
+rtmp://31.220.0.195:1935/live playpath=tsn2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=tsn2x&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORTSNET WORLD
+rtmp://31.220.0.134:1935/live playpath=sportnetworld swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sportnetworld&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORTSNET ONE
+rtmp://31.220.0.82:1935/live/spone live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORTSNET ONTARIO
+rtmp://31.220.0.82:1935/live/spon live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports 1
+rtmpe://46.246.124.26:1935/live/ playpath=sskys1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports 2
+rtmpe://46.246.124.26:1935/live/ playpath=sskys2  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports 3
+rtmpe://46.246.124.26:1935/live/ playpath=sskys3  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports 4
+rtmpe://46.246.124.26:1935/live/ playpath=sskys4  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports 5
+rtmpe://46.246.124.26:1935/live/ playpath=sskys5  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports F1
+rtmpe://46.246.124.26:1935/live/ playpath=sskysf1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Sports F1
+rtmp://31.220.0.133:1935/live playpath=skksnf1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skksnf1&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Premier Sports
+rtmp://31.220.0.86:1935/live playpath=kingpremier swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingpremier&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",BT Sport 1
+rtmp://31.220.0.195:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk1&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",BT Sport 2
+rtmp://31.220.0.195:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk2&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",ESPN UK
+rtmp://50.97.142.184:443/liverepeater playpath=164704 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",ESPN USA
+rtmp://50.97.142.184:443/liverepeater playpath=164440 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",ESPN 2 USA
+rtmp://31.220.0.103:1935/live playpath=espn2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sky Spts News
+rtmp://31.220.0.134:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",BoxNation
+rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",C More ( Norw )
+http://85.248.234.41:8410/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",BEIN1 FR
+http://beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",BEIN2 FR
+http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 1
+rtmp://213.136.71.43/live/beinsports1?Sport.HD
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 2
+rtmp://31.220.0.194:1935/live playpath=bn2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 3
+rtmp://213.136.71.43/live/beinsports3?Sport.HD
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 4
+rtmp://213.136.71.43/live/beinsports4?Sport.HD
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 5
+rtmp://31.220.0.194:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 6
+rtmp://31.220.0.194:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 7
+rtmp://31.220.0.194:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 8
+rtmp://31.220.0.194:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 9
+rtmp://31.220.0.194:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 10
+rtmp://31.220.0.194:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn10&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 11
+rtmp://31.220.0.194:1935/live playpath=bn11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 12
+rtmp://31.220.0.194:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 13
+rtmp://31.220.0.194:1935/live playpath=bn13 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 13
+rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 14
+rtmp://31.220.0.194:1935/live playpath=bn14 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Bein Sports 15
+rtmp://31.220.0.194:1935/live playpath=bn15 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",FOX SPORT 1 USA
+rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",FOX SPORT 2 USA
+rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORT:FOX SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://173.192.209.69/live playpath=comunicado76?id=64467 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/comunicado76/1/620/382 Conn=S:OK
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORT:CMD
+rtmp://$OPT:rtmp-raw=rtmp://199.167.138.188/live/?u=ch03ch03 playpath=ch03ch03 swfUrl=http://stream4u.eu/player/player.swf live=1 pageUrl=http://www.stream4u.eu/embed.php?v=ch03ch03&vw=489&vh=370&domain=www.mill-tv.com
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORT:AM SPORTS
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORT:DEPORTV
+rtmp://$OPT:rtmp-raw=rtmp://fl04.iviplanet.com/DeporTV/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportplayer.php
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORT:ESPN DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://173.193.223.149/live playpath=nena80564?id=197039 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/nena80564/1/600/400 Conn=S:OK
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SPORT:UNIVISION DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://199.195.194.28/live playpath=tukys69856?id=197041 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/tukys69856/1/600/400 Conn=S:OK
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",MUTV
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chmymutv/2009/08/13/a5fba842-8f2f-4a15-b095-9dfd8ff29b45 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&allowchat=false&showMoreVideos=false&lschannel=true&borderColor=0xCCCCCC&time=&allowChat=true&browseMode=false&showBorderControlBar=false&textLines=2&autoPlay=true&hideChannelBranding=true&iconColor=0x555555&hideInfo=true&t=428531&mode=false pageUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=428531
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",At The Races
+rtmp://31.220.0.194:1935/live playpath=kingratr swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Racing UK
+rtmp://31.220.0.196:1935/live playpath=kingracing swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingracing&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",FIGHT SPORTS
+http://202.75.23.37/live/ch20/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",SKY SPORT 1 NEW
+rtmpe://46.246.124.26:1935/live/ playpath=sskys1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Fight Sports
+http://202.75.23.37:1400/live/ch20/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Big Ten Network HD  New
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Setanta Sport ( track 2 eng )
+http://80.77.52.6:4022/udp/230.0.4.1:12345$OPT: Audio-track=2
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",ViaSat Sports
+http://80.77.52.6:4022/udp/230.0.3.58:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Kanal Sports
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Antena 3 Sports 720 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="All Sports",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",[COLOR green] -- USA Live Tv IS BACK [/COLOR][COLOR yellow] HQ -- [/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",Animal Planet HQ
+rtmpe://46.246.124.88/live playpath=animalusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",AMC HQ
+rtmpe://46.246.124.88/live playpath=amcusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",ABC HQ
+rtmpe://46.246.124.88/live playpath=abcusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",BRAVO MQ
+rtmpe://46.246.124.88/live playpath=bravousa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",CBS HQ
+rtmpe://46.246.124.88/live playpath=cbsusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",Discovery Channel HQ
+rtmpe://46.246.124.88/live playpath=discoveryusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",ESPN 2 USA HQ
+rtmpe://46.246.124.88/live playpath=espnnn2 swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",FOX HQ
+rtmpe://46.246.124.88/live playpath=foxusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",HBO HQ
+rtmpe://46.246.124.88/live playpath=foxusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",MTV US HQ
+rtmpe://46.246.124.88/live playpath=hbousa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",NFL NETWORK HD
+rtmpe://46.246.124.88/live playpath=nflusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",Nickelodeon US MQ
+rtmpe://46.246.124.88/live playpath=nickusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",Syfy US HQ
+rtmpe://46.246.124.88/live playpath=syfyusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",Spike Tv HQ
+rtmpe://46.246.124.88/live playpath=spikeusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",USA TV MQ
+rtmpe://46.246.124.88/live playpath=usausa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV HQ",[COLOR green] -- CANADA Sports TV -- [/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",[COLOR green] --USA Live Tv--[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",A&E
+http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",ABC  Family
+http://mobi3.ibrod.tv:1935/ibusa/abcfam.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",ASN
+http://202.75.23.33/live/ch26/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Biography HD
+http://202.75.23.36/live/ch46/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Bloomberg
+http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Bravo
+http://mobi3.ibrod.tv:1935/ibusa/bravo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",CI HD
+http://202.75.23.36/live/ch47/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",CW
+http://mobi3.ibrod.tv:1935/ibusa/cw.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Discovery Channel
+http://202.75.23.34/live/ch29/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Discovery World
+http://202.75.23.34/live/ch30/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Discovery Kids
+http://202.75.23.35/live/ch36/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Discovery Science
+http://202.75.23.34/live/ch33/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",DMAX
+http://202.75.23.34/live/ch32/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Disney Channel
+http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Euro News
+http://livestation_hls-lh.akamaihd.net/i/euronews_en@107240/master.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Eurosports
+http://202.75.23.37/live/ch21/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",HBO
+http://mobi3.ibrod.tv:1935/ibusa/hbo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Home And Health
+http://202.75.23.34/live/ch34/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Lifetime
+http://202.75.23.36/live/ch48/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",MediaCorp
+http://202.75.23.37/live/ch15/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",MGM
+http://202.75.23.35/live/ch40/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",NatGeo Wild
+http://202.75.23.35/live/ch39/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Nickelodeon
+http://202.75.23.36/live/ch43/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Showtime
+http://mobi3.ibrod.tv:1935/ibusa/showtime.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Syfy
+http://mobi3.ibrod.tv:1935/ibusa/syfy.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",TLC
+http://202.75.23.34/live/ch35/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",TNT
+http://mobi3.ibrod.tv:1935/ibusa/tnt.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Bravo
+http://mobi3.ibrod.tv:1935/ibusa/bravo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",TNT
+http://mobi3.ibrod.tv:1935/ibusa/tnt.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",NAT GEO 720 HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",SYFY
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",FX
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",CI HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Comedy Central
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Biography HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Outdoor
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Youtoo Social TV
+rtmp://204.107.26.252:8086/live/773.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="USA Live TV",Wealth TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",24/7 Movies HD
+rtmp://62.210.76.216/live2 playpath=movie swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/movies-hd
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",[COLOR green] -- MOVIES -- [/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",HBO
+rtmp://81.17.20.46/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",PINK HD
+http://149.255.39.122/aasd/8801/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",PINK BH HD
+http://149.255.39.122/aasd/8803/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",PINK ACTION HD
+http://149.255.39.122/aasd/8804/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",Paramount Channel
+http://80.77.52.6:4022/udp/230.0.3.20:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",TV1000
+http://80.77.52.6:4022/udp/230.0.3.54:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",TV1000 Action
+http://80.77.52.6:4022/udp/230.0.3.52:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="MOVIES",MGM
+http://93.184.81.71:8097/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",RT News HQ ( English )
+http://85.248.234.44:8423
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",BBC World News HQ ( Eng )
+http://85.248.234.48:8543
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",[COLOR green]-- NEWS --[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",Sky Sports NEWS
+rtmp://80.82.64.90:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=41&width=640&height=460 token=#atd%#$ZH
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",HTSN RTV6
+rtmp://cp162895.live.edgefcs.net:1935/live playpath=STS-162895-WRTVFLV_7@509 swfUrl=http://stage.v9.anv.bz.s3.amazonaws.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v3.2/osmf2.0/AkamaiAdvancedStreamingPlugin.swf  live=1 pageUrl=http://media.theindychannel.com/livestreampage
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",Bloomberg
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",Euronews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",i24 News (English)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",Russia Today (480)
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="News",Russia Today (720)
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Discovery Ch HQ ( english )
+http://85.248.234.53:8428
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Animal Plan HQ ( english )
+http://85.248.234.45:8430
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",[COLOR green]-- DOCUMENTARIES --[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",ANIMAL PLANET HQ
+http://83.139.104.101/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",VIASAT HISTORY HQ
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",VIASAT EXPLORER HQ
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",TRAVEL CHANNEL HQ
+http://83.139.104.101/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Animal Planet
+http://80.77.52.6:4022/udp/230.0.3.18:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Biography HD
+http://202.75.23.36:1400/live/ch46/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Discovery
+http://80.77.52.6:4022/udp/230.0.3.17:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Discovery
+http://202.75.23.34/live/ch29/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Discovery Science
+http://202.75.23.34/live/ch33/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",History
+http://202.75.23.36/live/ch45/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",National Geographic
+http://202.75.23.35/live/ch38/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Nat Geo People
+http://202.75.23.34/live/ch31/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Nat Geo Wild
+http://202.75.23.35/live/ch39/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Viasat History
+http://80.77.52.6:4022/udp/230.0.3.56:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Viasat Nature
+http://80.77.52.6:4022/udp/230.0.3.53:12345
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Documentries",Travel Channel
+http://77.90.73.1:4022/udp/233.136.41.44:1234
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",[COLOR green]-- KIDS -- [/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Cartoon Network
+http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Cartoonito
+http://202.75.23.36/live/ch49/01.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Boomerang
+http://95.211.209.167:31103
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Baby First
+http://202.75.23.33/live/ch27/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",English Club TV
+http://85.187.154.9:2001/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Discovery Kids
+http://202.75.23.35/live/ch36/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Cartoon Network
+http://80.77.52.6:4022/udp/230.0.3.15:12345$OPT: Audio-track=2
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Cartoonito
+http://202.75.23.36/live/ch49/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Cartoonito HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Jim Jam
+http://202.75.23.37/live/ch17/03.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",TRT 1 HD
+http://176.43.0.129/PLTV/88888888/224/3221226857/04.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",Universal Channel (2 Audio's)
+http://91.240.87.34:4000/udp/224.200.202.80:1234
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Kids",TG4 Ireland
+http://tg4-lh.akamaihd.net/EirBeo1_1200_tg4@118693?videoId=2538842141001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&affiliateId;=&bandwidthEstimationTest=true&v=3.3.0&fp=WIN 13,0,0,182&r=MWDOQ&g=TPANMNTKXCBN
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",KISS USA
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",4MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",MTV Live
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",B4U MUSIC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=81ff107849124ff389814b0b8816b1ba
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Music HQ ( eng )
+http://85.248.234.40:8569
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",[COLOR green] -- All Music --  [/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",HEART TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Best Music Tv HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",eska Rock Tv HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Capital tv
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Musiq 1 tv
+http://212.79.96.134:8005/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",MTV US
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",NTWICM
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Radio 105 Tv
+rtmp://fms.105.net/live/105Test1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Music",Partytv Eska HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC 1
+rtmp://176.58.79.15:1936/live/mbc1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC 2
+rtmp://176.58.79.15:1936/live/mbc2
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC 3
+rtmp://176.58.79.15:1936/live/mbc3
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC 4
+rtmp://176.58.79.15:1936/live/mbc4
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC ACTION
+rtmp://176.58.79.15:1936/live/MBCAction
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC Sports Pro 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC Sports Pro 2
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",MBC Sports Pro 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Arabic",[COLOR green] Random Arabic channels[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Arrested Development
+rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 American Dad HD
+http://62.210.76.216:8080/hls/american.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 BreAkinG BaD HD
+http://62.210.76.216:8080/hls/bb.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Futurama
+rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Futurama HD
+http://62.210.76.216:8080/hls/futurama.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Family Guy HD
+http://62.210.76.216:8080/hls/familyguy.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Game of Thrones HD
+http://62.210.76.216:8080/hls/got.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Home Improvement
+rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 King Of The Hill
+http://62.210.76.216:8080/hls/kinghill.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 New Girl
+rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?ng live=true
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Seinfeld
+rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Sons of Anarchy HD
+http://62.210.76.216:8080/hls/soa.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 South Park HD
+http://62.210.76.216:8080/hls/southpark.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Third Rock From The Sun
+rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Drew Carey Show
+rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?drewcarey live=true
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 That 70s Show
+rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow live=true
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Big Bang Theory HD
+http://62.210.76.216:8080/hls/bigbang.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Simpsons
+rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Simpsons HD
+http://62.210.76.216:8080/hls/simpsons.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Sopranos
+rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=true
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Walking Dead
+rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 The Walking Dead HD
+http://62.210.76.216:8080/hls/walkingdead.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 House Of Cards HD
+rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/house-of-cards
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Friends
+rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?friends02&widthid=600&heightid=480
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",24/7 Two & a Half Men
+rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?men02&widthid=600&heightid=450
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="24/7 Streams",[COLOR green]-- SERIES 24/7 --  [/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",[COLOR yellow]---Polska TV---[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",4 FUNN
+rtmp://edge4.popler.tv:1935/publishlive?play=123452 playpath=4funtv swfUrl=http://www.popler.tv/player/flowplayer.commercial.swf?config=http://www.popler.tv/l.php,v4funtv,http://freetv.cba.pl/chn.php?id=305&embed live=1 pageUrl=http://freetv.cba.pl/chn.php?id=305&embed
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",4Fun TV
+http://185.6.104.114:9983/udp/239.210.10.13:1234?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",AXN
+http://staticline52974.toya.net.pl/axn/axn.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",CBS ACTION
+http://staticline52974.toya.net.pl/cbsaction/cbsaction.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",CBS DRAMA
+http://staticline52974.toya.net.pl/cbsdrama/cbsdrama.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",Eska Best.Music Tv
+rtmp://stream.smcloud.net/live2/best/best_360p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",Eska Party .net
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",Eska Polo Tv .net
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",Eska Rock .net
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",esKa TV
+rtmp://stream.smcloud.net/live2/eskatv/ playpath=eskatv_360p swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://freetv.cba.pl/include/jw.php?hash=%3DAHM2MzX2RXYrNXZvYHdht2cl9iMlZXas9Cdl5mLkV3bsNWbz5SbhVmc0N3LvoDctRnc
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",Eska Vox Tv
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",Eska Wawa Tv .net
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Polish",eskatv
+rtmp://stream.smcloud.net/live2/eskatv/ playpath=eskatv_480p swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://meczhd.tv/eskatv
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",[COLOR green]---Some Filmon Channels---[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",1 on 1 Boxing TV
+rtmp://204.107.26.145:8086/live/1988.low.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",American Horrors
+rtmp://204.107.26.252:8086/live/393.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Clubbing TV
+rtmp://204.107.26.252:8086/live/691.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Ebru TV
+rtmp://204.107.26.252:8086/live/914.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",eScapes HD TV
+rtmp://204.107.26.252:8086/live/341.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Free Speech TV
+rtmp://204.107.26.252:8086/live/697.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Ginx
+rtmp://204.107.26.252:8086/live/796.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Havoc Television
+rtmp://204.107.26.252:8086/live/335.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",iFlix TV
+rtmp://204.107.26.252:8086/live/1991.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Press TV
+rtmp://204.107.26.252:8086/live/905.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Psychic Today
+rtmp://204.107.26.252:8086/live/1711.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",QVC HD
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Threshold
+rtmp://204.107.26.230:8086/live/514.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Time TV
+rtmp://204.107.26.252:8086/live/414.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Trans 7
+rtmp://204.107.26.252:8086/live/813.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Trans TV
+rtmp://204.107.26.252:8086/live/812.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",TVC Latino
+rtmp://204.107.26.252:8086/live/213.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",Wealth TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Filmon",YouToo
+rtmp://204.107.26.252:8086/live/773.high.stream
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",[COLOR green]---Czech TV Channels---[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",1 CLASSIC
+http://gojo.jksw.cz:8024?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Active
+http://89.185.250.156/tv.php?tv=active
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Barandov
+http://212.79.96.134:8022/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",barrandov
+http://gojo.jksw.cz:8022?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Barrandov
+http://89.185.250.156/tv.php?tv=barrandov
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",CLASSIC
+http://gogo.jksw.cz:8024/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Country No.1
+http://89.185.250.156/tv.php?tv=country-no-1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",CT 1
+http://89.185.250.156/tv.php?tv=ct1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",CT 2
+http://89.185.250.156/tv.php?tv=ct2
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",CT 24
+http://89.185.250.156/tv.php?tv=ct24
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",CT 4 Sport
+http://89.185.250.156/tv.php?tv=ct4
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Dajto
+http://89.185.250.156/tv.php?tv=dajto
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Doma
+http://89.185.250.156/tv.php?tv=doma
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Dvojka
+http://89.185.250.156/tv.php?tv=dvojka
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Fanda
+http://89.185.250.156/tv.php?tv=fanda
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Go TV
+http://212.79.96.134:8026
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",gotv
+http://gojo.jksw.cz:8026?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Hronka
+http://213.81.153.221:8080/hronka
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Jednotka
+http://89.185.250.156/tv.php?tv=jednotka
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Joj
+http://89.185.250.156/tv.php?tv=joj
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Joj Plus
+http://89.185.250.156/tv.php?tv=joj-plus
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Karpaty
+http://213.81.153.221:8080/karpaty
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Kezmarok
+http://213.81.153.221:8080/kezmarok
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",LOVE CZ
+http://gojo.jksw.cz:8019?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Lux
+http://89.185.250.156/tv.php?tv=lux
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",markiza-1
+http://89.185.250.156/tv.php?tv=markiza
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",MCBox
+http://213.81.153.221:8080/nasa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Metropol
+http://212.79.96.134:8018/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Musiq 1
+http://212.79.96.134:8005/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",musiq 1 tv
+http://gojo.jksw.cz:8005?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Musiq1
+http://89.185.250.156/tv.php?tv=musiq1
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",NOE
+http://212.79.96.134:8017/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Nova
+http://89.185.250.156/tv.php?tv=nova
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Nova
+http://212.79.96.134:8003/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Nova Cinema
+http://89.185.250.156/tv.php?tv=nova-cinema
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",NOVA CINEMA
+http://iptv.klfree.cz:8020
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",NOVA CINEMA
+http://81.201.52.159:8020
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",nova cinema
+http://gojo.jksw.cz:8020?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Nova Fanda
+http://212.79.96.134:8025/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Nova Sport
+http://89.185.250.156/tv.php?tv=nova-sport
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Nova Sport
+http://212.79.96.134:8023/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",O 1
+http://gojo.jksw.cz:8001?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",O 2
+http://gojo.jksw.cz:8002?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",O 24
+http://gojo.jksw.cz:8015?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",O OCKO FLIRT
+http://gojo.jksw.cz:8016?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",O OCKO HITY
+http://81.201.52.159:8016
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",PRIMA
+http://81.201.52.159:8004
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima
+http://212.79.96.134:8004/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima
+http://gojo.jksw.cz:8004?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima Cool
+http://89.185.250.156/tv.php?tv=prima-cool
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",PRIMA COOL
+http://gojo.jksw.cz:8021?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima Cool
+http://212.79.96.134:8021/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima Family
+http://89.185.250.156/tv.php?tv=prima-family
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima Love
+http://89.185.250.156/tv.php?tv=prima-love
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima Love
+http://212.79.96.134:8019/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima Zoom
+http://89.185.250.156/tv.php?tv=prima-zoom
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prima ZOOM
+http://212.79.96.134:8011/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",PRIMA ZOOM
+http://gojo.jksw.cz:8011?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Prime Love
+http://212.79.96.134:8019
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Region
+http://213.81.153.221:8080/region
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",RELAX
+http://gojo.jksw.cz:8008?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",RETRO
+http://gojo.jksw.cz:8018?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Retro Music Television
+http://89.185.250.156/tv.php?tv=retro-music-television
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",RTV KREA
+http://213.81.153.221:8080/galanta
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Ruzinov
+http://213.81.153.221:8080/ruzinov
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",S
+http://gojo.jksw.cz:8010?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Slag TV
+http://212.79.96.134:8013/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Slagr
+http://gojo.jksw.cz:8013?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Šlágr
+http://89.185.250.156/tv.php?tv=slagr
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Smíchov
+http://89.185.250.156/tv.php?tv=smichov
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Sport 5
+http://89.185.250.156/tv.php?tv=sport5
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",sport 5
+http://gojo.jksw.cz:8023?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Sport 5
+http://212.79.96.134:8023
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",TA3
+http://89.185.250.156/tv.php?tv=ta3
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Telka
+http://gojo.jksw.cz:8027?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Telka
+http://89.185.250.156/tv.php?tv=telka
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Trnava
+http://213.81.153.221:8080/trnava
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",TV8
+http://89.185.250.156/tv.php?tv=tv8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",VH1 Classic
+http://81.201.52.159:8024/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",WAU
+http://89.185.250.156/tv.php?tv=wau
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",WS Int
+http://gojo.jksw.cz:8003?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",xxx +18
+http://gojo.jksw.cz:8025?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",Zive
+http://212.79.96.134:8025
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",ZO OM
+http://81.201.52.159:8011
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Czech Channels",NOE
+http://gojo.jksw.cz:8017?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Radio",SKY SPORTS:SKYNEWS RADIO
+rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com/radio
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Radio",181.fm Radio
+http://relay2.181.fm:8128/;?type=.flv
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Radio",Hatchet radio
+http://198.154.106.101:8266/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",[COLOR green]---Random HQ Channels---[/COLOR]
+http://www.youtube.com/user/vdubt25
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",+3 HQ ( english )
+http://85.248.234.41:8417
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",1 HQ ( German )
+http://85.248.234.51:8559
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",2 HQ ( danish )
+http://85.248.234.42:8523
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",2DF HQ ( German )
+http://85.248.234.40:8559
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",3 HQ ( danish )
+http://85.248.234.42:8515
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",3 HQ ( english )
+http://85.248.234.40:8517
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",3 HQ ( sweedish )
+http://85.248.234.38:8516
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",3 puls HQ ( english )
+http://85.248.234.42:8519
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",3 SAT HQ ( German )
+http://85.248.234.38:8556
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",4 HQ ( Eng/dan )
+http://85.248.234.36:8534
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",5 HQ ( Eng/dan )
+http://85.248.234.42:8530
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",6 HQ ( eng )
+http://85.248.234.44:8565
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",7 HQ ( danish/english )
+http://85.248.234.50:8406
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",7 Sjuan HQ ( Eng/dan )
+http://85.248.234.44:8535
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Bliss 2 HQ ( Eng/dan )
+http://85.248.234.47:8550
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Boomerang HQ ( Norw )
+http://85.248.234.40:8552
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",BR HQ ( German )
+http://85.248.234.39:8560
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Canali HQ ( Turk )
+http://85.248.234.53:8314
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Cartoon Network HQ ( danish )
+http://85.248.234.48:8526
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",CBS EUROPA
+http://staticline52974.toya.net.pl/cbseuropa/cbseuropa.m3u8
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Direkt 4 HQ ( Sweedish )
+http://85.248.234.43:8504
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Disney Jr HQ ( danish )
+http://85.248.234.51:8547
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Disney XD HQ ( Danish )
+http://85.248.234.38:8539
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Disney XD HQ ( Norw )
+http://85.248.234.43:8540
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Disney XD HQ ( Sweedish )
+http://85.248.234.50:8541
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DR Rama HQ ( Danish )
+http://85.248.234.37:8509
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DR Ultra HQ ( danish/english )
+http://85.248.234.52:8409
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DR1 HQ ( English )
+http://85.248.234.35:8420
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DR1 HQ ( english )
+http://85.248.234.37:8501
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DR2 HQ ( danish/english )
+http://85.248.234.37:8507
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DR3 HQ ( danish )
+http://85.248.234.47:8563
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",DRK HQ ( danish )
+http://85.248.234.47:8508
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",EuroSport HQ ( danish )
+http://85.248.234.44:8426
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",FEM HQ ( Eng/Dan )
+http://85.248.234.51:8542
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",FilmKanalen 2 HQ ( danish )
+http://85.248.234.50:8564
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Kanal 5 HQ ( Eng/dan )
+http://85.248.234.38:8529
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Kanal 6 HQ ( Eng/dan )
+http://85.248.234.38:8527
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Kanal 9 HQ ( eng/dan )
+http://85.248.234.51:8537
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Kanalen 2 HQ ( dan )
+http://85.248.234.48:8546
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",KIKI HQ ( German )
+http://85.248.234.39:8558
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",N HQ ( eng/dan )
+http://85.248.234.34:8524
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",N HQ ( eng/dan )
+http://85.248.234.44:8536
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",N Viasat HQ ( eng/dan )
+http://85.248.234.45:8545
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",N24 News HQ ( German )
+http://85.248.234.40:8555
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",NRK Super HQ ( Nor )
+http://85.248.234.35:8544
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",NRK1 HQ ( Eng/Norw )
+http://85.248.234.35:8505
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",NRK2 HQ ( Eng/Norw )
+http://85.248.234.35:8506
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",O Sport
+http://212.79.96.134:8014/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",O sport
+http://gojo.jksw.cz:8014?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",O ZLATESNENI
+http://gojo.jksw.cz:8012?by_HasBahCa
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",O1
+http://212.79.96.134:8001/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",O2
+http://212.79.96.134:8002/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Ócko
+http://89.185.250.156/tv.php?tv=ocko
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Ócko Expres
+http://89.185.250.156/tv.php?tv=ocko-expres
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",OCKO gold
+http://212.79.96.134:8012
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Ócko Gold
+http://89.185.250.156/tv.php?tv=ocko-gold
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",OCKO HITY
+http://212.79.96.134:8016/
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Ocko TV (Thaherq)
+rtmp://194.79.52.79/ockoi/ockoHQ2
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( Eng/dan )
+http://85.248.234.41:8528
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( Eng/dan )
+http://85.248.234.36:8531
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( Eng/dan )
+http://85.248.234.36:8532
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( Eng/dan )
+http://85.248.234.36:8533
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( German )
+http://85.248.234.39:8554
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( German )
+http://85.248.234.40:8553
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Random HQ ( German )
+http://85.248.234.39:8555
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",RTL HQ ( Germ )
+http://85.248.234.39:8551
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",RTL HQ ( German )
+http://85.248.234.43:8556
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Sport 1 HQ ( german )
+http://85.248.234.52:8086
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Sport 8 HQ ( dan )
+http://85.248.234.48:8538
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Sport Kanalen 2 HQ ( dan )
+http://85.248.234.34:8525
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Sports 8 HQ
+http://85.248.234.41:8416
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Sports live HQ ( Norw )
+http://85.248.234.41:8410
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",SVT 1 HQ ( Sweedish )
+http://85.248.234.41:8503
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",SWR>>BW HQ ( German )
+http://85.248.234.52:8562
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TLC HQ ( Norw )
+http://85.248.234.53:8429
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 Charlie HQ ( Eng )
+http://85.248.234.48:8513
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 Film HQ ( Eng )
+http://85.248.234.48:8514
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 Fri HQ ( Eng )
+http://85.248.234.51:8510
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 HQ ( danish )
+http://85.248.234.39:8421
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 HQ ( danish )
+http://85.248.234.36:8502
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 News HQ ( Danish )
+http://85.248.234.37:8512
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",TV2 zulu HQ ( Eng )
+http://85.248.234.37:8511
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat +3 HQ ( Eng )
+http://85.248.234.38:8518
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat 3 Sport1 HQ ( danish )
+http://85.248.234.45:8422
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat 4 HQ ( english )
+http://85.248.234.35:8500
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat Fotball HQ ( dan )
+http://85.248.234.50:8548
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat Golf HQ ( Danish )
+http://85.248.234.34:8522
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat3 Sport 1 HQ ( danish )
+http://85.248.234.42:8520
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Viasat3 Sport 2 HQ ( danish )
+http://85.248.234.42:8521
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Vox HQ ( english )
+http://85.248.234.53:8427
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",VOX HQ ( German )
+http://85.248.234.39:8557
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",WDR HQ ( German )
+http://85.248.234.52:8561
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Y HQ ( Turk )
+http://85.248.234.53:8414
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Random HQ Channels",Zebra 2 HQ ( Eng/dan )
+http://85.248.234.45:8549
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Credits",[COLOR red]THE LIST IS WHAT[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Credits",[COLOR red]IT IS GUYS THEY COME[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Credits",[COLOR red]THEY GO SORRY[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Credits",[COLOR green]Please Show ur Support[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Credits",[COLOR green]For the EPG Guys[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw
+#EXTINF:-1 $ExtFilter="VdubT25" group-title="Credits",[COLOR green]To Jsat @ http://jsat.tv[/COLOR]
+https://www.youtube.com/watch?v=dXs_m3pYGLk&list=UUL-xIzlYf4uCT5pT-8-nAZw

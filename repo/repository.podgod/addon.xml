@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.podgod" name="podgod repo" version="1.4" provider-name="podgod">
+	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
+		<info compressed="false">https://copy.com/web/users/user-15685756/copy/My-Repo/addons.xml</info>
+		<checksum>https://copy.com/web/users/user-15685756/copy/My-Repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://copy.com/web/users/user-15685756/copy/My-Repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from podgod!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

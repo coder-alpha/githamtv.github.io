@@ -1,0 +1,105 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR blue]WSS Sky Cable[/COLOR] 2015-06-22
+ignoreme
+
+#EXTM3U
+#EXTINF:-1,Discovery Investigation UK
+http://iptv.wssiptv.com:80/live/dan/paddy/358.m3u8
+#EXTINF:-1,Discovery Home UK
+http://iptv.wssiptv.com:80/live/dan/paddy/361.m3u8
+#EXTINF:-1,Discovery Culture UK
+http://iptv.wssiptv.com:80/live/dan/paddy/365.m3u8
+#EXTINF:-1,Discovery History +1 UK
+http://iptv.wssiptv.com:80/live/dan/paddy/359.m3u8
+#EXTINF:-1,Nat Geo Wild UK
+http://iptv.wssiptv.com:80/live/dan/paddy/357.m3u8
+#EXTINF:-1,Nat Geo UK
+http://iptv.wssiptv.com:80/live/dan/paddy/355.m3u8
+#EXTINF:-1,Nat Geo 1 UK
+http://iptv.wssiptv.com:80/live/dan/paddy/356.m3u8
+#EXTINF:-1,Nick Junior UK
+http://iptv.wssiptv.com:80/live/dan/paddy/344.m3u8
+#EXTINF:-1,Nick Junior 1 UK
+http://iptv.wssiptv.com:80/live/dan/paddy/345.m3u8
+#EXTINF:-1,Disney XD UK
+http://iptv.wssiptv.com:80/live/dan/paddy/349.m3u8
+#EXTINF:-1,Disney XD 1 UK
+http://iptv.wssiptv.com:80/live/dan/paddy/348.m3u8
+#EXTINF:-1,Disney Junior UK
+http://iptv.wssiptv.com:80/live/dan/paddy/351.m3u8
+#EXTINF:-1,Disney Junior 1 UK
+http://iptv.wssiptv.com:80/live/dan/paddy/350.m3u8
+#EXTINF:-1,Disney Channel UK
+http://iptv.wssiptv.com:80/live/dan/paddy/353.m3u8
+#EXTINF:-1,Disney Channel 1 UK
+http://iptv.wssiptv.com:80/live/dan/paddy/352.m3u8
+#EXTINF:-1,SKY Cartoonito UK
+http://iptv.wssiptv.com:80/live/dan/paddy/354.m3u8
+#EXTINF:-1,SKY Nicktoons Uk
+http://iptv.wssiptv.com:80/live/dan/paddy/346.m3u8
+#EXTINF:-1,SKY Nicklelodeon UK
+http://iptv.wssiptv.com:80/live/dan/paddy/347.m3u8
+#EXTINF:-1,SKY Discovery UK
+http://iptv.wssiptv.com:80/live/dan/paddy/364.m3u8
+#EXTINF:-1,SKY Discovery Science UK
+http://iptv.wssiptv.com:80/live/dan/paddy/362.m3u8
+#EXTINF:-1,Discovery History UK
+http://iptv.wssiptv.com:80/live/dan/paddy/363.m3u8
+#EXTINF:-1,SkyMoviesActionThriller
+http://iptv.wssiptv.com:80/live/dan/paddy/110.m3u8
+#EXTINF:-1,SkyMoviesIndie
+http://iptv.wssiptv.com:80/live/dan/paddy/64.m3u8
+#EXTINF:-1,SkySciFiHorror
+http://iptv.wssiptv.com:80/live/dan/paddy/112.m3u8
+#EXTINF:-1,SkyMoviesPremiere
+http://iptv.wssiptv.com:80/live/dan/paddy/111.m3u8
+#EXTINF:-1,SkyMoviesModernGreats
+http://iptv.wssiptv.com:80/live/dan/paddy/109.m3u8
+#EXTINF:-1,SkyMoviesFamily
+http://iptv.wssiptv.com:80/live/dan/paddy/65.m3u8
+#EXTINF:-1,SkyMoviesDrama
+http://iptv.wssiptv.com:80/live/dan/paddy/107.m3u8
+#EXTINF:-1,SkyScreen2.uk
+http://iptv.wssiptv.com:80/live/dan/paddy/113.m3u8
+#EXTINF:-1,SkyMoviesComedy
+http://iptv.wssiptv.com:80/live/dan/paddy/108.m3u8
+#EXTINF:-1,SkyScreen1
+http://iptv.wssiptv.com:80/live/dan/paddy/388.m3u8
+#EXTINF:-1,SkyMovies
+http://iptv.wssiptv.com:80/live/dan/paddy/387.m3u8
+#EXTINF:-1,SkyAtlantic
+http://iptv.wssiptv.com:80/live/dan/paddy/98.m3u8
+#EXTINF:-1,Sky Living
+http://iptv.wssiptv.com:80/live/dan/paddy/184.m3u8
+#EXTINF:-1,Sky1
+http://iptv.wssiptv.com:80/live/dan/paddy/182.m3u8
+#EXTINF:-1,Sky Two
+http://iptv.wssiptv.com:80/live/dan/paddy/183.m3u8
+#EXTINF:-1,SkyArts1
+http://iptv.wssiptv.com:80/live/dan/paddy/180.m3u8
+#EXTINF:-1,SkyArts2
+http://iptv.wssiptv.com:80/live/dan/paddy/181.m3u8
+#EXTINF:-1,Sky News
+http://iptv.wssiptv.com:80/live/dan/paddy/484.m3u8
+#EXTINF:-1,Food Network UK
+http://iptv.wssiptv.com:80/live/dan/paddy/63.m3u8
+#EXTINF:-1 , Animal Planet EN
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1, TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1, Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1, ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1, Discovery Ch. HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1, Discovery Sc. HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1, CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+

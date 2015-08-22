@@ -1,0 +1,945 @@
+Cable
+
+
+
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_movies_middle_east.png"group-title="cable",Fox Movies 
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_documentary_ru.png"group-title="cable",RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.dailyslave.com/wp-content/uploads/2014/03/rt.png" group-title="cable",RT 
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
+
+#EXTINF:0 tvg-logo="http://www.dailyslave.com/wp-content/uploads/2014/03/rt.png" group-title="cable",RT 1
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_320p/blizznow.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png"group-title="cable",Discovery 2
+http://113.160.49.34/lives/origin03/discoverysd.isml/discoverysd.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/animal_planet_ca.png"group-title="cable",Animal Planet 1
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/animal_planet_ca.png"group-title="cable",Animal Planet 2
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_action.png"group-title="cable",Pink Action
+http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_comedy_rs.png"group-title="cable",Pink Comedy
+http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8?b?b*t$
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_action2.png" group-title="cable",Pink Action 2
+http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_family.png"group-title="cable",Pink Family
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://tvprofil.net/img/kanali-logo/pinkHorror.png"group-title="cable",Pink Horror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_movies3.png"group-title="cable",Pink Movies 3
+http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_premium_rs.png"group-title="cable",Pink Premium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_1_rs.png"group-title="cable",Pink 
+http://str108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_2_rs.png"group-title="cable",Pink 2
+http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_3_rs.png"group-title="cable",Pink 3
+http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_action3.png" group-title="cable",Pink Action 3
+http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_folk1.png"group-title="cable",Pink Folk 1
+http://str108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_folk2.png"group-title="cable",Pink Folk 2
+http://str108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_kids.png"group-title="cable",Pink Kids 
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_live.png"group-title="cable",Pink Live
+http://str108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_m.png"group-title="cable",Pink M
+http://str108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_movies2.png"group-title="cable",Pink Movies 2
+http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_pedia_rs.png"group-title="cable",Pink Pedia  
+http://str108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_reality_rs.png"group-title="cable",Pink Reality
+http://str108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_soap_rs.png"group-title="cable",Pink Soap
+http://str108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_world_rs.png"group-title="cable",Pink World
+http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_zabava_rs.png"group-title="cable",Pink Zabava
+http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_movies.png"group-title="cable",Pink Movies 
+http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://tvprofil.net/img/kanali-logo/pink-western-logo.jpg"group-title="cable",Pink Western
+http://pinkovi.hits2hits.com/fastv_2psh/PinkWesternglobal_rly_greece_103/hits2hits.m3u8
+
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-kbtKxJym5Ls/VJdTDQqR3YI/AAAAAAAAAP4/Mg27TbXvCyM/s1600/Pink_Nostalgija.jpg"group-title="cable",Pink Nostalgia 
+http://str108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/axn_global.png"group-title="cable",AXN 
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/film_zone_cl.png"group-title="cable",Film Zone
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_classics_au.png"group-title="cable",Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?HasBahCa
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_classics_au.png"group-title="cable",Fox Classics 2
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.cloud-tivu.net/Blog/wp-content/uploads/2014/02/Jug-tv-logo.png"group-title="cable",Jug TV
+http://84.20.77.50:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://content.iheart.com//talk/jpg/talkstation/f7/259.1383947014.jpg"group-title="cable",TWIT
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/ebru_tv_europe.png"group-title="cable",Ebru
+http://204.107.26.252:1935/live/914.high.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_action.png" group-title="cable",MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_2.png" group-title="cable",MBC 2 HD
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_max.png" group-title="cable",MBC Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_bollywood.png" group-title="cable",MBC Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_4.png" group-title="cable",MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hbo_asia_hd.png"group-title="cable",HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hbo_asia_hd.png"group-title="cable",HBO HD
+http://bit.do/3vub
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/star_movies_asia.png"group-title="cable",Star Movie
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png"group-title="cable",Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/usa_network.png"group-title="cable",USA
+http://209.95.34.86/live2/105-USANet.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV 1
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_two_ca.png"group-title="cable",CTV 2
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_tw_hd.png"group-title="cable",CTV 3
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/horse_country_tv_uk.png" group-title="Sports",Horse and Country
+http://cdn.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs.png"group-title="cable",CBS
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/drama_uktv.png"group-title="cable",Drama
+http://93.184.221.133/00573D/853/853-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rte_one.png"group-title="cable",RTE One
+http://93.184.221.133/00573D/345/345-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3867.jpg"group-title="cable",CNBC
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2730.jpg"group-title="cable",ABC
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1837.png"group-title="cable",Fox
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3830.png"group-title="cable",ION
+http://93.184.221.133/00573D/1089/1089-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png"group-title="cable",Discovery
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/discovery_history.png"group-title="cable",Discovery History
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/itv_uk.png"group-title="cable",ITV HD
+http://93.184.221.133/00573D/283/283-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_africa.png" group-title="cable",CBS Action 
+http://93.184.221.133/00573D/711/711-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_drama_africa.png" group-title="cable",CBS Drama 
+http://93.184.221.133/00573D/712/712-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs_reality_eu.png"group-title="cable",CBS Reality 
+http://93.184.221.133/00573D/713/713-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/qq/quest.png"group-title="cable",Quest
+http://93.184.221.133/00573D/287/287-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/dave_uktv.png"group-title="cable",Dave
+http://93.184.221.133/00573D/290/290-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png"group-title="cable",Yesterday
+http://93.184.221.133/00573D/294/294-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pick_tv_ie.png"group-title="cable",Pick
+http://93.184.221.133/00573D/298/298-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movies_4_men_uk_plus1.png"group-title="cable",Movies 4 Men
+http://93.184.221.133/00573D/283/283-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bbc_one.png"group-title="cable",BBC 1
+http://93.184.221.133/00573D/1277/1277-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3846.jpg"group-title="cable",C More Action
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3283.jpg"group-title="cable",4Seven
+http://93.184.221.133/00573D/292/292-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/6_eren_dk.png"group-title="cable",6eren
+http://93.184.221.133/00573D/231/231-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3003.jpg"group-title="cable",ITV Encore
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/3978.png"group-title="cable",BBC Sports
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tg4.png"group-title="cable",TG4
+http://93.184.221.133/00573D/348/348-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mtv_music_ie.png"group-title="cable",MTV Music
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_movies_kids.png"group-title="cable",OSN Movies Kids
+http://185.27.237.105:8082/TV0053.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mgm_movies_il.png"group-title="cable",MGM
+http://185.27.237.105:8082/TV0050.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_movies_hd_plus2.png"group-title="cable",OSN Movies 2
+http://185.27.237.105:8082/TV0054.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4428.jpg"group-title="cable",OSN Movies 3
+http://185.27.237.105:8082/TV0023.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",OSN Movies 4
+http://185.27.237.105:8082/TV0024.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4430.jpg"group-title="cable",OSN Movies 5
+http://185.27.237.105:8082/TV0025.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_first_comedy_plus2.png"group-title="cable",OSN First Comedy +2
+http://185.27.237.105:8082/TV0021.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_movies_drama.png"group-title="cable",OSN Drama
+http://185.27.237.105:8082/TV0022.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_choice.png"group-title="cable",ITV Choice
+http://185.27.237.105:8082/TV0055.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_first_plus2.png"group-title="cable",OSN First + 2
+http://185.27.237.105:8082/TV0062.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_ya_hala_hd_plus2.png"group-title="cable",OSN Ya Hala! HD +2
+http://185.27.237.105:8082/TV0065.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_movies_drama_plus2.png"group-title="cable",OSN Movies Drama + 2
+http://185.27.237.105:8082/TV0075.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_ya_hala_hd.png"group-title="cable",OSN Ya Hala! HD
+http://185.27.237.105:8082/TV0077.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tcm_global.png"group-title="cable",TCM
+http://185.27.237.105:8082/TV0082.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_first_comedy_hd.png"group-title="cable",OSN First Comedy
+http://185.27.237.105:8082/TV0083.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_first_more.png"group-title="cable",OSN First More
+http://185.27.237.105:8082/TV0084.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Food Network
+http://185.27.237.105:8082/TV0086.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Fashion TV
+http://185.27.237.105:8082/TV0088.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Discovery World
+http://185.27.237.105:8082/TV0089.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Discovery Science
+http://185.27.237.105:8082/TV0090.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Discovery ID
+http://185.27.237.105:8082/TV0092.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",CI
+http://185.27.237.105:8082/TV0093.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_sports1_hd.png"group-title="cable",OMN Sport
+http://185.27.237.105:8082/TV0104.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Star World
+http://185.27.237.105:8082/TV0056.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",E HD 
+http://185.27.237.105:8082/TV0060.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Cinema 2
+http://185.27.237.105:8082/TV0116.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Disney ?
+http://185.27.237.105:8082/TV0110.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Disney XD
+http://185.27.237.105:8082/TV0112.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Disney Junior
+http://185.27.237.105:8082/TV0109.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",Boomerang
+http://185.27.237.105:8082/TV0111.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_first.png"group-title="cable",OSN First
+http://185.27.237.105:8082/TV0063.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_movies_hd.png"group-title="cable",Star Movie
+http://185.27.237.105:8082/TV0051.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/4429.jpg"group-title="cable",?2
+http://185.27.237.105:8082/TV0056.m3u8
+
+#EXTINF:0,24/7 Comedy Movies
+http://50.7.69.170:1935/edge/_definst_/z0r2suo285n8m0z/playlist.m3u8?wowzasessionid=1420172450
+
+#EXTINF:0,24/7 Jackie Chan movies (1979-1990)
+http://50.7.69.170:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835
+
+#EXTINF:0,24/7 Jackie Chan movies (1991-2008)
+http://50.7.69.170:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797
+
+#EXTINF:0,24/7 NCIS
+http://50.7.69.170:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
+
+#EXTINF:0,AMC SD
+http://50.7.69.170:1935/edge/_definst_/7pctmre0zfwsc24/chunklist.m3u8?wowzasessionid=1426234496
+
+#EXTINF:0,BEin Sport (Spanish)
+http://50.7.69.170:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+
+#EXTINF:0,CBS HD
+http://50.7.69.170:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:0,CBS HD
+http://50.7.69.170:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:0,CNN USA SD
+http://50.7.69.170:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:0,Discovery Channel HD
+http://50.7.69.170:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+
+#EXTINF:0,Disney Channel
+http://50.7.69.170:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170626
+
+#EXTINF:0,ESPN HD
+http://50.7.69.170:1935/edge/_definst_/dp2g1w4ip6v0zoc/playlist.m3u8?wowzasessionid=1419906402
+
+#EXTINF:0,ESPN SD
+http://50.7.69.170:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+
+#EXTINF:0,FOX Movie Channel
+http://50.7.69.170:1935/edge/_definst_/hc992q7x7cz86t9/chunklist.m3u8?wowzasessionid=1419909438
+
+#EXTINF:0,FOX News HD
+http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+
+#EXTINF:0,Hallmark HD
+http://50.7.69.170:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+
+#EXTINF:0,HBO Comedy
+http://50.7.69.170:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+#EXTINF:0,HBO HD
+http://50.7.69.170:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+
+#EXTINF:0,HBO SD
+http://50.7.69.170:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
+#EXTINF:0,History Channel (Europe)
+http://50.7.69.170:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+
+#EXTINF:0,I.D.
+http://50.7.69.170:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:0,MSNBC HD
+http://50.7.69.170:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
+
+#EXTINF:0,MTV
+http://50.7.69.170:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
+
+#EXTINF:0,Nat GEO HD
+http://50.7.69.170:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+
+#EXTINF:0,NBC SD
+http://50.7.69.170:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+
+#EXTINF:0,NBC Sports Network SD
+http://50.7.69.170:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:0,OWN
+http://50.7.69.170:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+
+#EXTINF:0,Spike
+http://50.7.69.170:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+
+#EXTINF:0,StarZ Movie Channel
+http://50.7.69.170:1935/edge/_definst_/8g7x80ozu6hz2ds/playlist.m3u8?wowzasessionid=1419874554
+
+#EXTINF:0,tbs
+http://50.7.69.170:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+
+#EXTINF:0,The CW SD
+http://50.7.69.170:1935/edge/_definst_/qvvkvojlano9hnj/manifest.m3u8?wowzasessionid=1426889772
+
+#EXTINF:0,TLC
+http://50.7.69.170:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+
+#EXTINF:0,TNT HD
+http://50.7.69.170:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:0,Travel Channel SD
+http://50.7.69.170:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
+
+#EXTINF:0,USA Network
+http://50.7.69.170:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+#EXTINF:0,VH-1
+http://50.7.69.170:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+
+#EXTINF:0 tvg-logo="http://i.ytimg.com/vi/6DFeNRpolIU/maxresdefault.jpg"group-title="cable",?
+http://93.184.221.133/00573D/1389/1389-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_one.png"group-title="cable",BBC One London
+http://94.198.255.211:5555/pl.m3u8?channel=141 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_two_uk.png"group-title="cable",BBC Two 
+http://94.198.255.211:5555/pl.m3u8?channel=142
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png"group-title="cable",BBC Entertainment
+http://94.198.255.211:5555/pl.m3u8?channel=143
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_world_news_uk.png"group-title="cable",BBC World
+http://94.198.255.211:5555/pl.m3u8?channel=144
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_one.png"group-title="cable",BBC One Ireland
+http://94.198.255.211:5555/pl.m3u8?channel=145
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_cbbc.png"group-title="cable",CBBC
+http://94.198.255.211:5555/pl.m3u8?channel=146
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png"group-title="cable",CBeebies
+http://94.198.255.211:5555/pl.m3u8?channel=300
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/itv3.png"group-title="cable",ITV 3
+http://94.198.255.211:5555/pl.m3u8?channel=91
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/itv4.png"group-title="cable",ITV 4
+http://94.198.255.211:5555/pl.m3u8?channel=92
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/e4_ie.png"group-title="cable",E4
+http://94.198.255.211:5555/pl.m3u8?channel=93 
+
+#EXTINF:0 tvg-logo="http://img1.wikia.nocookie.net/__cb20111103234205/logopedia/images/4/4f/New_more4_logo.png"group-title="cable",More 4
+http://94.198.255.211:5555/pl.m3u8?channel=94
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/film4.png"group-title="cable",Film 4
+http://94.198.255.211:5555/pl.m3u8?channel=95 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel4_uk.png"group-title="cable",Channel 4
+http://94.198.255.211:5555/pl.m3u8?channel=96 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/horse_country_tv_uk.png"group-title="cable",Horse & Country 2
+http://94.198.255.211:5555/pl.m3u8?channel=301
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/united_tv_gh.png"group-title="cable",UTV
+http://94.198.255.211:5555/pl.m3u8?channel=302 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/citv_uk.png"group-title="cable",CITV
+http://94.198.255.211:5555/pl.m3u8?channel=304
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/itv_uk.png"group-title="cable",ITV 1
+http://94.198.255.211:5555/pl.m3u8?channel=305 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movies_4_men_uk_plus1.png"group-title="cable",Movies4Men 2
+http://94.198.255.211:5555/pl.m3u8?channel=306 
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_movies_drama.png"group-title="cable",M<Movies+1
+http://94.198.255.211:5555/pl.m3u8?channel=307
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="cable",Warner TV
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/discovery_theater_lam.png"group-title="cable",Discovery Theater HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/universal_channel_asia_hd.png"group-title="cable",Universal Channel HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fx_asia_hd.png"group-title="cable",FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_1_este.png" group-title="cable",Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_1_este.png" group-title="cable",Fox Cinema
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_1_este.png" group-title="cable",WGN 9 CW
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+
+
+#EXTINF:0,Sky Movies Premiere
+http://185.56.30.123:8082/TV4251/playlist.m3u8
+
+#EXTINF:0,Sky Movies Premiere+
+http://185.56.30.123:8082/TV4252/index.m3u8
+
+#EXTINF:0,Sky Sky Movies Select
+http://185.56.30.123:8082/TV4254
+
+#EXTINF:0,Sky Movies Action & Adventure
+http://185.56.30.123:8082/TV4245/manifest.m3u8
+
+#EXTINF:0,Sky Movies Comedy
+http://185.56.30.123:8082/TV4246/manifest
+
+#EXTINF:0,Sky Movies Disney
+http://185.56.30.123:8082/TV4247
+
+#EXTINF:0,Sky Movies Family
+http://185.56.30.123:8082/TV4248
+
+#EXTINF:0,Sky Movies SciFi
+http://185.56.30.123:8082/TV4249
+http://185.27.237.105:8082/TV0051.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kids
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network 
+http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24-7
+
+
+
+
+#EXTINF:0 tvg-logo="http://cdn1.sciencefiction.com/wp-content/uploads/2014/04/Mystery-Science-Theater-3000.jpg"group-title="24-7 TV",Mystery Science Theatre 3000
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=16843506
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sports
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 Arizona
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 Bay Area
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 National
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg" group-title="Sports",Pac12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_college_sports_alternate.png" group-title="Sports",Fox College Sports
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
+
+#EXTINF:0 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/russia/384-EuroSport[1].jpg" group-title="Sports",Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:0 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/russia/384-EuroSport[1].jpg" group-title="Sports",Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+
+#EXTINF:0 tvg-logo="http://www.serbiacricket.com/site/images/58f38790-0695-47e7-996f-82678566478f(3).gif" group-title="Sports",Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/new_golf_channel_logo_304.jpg" group-title="Sports", Golf Channel Live 1080 HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1  tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/new_golf_channel_logo_304.jpg" group-title="Sports", Golf Channel Live 720 HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8?Vd?u#bt!25
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/big_ten_network.png" group-title="Sports",Big 10 Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/big_ten_network.png" group-title="Sports",Big 10 Network 2
+http://xrxs.net/video/live-btn-1240.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sportsnet_360.png" group-title="Sports",Sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/espn_lam_ve.png"group-title="Sports",ESPN 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/espn_dos_mx.png"group-title="Sports",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/espn_lam_hd.png"group-title="Sports",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.png"group-title="Sports",NBC Sports
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_asia_news.png"group-title="Sports",Fox Sports News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/star_sports_kr.png"group-title="Sports",Star Sports 
+http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca_hd.png"group-title="Sports",TSN 1
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca_hd.png"group-title="Sports",TSN 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tsn_3_ca_hd.png"group-title="Sports",TSN 3
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tsn_4_ca_hd.png"group-title="Sports",TSN 4
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tsn_5_ca_hd.png"group-title="Sports",TSN 5
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png" group-title="Sports",Boxnation
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+
+#EXTINF:0 tvg-logo="http://islandmix.com/blog/wp-content/uploads/2013/04/sportsmax.jpg" group-title="Sports",Sportmax
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+
+#EXTINF:0 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2012/11/fox-sports-logo.jpg" group-title="Sports",Fox Sports 1 HD
+http://2co1.vp9.tv/chn/fox1/v.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Music
+
+
+
+#EXTINF:0 tvg-logo="http://static.simplestream.com.s3-website-eu-west-1.amazonaws.com/tvplayer/logos/150/Inverted/228.png" group-title="Music",Now Thats What I Call Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/aka_uk.png"group-title="Music",AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.guitarbaby.net/uploads/2/4/8/8/2488648/7580191_orig.jpg" group-title="Music",Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0 tvg-logo="http://cache.vevo.com/a/img/vevo-tv-logo-new.png" group-title="Music",Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.videoadnews.com/wp-content/uploads/2013/03/vevo_tv.gif" group-title="Music",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:0 tvg-logo="http://static.filmon.com/couch/channels/3175/big_logo.png" group-title="Music",CineStream
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/pink_music.png"group-title="Music",Pink Music
+http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_music2.png" group-title="Music",Pink Music 2
+http://str108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/pink_music3.png" group-title="Music",Pink Music 3
+http://str108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/pink_music.png"group-title="Music",Pink Music 4
+http://str108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/pink_music.png"group-title="Music",Pink Music 5
+http://str108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mtv_uk_hd.png"group-title="Music",MTV Live
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/vv/vh1_hd.png" group-title="Music",VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8
+
+#EXTINF:0 tvg-logo="http://streamplayer.free.fr/images/TVLogo-Big/Clubbing-TV.jpg" group-title="Music",Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+#EXTINF:0 tvg-logo="http://www.montagecabletv.com/sites/default/files/bbc-world-news.png" group-title="News",BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e1/CNN-globe-logo.png" group-title="News",CNN 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_english.png" group-title="News",RT 
+http://rt.com/s/rtplayer/playlists/rt_global.m3u8
+
+#EXTINF:0 tvg-logo="http://www.humanosphere.org/wp-content/uploads/2013/08/aljazeera-english-logo.jpeg" group-title="News",Al Jazeera 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png" group-title="News",I24 News 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvweek.com/blogs/tvbizwire/abc%20news-logo.jpg" group-title="News",ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:0 tvg-logo="http://www.thematv.com/medias/channels/euronews/euronews-logo.jpg" group-title="News",Euro News 
+http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8?b?b*t$
+
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-M2KGWH9Y3YU/UI2IGdsB3KI/AAAAAAAAd78/v6508qIk5F0/s1600/Russia+Today+presidential+debate+third+parties+Jill+Stein+Gary+Johnson.jpg" group-title="News",RT American News 
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cctv_news_english.png" group-title="News",CCTV News 
+http://77.36.61.45:8010/CCTVNews.m3u8?Vd?u#bt!25
+
+#EXTINF:0 tvg-logo="http://www.dma.mil/portals/2/Images/capabilities/northcom/tpc_logo1.png" group-title="News",Pentagon Channel 
+http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8?wowzasessionid=750145898
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/weather_nation_us.png" group-title="News",Weather Nation
+http://kalsegsec-a.akamaihd.net:80/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_all.smil/chunklist_b2096000.m3u8
+
+#EXTINF:0 tvg-logo="http://wbrc.images.worldnow.com/images/22736496_BG1.png" group-title="News",Fox 6 B-ham AL News
+http://wbrc-lh.akamaihd.net/i/WBRC_855@91155/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_nz_news.png" group-title="News",SKY News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:0 tvg-logo="http://img1.wikia.nocookie.net/__cb20131023201328/logopedia/images/b/bc/WBMA_ABC_33-40_2013.jpg"group-title="News",ABC 33/40 B-ham AL ST
+http://iphone-streaming.ustream.tv/ustreamVideo/520983/streams/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cnbc_asia_pacific.png"group-title="News",CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/weather_nation_us.png" group-title="cable",Weather Nation
+http://kalsegsec-a.akamaihd.net:80/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_all.smil/chunklist_b2096000.m3u8
+
+
+
+
+
+
+
+
+
+Adult
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/babestation24.png" group-title="Adult",Babestation XXX
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv.png" group-title="Adult",Jasmin TV 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:0 tvg-logo="http://www.marketmenot.com/wp-content/uploads/2014/05/victorias-secret-logo.jpg" group-title="Adult",Victoria Secret  
+http://46.249.213.93/iPhone/broadcast/victoriassecretangels-tablet.3gp/victoriassecretangels-tablet.3gp-mr648k.m3u8
+
+#EXTINF:0 tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2015/01/babe-spotting-channel-images-logo-large-130x110.png" group-title="Adult",Babespotting  
+http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
+
+#EXTINF:0 tvg-logo="http://hdadultporn.com/files/content/images/logo.gif" group-title="Adult",HD Porn   
+http://188.165.220.116:8081/live/x/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://hdadultporn.com/files/content/images/logo.gif" group-title="Adult",HD Porn 2  
+http://188.165.220.116:8081/live/2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="http://hdadultporn.com/files/content/images/logo.gif" group-title="Adult",HD Porn 3  
+http://188.165.220.116:8081/live/3/chunks.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/claro_tv_cl.png" group-title="Adult",Claro Adulto 18+
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/claro_tv_cl.png" group-title="Adult",Claro Adulto 18+ Premium
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/blue_hustler_eu.png" group-title="Adult",Blue Hustler 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="http://oohlalaprinceton.com/files/7250/118879-LOGO.png" group-title="Adult",Oh La La 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="http://oohlalaprinceton.com/files/7250/118879-LOGO.png" group-title="Adult",Brasileirinhas 
+http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/playboy_tv_fr.png" group-title="Adult",Playboy  
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/playboy_tv_fr.png" group-title="Adult",Playboy  
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:0 group-title="Adult",Bella Club
+http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
+#EXTINF:0 group-title="Adult",Bella Club Luz
+http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
+#EXTINF:0 group-title="Adult",Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:0 group-title="Adult",venus TV
+http://cdn5.iviplanet.com:1935/VODLive1/_definst_/smil:vodlive1.smil/chunklist_w1867210502_b1300000.m3u8
+#EXTINF:0 group-title="Adult",XXX
+http://cdn5.iviplanet.com:1935/VODLive1.smil/chunklist_w1867210502_b1300000.m3u8
+#EXTINF:0 group-title="Adult",XXX1
+http://bit.do/3tAU 
+#EXTINF:0 group-title="Adult",Playboy
+http://bit.do/3tA3
+
+
+

@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:0,BBC 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+#EXTINF:0,BBC 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+#EXTINF:0,BBC 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+#EXTINF:0,BBC 2 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=42
+#EXTINF:0,BBC 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=48
+#EXTINF:0,BBC 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=36
+#EXTINF:0,BBC News
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=40
+#EXTINF:0,BBC News Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+#EXTINF:0,ITV 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+#EXTINF:0,ITV 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=43
+#EXTINF:0,ITV 1 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=52
+#EXTINF:0,ITV 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
+#EXTINF:0,ITV 2 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=53
+#EXTINF:0,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+#EXTINF:0,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+#EXTINF:0,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+#EXTINF:0,CBS Action
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+#EXTINF:0,CBS Reality
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+#EXTINF:0,Challenge
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=18
+#EXTINF:0,Channel 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3
+#EXTINF:0,Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+#EXTINF:0,Channel 4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+#EXTINF:0,Channel 4 +1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+#EXTINF:0,Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+#EXTINF:0,Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+#EXTINF:0,Channel 5 +24
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=64
+#EXTINF:0,Dave
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+#EXTINF:0,Dave Ja Vu
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+#EXTINF:0,Drama
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+#EXTINF:0,E4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+#EXTINF:0,E4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=59
+#EXTINF:0,Film Four
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+#EXTINF:0,Film Four +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+#EXTINF:0,Food Network
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+#EXTINF:0,Horror Channel
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+#EXTINF:0,More 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+#EXTINF:0,Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+#EXTINF:0,MovieMix
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+#EXTINF:0,Movies4Men
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+#EXTINF:0,Pick TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+#EXTINF:0,Quest
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+#EXTINF:0,Quest +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+#EXTINF:0,Really
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+#EXTINF:0,Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+#EXTINF:0,True Entertainment
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+#EXTINF:0,TruTV UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+#EXTINF:0,Yesterday
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+#EXTINF:0,4 Music
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+#EXTINF:0,4 Seven
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+#EXTINF:0,4 Seven Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+#EXTINF:0,5 Star
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+#EXTINF:0,5 USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25

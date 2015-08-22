@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.podgodwizard" name="podgod Wizard" version="1.0" provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">podgod Wizard</summary>
+    <description lang="en">Download and install my full setup. Thanks to whufclee for the original Community Builds code used in this add-on :). </description>
+    <platform>all</platform>
+  </extension>
+</addon>

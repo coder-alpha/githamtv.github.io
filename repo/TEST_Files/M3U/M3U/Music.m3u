@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR blue] --> MUSIC <-- [/COLOR]
+http://static.wixstatic.com/media/6c2e7f_5971b394c59cd45ab908a96679e3cc2a.png
+
+#EXTINF:-1 audio-track="en" tvg-id="vh1.png" tvg-name="vh1.png" tvg-logo="vh1.png",[COLOR blue]VH1[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.152:5000,ru
+
+#EXTINF:-1 tvg-id="vh1.png" tvg-name="vh1.png" tvg-logo="vh1.png",[COLOR lightblue]VH1 (Alternate Link)[/COLOR]
+http://212.164.209.160:1234/udp/233.7.70.152:5000
+
+#EXTINF:-1 audio-track="en" tvg-id="VH1Classic.png" tvg-name="VH1Classic.png" tvg-logo="VH1Classic.png",[COLOR blue]VH1 Classic[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.229:5000,ru
+
+#EXTINF:-1 tvg-id="VH1Classic.png" tvg-name="VH1Classic.png" tvg-logo="VH1Classic.png",[COLOR lightblue]VH1 Classic (Alternate Link)[/COLOR]
+http://212.164.209.160:1234/udp/233.7.70.229:5000
+
+#EXTINF:-1 tvg-id="VH1Classic.png" tvg-name="VH1Classic.png" tvg-logo="VH1Classic.png",[COLOR lightblue]VH1 Classic (Alternate Link 2)[/COLOR]
+http://37.192.73.83:81/udp/239.1.8.7:1234
+
+#EXTINF:-1 tvg-id="mtvtest.png" tvg-name="mtv.png" tvg-logo="mtv.png",[COLOR blue]MTV (US)[/COLOR]
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVDance.png" tvg-name="MTVDance.png" tvg-logo="MTVDance.png",[COLOR blue]MTV Dance[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.207:5000,ru
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVHits.png" tvg-name="MTVHits.png" tvg-logo="MTVHits.png",[COLOR blue]MTV Hits[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.208:5000,ru
+
+#EXTINF:-1 tvg-id="MTVHits.png" tvg-name="MTVHits.png" tvg-logo="MTVHits.png",[COLOR lightblue] MTV Hits (Alternate Link)[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.107:1234
+
+#EXTINF:-1 tvg-id="MTVHits.png" tvg-name="MTVHits.png" tvg-logo="MTVHits.png",[COLOR lightblue] MTV Hits (Alternate Link 2)[/COLOR]
+http://staticline52974.toya.net.pl/mtvhits/mtvhits.m3u8 
+
+#EXTINF:-1 audio-track="en" tvg-id="MTVRocks.png" tvg-name="MTVRocks.png" tvg-logo="MTVRocks.png",[COLOR blue]MTV Rocks[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.209:5000,ru
+
+#EXTINF:-1 tvg-id="MTVRocks.png" tvg-name="MTVRocks.png" tvg-logo="MTVRocks.png",[COLOR lightblue]MTV Rocks (Alternate Link)[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.98:1234
+
+#EXTINF:-1 tvg-id="MTVRocks.png" tvg-name="MTVRocks.png" tvg-logo="MTVRocks.png",[COLOR lightblue]MTV Rocks (Alternate Link 2)[/COLOR]
+http://digiquest.forumo.de@tinyurl.com/kd6mggd 
+
+#EXTINF:-1 audio-track="en", tvg-id="MTVLiveHD.png" tvg-name="MTVLiveHD.png" tvg-logo="MTVLiveHD.png",[COLOR blue]MTV Live HD[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.161:5000,ru
+
+#EXTINF:-1 tvg-id="MTVDance.png" tvg-name="MTVDance.png" tvg-logo="MTVDance.png",[COLOR blue]MTV Dance[/COLOR]
+http://91.240.87.34:4000/udp/224.200.202.47:1234
+
+#EXTINF:-1 tvg-id="MTVDance.png" tvg-name="MTVDance.png" tvg-logo="MTVDance.png",[COLOR lightblue]MTV Dance (Alternate Link)[/COLOR]
+http://digiquest.forumo.de@tinyurl.com/qzcxwsm 
+
+#EXTINF:-1 audio-track="en" tvg-id="musicbox.png" tvg-name="musicbox.png" tvg-logo="musicbox.png",[COLOR blue]Music Box[/COLOR]
+http://176.51.89.77:1234/udp/233.7.70.53:5000,ru
+
+#EXTINF:-1 tvg-id="A One Hip Hop Music.png" tvg-name="A One Hip Hop Music.png" tvg-logo="A One Hip Hop Music.png",[COLOR blue]A ONE - Hip Hop Music[/COLOR]
+http://5.128.90.97:1234/udp/239.1.8.2:1234
+
+#EXTINF:-1 tvg-id="HeartTV.png" tvg-name="HeartTV.png" tvg-logo="HeartTV.png",[COLOR blue]Heart TV[/COLOR]
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+
+#EXTINF:-1tvg-id="vevo.png" tvg-name="vevo.png" tvg-logo="vevo.png",[COLOR blue]VEVO Playlist HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1tvg-id="Best Music TV.png" tvg-name="Best Music TV.png" tvg-logo="Best Music TV.png",[COLOR blue]eska Best Music TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1tvg-id="EskaRock.png" tvg-name="EskaRock.png" tvg-logo="EskaRock.png",[COLOR blue]eska Rock TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-id="CapitalTV.png" tvg-name="CapitalTV.png" tvg-logo="CapitalTV.png",[COLOR blue]Capital TV[/COLOR]
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-id="CapitalTV.png" tvg-name="CapitalTV.png" tvg-logo="CapitalTV.png",[COLOR lightblue]Capital TV (Alternate Link)[/COLOR]
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-id="Clubland.png" tvg-name="Clubland.png" tvg-logo="Clubland.png",[COLOR blue]Clubland[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="musiq1.png" tvg-name="musiq1.png" tvg-logo="musiq1.png",[COLOR blue]Musiq 1 TV[/COLOR]
+http://212.79.96.134:8005/
+
+#EXTINF:-1 tvg-id="NTWICM.png" tvg-name="NTWICM.png" tvg-logo="NTWICM.png",[COLOR blue]NTWICM (Now Music)[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio105.png" tvg-name="Radio105.png" tvg-logo="Radio105.png",[COLOR blue]Radio 105 TV[/COLOR]
+rtmp://fms.105.net/live/105Test1
+
+#EXTINF:-1 tvg-id="TubaTV.png" tvg-name="TubaTV.png" tvg-logo="TubaTV.png",[COLOR blue]Tuba TV[/COLOR]
+rtmp://fms.gazeta.pl:1935/aglive/tuba_tv
+
+#EXTINF:-1 tvg-id="PartyTV.png" tvg-name="PartyTV.png" tvg-logo="PartyTV.png",[COLOR blue]PartyTV Eska HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 tvg-id="RMC.png" tvg-name="RMC.png" tvg-logo="RMC.png",[COLOR blue]RMC TV[/COLOR]
+rtmp://fms.105.net:1935/live/rmc1 
+
+#EXTINF:-1 tvg-id="virgintv.png" tvg-name="virgintv.png" tvg-logo="virgintv.png",[COLOR blue]Virgin TV[/COLOR]
+rtmp://fms.105.net:1935/live/virgin1 

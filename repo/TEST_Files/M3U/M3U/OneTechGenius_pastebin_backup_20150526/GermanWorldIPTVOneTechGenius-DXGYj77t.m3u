@@ -1,0 +1,358 @@
+German
+#EXTM3U
+
+#EXTINF:-1,BBC One London
+http://82.135.224.134:80/udp/239.100.3.1:1234
+ 
+#EXTINF:-1,BBC One Scotland
+http://82.135.224.134:80/udp/239.100.3.2:1234
+ 
+#EXTINF:-1,BBC Two England
+http://82.135.224.134:80/udp/239.100.3.3:1234
+
+#EXTINF:-1,BBC Three
+http://82.135.224.134:80/udp/239.100.3.4:1234
+ 
+#EXTINF:-1,BBC Four
+http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+ 
+#EXTINF:-1,ITV 1 London
+http://82.135.224.134:80/udp/239.100.3.6:1234
+
+#EXTINF:-1,BANDAMAX HD
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+ 
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1, Sky Sports 1 (stream 2)
+http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
+
+#EXTINF:-1, Sky Sports 3 (stream 2)
+http://smarterapps.ddns.net:8080/spR3/sprT3Ke/index.m3u8
+
+#EXTINF:-1, Sky Sports 4
+http://smarterapps.ddns.net:8080/sp4T/sp4RkkW/index.m3u8
+
+#EXTINF:-1, Sky Sports 5 (stream 2)
+http://smarterapps.ddns.net:8080/sTp5/sp5PkeY/index.m3u8
+
+#EXTINF: -1, ANTENA 3 HD (FULL HD)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+
+#EXTINF:-1,Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,SportTime TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+ 
+#EXTINF:-1,SportTime TV 3
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+ 
+#EXTINF:-1,SportTime TV 4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_120
+
+ 
+#EXTINF:-1,SportTime TV 5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+ 
+#EXTINF:-1,SportTime TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+ 
+#EXTINF:-1,SportTime TV 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+ 
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:-1,Pac Mountain 1080P
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1,PAC National 720P
+http://xrxs.net/video/live-p12netw-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Arizona) 1080P
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1080P
+http://xrxs.net/video/live-p12baya-4728.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 720P
+http://xrxs.net/video/live-p12losa-2328.m3u8
+  
+#EXTINF:-1,PAC-12 Net. (Oregon) 1080P
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+  
+#EXTINF:-1,PAC-12 Net. (Washington) 1080P
+http://xrxs.net/video/live-p12wash-4728.m3u8
+ 
+#EXTINF:-1,Party Tv HD 720P
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+ 
+#EXTINF:O,Polo Party TV 720P
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+ 
+#EXTINF:-1,Px Hits 1080P
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1,RT HD 720P (Rússia)
+http://odna.octoshape.net/f3f5m2v4/cds/ch6_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="DMAX.png",RT Documentary HD 720P (Rússia)
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$
+ 
+#EXTINF:-1,Sports Night HD 720P (German)
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+ 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 1 720P
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 2 720P
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 3 720P
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ 
+#EXTINF:-1,VOX Music HD 720P
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+ 
+#EXTINF:0,Comedy  Eng/?
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+#EXTINF:-1,Sky Movies Premiere
+http://188.227.189.18:8082/TV4251
+#EXTINF:-1,Sky Movies Premiere+
+http://188.227.189.18:8082/TV4252
+#EXTINF:-1,Sky Sky Movies Select
+http://188.227.189.18:8082/TV4254
+#EXTINF:-1,Sky  Movies Action & Adventure
+http://188.227.189.18:8082/TV4245
+#EXTINF:-1,Sky Movies Comedy
+http://188.227.189.18:8082/TV4246
+#EXTINF:-1,Sky Movies Disney
+http://188.227.189.18:8082/TV4247
+#EXTINF:-1,Sky  Movies Family
+http://188.227.189.18:8082/TV4248
+#EXTINF:-1,Sky   Movies SciFi
+http://188.227.189.18:8082/TV4249
+  
+#EXTINF:-1,Cinema (rus)
+http://92.50.181.6/tv/1122/index.m3u8
+ 
+#EXTINF:-1, Movie TV (rus)
+http://92.50.181.6/tv/1119/index.m3u8
+ 
+#EXTINF:-1,US Channels
+http://0.0.0.0:1234
+ 
+#EXTINF:0, RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+
+#EXTINF:-1, Discovery Channel
+ 
+http://188.227.86.4:4022/udp/239.77.0.45:1234 
+
+#EXTINF:-1,HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,MSNBC
+rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
+#EXTINF:-1,NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,A&E Europe
+http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8
+#EXTINF:-1 tvg-id=”Syfy [East]” group-title=”T.V”,[COLOR steelblue][I][B]Sportsnet 360 [/B][/I][/COLOR]
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1,HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,Fox HD
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+#EXTINF:-1,CarolCablesTV (Florida) mmsh
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+#EXTINF:-1,Channel 6 - City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1?husham.com
+#EXTINF:-1,City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+
+#EXTINF:-1,Optation Action
+http://198.179.31.181:1935/vodlast/1173.low.m4v/playlist.m3u8
+
+#EXTINF:-1,Ebru TV
+http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
+#EXTINF:-1,AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+#EXTINF:-1,Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+
++-*SRF 1 http://81.92.105.132:5555/pl.m3u8?channel=1&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC SRF zwei http://81.92.105.132:5555/pl.m3u8?channel=2&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC SRF info http://81.92.105.132:5555/pl.m3u8?channel=3&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC Das Erste http://81.92.105.132:5555/pl.m3u8?channel=4&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC ZDF http://81.92.105.132:5555/pl.m3u8?channel=5&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC SWR BW http://81.92.105.132:5555/pl.m3u8?channel=6&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC ORF eins http://81.92.105.132:5555/pl.m3u8?channel=7&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC ORF 2 http://81.92.105.132:5555/pl.m3u8?channel=8&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC 3sat http://81.92.105.132:5555/pl.m3u8?channel=9&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC ARTE DE http://81.92.105.132:5555/pl.m3u8?channel=10&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC ATV http://81.92.105.132:5555/pl.m3u8?channel=11&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC Bibel TV http://81.92.105.132:5555/pl.m3u8?channel=12&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC BR Alpha http://81.92.105.132:5555/pl.m3u8?channel=13&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC BremenTV http://81.92.105.132:5555/pl.m3u8?channel=14&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC Welt der Wunder http://81.92.105.132:5555/pl.m3u8?channel=15&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC DisneyDE http://81.92.105.132:5555/pl.m3u8?channel=16&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC Deluxe Music http://81.92.105.132:5555/pl.m3u8?channel=17&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC DMAX http://81.92.105.132:5555/pl.m3u8?channel=18&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC DW TV http://81.92.105.132:5555/pl.m3u8?channel=19&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC Eins Festival http://81.92.105.132:5555/pl.m3u8?channel=20&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC EinsPlus http://81.92.105.132:5555/pl.m3u8?channel=21&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC ERF eins http://81.92.105.132:5555/pl.m3u8?channel=22&key=KEnqZgCuHIbqmSfB2eJJnVVxm5XAhi&client=DEVICE_MAC
+
+
+#EXTM3U
+#EXTINF:-1, Sport 1
+rtmp://5.189.144.85/live?auth=122c83469d1e8b37eea4358e14589a377921a09e96b34b349bacec1ec950bbd6//sport1
+#EXTINF:-1, Eurosport
+rtmp://5.189.144.85/live?auth=a35248be6db3c9c87dc58a60463ca44c168250b50e9af0e97bd28f0ed0b2a3ac//eurosport_de
+#EXTINF:-1, DMAX
+rtmp://5.189.144.85/live?auth=4b7111dee73eec1dbba709c65a1ce9d39921d54773d0795dee39a2e850879f10//dmax_ch
+#EXTINF:-1, Nickelodeon
+rtmp://5.189.144.85/live?auth=6f50c765572a764a3e4845e5b0e6f1d426ff0bf4880272a7462e7307b657a2f7//nickelodeon
+#EXTINF:-1, ZDF
+rtmp://5.189.144.85/live?auth=9887fe3f3c1ae7654b29dc0e44084d374be73cd4a665f381d2bf772bfaf06b1a//zdf
+#EXTINF:-1, ARD
+rtmp://5.189.144.85/live?auth=8ec35ed863dbe4b1898589eb47773ba4858bbd33c22b6a6145946635a81f6942//ard
+#EXTINF:-1, 3Sat
+rtmp://5.189.144.85/live?auth=f2803c3096a0b8eaf6452e2758b0ffba93dd0c75bb449dffda77faf37bf84894//3sat_ch
+#EXTINF:-1, KIKA
+rtmp://5.189.144.85/live?auth=bfb2e4fb88134b093c4e98f0b67350bc113328c4b84d812f12a0bc3cc1c0bc81//kika
+#EXTINF:-1, MDR
+rtmp://5.189.144.85/live?auth=960c6cb2c002dd6a8bd8f4a35bf5ffbd7b52892a9de04cc54cbdcf824cb9ae37//mdr
+#EXTINF:-1, N24
+rtmp://5.189.144.85/live?auth=bd3f39002f1e96279bb34e809940a2ac4221d08d3a38e4c03ebd36bcbeaac741//n24_ch
+#EXTINF:-1, Arte
+rtmp://5.189.144.85/live?auth=b8a9a1e44d3d47a4264ca6c76e2b52a298528958c2121c74a5f01b1e775514a7//arte_de
+#EXTINF:-1, WDR
+rtmp://5.189.144.85/live?auth=ebde474cf3e65be9b3db81f96b28d7258876e6e9343854bdbe8e344fb7bcd0d7//wdr
+#EXTINF:-1, Deluxe Music
+rtmp://5.189.144.85/live?auth=60d141cfb8845c22b86cdb1f1f4e20b28f18fa1366446f8a7cfb6d5e625cba09//deluxemusic
+#EXTINF:-1, BR3
+rtmp://5.189.144.85/live?auth=82aac0d321d7a9c961b593f8dded26f439c42527a7057c3f4fe32f3db40ccdec//bayern3
+#EXTINF:-1, SWR
+rtmp://5.189.144.85/live?auth=9c656989975fd5322b67da1eebd80c4de993a2bae1540c755817ad2da8276802//swr
+#EXTINF:-1, Deutsche Musik Fernsehen
+rtmp://5.189.144.85/live?auth=c1645730a6c795223fa46ca950805704192ca1b650f71c4cb5e5fc6717c7d037//deutschesmusikfernsehen
+#EXTINF:-1, Bloomberg
+rtmp://5.189.144.85/live?auth=5621327a6a4aef83f58ab1b74480ff492431b40fbc489fc18c37fb88bc4cf3a1//bloombergtv
+#EXTINF:-1, RIC
+rtmp://5.189.144.85/live?auth=8683512cc9360b9365167ea2720eeaac3ea32b9de67050282ccf4a2b0b192ede//rictv
+#EXTINF:-1, NDR
+rtmp://5.189.144.85/live?auth=592b0b1c433549b63e6bbd6b7c797a8274638769aea0e4beb04df6505d418d2a//ndr
+
+
+Limited-Time Discount: Life-Time Contributor is NOW at discounted price 100 USD instead of 150 USD
+Read here for details:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=1&topicid=1581
+
+Your Ultimate HD Sports Source: http://hd-sportbits.org
+
+Follow Reborn4HD On Private Sports Tracker: http://hd-sportbits.org
+Follow Reborn4HD On Twitter: https://twitter.com/kcplayoffs
+
+
+Simply donate for Life-Time Contributor on HD-SportBits.org
+
+and get access to ALL the following sports in HD quality year after year:
+
+
+F1 Racing Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=11&topicid=1453
+
+NBA Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=5&topicid=1426
+
+NFL Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=6&topicid=1424
+
+NHL Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=8&topicid=1446
+
+MLB Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=7&topicid=1423
+
+NCAA Basketball Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=13&topicid=1421
+
+WNBA Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=5&topicid=1447
+
+WWE Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=9&topicid=1422
+
+English Premier League (EPL) Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1419
+
+Spanish La Liga Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1444
+
+German Bundesliga Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1445
+
+UEFA Champions League Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1417
+
+UEFA Europa League Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1418
+
+UEFA Euro 2016 Qualifiers Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1448
+
+English FA Cup Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1420
+
+Major League Soccer (MLS) Capping Schedule:
+http://hd-sportbits.org/forums.php?action=viewtopic&forumid=10&topicid=1425
+
+
+
+Scheduled Rips for 2015.05.22 - 1 games (3 Rips)
+---------------------------------------------------
+2015.05.22 - 08:30 PM (ET) - Cleveland Cavaliers @ Atlanta Hawks - Home Feed (720p@60fps+30fps/540p)
+
+**********************************************************************
+use 'Ctrl+F', type your team name, and you will find links easily
+
+Playback tip:
+Install latest K-Lite Codec Pack [full] and use MPC for best playback
+**********************************************************************
+
+
+
+=================================================================================================
+2015.05.22 - 08:30 PM (ET) - Cleveland Cavaliers @ Atlanta Hawks - Home Feed (720p@60fps+30fps/540p)
+=================================================================================================
+
+HD 720p @ 60fps / 4500 Kbps / H264 / AAC / 1280x720 / %Cavaliers.vs.Hawks.Home.720p.60fps.Size%
+
+Download Single Link: (MKV)
+---------------------------
+%Inclouddrive.Cavaliers.vs.Hawks.Home.720p.60fps.Full%
+
+
+
+HD 720p @ 30fps / 3000 Kbps / H264 / AAC / 1280x720 / %Cavaliers.vs.Hawks.Home.720p.30fps.Size%
+
+Download Single Link: (MKV)
+---------------------------
+%Inclouddrive.Cavaliers.vs.Hawks.Home.720p.30fps.Full%
+
+
+
+HQ 540p @ 30fps / 1600 Kbps / H264 / AAC / 960x540 / %Cavaliers.vs.Hawks.Home.540p.30fps.Size%
+
+Download Single Link: (MKV)
+---------------------------
+%Inclouddrive.Cavaliers.vs.Hawks.Home.540p.30fps.Full%
+
+
+
+
+Follow Reborn4HD On Private Sports Tracker: http://hd-sportbits.org 
+Follow Reborn4HD On Twitter: https://twitter.com/kcplayoffs
+Enjoy!

@@ -1,0 +1,823 @@
+﻿#EXTM3U
+#EXTINF:-1,[COLOR gold]IPTV/flashs links come and go[/COLOR]
+rtmp://80.252.165.110/
+#EXTINF:-1,[COLOR lime]Some streams have dual Audio[/COLOR]
+rtmp://80.252.165.110/
+#EXTINF:-1,....
+rtmp://80.252.165.110/
+
+#EXTINF:-1,................................................
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,.......HD SPORTS EVENTS & Random UK & US CH some 24/7.......
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,.......Check the CH to see whats on...............
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,SPORTS 1     
+rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+#EXTINF:-1,SPORTS 2  
+rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+#EXTINF:-1,SPORTS 3 
+rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+#EXTINF:-1,SPORTS 4 
+rtmp://server.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+#EXTINF:-1,SPORTS 5 
+rtmp://server.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s 
+#EXTINF:-1,SPORTS 6  
+rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s 
+#EXTINF:-1,SPORTS 7  
+rtmp://server.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s 
+#EXTINF:-1,SPORTS 8 
+rtmp://server.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s 
+
+#EXTINF:-1,...........some have no sound.....................
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,event 1
+rtmp://178.217.185.120:1935/live/_definst_/channel1 
+#EXTINF:-1,event 2
+rtmp://178.217.185.120:1935/live/_definst_/channel2 
+#EXTINF:-1,event 3
+rtmp://178.217.185.120:1935/live/_definst_/channel4 
+#EXTINF:-1,event 4
+rtmp://178.217.185.120:1935/live/_definst_/channel5 
+#EXTINF:-1,event 5
+rtmp://178.217.185.120:1935/live/_definst_/channel6 
+#EXTINF:-1,event 6
+rtmp://178.217.185.120:1935/live/_definst_/channel8 
+#EXTINF:-1,event 7
+rtmp://178.217.185.120:1935/live/_definst_/channel10 
+#EXTINF:-1,event 8
+rtmp://178.217.185.120:1935/live/_definst_/channel11 
+#EXTINF:-1,event 9
+rtmp://178.217.185.120:1935/live/_definst_/channel12 
+#EXTINF:-1,event 10
+rtmp://178.217.185.120:1935/live/_definst_/channel13 
+#EXTINF:-1,event 11
+rtmp://178.217.185.120:1935/live/_definst_/channel14 
+#EXTINF:-1,event 12
+rtmp://178.217.185.120:1935/live/_definst_/channel15
+
+
+#EXTINF:-1,................................
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,.......SPORTS LIST............
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,...flash links.........
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,................................
+http://178.150.237.199:4760/udp/
+
+
+#EXTINF:-1,SKY SPORTS NEWS 
+rtmpe://31.220.0.12/live playpath=skyspoonews swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=skyspoonews&vw=690&vh=420 --live 
+
+#EXTINF:-1,Sky Sports 1 
+rtmp://31.220.0.86:1935/live playpath=kingsx1 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kingsx1&vw=620&vh=490
+#EXTINF:-1,Sky Sports 1 a
+rtmpe://46.246.124.26:1935/live/ playpath=sskys1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1,Sky Sports 2  
+rtmp://31.220.0.194:1935/live playpath=kings2 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kings2&vw=620&vh=490
+#EXTINF:-1'Sky Sports 2 a
+rtmpe://46.246.124.26:1935/live/ playpath=sskys2  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1,Sky Sports 3
+rtmp://31.220.0.194:1935/live playpath=kings3 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kings3&vw=620&vh=490
+#EXTINF:-1,Sky Sports 3 a
+rtmpe://46.246.124.26:1935/live/ playpath=sskys3  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1,Sky Sports 4 
+rtmp://31.220.0.103:1935/live playpath=kings4 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kings4&vw=620&vh=490
+#EXTINF:-1,Sky Sports 4 a
+rtmpe://46.246.124.26:1935/live/ playpath=sskys4  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1,Sky Sports 5 
+rtmp://31.220.0.103:1935/live playpath=kings5 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kings5&vw=620&vh=490
+#EXTINF:-1,Sky Sports 5 a
+rtmpe://46.246.124.26:1935/live/ playpath=sskys5  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1,Sky Sports F1
+rtmp://31.220.0.103:1935/live playpath=ssf1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1,BT SPORT 1 
+rtmp://31.220.0.196:1935/live playpath=kingbt1 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kingbt1&vw=620&vh=490
+
+#EXTINF:-1,BT Sport 2 
+rtmp://31.220.0.194:1935/live playpath=kingbt2 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kingbt2&vw=620&vh=490
+
+#EXTINF:-1,UK:ESPN UK  
+rtmpe://46.246.124.84/live playpath=espn2250 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=espn2250&vw=690&vh=420 --live 
+
+#EXTINF:-1,Setanta Sports 
+rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku
+
+#EXTINF:-1,UK:PREMIER SPORTS UK 
+rtmpe://31.220.0.12/live playpath=premuio swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=premuio&vw=690&vh=420 --live
+
+#EXTINF:-1,SPORT:TSN1 
+rtmp://31.220.0.82:1935/live playpath=tsn1x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z 
+#EXTINF:-1,SPORT:TSN2 
+rtmp://31.220.0.82:1935/live playpath=tsn2x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z 
+
+#EXTINF:-1,SPORT:FOX SPORT 1 USA 
+rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z 
+#EXTINF:-1,SPORT:FOX SPORT 2 USA 
+rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
+
+#EXTINF:-1, FOXSPORT 1 USA
+rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@‪#‎Z‬
+#EXTINF:-1, FOXSPORT 2 USA
+rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1,Bein Sport HD 11 
+rtmpe://5.153.233.82:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=11b761 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport HD 12 
+rtmpe://5.153.233.82:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=12b994 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/
+
+#EXTINF:-1,Bein Sports 11 
+rtmp://31.220.0.194:1935/live playpath=bn11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1,Bein Sports 12 
+rtmp://31.220.0.194:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1,ArenaSport 1 
+rtmp://146.185.253.120:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce# 
+#EXTINF:-1,ArenaSport 2 
+rtmp://146.185.253.120:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce# 
+#EXTINF:-1,ArenaSport 3 
+rtmp://146.185.253.120:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce# 
+#EXTINF:-1,ArenaSport 4 
+rtmp://146.185.253.120:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
+
+#EXTINF:-1,................................
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,...IPTV links.........
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,................................
+http://178.150.237.199:4760/udp/
+
+#EXTINF:0,Sky Sports 5 
+http://178.162.192.214:2006
+
+#EXTINF:0,Sports net one HD
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on#AnisotropicTV
+
+#EXTINF:-1,Sportsnet East  
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1,Sportsnet Pacific  
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#EXTINF:-1,Sportsnet West  
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+#EXTINF:-1,Sportsnet Extra 1 
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1,Sportsnet events a
+http://rogerslive-i.akamaihd.net/hls/live/202804/event/index.m3u8
+#EXTINF:-1,Sportsnet events b
+http://rogerslive-i.akamaihd.net/hls/live/202805/event/index.m3u8
+
+#EXTINF:-1,SUPERSPORT 1 HD
+http://89.212.240.49:11980/live/smil:424_0.smil/playlist.m3u8
+#EXTINF:-1,SUPERSPORT 2 HD
+http://89.212.240.49:11980/live/smil:425_0.smil/playlist.m3u8
+#EXTINF:-1,SUPER SPORT 3 HD
+http://89.212.240.49:11980/live/smil:426_0.smil/playlist.m3u8
+#EXTINF:-1,SUPER SPORT 4 HD
+http://89.212.240.49:11980/live/smil:427_0.smil/playlist.m3u8
+#EXTINF:-1,SUPER SPORT 5 HD
+http://89.212.240.49:11980/live/smil:428_0.smil/playlist.m3u8
+
+#EXTINF:-1,Setanta Sports (dual Audio)
+http://80.77.52.6:4022/udp/230.0.4.1:12345 
+#EXTINF:-1,Viasat Sport (ESPN USA)
+http://80.77.52.6:4022/udp/230.0.3.58:12345
+
+#EXTINF:0,Viasat Sport  (ESPN USA) 
+http://178.76.254.162:4022/udp/226.100.10.22:2000 
+
+#EXTINF: -1,Setanta Sports a
+http://202.75.23.36/live/ch44/02.m3u8
+#EXTINF: -1,Setanta Sports b
+http://202.75.23.36/live/ch44/03.m3u8
+
+#EXTINF:-1,SK 1
+http://91.187.113.203:10030 
+
+#EXTINF:-1, SK 1/2
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/index.m3u8 
+#EXTINF:-1, SK 3
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/index.m3u8
+
+#EXTINF:-1,Sportklub 1 
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/Stream(03)/index.m3u8
+#EXTINF:-1,Sportklub 2 
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/Stream(02)/index.m3u8 
+#EXTINF:-1,Sportklub 3 
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/Stream(02)/index.m3u8 
+
+#EXTINF:-1,FOXSPORTS 1 
+rtmp://zfu2.mvp6886.net/zfs/jdai-34idss2 
+#EXTINF:-1,FOXSPORTS 2 
+rtmp://zfu2.mvp6886.net/zfs/g0o37qmf041h
+
+#EXTINF:-1,POLSAT SPORT
+rtmp://94.102.56.186/freelivestream/poldslk 
+
+#EXTINF:-1,Gol Tv latino 
+http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1,EDC Sports  
+http://tvhdslive-f.akamaihd.net/i/EDCSPORTHDS_1@108870/index_4_av-b.m3u8?sd=10&rebase=on&rebase=on
+
+#EXTINF:-1,KANALSPORT HD 
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8
+
+#EXTINF:-1,SportKlub 1 
+http://89.212.160.139:4022/udp/239.11.2.118:5000 
+#EXTINF:-1,SportKlub 2 
+http://89.212.160.139:4022/udp/239.12.2.180:5000 
+#EXTINF:-1,SportKlub 3 
+http://89.212.160.139:4022/udp/239.11.2.120:5000 
+#EXTINF:-1,SportKlub 4 
+http://89.212.160.139:4022/udp/239.12.2.176:5000 
+
+#EXTINF:-1,Sports Tv
+http://176.43.0.149/PLTV/88888888/224/3221226721/03.m3u8 
+#EXTINF:-1,TRT SPOR 
+http://176.43.0.133/PLTV/88888888/224/3221227296/04.m3u8 
+#EXTINF:-1,NTV SPOR 
+http://176.43.0.131/PLTV/88888888/224/3221227308/04.m3u8 
+#EXTINF:-1,SPORTS TV 
+http://176.43.0.149/PLTV/88888888/224/3221226721/04.m3u8 
+
+#EXTINF: -1,GMG 1 sport
+http://80.77.52.6:4022/udp/230.0.6.4:12345
+#EXTINF: -1,GMG 2 sport
+http://80.77.52.6:4022/udp/230.0.6.2:12345 
+#EXTINF: -1,GMG 3 sport
+http://80.77.52.6:4022/udp/230.0.6.3:12345 
+
+#EXTINF:-1,Fight Sports a 
+http://202.75.23.37:1400/live/ch20/03.m3u8 
+#EXTINF:-1,Fight Sports b 
+http://202.75.23.37:1400/live/ch20/02.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1 
+http://202.75.23.37/live/ch18/03.m3u8 
+#EXTINF:-1,BEIN SPORTS 1 a
+http://202.75.23.37/live/ch18/01.m3u8 
+#EXTINF:-1,BEIN SPORTS 2 
+http://202.75.23.37/live/ch19/03.m3u8 
+#EXTINF:-1,BEIN SPORTS 2 a
+http://202.75.23.37/live/ch19/01.m3u8
+#EXTINF:-1,ASN SPORTS 
+http://202.75.23.33/live/ch26/03.m3u8
+#EXTINF:-1,EURO SPORTS 
+http://202.75.23.37/live/ch21/03.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1
+rtmp://213.136.71.43/live/beinsports1?Sport.HD
+#EXTINF:-1,BEIN SPORTS 2
+rtmp://213.136.71.43/live/beinsports2?Sport.HD
+#EXTINF:-1,BEIN SPORTS 3
+rtmp://213.136.71.43/live/beinsports3?Sport.HD
+
+#EXTINF:0,BEIN2 FR 
+http://beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8 
+#EXTINF:0,BEIN1 FR 
+http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8 
+#EXTINF:0,BEIN2 FR 
+http://beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8 
+#EXTINF:0,BEIN1 FR 
+http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8 
+#EXTINF:0,eurosport 
+http://eurosport-hls.live.numericable.tv/live/hls/eurosport/ipad.m3u8 
+#EXTINF:0,eurosport2 
+http://eurosport2-hls.live.numericable.tv/live/hls/eurosport2/ipad.m3u8
+
+#EXTINF:-1,TEN CRICKET 
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6 
+
+#EXTINF:-1,Dubai sports 3
+http://dmilivedubaisports3.ios.internapcdn.net/dmiLiveDubaiSports3/live_1/dmilivedubaisports3_3/CCURstream1029600.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 
+http://62.63.207.51\4242\239.193.0.92\5648@beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8
+
+#EXTINF: -1,C sports HD 
+http://80.244.88.184:8001/1:0:1:12E:3:46:E080000:0:0:0:
+
+#EXTINF:0,ARENA SPORT 1 
+http://93.184.81.71:8180/
+
+#EXTINF:-1,ARENA Sport 1 
+http://185.6.104.187:10049/ 
+
+#EXTINF:-1,sport 1 hd
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+#EXTINF:-1,Kanal Sports 
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8
+
+#EXTINF:-1,SPORT 5
+http://212.79.96.134:8023
+#EXTINF:-1,SPORT 0 
+http://81.201.52.159:8014
+
+#EXTINF:-1,NTV Spor
+http://185.6.104.114:9982/udp/239.210.10.5:1234
+
+#EXTINF:-1,beINSport1 
+http://149.255.39.122/aasd/8817/index.m3u8
+#EXTINF:-1,Rai sports 1
+http://149.255.39.122/aasd/8816/index.m3u8
+#EXTINF:-1,EuroSport 2
+http://149.255.39.122/aasd/8815/index.m3u8
+#EXTINF:-1,EuroSport 1
+http://149.255.39.122/aasd/8814/index.m3u8
+
+#EXTINF:-1,Super Sport News 
+http://149.255.39.122/aasd/8733/index.m3u8 
+#EXTINF:-1,Super Sport 2 
+http://149.255.39.122/aasd/8734/index.m3u8 
+#EXTINF:-1,Super Sport 3 
+http://149.255.39.122/aasd/8741/index.m3u8 
+#EXTINF:-1,Super Sport 3/4 
+http://149.255.39.122/aasd/8743/index.m3u8
+
+#EXTINF:-1,mbc prosports 1 
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8 
+#EXTINF:-1,mbc prosports 2 
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8 
+#EXTINF:-1,mbc prosports 3 
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8 
+#EXTINF:-1,mbc prosports 4 
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+
+#EXTINF:-1,FOX SPORT 1  
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX SPORT 2 
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Sports Night tv
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1,Nova Sport 
+http://ts://212.79.96.134:8023/ 
+
+#EXTINF:-1,Czech:CT SPORT 
+http://212.79.96.134:8014/ 
+ 
+#EXTINF:-1,Sport Moldova 
+http://sportmoldova.web.tvbox.md/ 
+
+#EXTINF:-1,Smart HD
+http://88.150.236.173:8080/smarthd
+
+#EXTINF:-1,TURK Sports Tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/hasbahca.m3u8
+
+#EXTINF:-1,sportmax
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8 
+
+#EXTINF:-1,Gol TV
+http://www.ienlace-tv.com:1935/live12/livestream1.sdp/SAT_TOTAL.m3u8?sd=10&rebase=on#AnisotropicTV
+
+#EXTINF:-1,BTV Sports
+rtsp://YEY.234.5.2.43@58.200.131.2/btv-6-hd
+ 
+#EXTINF:0,XSport 
+http://109.251.37.94:7777/udp/239.99.4.11:5004
+ 
+#EXTINF:0,Sport 1 
+http://77.90.73.1:4022/udp/239.255.255.50:1234 
+
+#EXTINF:0,Football 
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+#EXTINF:-1,Fighter
+http://80.77.52.6:4022/udp/230.0.4.4:12345
+
+#EXTINF:-1,EUROSPORT HD FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+#EXTINF:-1,EUROSPORT HD 
+http://149.255.39.122/aasd/8814/index.m3u8 
+#EXTINF:0,EUROSPORT 2 HD 
+http://149.255.39.122/aasd/8815/index.m3u8 
+
+#EXTINF:-1,Eurosport
+http://80.77.52.6:4022/udp/230.0.3.11:12345
+#EXTINF:-1,Eurosport 2
+http://80.77.52.6:4022/udp/230.0.3.12:12345 
+
+#EXTINF:-1,O Sport 
+http://ts://212.79.96.134:8014/ 
+#EXTINF:-1,Nova Sport 
+http://ts://212.79.96.134:8023/ 
+
+#EXTINF:-1,Bahrain Sport
+rtmp://alayam.netromedia.net/btv3/btv3
+
+#EXTINF:-1,MOTORSPORT USA 
+http://digiquest.forumo.de@motorsport.hopto.org:8080/
+
+#EXTINF:-1,Luna Sport  
+rtmp://vs2.streamcaster.net/test_live/lunasport
+#EXTINF:-1,tile sport
+rtmp://tv1.streampulse.eu/tilesport/movie1
+
+#EXTINF:-1,TVG+ latino
+rtmp://204.107.26.252:8086/live/213.high.stream
+
+#EXTINF:-1,Antena 3 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.101/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.101/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,NTV + Football 
+http://92.63.88.19:8001/57 
+#EXTINF:-1,NTV + Sport Union 
+http://92.63.88.19:8001/59 
+#EXTINF:-1,NTV + Football 2 
+http://92.63.88.19:8001/61 
+#EXTINF:-1,NTV + our football 
+http://92.63.88.19:8001/62 
+#EXTINF:-1,NTV + Sport 
+http://92.63.88.19:8001/51 
+#EXTINF:-1,NTV + SportHit 
+http://92.63.88.19:8001/95 
+#EXTINF:-1,NTV + Sport Plus 
+http://92.63.88.19:8001/32 
+#EXTINF:-1,NTV + Basketball 
+http://92.63.88.19:8001/33 
+#EXTINF:-1,NTV + Tennis 
+http://92.63.88.19:8001/66 
+#EXTINF:-1,Viasat Sport 
+http://92.63.88.19:8001/106 
+#EXTINF:-1,Sports 
+http://92.63.88.19:8001/47 
+#EXTINF:-1,Sports 1 
+http://92.63.88.19:8001/21 
+#EXTINF:-1,Eurosport 
+http://92.63.88.19:8001/22 
+#EXTINF:-1,Eurosport 2 
+http://92.63.88.19:8001/58 
+#EXTINF:-1,Fight Club 
+http://92.63.88.19:8001/35 
+#EXTINF:-1,Fighter 
+http://92.63.88.19:8001/60 
+#EXTINF:-1,Motors TV 
+http://92.63.88.19:8001/37 
+#EXTINF:-1,X Sport 
+http://92.63.88.19:8001/70 
+
+#EXTINF:-1,......flash links............
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,bein sports hd 1 
+rtmp://88.86.125.177:1935/live playpath=bn1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn1&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 2 
+rtmp://88.86.125.177:1935/live playpath=bn2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn2&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 3 
+rtmp://88.86.125.177:1935/live playpath=bn3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn3&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 4 
+rtmp://88.86.125.177:1935/live playpath=bn4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn4&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 5 
+rtmp://88.86.125.177:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn5&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 6 
+rtmp://88.86.125.177:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn6&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 7 
+rtmp://88.86.125.177:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn7&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 8 
+rtmp://88.86.125.177:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn8&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 9 
+rtmp://88.86.125.177:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 10 
+rtmp://88.86.125.177:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn10&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 11 
+rtmp://88.86.125.177:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 12 
+rtmp://88.86.125.177:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 13 
+rtmp://88.86.125.177:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn13&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 14 
+rtmp://88.86.125.177:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn14&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+#EXTINF:-1,bein sports hd 15 
+rtmp://88.86.125.177:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10  
+
+#EXTINF:-1,......flash links............
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,BEIN SPORT 1 HD
+rtmp://31.220.0.194:1935/live playpath=bn1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn1&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 2 HD
+rtmp://31.220.0.194:1935/live playpath=bn2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn2&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 3 HD
+rtmp://31.220.0.194:1935/live playpath=bn3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn3&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 4 HD
+rtmp://31.220.0.194:1935/live playpath=bn4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn4&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 5 HD
+rtmp://31.220.0.194:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn5&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 6 HD
+rtmp://31.220.0.194:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn6&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 7 HD
+rtmp://31.220.0.194:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn7&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 8 HD
+rtmp://31.220.0.194:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn8&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 9 HD
+rtmp://31.220.0.194:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 10 HD
+rtmp://31.220.0.194:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn10&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 11 HD
+rtmp://31.220.0.194:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn11&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 12 HD
+rtmp://31.220.0.194:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 13 HD
+rtmp://31.220.0.194:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn13&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 14 HD
+rtmp://31.220.0.194:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn14&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+#EXTINF:-1,BEIN SPORT 15 HD
+rtmp://31.220.0.194:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn15&vw=620&vh=490 token=%ZZri(nKa@#Z --live
+
+#EXTINF:-1,......iptv links.........
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,BEINSPORT-3:beIN Sport 1
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport1/sport1/sport1.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 6
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 7
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport7/sport7/sport7.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINSPORT-3:beIN Sport 8
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport8/sport8/sport8.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINHD++:BEIN2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINHD++:BEIN3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINHD++:BEIN 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,BEINHD++:BEIN5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?mfamwuUL6IpOXDJ8WwxJ
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,TRT SPOR 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Sport 1 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport1/sport1/sport1.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,beINSport2 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,beINSport3 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,beINSport4 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,beINSport5 
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,beINSport6 
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?mfamwuUL6IpOXDJ8WwxJ 
+#EXTINF:-1,beINSport7 
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport7/sport7/sport7.m3u8?mfamwuUL6IpOXDJ8WwxJ 
+#EXTINF:-1,beINSport8 
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport8/sport8/sport8.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:0,Eurosport 
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:0,Eurosport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:0,NTV sport
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8?mfamwuUL6IpOXDJ8WwxJ
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,True Sports 1
+http://103.22.181.141:1935/liveedge/tsp1.stream/playlist.m3u8
+#EXTINF:-1,True Sports HD1
+http://103.22.181.141:1935/liveedge/tsphd1.stream/playlist.m3u8
+#EXTINF:-1,True Sports 1
+http://103.22.181.141:1935/liveedge/tsp2.stream/playlist.m3u8
+#EXTINF:-1,True Sports HD2
+http://103.22.181.141:1935/liveedge/tsphd2.stream/playlist.m3u8
+#EXTINF:-1,True Sports 3
+http://103.22.181.141:1935/liveedge/tsp3.stream/playlist.m3u8 
+#EXTINF:-1,True Sports 4
+http://103.22.181.141:1935/liveedge/tsp4.stream/playlist.m3u8
+#EXTINF:-1,True Sports 5
+http://103.22.181.141:1935/liveedge/tsp5.stream/playlist.m3u8
+#EXTINF:-1,True Sports 6 
+http://103.22.181.141:1935/liveedge/tsp6.stream/playlist.m3u8 
+#EXTINF:-1,True Sports 7
+http://103.22.181.141:1935/liveedge/tsp7.stream/playlist.m3u8
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,Eurosport HD 
+http://149.255.39.122/aasd/8814/index.m3u8 
+#EXTINF:-1,Eurosport 2 HD 
+http://149.255.39.122/aasd/8815/index.m3u8 
+#EXTINF:-1,Rai sport1 
+http://149.255.39.122/aasd/8816/index.m3u8 
+#EXTINF:-1,HRT1 
+http://149.255.39.122/aasd/8830/index.m3u8 
+#EXTINF:-1,ATV 
+http://149.255.39.122/aasd/8835/index.m3u8 
+#EXTINF:-1,DM Sat 
+http://149.255.39.122/aasd/8840/index.m3u8 
+#EXTINF:-1,K3 
+http://149.255.39.122/aasd/8848/index.m3u8 
+#EXTINF:-1,Super SPort 3 HD 
+http://149.255.39.122/aasd/8741/index.m3u8 
+#EXTINF:-1,DIGI AKSION 
+http://149.255.39.122/aasd/8742/index.m3u8 
+#EXTINF:-1,Super Sport 4 HD 
+http://149.255.39.122/aasd/8743/index.m3u8 
+#EXTINF:-1,Arta Ktv 
+http://149.255.39.122/aasd/8745/index.m3u8 
+#EXTINF:-1,21HD 
+http://149.255.39.122/aasd/8748/index.m3u8 
+#EXTINF:-1,Super Sport News HD 
+http://149.255.39.122/aasd/8733/index.m3u8 
+#EXTINF:-1,Super Sport 2 HD 
+http://149.255.39.122/aasd/8734/index.m3u8 
+#EXTINF:-1,Folklorit 
+http://149.255.39.122/aasd/8735/index.m3u8 
+#EXTINF:-1,BANG BANG 
+http://149.255.39.122/aasd/8737/index.m3u8
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:BeIn Sports1
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/136.ch
+#EXTINF:BeIn Sports2
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/137.ch
+#EXTINF:BeIn Sports3
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/138.ch
+#EXTINF:BeIn Sports4
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/139.ch
+#EXTINF:BeIn Sports5
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/140.ch
+#EXTINF:BeIn Sports6
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/141.ch
+#EXTINF:BeIn Sports7
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/142.ch
+#EXTINF:BeIn Sports8
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/143.ch
+#EXTINF:BeIn Sports9
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/144.ch
+#EXTINF:BeIn Sports10
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/145.ch
+#EXTINF:BeIn Sports11
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/146.ch
+#EXTINF:BeIn Sports12
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/147.ch
+#EXTINF:BeIn Sports13
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/148.ch
+#EXTINF:BeIn Sports14
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/149.ch
+#EXTINF:BeIn Sports15
+http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/150.ch
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,SPORT TIME TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1,SPORT TIME TV 1HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1,SPORT TIME TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1,SPORT TIME TV 2HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1,SPORT TIME TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1,SPORT TIME TV 3HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1,SPORT TIME TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1,SPORT TIME TV 4HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1,SPORT TIME TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1,SPORT TIME TV 5HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1,SPORT TIME TV 6HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1,SPORT TIME TV 6HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1,SPORT TIME TV7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:-1,SPORT TIME TV7 HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:0,BIG TEN NETWORK HD (iptv)
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
+
+#EXTINF:-1, Pac National 1080 HD 
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, Pac Arizona 1080 HD 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, Pac Bay Area 720 HD 
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, Pac Los Angeles 1080 HD 
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, Pac Mountain 1080 HD 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, Pac Oregon 1080 HD 
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, Pac Washington 1080 HD 
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,......flash.....
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,......
+http://178.150.237.199:4760/udp/
+
+#EXTINF:-1,SKYSPORTS 1 i
+rtmp://88.86.125.177:1935/live playpath=sky01ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKYSPORTS 2 i
+rtmp://88.86.125.177:1935/live playpath=skyita2new swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKYSPORTS 3 i
+rtmp://88.86.125.177:1935/live playpath=sky03itanew pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1,SPORT TV 1 
+rtmp://81.17.23.118:1935/stream/ playpath=0eq8ofAoHN.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 
+#EXTINF:-1,SPORT TV 2 
+rtmp://81.17.23.118:1935/stream/ playpath=1pVBrB2L7W.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 
+#EXTINF:-1SPORT TV 3 
+rtmp://intel.tvzune.org/live/ playpath=sporttv3 swfUrl=http://mudade5em5dias.tvzune.co/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/ 
+#EXTINF:-1,SPORT TV LIVE 
+rtmp://intel.tvzune.org/live playpath=sporttv4 swfUrl=http://mudade5em5dias.tvzune.co/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/ 
+#EXTINF:-1,BENFICA TV 
+rtmp://live.2caster.com/live/ playpath=btv4 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 
+#EXTINF:-1,BENFICA TV 2 
+rtmp://live.2caster.com/live playpath=btv4 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.xuuby.com/ 
+#EXTINF:-1,BENFICA TV 3 
+rtmp://fire.tvzune.org/live playpath=benficatv swfUrl=http://mudade5em5dias.tvzune.co/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&benficatv 
+
+#EXTINF:-1,canal + futbol 
+rtmp://185.39.9.66:1735/vod?token=play@141157539902002 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php 
+#EXTINF:-1,fox sport latino 
+rtmp://185.39.9.66:1735/vod?token=play@141157623202633 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php 
+#EXTINF:-1,canal + liga 
+rtmp://185.39.9.66:1735/vod?token=play@141100124105295 playpath=tvb2 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php 
+#EXTINF:-1,Gol tv 
+rtmp://185.39.9.66:1735/vod?token=play@141100124105295 playpath=tvb1 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php 
+#EXTINF:-1,Canal + Dcine 
+rtmp://5.79.72.3/vl/_definst_ playpath=dcinessssssss swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=dcinessssssss&vw=720&vh=720&domain=tuscanalesonline.info 
+#EXTINF:-1,canal + deportes 
+rtmp://185.39.9.66:1735/vod?token=play@141157539902002 playpath=tvb3 swfUrl=http://www.hdmyt
+
+#EXTINF:0,sk1 
+http://stream1.mine.nu:8091/?c=sk1&u=emiradm1&p=emir1 
+#EXTINF:0,sk2 
+http://stream1.mine.nu:8091/?c=sk2&u=emiradm1&p=emir1 
+#EXTINF:0,sk3 
+http://stream1.mine.nu:8091/?c=sk3&u=emiradm1&p=emir1
+#EXTINF:0,arena1 
+http://stream1.mine.nu:8091/?c=arena1&u=emiradm1&p=emir1 
+#EXTINF:0,arena2 
+http://stream1.mine.nu:8091/?c=arena2&u=emiradm1&p=emir1 
+
+#EXTINF:-1,....
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,....Dead ch...
+http://178.150.237.199:4760/udp/
+#EXTINF:-1,....
+http://178.150.237.199:4760/udp/
+
+all channels on this page are found freely on the internet and there for take no reposibility of any copyright enfrigment
+
+all links come from
+http://www.enlacesiptv.es/
+http://sultanovici.clan.su/
+http://www.tvonlinestreams.com/
+http://www.navixtreme.com/wiilist/day.plx
+http://xty.me/vdubt25
+https://www.facebook.com/Th3technox.eu?fref=photo
+
+test iptv links on
+http://www.vlc.eu.pn/index.php
+

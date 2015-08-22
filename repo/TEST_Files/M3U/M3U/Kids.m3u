@@ -1,0 +1,37 @@
+﻿#EXTM3U
+#EXTINF:-1,ARABIC-AlJazeera_Kids
+http://38.99.146.37:7777/AlJazeeraKid_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700
+#EXTINF:-1,ARABIC-SAT7_Kids
+http://38.99.146.37:7777/Sat7Kid_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700
+#EXTINF:-1,BRASIL - NICKELODEON
+http://us.123rf.com/450wm/naypong/naypong1303/naypong130300194/18587909-no-hay-senal-imagenes-abstractas-senales-de-television.jpg
+#EXTINF:-1,BRASIL - Viamorena - Kids
+rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35/viamorena
+#EXTINF:-1,CHINA - CCTV14 Children
+http://hlslive1.cntv.wscdns.com/cache/15_/seg0/index=m3u8
+#EXTINF:-1,English-Discovery Kids Low 320*240
+http://202.75.23.35:1400/live/ch36/01.m3u8
+#EXTINF:-1,INT_OTHERS - CARTOON
+rtsp://72.13.93.186/campcartoon
+#EXTINF:-1,JAPAN-bskids
+rtsp://c.itvitv.com/bskids
+#EXTINF:-1,KOREA - J KIDS TV
+rtmp://111.118.21.75/ptv2/phd169
+#EXTINF:-1,KOREA-J KIDS TV
+http://lm02.everyon.tv:1935/ptv2/phd169/hasbahca.m3u8
+#EXTINF:-1,MISIR_EGYPTIAN-Nile Family and Kids
+http://185.6.104.114:9983/udp/239.210.10.62:1234?by_HasBahCa
+#EXTINF:-1,Serbia_Croatia-happy kids
+http://93.184.81.71:8099
+#EXTINF:-1,Serbia_Croatia-ORLANDO KIDS
+http://83.139.104.101/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-Pink Kids
+http://on108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Spain-DISCOVERY KIDS
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/master24 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,TÜRK - ÇIZGI FILM TV mms
+mms://yayin.networkbil.com/cizgifilmtv
+#EXTINF:-1,TURK - Minika Cocuk
+rtmp://$OPT:rtmp-raw=rtmp://159.253.145.140:443/minikacocuk playpath=minikacocuk3 swfUrl=http://i.tmgrup.com.tr/p/flowplayer-3.2.9.swf?i=1 pageUrl=http://www.minika.com.tr/minika_tv/minikacocuk live=1
+#EXTINF:-1,TURK - YUMURCAK TV
+http://82.220.10.66/udp/239.3.10.22:30000

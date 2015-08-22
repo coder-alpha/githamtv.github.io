@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="", Kids
+http://prozone.getxbmc.com/playlists/KIDS.m3u
+#EXTINF:-1 tvg-logo="", UK
+http://prozone.getxbmc.com/playlists/UK.m3u
+#EXTINF:-1 tvg-logo="", UK Freeview
+http://prozone.getxbmc.com/playlists/UK%20FREEVIEW.m3u
+#EXTINF:-1 tvg-logo="", UK Various
+http://prozone.getxbmc.com/playlists/UK%20VARIOUS.m3u
+#EXTINF:-1 tvg-logo="", List UK
+http://prozone.getxbmc.com/Patch/listaUK.m3u
+#EXTINF:-1 tvg-logo="", Canada
+http://prozone.getxbmc.com/playlists/CANADA.m3u
+#EXTINF:-1 tvg-logo="", BBC Channels
+http://prozone.getxbmc.com/playlists/BBC%20CHANNELS.m3u
+#EXTINF:-1 tvg-logo="", SILK HD
+http://prozone.getxbmc.com/playlists/SILK%20HD.m3u
+#EXTINF:-1 tvg-logo="", Radio
+http://prozone.getxbmc.com/playlists/RADIO.m3u
+#EXTINF:-1 tvg-logo="", Tring Channels
+http://prozone.getxbmc.com/playlists/TRING%20CHANNELS.m3u
+#EXTINF:-1 tvg-logo="", VEVO
+http://prozone.getxbmc.com/playlists/VEVO.m3u
+#EXTINF:-1 tvg-logo="", Webcams
+http://prozone.getxbmc.com/playlists/WEBCAMS.m3u
+
+#EXTINF:-1 tvg-logo="", ESPN
+http://prozone.getxbmc.com/playlists/ESPN.m3u
+#EXTINF:-1 tvg-logo="", Eurosport
+http://prozone.getxbmc.com/playlists/EUROSPORT.m3u
+#EXTINF:-1 tvg-logo="", HTB Sports
+http://prozone.getxbmc.com/playlists/HTB%20SPORTS.m3u
+#EXTINF:-1 tvg-logo="", Sky Sports
+http://prozone.getxbmc.com/playlists/SKY%20SPORTS.m3u
+#EXTINF:-1 tvg-logo="", Sport Klub
+http://prozone.getxbmc.com/playlists/SPORT%20KLUB.m3u
+#EXTINF:-1 tvg-logo="", Sport Mix
+http://prozone.getxbmc.com/playlists/SPORT%20MIX.m3u
+#EXTINF:-1 tvg-logo="", Sport Time Channels
+http://prozone.getxbmc.com/playlists/SPORT%20TIME%20CHANNELS.m3u
+#EXTINF:-1 tvg-logo="", WWE Network
+http://prozone.getxbmc.com/playlists/WWE%20NETWORK.m3u
+#EXTINF:-1 tvg-logo="", Motorsport Channels
+http://prozone.getxbmc.com/playlists/MOTORSPORT%20CHANNELS.m3u
+#EXTINF:-1 tvg-logo="", Music
+http://prozone.getxbmc.com/playlists/MUSIC.m3u
+#EXTINF:-1 tvg-logo="", NBCSN Networks
+http://prozone.getxbmc.com/playlists/NBCSN%20NETWORKS.m3u
+#EXTINF:-1 tvg-logo="", OSN Channels
+http://prozone.getxbmc.com/playlists/OSN%20CHANNELS.m3u
+#EXTINF:-1 tvg-logo="", Racing UK
+http://prozone.getxbmc.com/playlists/RACING%20UK.m3u
+
+#EXTINF:-1 tvg-logo="", Adult XXX
+http://prozone.getxbmc.com/playlists/Adult.m3u

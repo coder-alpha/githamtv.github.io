@@ -1,0 +1,229 @@
+#EXTM3U
+
+
+#EXTINF:-1, [COLOR red]U[/COLOR][COLOR blue]K[/COLOR] 2-115--16-22
+http://www.flaginstitute.org/wp/wp-content/uploads/2-112/1-1/UK-Union-Flag.png
+
+#EXTINF:-1, BBC 2
+Link 1 http://37.22-1.29.186:8-1-1-1/bbc2/bbc2/index.m3u8 
+#EXTINF:-1, Channel 4
+http://78.129.175.72/live/channel4/channel4.m3u8 
+#EXTINF:-1, Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/2-12874/AL_P_ESP1_INTER_ENG/playlist_18-1-1.m3u8 
+#EXTINF:-1, Film 4
+http://78.129.175.72/live/film4/film4.m3u8 
+#EXTINF:-1, ITV 1
+http://78.129.175.72/live/itv/itv.m3u8 
+#EXTINF:-1, ITV 2
+http://78.129.175.72/live/itv2/itv2.m3u8 
+#EXTINF:-1, ITV Be
+http://78.129.175.72/live/itvbe/itvbe.m3u8 
+#EXTINF:-1, More 4
+http://78.129.175.72/live/more4/more4.m3u8 
+#EXTINF:-1, Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio-11_delivery@156521/master.m3u8 
+#EXTINF:-1, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio-12_delivery@156522/master.m3u8 
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3-18327984-1-1-11/master_9-1-1.m3u8 
+#EXTINF:-1, Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/2-1C1A9/skynews/ls_satlink/b_828.m3u8 
+
+#EXTINF:-1, BBC One
+http://pvr.tvip.ga/-14-11.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, BBC Two
+http://pvr.tvip.ga/-14-13.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, BBC Three / CBBC
+http://pvr.tvip.ga/-14-15.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, BBC Four / Cbeebies
+http://pvr.tvip.ga/-14-17.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, iTV
+http://pvr.tvip.ga/-14-19.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, iTV 2
+http://pvr.tvip.ga/-1411.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, iTV 3
+http://pvr.tvip.ga/-1412.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, iTV 4
+http://pvr.tvip.ga/-1413.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Film4
+http://pvr.tvip.ga/-1415.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Channel 5
+http://pvr.tvip.ga/-1416.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, 4More
+http://pvr.tvip.ga/-1417.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, E4
+http://pvr.tvip.ga/-1418.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Fashion TV
+http://pvr.tvip.ga/-1419.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Travel Channel
+http://pvr.tvip.ga/-142-1.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, BBC World News
+http://pvr.tvip.ga/-1422.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, CNN
+http://pvr.tvip.ga/-1423.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, CCTV News
+http://pvr.tvip.ga/-1424.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Al Jazeera
+http://pvr.tvip.ga/-1425.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Bloomberg
+http://pvr.tvip.ga/-1426.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, CNBC
+http://pvr.tvip.ga/-1427.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, NHK World
+http://pvr.tvip.ga/-1428.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Russia Today
+http://pvr.tvip.ga/-1429.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1, Sky News
+http://pvr.tvip.ga/-143-1.m3u8|X-Forwarded-For=81.17.18.52
+
+#EXTINF:-1, Geo-locked links, UK VPN needed
+http://www.google.com
+
+#EXTINF:-1, BBC One HD
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, BBC Two HD
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, BBC Three HD
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, BBC Four HD
+http://vs-hds-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, CBBC HD
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, CBeebies HD
+http://vs-hds-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, BBC News HD
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-audio_1%3D128-1-1-1-video%3D35-1-1-1-1-1.m3u8 
+#EXTINF:-1, ITV
+http://uk.stream.yo.tv/livehttporigin/ITV1_36-1p.stream/chunklist.m3u8 
+#EXTINF:-1, Channel 4
+http://uk.stream.yo.tv/livehttporigin/Channel4_36-1p.stream/chunklist.m3u8 
+#EXTINF:-1, CHANNEL 5
+http://uk.stream.yo.tv/livehttporigin/Channel5_36-1p.stream/chunklist.m3u8
+
+#EXTINF:-1, BBC One London
+http://82.135.224.134:8-1/udp/239.1-1-1.3.1:1234 
+#EXTINF:-1, BBC One Scotland
+http://82.135.224.134:8-1/udp/239.1-1-1.3.2:1234 
+#EXTINF:-1, BBC Two England
+http://82.135.224.134:8-1/udp/239.1-1-1.3.3:1234 
+#EXTINF:-1, BBC Three / CBBC
+http://82.135.224.134:8-1/udp/239.1-1-1.3.4:1234 
+#EXTINF:-1, BBC Four / CBeebies
+http://82.135.224.134:8-1/udp/239.1-1-1.3.5:1234 
+#EXTINF:-1, ITV 1 London
+http://82.135.224.134:8-1/udp/239.1-1-1.3.6:1234 
+#EXTINF:-1, RTE One
+http://212.25-1.46.35:4252/bysid/96-11 
+#EXTINF:-1, RTE Two
+http://212.25-1.46.35:4252/bysid/96-12 
+#EXTINF:-1, TV3
+http://212.25-1.46.35:4252/bysid/96-15 
+#EXTINF:-1, TG4
+http://212.25-1.46.35:4252/bysid/96-13 
+#EXTINF:-1, RTE Jr.
+http://212.25-1.46.35:4252/bysid/96-16 
+#EXTINF:-1, 4 Music
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22 
+#EXTINF:-1, 4 Seven Link 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+#EXTINF:-1, 4 Seven Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47 
+#EXTINF:-1, 5 Star
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24 
+#EXTINF:-1, 5 USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25 
+#EXTINF:-1, BBC 1 Link 1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=-1 
+#EXTINF:-1, BBC 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41 
+#EXTINF:-1, BBC 2 Link 1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1 
+#EXTINF:-1, BBC 2 Link 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=42 
+#EXTINF:-1, BBC 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=48 
+#EXTINF:-1, BBC 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=36 
+#EXTINF:-1, BBC News Link 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4-1 
+#EXTINF:-1, BBC News Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51 
+#EXTINF:-1, CBS Action
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28 
+#EXTINF:-1, CBS Reality
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27 
+#EXTINF:-1, Challenge
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=18 
+#EXTINF:-1, Channel 4 Link 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3 
+#EXTINF:-1, Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44 
+#EXTINF:-1, Channel 4 +1 Link 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5-1 
+#EXTINF:-1, Channel 4 +1 Link2
+Link 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54 
+#EXTINF:-1, Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4 
+#EXTINF:-1, Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55 
+#EXTINF:-1, Channel 5 +24
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=64 
+#EXTINF:-1, Dave
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11 
+#EXTINF:-1, Dave Ja Vu
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=6-1 
+#EXTINF:-1, Drama
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19 
+#EXTINF:-1, E4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16 
+#EXTINF:-1, E4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=59 
+#EXTINF:-1, Film Four
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14 
+#EXTINF:-1, Film Four +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58 
+#EXTINF:-1, Food Network
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32 
+#EXTINF:-1, Horror Channel
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29 
+#EXTINF:-1, ITV 1 Link 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2 
+#EXTINF:-1, ITV 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=43 
+#EXTINF:-1, ITV 1 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=52 
+#EXTINF:-1, ITV 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5 
+#EXTINF:-1, ITV 2 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=53 
+#EXTINF:-1, ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8 
+#EXTINF:-1, ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9 
+#EXTINF:-1, ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35 
+#EXTINF:-1, More 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15 
+#EXTINF:-1, Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31 
+#EXTINF:-1, MovieMix
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3-1 
+#EXTINF:-1, Movies4Men
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33 
+#EXTINF:-1, Pick TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1-1 
+#EXTINF:-1, Quest
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17 
+#EXTINF:-1, Quest +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62 
+#EXTINF:-1, Really
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21 
+#EXTINF:-1, Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26 
+#EXTINF:-1, True Entertainment
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2-1 
+#EXTINF:-1, TruTV UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34 
+#EXTINF:-1, Yesterday
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+

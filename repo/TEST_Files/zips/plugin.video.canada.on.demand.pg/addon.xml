@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.canada.on.demand.pg" name="Canada On Demand*" version="1.0" provider-name="andre, podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup"	version="3.2.0"/>
+    <import addon="script.module.simplejson" version="2.0.10"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Video On Demand From Canada</summary>
+    <description>Stream content from Canadian providers including CBC, Global, DIY, HGTV, Slice and more! This is a stripped down version of the original addon by andre which is now dead, all credit to him. Basically, I just removed everything that wasn't working.</description>
+    <platform>all</platform>
+    <disclaimer></disclaimer>
+  </extension>
+</addon>

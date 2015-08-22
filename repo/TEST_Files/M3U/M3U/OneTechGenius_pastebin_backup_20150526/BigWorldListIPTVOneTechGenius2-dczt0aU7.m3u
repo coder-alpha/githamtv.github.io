@@ -1,0 +1,595 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo="TV 1.png" group-title="RTM",TV 1
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id=TV 2 tvg-name=TV_2 tvg-logo="TV 2.png" group-title="RTM",TV 2
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id=TV3 tvg-name=TV3 tvg-logo="TV3.png" group-title="Media Prima",TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+ 
+#EXTINF:-1 tvg-id=TVi tvg-name=TVi tvg-logo="TVi.png" group-title="RTM",TVi
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=RTM Muzik Aktif tvg-name=RTM_Muzik_Aktif tvg-logo="muzikaktif.png" group-title="RTM",RTM Muzik Aktif
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=1News tvg-name=1News tvg-logo="1News.png" group-title="RTM",1News
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=NTV7 tvg-name=NTV7" tvg-logo="NTV7.png" group-title="Media Prima",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master001.m3u8
+ 
+#EXTINF:-1 tvg-id=8TV tvg-name=8TV tvg-logo="8TV.png" group-title="Media Prima",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+ 
+#EXTINF:-1 tvg-id=TV9 tvg-name=TV_9 tvg-logo="TV 9.png" group-title="Media Prima",TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+ 
+#EXTINF:-1 tvg-id=HIJAU TV tvg-name=HIJAU TV tvg-logo="Hijau TV.png" group-title="Media Prima", Hijau TV
+rtmp://119.110.96.71/live/1htv
+ 
+#EXTINF:-1 tvg-id=OASIS tvg-name=OASIS group-title="ASTRO", OASIS
+rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
+ 
+#EXTINF:-1 tvg-id=Astro Awani  tvg-name=Astro Awani tvg-logo="awani.png" group-title="ASTRO", Astro Awani
+http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+ 
+#EXTINF:-1 tvg-id=Bernama TV tvg-name=Bernama TV tvg-logo="bernama.png" group-title="ASTRO", Bernama TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w520879673_b878000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id=Channel News Asia tvg-name=Channel News Asia tvg-logo="CNA.png" group-title="MediaCorp", Channel News Asia
+http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/media_b1472000_qaGRjb3JlPTIuMTAuMyZnPVdTRkJOTUdORkRYVg==.abst/Seg1-Frag10907?als=12.68,12,1.78,4,1396,2852,25,5,0,74,f,27.31,69.47,t,u,WSFBNMGNFDXV,2.10.3,74&hdcore=2.10.3
+ 
+#EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo="alhijrah.png" group-title="ASTRO", TV Al Hijrah
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:tvalhijrah_all.smil/media.m3u8
+ 
+#EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo="alhijrah.png" group-title="ASTRO", TV Al Hijrah
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/chunklist_w2043333524_b878000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id=Axn Sci-Fi tvg-name=Axn Sci-Fi group-title="ASTRO", Axn Sci-Fi
+http://77.91.77.21:6730/?sid=4b54285289daac7298b23fa49406p710
+ 
+#EXTINF:-1 tvg-id=Animal Planet HD tvg-name=Animal Planet HD group-title="ASTRO" tvg-logo=animalpl.png, Animal Planet HD
+http://202.75.23.34:1400/live/ch31/02.m3u8
+ 
+#EXTINF:-1 tvg-id=Nat Geo HD tvg-name=National Geographic HD group-title="ASTRO" tvg-logo=2204956.png, National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+ 
+#EXTINF:-1 tvg-id=Nat Geo Wild HD tvg-name=Nat Geo Wild HD group-title="ASTRO" tvg-logo=5144421.png, Nat Geo Wild HD
+http://202.75.23.35/live/ch39/03.m3u8
+ 
+#EXTINF:-1 tvg-id=Travel Channel tvg-name=Travel Channel group-title="ASTRO" tvg-logo=6172282.png, TRAVEL Channel
+http://202.75.23.35:1400/live/ch41/03.m3u8
+ 
+#EXTINF:-1 tvg-id=One HD tvg-name=One HD tvg-logo="one.png" group-title="ASTRO", One HD
+http://motorsport.hopto.org:8080/
+ 
+#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo="fox1.png" group-title="ASTRO", FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo="foxact.png" group-title="ASTRO", FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo="foxm.png" group-title="ASTRO", FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo="espn.png" group-title="ASTRO", ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo="foxsport.png" group-title="ASTRO", FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo="foxsport.png" group-title="ASTRO", FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo="axnhd.png" group-title="ASTRO", AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo="fox.png" group-title="ASTRO", FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=BBC tvg-name=BBC HD tvg-logo="BBC.png" group-title="ASTRO", BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=Discovery Channel HD tvg-name=Discovery Channel HD tvg-logo="discoveryHD.png" group-title="ASTRO", Discovery Channel HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8
+ 
+#EXTINF:-1 tvg-id=Discovery Science HD tvg-name=Discovery Science HD tvg-logo="scienceHD.png" group-title="ASTRO", Discovery Science HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8
+ 
+#EXTINF:-1 tvg-id=TLC tvg-name=TLC tvg-logo="TLC.png" group-title="ASTRO", TLC
+http://202.75.23.34/live/ch35/01.m3u8
+ 
+#EXTINF:-1 tvg-id=RTM Parliament tvg-name=RTM_Parliament tvg-logo="RTM Parlimen.png" group-title="RTM",RTM Parliament
+http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=TVi tvg-name=TVi tvg-logo="TVi.png" group-title="RTM",TVi
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=1News tvg-name=1News tvg-logo="1News.png" group-title="RTM",1News
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=RTM Muzik Aktif tvg-name=RTM_Muzik_Aktif tvg-logo="muzikaktif.png" group-title="RTM",RTM Muzik Aktif
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=RTM Parliament tvg-name=RTM_Parliament tvg-logo="RTM Parlimen.png" group-title="RTM",RTM Parliament
+http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+ 
+#EXTINF:-1,ITV (UK) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+rtmpe://46.246.124.26:1935/redirect playpath=itv swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=itv&vw=600&vh=450&domain=strmh24.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1,ESPN (US) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
+ 
+#EXTINF:-1,SBS One (Australia) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+http://motorsport.hopto.org:8080
+ 
+#EXTINF:-1,TV2 HD (Norway - HD On Gotham Only) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+http://hls.akamai.tv2.no/wzlive/_definst_/amlst:LS1/.smil/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-id=FOODNETWORK tvg-name=FOODNETWORK tvg-logo="FOODNETWORK.png" group-title="ASTRO", FOODNETWORK
+http://83.139.104.105/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-id=Arirang tvg-name=Arirang tvg-logo="Arirang.png" group-title="KOREA", Arirang
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+ 
+#EXTINF:-1 tvg-id=MBC tvg-name=MBC tvg-logo="MBC.png" group-title="KOREA", MBC
+rtmp://fms.mbcgn.kr:1935/livepkgr_j_tv playpath=livestream2 swfUrl=http://www.mbcgn.kr/onair/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.mbcgn.kr/onair/player.php?id=TVJJ
+ 
+#EXTINF:-1 tvg-id=KCTV tvg-name=KCTV tvg-logo="KCTV.png" group-title="KOREA", KCTV
+rtsp://media2.kctvjeju.com/live5
+ 
+#EXTINF:-1 tvg-id=MetroTv tvg-name=MetroTv tvg-logo="MetroTv.png" group-title="Indonesia", MetroTv
+http://202.75.23.33:1400/live/ch22/01.m3u8
+ 
+#EXTINF:-1 tvg-id=TRANSTV tvg-name=TRANSTV tvg-logo="TRANSTV.png" group-title="Indonesia", TRANSTV
+http://202.75.23.33:1400/live/ch23/01.m3u8
+ 
+#EXTINF:-1 tvg-id=TRANS7 tvg-name=TRANS7 tvg-logo="TRANS7.png" group-title="Indonesia", TRANS7
+http://202.75.23.33:1400/live/ch24/01.m3u8
+ 
+#EXTINF:-1 tvg-id=TVRI tvg-name=TVRI tvg-logo="TVRI.png" group-title="Indonesia", TVRI
+http://202.75.23.33:1400/live/ch25/01.m3u8
+ 
+#EXTINF:-1 tvg-id=globatv tvg-name=globatv tvg-logo="globaltv.png" group-title="Indonesia", globatv
+http://edge-id.wow.mivo.tv/mivotvjkt/globaltv2_240p/chunklist_w498311651.m3u8
+ 
+#EXTINF:-1 tvg-id=globatv2 tvg-name=globatv2 tvg-logo="globaltv.png" group-title="Indonesia", globatv2
+http://edge-id.wow.mivo.tv/mivotvjkt/globaltv2_240p/chunklist_w1653294433.m3u8
+ 
+#EXTINF:-1 tvg-id=RCTI" tvg-name=RCTI tvg-logo="RCTI.png" group-title="Indonesia", RCTI
+rtmp://edge.okeinfo.net/live/mncoke1_512.stream
+ 
+#EXTINF:-1 tvg-id=ANTV3" tvg-name=ANTV3 tvg-logo="ANTV3.png" group-title="Indonesia", ANTV3
+rtmp://202.129.216.27:1970/antv/antv3
+ 
+#EXTINF:-1 tvg-id=TV0NE" tvg-name=TV0NE" tvg-logo="TV0NE.png" group-title="Indonesia", TV0NE
+rtmp://118.97.167.19/jhos/tvone
+ 
+#EXTINF:-1 tvg-id=RCTV" tvg-name=RCTV" tvg-logo="RCTV.png" group-title="Indonesia", RCTV
+rtmp://edge.okeinfo.net/live/mncoke1_512.stream
+ 
+ #EXTINF:-1,INDONESIA ANTARA TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA ANTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA BERITA SATU
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/beritasatu_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA BLOOMBERG TVID
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/bloomberg-id_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA CAHAYA TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/cahayatv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA DAAITV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/daaitv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA DAMAI TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/more1_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA DMC TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/dmctv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA ELSHINTA TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/elshintatv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA GLOBALTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA HAARI TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/more2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA INDOSIAR
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA JAKTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/jaktv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA JTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/jawatv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA KOMPASTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA LBS IN-DRAMA
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/lbsindrama_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA LBS K-DRAMA
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/ldrama2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA LBS SHOPPING
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/lshopping2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA METROTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA MIVO TV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA MNCTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA NET.
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA NHK WORLD
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/nhkworld_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA RCTI
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA RTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/rajawalitv.stream_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA SCTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA SPACETOON
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/spacetoon_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA SPACETOON 2
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/spacetoon2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA THE INDONESIA CH
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/theindonesiachannel_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TRANS7
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TRANSTV
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TVONE
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TVRI BUDAYA
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvribudaya_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TVRI JAKARTA
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvrijakarta_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TVRI NASIONAL
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvrinasional_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA TVRI OLAHRAGA
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvriolahraga_all/playlist.m3u8
+ 
+#EXTINF:-1,INDONESIA U CHANNEL
+ 
+http://edge.nim.mivo.tv/kqcsmbqna6yg/uchannel_all/playlist.m3u8
+
+hide=100]#EXTINF:-1 tvg-id=”120? tvg-name=”Hayatovci” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/hayatovci.png” group-title=”Djeciji”,Hayatovci – Hayatovci
+http://srv2.narodnatv.info:80/live?channelId=120&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”103? tvg-name=”RTL Kockica” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/RTL-Kockica_0_0_468X10000.png” group-title=”Djeciji”,RTL Kockica – RTL Kockica
+http://srv2.narodnatv.info:80/live?channelId=103&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”75? tvg-name=”NTV IC Kakanj” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/mini ultra.png” group-title=”Bosanski”,NTV IC Kakanj – NTV IC Kakanj
+http://alphaone.dyndns.tv:1293/live?channelId=75&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”51? tvg-name=”Minimax” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Mini_TV.png” group-title=”Djeciji”,Minimax – Minimax
+http://webtropia1.narodnatv.info:80/live?channelId=51&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”132? tvg-name=”RTVSP” tvg-logo=”/noicon.png” group-title=”Srpski”,RTVSP – RTVSP
+http://srv2.narodnatv.info:80/live?channelId=132&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”122? tvg-name=”RTRS” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Rtrs-logo.png” group-title=”Srpski”,RTRS – RTRS
+http://sangajstream.dyndns.biz:80/live?channelId=122&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”119? tvg-name=”Hayat plus” tvg-logo=”/noicon.png” group-title=”Bosanski”,Hayat plus – Hayat plus
+http://srv2.narodnatv.info:80/live?channelId=119&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”31? tvg-name=”Pink Plus” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/PinkPlus.png” group-title=”Pink Media”,Pink Plus – Pink Plus
+http://srv2.narodnatv.info:80/live?channelId=31&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”30? tvg-name=”Pink Extra” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink Extra.jpg” group-title=”Pink Media”,Pink Extra – Pink Extra
+http://server507.dyndns.biz:80/live?channelId=30&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”134? tvg-name=”Slon Extra” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/TV_Slon_Extra_logo.jpg” group-title=”Bosanski”,Slon Extra – Slon Extra
+http://exstrimer.dyndns.biz:5300/live?channelId=134&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”133? tvg-name=”TV TK” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/TK TV.jpg” group-title=”Bosanski”,TV TK – TV TK
+http://exstrimer.dyndns.biz:5300/live?channelId=133&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”123? tvg-name=”Boka TV” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/boka_tv_logo.JPG” group-title=”Srpski”,Boka TV – Boka TV
+http://srv2.narodnatv.info:80/live?channelId=123&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”271? tvg-name=”SciFi” tvg-logo=”/noicon.png” group-title=”Filmovi & Serije”,SciFi – SciFi
+http://stream6.dyndns.tv:8888/live?channelId=271&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”245? tvg-name=”Sandzak TV” tvg-logo=”/noicon.png” group-title=”Bosanski”,Sandzak TV – Sandzak TV
+http://server507.dyndns.biz:80/live?channelId=245&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”35? tvg-name=”Pink Movies 2? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink Movies2.jpg” group-title=”Pink Media”,Pink Movies 2 – Pink Movies 2
+http://server507.dyndns.biz:80/live?channelId=35&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”36? tvg-name=”Pink Movies 3? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink movies 3.jpg” group-title=”Pink Media”,Pink Movies 3 – Pink Movies 3
+http://srv2.narodnatv.info:80/live?channelId=36&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”33? tvg-name=”Pink Horor” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink Horor.jpg” group-title=”Pink Media”,Pink Horor – Pink Horor
+http://server507.dyndns.biz:80/live?channelId=33&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”12? tvg-name=”Pink Classic” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pink-classic-logo.png” group-title=”Pink Media”,Pink Classic – Pink Classic
+http://sall1.homelinux.net:80/live?channelId=12&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”34? tvg-name=”Pink Live” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pink-live-logo-90×45.gif” group-title=”Pink Media”,Pink Live – Pink Live
+http://srv2.narodnatv.info:80/live?channelId=34&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”38? tvg-name=”Pink Comedy” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pinkComedy.png” group-title=”Pink Media”,Pink Comedy – Pink Comedy
+http://srv2.narodnatv.info:80/live?channelId=38&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”40? tvg-name=”Pink Reality” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pink-reality.jpg” group-title=”Pink Media”,Pink Reality – Pink Reality
+http://srv2.narodnatv.info:80/live?channelId=40&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”41? tvg-name=”Pink Soap” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink_Soap_channel.png” group-title=”Pink Media”,Pink Soap – Pink Soap
+http://srv2.narodnatv.info:80/live?channelId=41&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”42? tvg-name=”Pink World” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pink world.jpg” group-title=”Pink Media”,Pink World – Pink World
+http://srv2.narodnatv.info:80/live?channelId=42&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”43? tvg-name=”Pink Zabava” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink Zabava.jpg” group-title=”Pink Media”,Pink Zabava – Pink Zabava
+http://srv2.narodnatv.info:80/live?channelId=43&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”11? tvg-name=”Pink Style” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pinkStyle.png” group-title=”Pink Media”,Pink Style – Pink Style
+http://srv2.narodnatv.info:80/live?channelId=11&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”138? tvg-name=”Pink Pedia” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Pink Pedia.jpg” group-title=”Pink Media”,Pink Pedia – Pink Pedia
+http://srv2.narodnatv.info:80/live?channelId=138&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”146? tvg-name=”Pink Nostalgija” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/pink-nostalgia-logo-90×45.gif” group-title=”Pink Media”,Pink Nostalgija – Pink Nostalgija
+http://stream6.dyndns.tv:8888/live?channelId=146&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”147? tvg-name=”Pink Fashion” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/PinkFashion.jpg” group-title=”Pink Media”,Pink Fashion – Pink Fashion
+http://stream6.dyndns.tv:8888/live?channelId=147&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”136? tvg-name=”Sitel” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/sitel.jpg” group-title=”Makedonski”,Sitel – Sitel
+http://sall1.homelinux.net:80/live?channelId=136&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”253? tvg-name=”MKTV 2 Sat” tvg-logo=”/noicon.png” group-title=”Muzicki”,MKTV 2 Sat – MKTV 2 Sat
+http://sangajstream.dyndns.biz:80/live?channelId=253&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”47? tvg-name=”Alfa” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/alfa_televizija.png” group-title=”Makedonski”,Alfa – Alfa
+http://srv2.narodnatv.info:80/live?channelId=47&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”49? tvg-name=”Kanal 5? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/kanal5-logo.png” group-title=”Makedonski”,Kanal 5 – Kanal 5
+http://sall1.homelinux.net:80/live?channelId=49&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”54? tvg-name=”Telma” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/telma.gif” group-title=”Makedonski”,Telma – Telma
+http://srv2.narodnatv.info:80/live?channelId=54&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”292? tvg-name=”Travel Channel” tvg-logo=”/noicon.png” group-title=”Dokumantarci”,Travel Channel – Travel Channel
+http://sall1.homelinux.net:80/live?channelId=292&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”279? tvg-name=”E! Entertainment TV” tvg-logo=”/noicon.png” group-title=”Dokumantarci”,E! Entertainment TV – E! Entertainment TV
+http://sangajstream.dyndns.biz:80/live?channelId=279&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”56? tvg-name=”TV 1000? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/tv1000-logo.png” group-title=”Filmovi & Serije”,TV 1000 – TV 1000
+http://srv2.narodnatv.info:80/live?channelId=56&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”55? tvg-name=”TLC” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/tlc-logo1.jpg” group-title=”Dokumantarci”,TLC – TLC
+http://alphaone.dyndns.tv:1293/live?channelId=55&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”50? tvg-name=”Fishing & Hunting” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/ch-fish.png” group-title=”Dokumantarci”,Fishing & Hunting – Fishing & Hunting
+http://srv2.narodnatv.info:80/live?channelId=50&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”76? tvg-name=”Animal Planet” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/animal planet.jpg” group-title=”Dokumantarci”,Animal Planet – Animal Planet
+http://sall1.homelinux.net:80/live?channelId=76&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”94? tvg-name=”Discovery” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Discovery Ch.jpg” group-title=”Dokumantarci”,Discovery – Discovery
+http://alphaone.dyndns.tv:1293/live?channelId=94&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”95? tvg-name=”Discovery ID” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Disc ID.jpg” group-title=”Dokumantarci”,Discovery ID – Discovery ID
+http://stream243.magiptv.net:99/live?channelId=95&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”99? tvg-name=”History Channel HD” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/History.jpg” group-title=”Dokumantarci”,History Channel HD – History Channel HD
+http://webtropia1.narodnatv.info:80/live?channelId=99&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”102? tvg-name=”National Geographic” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/nat-geo.jpg” group-title=”Dokumantarci”,National Geographic – National Geographic
+http://alphaone.dyndns.tv:1293/live?channelId=102&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”108? tvg-name=”Crime Investigation Network” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Crime Investigation.jpg” group-title=”Dokumantarci”,Crime Investigation Network – Crime Investigation Network
+http://alphaone.dyndns.tv:1293/live?channelId=108&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”114? tvg-name=”VIASAT HISTORY” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Viasat_history.png” group-title=”Dokumantarci”,VIASAT HISTORY – VIASAT HISTORY
+http://stream1.dyndns.ws:99/live?channelId=114&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”115? tvg-name=”Viasat Nature” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Viasat Nature.jpg” group-title=”Dokumantarci”,Viasat Nature – Viasat Nature
+http://iptvbh.dyndns.org:89/live?channelId=115&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”282? tvg-name=”CBS Reality” tvg-logo=”/noicon.png” group-title=”Dokumantarci”,CBS Reality – CBS Reality
+http://exstrimer.dyndns.biz:5300/live?channelId=282&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”247? tvg-name=”Z1? tvg-logo=”/noicon.png” group-title=”Hrvatski”,Z1 – Z1
+
+#EXTINF:-1 tvg-id=”142? tvg-name=”NTV” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Ntv Germ.jpg” group-title=”Njemacki”,NTV – NTV
+http://iptvbh.dyndns.org:89/live?channelId=142&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”143? tvg-name=”3 Sat” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/3sat_logo.png” group-title=”Austrijski”,3 Sat – 3 Sat
+http://webtropia1.narodnatv.info:80/live?channelId=143&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”145? tvg-name=”Super RTL” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/super rtl logo.jpg” group-title=”Njemacki”,Super RTL – Super RTL
+http://iptvbh.dyndns.org:89/live?channelId=145&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”252? tvg-name=”Duga TV” tvg-logo=”/noicon.png” group-title=”Muzicki”,Duga TV – Duga TV
+http://sangajstream.dyndns.biz:80/live?channelId=252&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”150? tvg-name=”ORF EINS” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/orf_eins.jpg” group-title=”Austrijski”,ORF EINS – ORF EINS
+http://webtropia1.narodnatv.info:80/live?channelId=150&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”151? tvg-name=”ORF2? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/681px-ORF2_logo_n.svg.png” group-title=”Austrijski”,ORF2 – ORF2
+http://webtropia1.narodnatv.info:80/live?channelId=151&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”152? tvg-name=”ORF III” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/orf_3_at.png” group-title=”Austrijski”,ORF III – ORF III
+http://webtropia1.narodnatv.info:80/live?channelId=152&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”153? tvg-name=”ORF Sport+” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/orf-sport-plus-logo.jpg” group-title=”Sportski”,ORF Sport+ – ORF Sport+
+http://webtropia1.narodnatv.info:80/live?channelId=153&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”154? tvg-name=”Puls 4? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/puls_4.png” group-title=”Austrijski”,Puls 4 – Puls 4
+http://webtropia1.narodnatv.info:80/live?channelId=154&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”155? tvg-name=”ATV” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/ATV A.jpg” group-title=”Austrijski”,ATV – ATV
+http://webtropia1.narodnatv.info:80/live?channelId=155&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”156? tvg-name=”Servus TV” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Servus-TV.jpg” group-title=”Austrijski”,Servus TV – Servus TV
+http://webtropia1.narodnatv.info:80/live?channelId=156&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”164? tvg-name=”Das Erste” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/logos_das_erste_zdf.jpg” group-title=”Njemacki”,Das Erste – Das Erste
+http://iptvbh.dyndns.org:89/live?channelId=164&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”165? tvg-name=”Arte” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/arte germany.jpg” group-title=”Njemacki”,Arte – ARTE
+http://iptvbh.dyndns.org:89/live?channelId=165&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”166? tvg-name=”D-MAX” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Dmax.png” group-title=”Njemacki”,D-MAX – D-MAX
+http://iptvbh.dyndns.org:89/live?channelId=166&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”167? tvg-name=”N24? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Logo-des-TV-Senders-N24-400×300-a08e926d6406491e.jpg” group-title=”Njemacki”,N24 – N24
+http://iptvbh.dyndns.org:89/live?channelId=167&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”168? tvg-name=”Nickelodeon” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Nickelodeon logo.jpg” group-title=”Njemacki”,Nickelodeon – Nickelodeon
+http://iptvbh.dyndns.org:89/live?channelId=168&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”169? tvg-name=”RTL 2 DE” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/RTL-II-Logo-2D-Schwarz-300×266.jpg” group-title=”Njemacki”,RTL 2 DE – RTL 2 DE
+http://iptvbh.dyndns.org:89/live?channelId=169&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”170? tvg-name=”RTL DE” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/RTL-Logo.png” group-title=”Njemacki”,RTL DE – RTL DE
+http://iptvbh.dyndns.org:89/live?channelId=170&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”171? tvg-name=”Kabel 1? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/578px-KabelEins_Logo.svg.png” group-title=”Njemacki”,Kabel 1 – Kabel 1
+http://iptvbh.dyndns.org:89/live?channelId=171&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”172? tvg-name=”Sat 1? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/sat1-logo.png” group-title=”Njemacki”,Sat 1 – Sat 1
+http://iptvbh.dyndns.org:89/live?channelId=172&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”173? tvg-name=”ZDF” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/zdf_de.png” group-title=”Njemacki”,ZDF – ZDF
+http://iptvbh.dyndns.org:89/live?channelId=173&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”174? tvg-name=”Pro 7? tvg-logo=”http://gigahost.homelinux.net:88/LOGO/20140401_10_Prosieben.png” group-title=”Njemacki”,Pro 7 – Pro 7
+http://iptvbh.dyndns.org:89/live?channelId=174&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”175? tvg-name=”VOX” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/20100706_vox_de_logo.png” group-title=”Njemacki”,VOX – VOX
+http://iptvbh.dyndns.org:89/live?channelId=175&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”179? tvg-name=”KiKa” tvg-logo=”http://gigahost.homelinux.net:88/LOGO/Kika ident main.jpg” group-title=”Njemacki”,KiKa – KiKa
+http://iptvbh.dyndns.org:89/live?channelId=179&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”180? tvg-name=”TRT 1? tvg-logo=”/noicon.png” group-title=”Turski”,TRT 1 – TRT 1
+http://sangajstream.dyndns.biz:80/live?channelId=180&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”181? tvg-name=”TRT Haber” tvg-logo=”/noicon.png” group-title=”Turski”,TRT Haber – TRT Haber
+http://sangajstream.dyndns.biz:80/live?channelId=181&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”183? tvg-name=”TRT Sport” tvg-logo=”/noicon.png” group-title=”Turski”,TRT Sport – TRT Sport
+http://sangajstream.dyndns.biz:80/live?channelId=183&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”184? tvg-name=”TRT 4? tvg-logo=”/noicon.png” group-title=”Turski”,TRT 4 – TRT 4
+http://sall1.homelinux.net:80/live?channelId=184&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”185? tvg-name=”TRT Belgesel” tvg-logo=”/noicon.png” group-title=”Turski”,TRT Belgesel – TRT Belgesel
+http://stream6.dyndns.tv:8888/live?channelId=185&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”186? tvg-name=”TRT Okul” tvg-logo=”/noicon.png” group-title=”Turski”,TRT Okul – TRT Okul
+http://sangajstream.dyndns.biz:80/live?channelId=186&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”187? tvg-name=”TRT Music” tvg-logo=”/noicon.png” group-title=”Turski”,TRT Music – TRT Music
+http://stream6.dyndns.tv:8888/live?channelId=187&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”284? tvg-name=”Sky Action” tvg-logo=”/noicon.png” group-title=”Filmovi & Serije”,Sky Action – Sky Action
+http://stream6.dyndns.tv:8888/live?channelId=284&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”285? tvg-name=”Sky Cinema” tvg-logo=”/noicon.png” group-title=”Filmovi & Serije”,Sky Cinema – Sky Cinema
+http://exstrimer.dyndns.biz:5300/live?channelId=285&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”306? tvg-name=”Sky Hits” tvg-logo=”/noicon.png” group-title=”Filmovi & Serije”,Sky Hits – Sky Hits
+http://stream.narodnatv.info:80/live?channelId=306&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”265? tvg-name=”Happy Rezerva” tvg-logo=”/noicon.png” group-title=”Srpski”,Happy Rezerva – Happy Rezerva
+http://stream6.dyndns.tv:8888/live?channelId=265&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”266? tvg-name=”Sport1 Extra 2? tvg-logo=”/noicon.png” group-title=”Sportski”,Sport1 Extra 2 – Sport1 Extra 2
+http://stream1.dyndns.ws:99/live?channelId=266&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”268? tvg-name=”Sport1 Select” tvg-logo=”/noicon.png” group-title=”Sportski”,Sport1 Select – Sport1 Select
+http://stream6.dyndns.tv:8888/live?channelId=268&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”277? tvg-name=”Extra 3 Info” tvg-logo=”/noicon.png” group-title=”Tring Alb”,Extra 3 Info – Extra 3 Info
+http://narodnatv.dyndns.tv:2801/live?channelId=277&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”304? tvg-name=”Tring Max” tvg-logo=”/noicon.png” group-title=”Tring Alb”,Tring Max – Tring Max
+http://sall1.homelinux.net:80/live?channelId=304&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”303? tvg-name=”Tring Comedy” tvg-logo=”/noicon.png” group-title=”Tring Alb”,Tring Comedy – Tring Comedy
+http://sall1.homelinux.net:80/live?channelId=303&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”275? tvg-name=”RTK 1 Sat (Kosovo)” tvg-logo=”/noicon.png” group-title=”Tring Alb”,RTK 1 Sat (Kosovo) – RTK 1 Sat (Kosovo)
+http://stream6.dyndns.tv:8888/live?channelId=275&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”296? tvg-name=”SLO TV1? tvg-logo=”/noicon.png” group-title=”Slovenski”,SLO TV1 – SLO TV1
+http://stream6.dyndns.tv:8888/live?channelId=296&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”297? tvg-name=”SLO TV2? tvg-logo=”/noicon.png” group-title=”Slovenski”,SLO TV2 – SLO TV2
+http://stream6.dyndns.tv:8888/live?channelId=297&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”298? tvg-name=”SLO TV3? tvg-logo=”/noicon.png” group-title=”Slovenski”,SLO TV3 – SLO TV3
+http://stream6.dyndns.tv:8888/live?channelId=298&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”312? tvg-name=”POP OTO” tvg-logo=”/noicon.png” group-title=”Slovenski”,POP OTO – POP OTO
+http://stream6.dyndns.tv:8888/live?channelId=312&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”311? tvg-name=”POP KINO” tvg-logo=”/noicon.png” group-title=”Slovenski”,POP KINO – POP KINO
+http://stream6.dyndns.tv:8888/live?channelId=311&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”310? tvg-name=”POP BRIO” tvg-logo=”/noicon.png” group-title=”Slovenski”,POP BRIO – POP BRIO
+http://stream6.dyndns.tv:8888/live?channelId=310&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”313? tvg-name=”RTV CG 1? tvg-logo=”/noicon.png” group-title=”Srpski”,RTV CG 1 – RTV CG 1
+http://stream1.dyndns.ws:99/live?channelId=313&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”301? tvg-name=”BELLE AMIE NIS” tvg-logo=”/noicon.png” group-title=”Srpski”,BELLE AMIE NIS – BELLE AMIE NIS
+http://sall2all.homelinux.net:12412/live?channelId=301&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”302? tvg-name=”MRT 1? tvg-logo=”/noicon.png” group-title=”Makedonski”,MRT 1 – MRT 1
+http://srv2.narodnatv.info:80/live?channelId=302&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”315? tvg-name=”Pink Family” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Family – Pink Family
+http://srv2.narodnatv.info:80/live?channelId=315&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”316? tvg-name=”Pink Action” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Action – Pink Action
+http://srv2.narodnatv.info:80/live?channelId=316&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”317? tvg-name=”Pink Movies” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Movies – Pink Movies
+http://server507.dyndns.biz:80/live?channelId=317&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”321? tvg-name=”K3? tvg-logo=”/noicon.png” group-title=”Muzicki”,K3 – K3
+http://exstrimer.dyndns.biz:5300/live?channelId=321&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”338? tvg-name=”A1 Espana” tvg-logo=”/noicon.png” group-title=”Muzicki”,A1 Espana – A1 Espana
+http://sangajstream.dyndns.biz:80/live?channelId=338&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”339? tvg-name=”Primafila 1 HD” tvg-logo=”/noicon.png” group-title=”Italija Test”,Primafila 1 HD – Primafila 1 HD
+http://stream1.dyndns.ws:99/live?channelId=339&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”386? tvg-name=”BHT 2? tvg-logo=”/noicon.png” group-title=”Bosanski”,BHT 2 – BHT 2
+http://stream1.dyndns.ws:99/live?channelId=386&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”387? tvg-name=”A1 HD Internacional” tvg-logo=”/noicon.png” group-title=”Informativni”,A1 HD Internacional – A1 HD Internacional
+http://sangajstream.dyndns.biz:80/live?channelId=387&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”388? tvg-name=”Kopernikus 1? tvg-logo=”/noicon.png” group-title=”Muzicki”,Kopernikus 1 – Kopernikus 1
+http://stream.narodnatv.info:80/live?channelId=388&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”389? tvg-name=”Kopernikus 2? tvg-logo=”/noicon.png” group-title=”Muzicki”,Kopernikus 2 – Kopernikus 2
+http://stream.narodnatv.info:80/live?channelId=389&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”390? tvg-name=”Yu planet radio” tvg-logo=”/noicon.png” group-title=”Muzicki”,Yu planet radio – Yu planet radio
+http://stream.narodnatv.info:80/live?channelId=390&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”409? tvg-name=”Nickelodeon srb” tvg-logo=”/noicon.png” group-title=”Djeciji”,Nickelodeon srb – Nickelodeon srb
+http://stream1.dyndns.ws:99/live?channelId=409&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”415? tvg-name=”Izvorna Muzika” tvg-logo=”/noicon.png” group-title=”Bosanski”,Izvorna Muzika – Izvorna
+http://stream6.dyndns.tv:8888/live?channelId=415&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”416? tvg-name=”Alternativna TV” tvg-logo=”/noicon.png” group-title=”Bosanski”,Alternativna TV – Alternativna TV
+http://alphaone.dyndns.tv:1293/live?channelId=416&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”417? tvg-name=”Golica TV” tvg-logo=”/noicon.png” group-title=”Slovenski”,Golica TV – Golica TV
+http://sall2all.homelinux.net:12412/live?channelId=417&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”426? tvg-name=”LIG TV 2? tvg-logo=”/noicon.png” group-title=”Sportski”,LIG TV 2 – LIG TV 2
+http://sall1.homelinux.net:80/live?channelId=426&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”427? tvg-name=”LIG TV 3? tvg-logo=”/noicon.png” group-title=”Sportski”,LIG TV 3 – LIG TV 3
+http://sall2all.homelinux.net:12412/live?channelId=427&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”437? tvg-name=”Primafila 7 HD” tvg-logo=”/noicon.png” group-title=”Test Sport”,Primafila 7 HD – Primafila 7 HD
+http://stream.narodnatv.info:80/live?channelId=437&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”438? tvg-name=”Disney Channel Croatia” tvg-logo=”/noicon.png” group-title=”Djeciji”,Disney Channel Croatia – Disney Channel Croatia
+http://stream.narodnatv.info:80/live?channelId=438&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”447? tvg-name=”RTL Passion” tvg-logo=”/noicon.png” group-title=”Hrvatski”,RTL Passion – RTL Passion
+http://stream243.magiptv.net:99/live?channelId=447&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”448? tvg-name=”RTL Living” tvg-logo=”/noicon.png” group-title=”Hrvatski”,RTL Living – RTL Living
+http://stream243.magiptv.net:99/live?channelId=448&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”449? tvg-name=”Ultra TV” tvg-logo=”/noicon.png” group-title=”Djeciji”,Ultra TV – Ultra TV
+http://stream243.magiptv.net:99/live?channelId=449&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”452? tvg-name=”RTV USK” tvg-logo=”/noicon.png” group-title=”Bosanski”,RTV USK – RTV USK
+http://alphaone.dyndns.tv:1293/live?channelId=452&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”453? tvg-name=”Vinkovacka tv” tvg-logo=”/noicon.png” group-title=”Srpski”,Vinkovacka tv – Vinkovacka tv
+http://stream.narodnatv.info:80/live?channelId=453&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”454? tvg-name=”Slavonska tv” tvg-logo=”/noicon.png” group-title=”Hrvatski”,Slavonska tv – Slavonska tv
+http://stream.narodnatv.info:80/live?channelId=454&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”455? tvg-name=”Atlas TV” tvg-logo=”/noicon.png” group-title=”Srpski”,Atlas TV – Atlas TV
+http://stream1.dyndns.ws:99/live?channelId=455&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”456? tvg-name=”RTCG Sat” tvg-logo=”/noicon.png” group-title=”Srpski”,RTCG Sat – RTCG Sat
+http://stream6.dyndns.tv:8888/live?channelId=456&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”457? tvg-name=”FIGHT CHANNEL” tvg-logo=”/noicon.png” group-title=”Sportski”,FIGHT CHANNEL – FIGHT CHANNEL
+http://stream243.magiptv.net:99/live?channelId=457&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”458? tvg-name=”Pink Fight Network” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Fight Network – Pink Fight
+http://server507.dyndns.biz:80/live?channelId=458&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”459? tvg-name=”Pink Serije” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Serije – Pink Serije
+http://server507.dyndns.biz:80/live?channelId=459&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”460? tvg-name=”Pink World Cinema” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink World Cinema – Pink World Cinema
+http://server507.dyndns.biz:80/live?channelId=460&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”461? tvg-name=”Pink Show” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Show – Pink Show
+http://server507.dyndns.biz:80/live?channelId=461&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”462? tvg-name=”Pink Kuvar” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Kuvar – Pink Kuvar
+http://server507.dyndns.biz:80/live?channelId=462&uid=2128&deviceUser=eugen&devicePass=eugen
+#EXTINF:-1 tvg-id=”463? tvg-name=”Pink Super Kids” tvg-logo=”/noicon.png” group-title=”Pink Media”,Pink Super Kids – Pink Super Kids
+http://server507.dyndns.biz:80/live?channelId=463&uid=2128&deviceUser=eugen&devicePass=eugen[/hide]
+#EXTINF:-1 tvg-id=KOMPAS_TV" tvg-name=KOMPAS_TV" tvg-logo="KOMPAS_TV.png" group-title="Indonesia", KOMPAS_TV
+rtmp://202.137.11.52:1935/jakarta/offair.sdp
+ 
+#EXTINF:-1 $ExtFilter="tv endon",indorsiar
+rtmp://119.235.249.58:1935/indostartv/live
+ 
+#EXTINF:-1, Nickelodeon SD
+http://202.75.23.36:1400/live/ch43/03.m3u8

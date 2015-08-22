@@ -1,0 +1,11 @@
+v1.4 (July 2015) :
+  - fixed links
+
+v1.3 (June 2015) :
+  - fixed links
+
+v1.2 (June 2015) :
+  - fixed links
+
+v1.0 (June 2015) :
+  - initial release

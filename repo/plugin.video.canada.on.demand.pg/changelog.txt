@@ -1,0 +1,2 @@
+1.0 - initial release
+-cleaned up some code and removed non working channels from original addon by andre. Adding channels on todo list

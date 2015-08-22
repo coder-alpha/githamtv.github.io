@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+	<playlist_name><![CDATA[Internet TV]]></playlist_name>
+
+	<channel>
+		<title><![CDATA[[B][COLOR red]O[/COLOR][COLOR white]H[/COLOR] [COLOR red]C[/COLOR][COLOR white]A[/COLOR][COLOR red]N[/COLOR][COLOR white]A[/COLOR][COLOR red]D[/COLOR][COLOR white]A[/COLOR][/B]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fla.fg-a.com/flags/canadian-flag-large.png]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[B]Report dead and missing links to podgod@gmail.com[/B]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fla.fg-a.com/flags/canadian-flag-large.png]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[B]Download CanTVLive addon here https://db.tt/Owpd0hzx[/B]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fla.fg-a.com/flags/canadian-flag-large.png]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[B][COLOR red]E[/COLOR][COLOR white]N[/COLOR][COLOR red]T[/COLOR][COLOR white]E[/COLOR][COLOR red]R[/COLOR][COLOR white]T[/COLOR][COLOR red]A[/COLOR][COLOR white]I[/COLOR][COLOR red]N[/COLOR][COLOR white]M[/COLOR][COLOR red]E[/COLOR][COLOR white]N[/COLOR][COLOR red]T[/COLOR][/B]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fla.fg-a.com/flags/canadian-flag-large.png]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Global TV Halifax]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://link.theplatform.com/s/dtjsEC/77l1KA_G_5P1?feed=DEV%20Live%20Stream%20Feed]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Global TV Vancouver]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://link.theplatform.com/s/dtjsEC/EqBPGYLY6fEx?feed=DEV%20Live%20Stream%20Feed]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Global TV Toronto]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CHCH Hamilton]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://54.85.197.21:1935/live/news live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CFCN CTV Lethbridge HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CFRN CTV Edmonton HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CICC CTV Yorkton HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CKCK CTV Regina HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[The Shopping Channel HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[The Shopping Channel Alternate Link]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[History (Canada) HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u&feed=History%20Live%20Stream%20Feed]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[B][COLOR red]N[/COLOR][COLOR white]E[/COLOR][COLOR red]W[/COLOR][COLOR white]S[/COLOR][/B]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fla.fg-a.com/flags/canadian-flag-large.png]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CPAC HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CPAC HD Alternate Link]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bcliveuniv-lh.akamaihd.net/i/cpac1flr2014_01@51230/index_2000_av-p.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Weather Network HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CBC News]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://a.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/ live=1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CP24 News HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CTV News HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CTV News Live Feed 1 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CTV News Live Feed 2 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CTV News Live Feed 3 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CTV News Live Feed 4 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CANCBFT (CBC French) HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-p.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CANCBFT (CBC French) HD Alternate Link]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-b.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Argent (French)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://cp39414.live.edgefcs.net:443/live playpath=argent@9751 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tele-en-direct.blogspot.com/2014/05/argent-tv-canada-en-direct.html]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[LCN News (French)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://cp39414.live.edgefcs.net/live/ playpath=lcn2@9754 swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.centraltv.fr/canada-television/lcn-news]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[ARTE (French)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[B][COLOR red]S[/COLOR][COLOR white]P[/COLOR][COLOR red]O[/COLOR][COLOR white]R[/COLOR][COLOR red]T[/COLOR][COLOR white]S[/COLOR][/B]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fla.fg-a.com/flags/canadian-flag-large.png]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Sportsnet 360 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TSN1 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TSN2 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TSN3 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://109.200.20.28:1918/magnate/170-TSN3-186/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE1IDI6MTg6MzggQU0maGFzaF92YWx1ZT1payt5S2tzQWVVU3NNcm5haGt2T2ZRPT0mdmFsaWRtaW51dGVzPTE]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TSN4 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TSN5 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RDS (French) HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RDS2 (French) HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RDS Info (French) HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TVA Sports (French)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://cp39414.live.edgefcs.net/live/event1@9756]]></stream_url>
+	</channel>
+
+</items>
+
