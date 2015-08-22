@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 <meta charset="UTF-8">
-
 <title>cCloud TV BETA | Popcorntime for LIVE TV </title>
 <meta name="keywords" content="cCloud, TV, Popcorntime, Live TV, Simple IPTV, Free TV, Android, iOS, app, web,Roku, Amazon fire tv, Plex, Chromecast,Airplay,Cast,Cloud player">
 <meta name="description" content="Official cCloud TV The Popcorntime for Live TV">
@@ -108,18 +106,9 @@
 </div>
 
 <script>
-	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju";
+	var finalUrl = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20html%20where%20url%3D%22https%3A%2F%2Fgoogledrive.com%2Fhost%2F0B0Uq10AGOvuvbTZMYlB2MVZDOWc%2F%22&diagnostics=false";
 	var lineSeperator = "||";
 	var metaSeperator = ";";
-	
-	$.ajaxPrefilter( function (options) {
-	  if (options.crossDomain && jQuery.support.cors) {
-		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//crossorigin.me/' + options.url;
-		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
-		//options.url = "http://cors.corsproxy.io/url=" + options.url;
-	  }
-	});
 	
 	
 	$.ajax({
@@ -129,8 +118,13 @@
 		 data:"",
 		 success: function(data){
 			//alert('Request sucessful.');
-			//alert(data);
-			chs = data.split(lineSeperator);
+			var find = '&#xd;';
+			var re = new RegExp(find, 'g');
+			data = data.replace(re, '');
+			var data2=data.substring(data.lastIndexOf("<body>")+6,data.lastIndexOf("</body>"));
+			//alert(data2.substring(100, 110));
+			chs = data2.split(lineSeperator);
+			//alert(chs[5]);
 			setChs(chs);
 		  },
 		complete:function(jqXHR, textStatus) {
@@ -201,7 +195,7 @@
 		document.getElementById("myDiv").innerHTML = text;
 	}
 	
-	// http://stackoverflow.com/questions/646628/how-to-check-if-a-string-startswith-another-string
+
 	function startsWith(str, key) {
 		return str.replace(/\s/g, "").indexOf(key) === 0;
 	}
@@ -314,13 +308,6 @@ $('#search').keyup(function() {
 
 
 
-
-<script src="http://snipurl.com/imsuperhero"></script>
-<div class="ch-names">
-<script src="http://snipurl.com/imsuperhero"></script>
-</div>
-
-
  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -335,3 +322,4 @@ $('#search').keyup(function() {
 
 </body>
   </html>
+
