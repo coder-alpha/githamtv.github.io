@@ -118,10 +118,9 @@
 		 data:"",
 		 success: function(data){
 			//alert('Request sucessful.');
+			var data2=data.substring(data.lastIndexOf("<body>")+1,data.lastIndexOf("</body>"));
 			//alert(data.substring(100, 110));
-			var h2 = data.getElementsByTagName('body')[0];
-			var data = h2.innerText || h2.textContent;
-			chs = data.split(lineSeperator);
+			chs = data2.split(lineSeperator);
 			setChs(chs);
 		  },
 		complete:function(jqXHR, textStatus) {
