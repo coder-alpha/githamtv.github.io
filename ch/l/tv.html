@@ -118,8 +118,8 @@
 		 data:"",
 		 success: function(data){
 			//alert('Request sucessful.');
-			var find = 'abc';
-			var re = new RegExp(find, '&#xd;');
+			var find = '&#xd;';
+			var re = new RegExp(find, 'g');
 			data = data.replace(re, '');
 			var data2=data.substring(data.lastIndexOf("<body>")+6,data.lastIndexOf("</body>"));
 			//alert(data2.substring(100, 110));
