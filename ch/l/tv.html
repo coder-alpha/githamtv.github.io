@@ -118,7 +118,9 @@
 		 data:"",
 		 success: function(data){
 			//alert('Request sucessful.');
-			alert(data.substring(100, 110));
+			//alert(data.substring(100, 110));
+			var h2 = data.getElementsByTagName('body')[0];
+			var data = h2.innerText || h2.textContent;
 			chs = data.split(lineSeperator);
 			setChs(chs);
 		  },
