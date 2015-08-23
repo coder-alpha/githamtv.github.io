@@ -106,19 +106,33 @@
 </div>
 
 <script>
-	var finalUrl = "http://pastebin.com/raw.php?i=KzhgEVju";
-	var lineSeperator = "||";
-	var metaSeperator = ";";
-	
-	$.ajaxPrefilter( function (options) {
-	  if (options.crossDomain && jQuery.support.cors) {
-		var http = (window.location.protocol === 'http:' ? 'http:' : 'https:');
-		options.url = http + '//crossorigin.me/' + options.url;
-		//options.url = http + '//cors-anywhere.herokuapp.com/' + options.url;
-		//options.url = "http://cors.corsproxy.io/url=" + options.url;
-	  }
-	});
-	
+"use strict";
+
+function cors (url) {
+    return `http://crossorigin.me/${url}`;
+}
+
+const gclient = cors("https://googledrive.com/host/0B0Uq10AGOvuvbTZMYlB2MVZDOWc");
+
+function getRaw (url) {
+    return fetch(url).then(function (res) { return res.text(); });
+}
+
+function processRaw (raw) {
+    let lines = raw.split('||\n');
+    lines.shift();
+    lines = lines.map(function (l) {
+        let [index, data] = l.split(';', 2);
+        data = data.split(';');
+        let url = data[data.length - 1];
+        data = data.join(';');
+        document.getElementById(`gotham${index}`).textContent = data;
+    });
+}
+
+function init () {
+    getRaw(gclient).then(processRaw);
+}
 	
 	$.ajax({
 		 type:"GET",
