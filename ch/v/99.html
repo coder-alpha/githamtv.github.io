@@ -6,13 +6,13 @@
 <title>cCloud TV BETA | Popcorntime for LIVE TV </title>
 <meta name="keywords" content="cCloud, TV, Popcorntime, Live TV, Simple IPTV, Free TV, Android, iOS, app, web,Roku, Amazon fire tv, Plex, Chromecast,Airplay,Cast,Cloud player">
 <meta name="description" content="Official cCloud TV The Popcorntime for Live TV">
-<link rel="icon"type="image/png"href="http://i.imgur.com/yX8CKx3.png">
+<link rel="icon" type="image/png" href="/favicon.png">
 <meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
 <link rel="stylesheet" href="/stuff/style/clouddvrtest2.css" media="screen" type="text/css" />
-<link href='http://fonts.googleapis.com/css?family=Syncopate' rel='stylesheet' type='text/css'>
+<!-- <link href='http://fonts.googleapis.com/css?family=Syncopate' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-<script src="/stuff/script/cloud.js"></script>
+ --><script src="/stuff/script/cloud.js"></script>
 <script src="/stuff/script/cloud2.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
@@ -27,34 +27,9 @@
 <link href="/player/theater.css" media="screen" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="/player/skin.css" rel="stylesheet">
-<script src="/player/redirect.js"></script>
-<script src="/player/proxy.js"></script>
 <script src="/player/protect.js"></script>
-<script src="/player/googleapi.js"></script>
-<script src="/player/post.js"></script>
-<script src="/player/drive.js"></script>
 <script src="/player/youtube.js"></script>
 <script src="/player/googlevideos.js"></script>
-<script src="/player/postvideos.js"></script>
-<script src="/player/cards.js"></script>
-<script src="/player/movies.js"></script>
-<script src="/player/db.js"></script>
-<script src="/player/files.js"></script>
-<script src="/player/mp4.js"></script>
-<script src="/player/flash.js"></script>
-<script src="/player/sync.js"></script>
-<script src="/player/redirector.js"></script>
-<script src="/player/generator.js"></script>
-<script src="/player/iframe.js"></script>
-<script src="/player/embed.js"></script>
-<script src="/player/plugins.js"></script>
-<script src="/player/servers.js"></script>
-<script src="/player/jstorage.js"></script>
-<script src="/player/json.js"></script>
-<script src="/player/mvid.js"></script>
-<script src="/player/crawler.js"></script>
-<script src="/player/player.js"></script>
-<script src="/player/watch.js"></script>
 <script src="/player/ga.js"></script>
 <script src="/player/uv.js"></script>
 <script src="/player/fb.js"></script>
@@ -63,30 +38,6 @@
 <script src="/player/loader.js"></script>
 <script src="/player/jq.js"></script>
 <script src="/player/home.js"></script>
-<script src="/player/responsive.js"></script>
-<script src="/player/xbox.js"></script>
-<script src="/player/playstation.js"></script>
-<script src="/player/wii.js"></script>
-<script src="/player/roku.js"></script>
-<script src="/player/appletv.js"></script>
-<script src="/player/googletv.js"></script>
-<script src="/player/amazontv.js"></script>
-<script src="/player/browser.js"></script>
-<script src="/player/desktop.js"></script>
-<script src="/player/mobile.js"></script>
-<script src="/player/html5.js"></script>
-<script src="/player/nojs.js"></script>
-<script src="/player/js.js"></script>
-<script src="/player/app.js"></script>
-<script src="/player/web.js"></script>
-<script src="/player/permissions.js"></script>
-<script src="/player/access.js"></script>
-<script src="/player/users.js"></script>
-<script src="/player/guest.js"></script>
-<script src="/player/admin.js"></script>
-<script src="/player/donate.js"></script>
-<script src="/player/social.js"></script>
-<script src="/player/stream.js"></script>
 <style>
 .vjs-error .vjs-error-display:before {
 content: ':(';
@@ -109,14 +60,14 @@ color: white;
 
 <body>
  <div class="table-title">
- 
-  <embed 
-    type="application/x-vlc-plugin" 
-    pluginspage="http://www.videolan.org" 
+
+  <embed
+    type="application/x-vlc-plugin"
+    pluginspage="http://www.videolan.org"
     version="VideoLAN.VLCPlugin.2"
     width="100%"
     height="420"
-    target="http://snipurl.com/gotham99" 
+    target="http://snipurl.com/gotham99"
     id="vlc">
 </embed>
 
@@ -128,7 +79,7 @@ color: white;
 </th>
 </tr>
 </thead>
- 
+
 <table class="list" >
   <tbody  class="table-hover">
   <tr>
@@ -1767,7 +1718,7 @@ $('#search').keyup(function() {
     var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
     return !~text.indexOf(val);
   }).hide();
-});	
+});
 </script>
 
 
@@ -1810,23 +1761,23 @@ $('#search').keyup(function() {
   ga('send', 'pageview');
 
 </script>
- 
+
 <script>
   function coolal(type, title, text) {
   //Create the alert
   var alert = $("body").append(
-    "<div id='coolal' class=" + type + "><h2 class='coolal-title'>" + 
+    "<div id='coolal' class=" + type + "><h2 class='coolal-title'>" +
     title +
     "</h2><p class='coolal-text'>" +
     text +
-    "</p></div>"   
+    "</p></div>"
   );
-  
+
   var coolal = $("#coolal");
-  
-  //Check what type of alert is being used 
+
+  //Check what type of alert is being used
   if ( type == "alert") {
-    $("#coolal").append(      
+    $("#coolal").append(
       "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-alert' href='#'>Ok</a></div>"
     );
 
@@ -1835,7 +1786,7 @@ $('#search').keyup(function() {
     coolalAlert.click(function(){
       coolal.animate({
         "opacity":"0",
-        "top":"70%" 
+        "top":"70%"
       }, 200);
 
       setTimeout(function() {
@@ -1843,9 +1794,9 @@ $('#search').keyup(function() {
       }, 500);
     });
   }
-  
+
   if ( type == "yes-no" ) {
-    $("#coolal").append(      
+    $("#coolal").append(
       "<div id='coolal-btnWrapper'><a id='coolal-btn' class='coolal-yes-no coolal-yes' href='http://x.co/YouUpload' target='_blank'>Upload Now</a><a id='coolal-btn' class='coolal-yes-no coolal-no' href='#'>Close me</a></div>"
     );
 
@@ -1863,27 +1814,27 @@ $('#search').keyup(function() {
         coolal.remove();
       }, 500);
     });
-  } 
-  
+  }
+
   //Resize the alert windows to fit the content
   var titleHeight = $(".coolal-title").innerHeight();
   var textHeight = $(".coolal-text").innerHeight();
   var btnWrapperHeight = $("#coolal-btn").height();
- 
+
   if ( type != "" ) {
     $("#coolal").css("height", titleHeight + textHeight + btnWrapperHeight);
-  } else { 
-    $("#coolal").css("height", titleHeight + textHeight); 
-  }  
-   
+  } else {
+    $("#coolal").css("height", titleHeight + textHeight);
+  }
+
   $("#coolal").animate({
     "opacity":"1",
-    "top":"0" 
-  }, 200); 
-} 
+    "top":"0"
+  }, 200);
+}
 
 //////////////////////////////////////////////////
-$(document).ready(function() { 
+$(document).ready(function() {
   setTimeout(function() {
     coolal("yes-no", "cCloud Alert!", "cCloud has gone public and now it's depending on you to keep it alive.Please support the project by simple copy and paste thanks:)<br /> Bane:)");
   }, 1000)
