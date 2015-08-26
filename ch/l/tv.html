@@ -106,9 +106,9 @@
 </div>
 
 <script>
-	var finalUrl = "https://docs.google.com/spreadsheets/d/1urHVm8kqYuhF0Gfm_VvtuIQ7w8yjm1vxmldoNGnNemE/export?format=csv&id=1urHVm8kqYuhF0Gfm_VvtuIQ7w8yjm1vxmldoNGnNemE&gid=1531258647";
+	var finalUrl = "https://docs.google.com/spreadsheets/d/1urHVm8kqYuhF0Gfm_VvtuIQ7w8yjm1vxmldoNGnNemE/pub?output=tsv";
 	var lineSeperator = "||";
-	var metaSeperator = ",";
+	var metaSeperator = "	";
 	
 	
 	$.ajax({
@@ -118,12 +118,8 @@
 		 data:"",
 		 success: function(data){
 			//alert('Request sucessful.');
-			var find = '&#xd;';
-			var re = new RegExp(find, 'g');
-			data = data.replace(re, '');
-			var data2=data.substring(data.lastIndexOf("<body>")+6,data.lastIndexOf("</body>"));
-			//alert(data2.substring(100, 110));
-			chs = data2.split(lineSeperator);
+			alert(data.substring(100, 110));
+			chs = data.split(lineSeperator);
 			//alert(chs[5]);
 			setChs(chs);
 		  },
